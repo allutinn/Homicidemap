@@ -1,0 +1,193 @@
+:root {
+  --black: #000;
+  --white: #fff;
+  --grey: #888;
+  --line: #2a2a2a;
+  --sheet-open: 58vh;   /* default open height */
+  --sheet-full: 92vh;   /* expanded height */
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+  background: var(--black);
+  color: var(--white);
+  font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ---- Top bar ---- */
+.topbar {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 1100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: calc(48px + env(safe-area-inset-top));
+  padding: env(safe-area-inset-top) 16px 0;
+  background: var(--black);
+  border-bottom: 1px solid var(--line);
+}
+.topbar h1 {
+  font-size: 14px;
+  font-weight: 700;
+  letter-spacing: 0.25em;
+}
+.topbar-count {
+  font-size: 11px;
+  color: var(--grey);
+  letter-spacing: 0.1em;
+}
+
+/* ---- Map ---- */
+#map {
+  position: fixed;
+  top: calc(48px + env(safe-area-inset-top));
+  bottom: 0; left: 0; right: 0;
+  background: var(--black);
+}
+
+/* Black & white map: grayscale + invert the tile layer for a dark theme */
+.leaflet-tile-pane {
+  filter: grayscale(1) invert(1) contrast(0.85) brightness(0.9);
+}
+
+.leaflet-container { background: var(--black); font: inherit; }
+.leaflet-control-attribution {
+  background: rgba(0, 0, 0, 0.7) !important;
+  color: var(--grey) !important;
+  font-size: 9px;
+}
+.leaflet-control-attribution a { color: var(--grey) !important; }
+.leaflet-control-zoom a {
+  background: var(--black) !important;
+  color: var(--white) !important;
+  border-color: var(--line) !important;
+}
+
+/* ---- Markers: white dot, black ring ---- */
+.case-marker {
+  background: transparent;
+  border: none;
+}
+.case-marker span {
+  display: block;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--white);
+  border: 3px solid var(--black);
+  box-shadow: 0 0 0 1px var(--white);
+  transition: transform 0.15s ease;
+}
+.case-marker.active span {
+  transform: scale(1.4);
+  background: var(--black);
+  border-color: var(--white);
+}
+
+/* ---- Bottom sheet ---- */
+.sheet-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 1200;
+  background: rgba(0, 0, 0, 0.45);
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.25s ease;
+}
+.sheet-backdrop.visible { opacity: 1; pointer-events: auto; }
+
+.sheet {
+  position: fixed;
+  left: 0; right: 0; bottom: 0;
+  z-index: 1300;
+  height: var(--sheet-full);
+  background: var(--black);
+  border-top: 1px solid var(--white);
+  border-radius: 16px 16px 0 0;
+  transform: translateY(100%);
+  transition: transform 0.28s cubic-bezier(0.25, 0.8, 0.35, 1);
+  display: flex;
+  flex-direction: column;
+  touch-action: none;
+}
+.sheet.open      { transform: translateY(calc(var(--sheet-full) - var(--sheet-open))); }
+.sheet.expanded  { transform: translateY(0); }
+.sheet.dragging  { transition: none; }
+
+.sheet-grab {
+  flex: none;
+  padding: 10px 0 6px;
+  cursor: grab;
+}
+.sheet-handle {
+  width: 40px;
+  height: 4px;
+  margin: 0 auto;
+  border-radius: 2px;
+  background: var(--grey);
+}
+
+.sheet-close {
+  position: absolute;
+  top: 8px; right: 12px;
+  width: 32px; height: 32px;
+  border: 1px solid var(--line);
+  border-radius: 50%;
+  background: var(--black);
+  color: var(--white);
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.sheet-content {
+  flex: 1;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
+  touch-action: pan-y;
+  padding: 4px 20px calc(24px + env(safe-area-inset-bottom));
+}
+
+.sheet-kicker {
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  color: var(--grey);
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
+.sheet-content h2 {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.sheet-facts {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 8px 16px;
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+  padding: 14px 0;
+  margin-bottom: 16px;
+}
+.sheet-facts dt {
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--grey);
+  align-self: baseline;
+}
+.sheet-facts dd { font-size: 14px; }
+
+.sheet-body p {
+  font-size: 15px;
+  line-height: 1.65;
+  color: #ddd;
+  margin-bottom: 14px;
+}
