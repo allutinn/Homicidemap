@@ -49,7 +49,8 @@ const CASES = [
         "precision": "town",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1535804#p1535804",
-        "quote": "Kajaani 1973: Surma taikinakoneella"
+        "quote": "Kajaani 1973: Surma taikinakoneella",
+        "used_for_marker": true
       }
     ],
     "sources": [
@@ -108,7 +109,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1975220#p1975220",
-        "quote": "Poliisi hälytettiin rauhoittelemaan kotonaan Voudintiellä riehuvaa Seppo Olavi Kapasta."
+        "quote": "Poliisi hälytettiin rauhoittelemaan kotonaan Voudintiellä riehuvaa Seppo Olavi Kapasta.",
+        "used_for_marker": true
       },
       {
         "label": "Kajaanin keskussairaala, Kajaani",
@@ -116,7 +118,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1975220#p1975220",
-        "quote": "Lukkari siirrettiin Kajaanin keskussairaalaan, missä hänet todettiin kuolleeksi."
+        "quote": "Lukkari siirrettiin Kajaanin keskussairaalaan, missä hänet todettiin kuolleeksi.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaanin maalaiskunta, Kajaani",
@@ -124,7 +127,8 @@ const CASES = [
         "precision": "area",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1975220#p1975220",
-        "quote": "Paikkakunta: Kajaani maalaiskunta"
+        "quote": "Paikkakunta: Kajaani maalaiskunta",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -132,7 +136,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1975178#p1975178",
-        "quote": "kiirastorstaina 1976 menehtyi haulikon laukaukseen virantoimituksessa konstaapeli Eero Lukkari Kajaanissa"
+        "quote": "kiirastorstaina 1976 menehtyi haulikon laukaukseen virantoimituksessa konstaapeli Eero Lukkari Kajaanissa",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -217,7 +222,8 @@ const CASES = [
         "precision": "street",
         "credibility": "editor",
         "source_permalink": null,
-        "quote": null
+        "quote": null,
+        "used_for_marker": true
       },
       {
         "label": "Kivimäki gravel pits and municipal dump, Kajaani",
@@ -225,7 +231,8 @@ const CASES = [
         "precision": "area",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1657240#p1657240",
-        "quote": "Kivimäki on Kajaanista Iisalmeen päin muutaman kilometrin päässä oleva, ainakin tuolloin syrjäinen alue, jossa oli lähinnä soramonttuja sekä kaupungin kaatopaikka."
+        "quote": "Kivimäki on Kajaanista Iisalmeen päin muutaman kilometrin päässä oleva, ainakin tuolloin syrjäinen alue, jossa oli lähinnä soramonttuja sekä kaupungin kaatopaikka.",
+        "used_for_marker": false
       },
       {
         "label": "Kivimäki kaatopaikka, Kajaani",
@@ -233,7 +240,8 @@ const CASES = [
         "precision": "area",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=119434#p119434",
-        "quote": "Tiedän, että Kajaanin Kivimäellä kaatopaikalla ammuttiin autossa noin 30-40 vuotias mies ja raiskattiin hänen viimeisillään raskaana ollut vaimonsa."
+        "quote": "Tiedän, että Kajaanin Kivimäellä kaatopaikalla ammuttiin autossa noin 30-40 vuotias mies ja raiskattiin hänen viimeisillään raskaana ollut vaimonsa.",
+        "used_for_marker": false
       },
       {
         "label": "Pitkä Taneli, Kajaani centre, Kajaani",
@@ -241,7 +249,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1657240#p1657240",
-        "quote": "heräsivät ja lähtivät loiventamaan oloaan Kajaanin keskustassa sijaitsevaan Pitkä Taneli-nimiseen soittoruokalaan"
+        "quote": "heräsivät ja lähtivät loiventamaan oloaan Kajaanin keskustassa sijaitsevaan Pitkä Taneli-nimiseen soittoruokalaan",
+        "used_for_marker": false
       },
       {
         "label": "Kajaanin kihlakunnanoikeus, Kajaani",
@@ -249,7 +258,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1657240#p1657240",
-        "quote": "Tapauksen käsittely oli Kajaanin kihlakunnanoikeudessa."
+        "quote": "Tapauksen käsittely oli Kajaanin kihlakunnanoikeudessa.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -325,7 +335,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=854323#p854323",
-        "quote": "Kuva ja teksti Alibi 1/1987. Talo sijaitsee Nurmikantien ja Sarapolun kulmauksessa."
+        "quote": "Kuva ja teksti Alibi 1/1987. Talo sijaitsee Nurmikantien ja Sarapolun kulmauksessa.",
+        "used_for_marker": true
       },
       {
         "label": "Laajakangas, Kajaani",
@@ -333,7 +344,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=761975#p761975",
-        "quote": "17.10.1986 Kajaani. 15-vuotias poika surmasi 74:llä teräaseen iskulla 9-vuotiaan siskonsa Kajaanin Laajakankaalla."
+        "quote": "17.10.1986 Kajaani. 15-vuotias poika surmasi 74:llä teräaseen iskulla 9-vuotiaan siskonsa Kajaanin Laajakankaalla.",
+        "used_for_marker": false
       },
       {
         "label": "Hauholan koulu, Kajaani",
@@ -341,7 +353,8 @@ const CASES = [
         "precision": "street",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=849514#p849514",
-        "quote": "Tuohon aikaan ja koko 80- luvun aina ja 90 -luvun alkuun Hauholan koulu oli ikäluokasta toiseen täynnä näitä erikoisia yksilöitä ja osin jengiytyneitä porukoita."
+        "quote": "Tuohon aikaan ja koko 80- luvun aina ja 90 -luvun alkuun Hauholan koulu oli ikäluokasta toiseen täynnä näitä erikoisia yksilöitä ja osin jengiytyneitä porukoita.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -349,7 +362,8 @@ const CASES = [
         "precision": "town",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=97087#p97087",
-        "quote": "15-vuotias poika surmasi pikkusiskonsa veitsellä ja pakeni mopolla paikalliseen hotelliin, jonka komerosta poliisit hänet sitten löysivät."
+        "quote": "15-vuotias poika surmasi pikkusiskonsa veitsellä ja pakeni mopolla paikalliseen hotelliin, jonka komerosta poliisit hänet sitten löysivät.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -424,7 +438,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=66988#p66988",
-        "quote": "Lauantaina 9.3.1991 klo 12:00 lähti 38-vuotias Pirjo Karjalainen taksilla anoppinsa luokse Nakertajan kaupunginosaan."
+        "quote": "Lauantaina 9.3.1991 klo 12:00 lähti 38-vuotias Pirjo Karjalainen taksilla anoppinsa luokse Nakertajan kaupunginosaan.",
+        "used_for_marker": true
       },
       {
         "label": "Nakertaja, Kajaani",
@@ -432,7 +447,8 @@ const CASES = [
         "precision": "district",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=398952#p398952",
-        "quote": "Eniron henkilöhaulla Nakertajasta löytyy Pirjo Karjalainen, mutta suhtaudun siihen vähän epäilevästi."
+        "quote": "Eniron henkilöhaulla Nakertajasta löytyy Pirjo Karjalainen, mutta suhtaudun siihen vähän epäilevästi.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -440,7 +456,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=66988#p66988",
-        "quote": "Mielentilatutkimuksen jälkeen Kajaanin raastuvanoikeus tuomitsi Pirjo Karjalaisen taposta ja puukotuksesta 13 vuodeksi vankeuteen."
+        "quote": "Mielentilatutkimuksen jälkeen Kajaanin raastuvanoikeus tuomitsi Pirjo Karjalaisen taposta ja puukotuksesta 13 vuodeksi vankeuteen.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -527,7 +544,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=162163#p162163",
-        "quote": "Samana yönä Bengt Reuterin talon pihassa Kajaanin Teppanassa Kuurnantie 10:n pihassa nähtiin myös hieman ruosteinen pakettiauto, jossa oli avolava."
+        "quote": "Samana yönä Bengt Reuterin talon pihassa Kajaanin Teppanassa Kuurnantie 10:n pihassa nähtiin myös hieman ruosteinen pakettiauto, jossa oli avolava.",
+        "used_for_marker": true
       },
       {
         "label": "Kuurnantie, Teppana, Kajaani",
@@ -535,7 +553,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=556680#p556680",
-        "quote": "Kajaanilainen Bengt Reuter löydettiin asunnostaan Kajaanin Kuurnantieltä kuolleena lauantaina 14. joulukuuta 1991."
+        "quote": "Kajaanilainen Bengt Reuter löydettiin asunnostaan Kajaanin Kuurnantieltä kuolleena lauantaina 14. joulukuuta 1991.",
+        "used_for_marker": false
       },
       {
         "label": "Ahtelantie, Teppana, Kajaani",
@@ -543,7 +562,8 @@ const CASES = [
         "precision": "street",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=132489#p132489",
-        "quote": "Tapaus sattui Kajaanin Teppanassa Ahtelantiellä sijaitsevassa Reuterin omakotitalossa."
+        "quote": "Tapaus sattui Kajaanin Teppanassa Ahtelantiellä sijaitsevassa Reuterin omakotitalossa.",
+        "used_for_marker": false
       },
       {
         "label": "Ahtelantien ja Kuurnantien risteys, Teppana, Kajaani",
@@ -551,7 +571,8 @@ const CASES = [
         "precision": "street",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=860513#p860513",
-        "quote": "Tietääkseni talo sijaitsi Ahtelantien ja Kuurnantien risteyksessä, suunnilleen vastapäätä toisella puolella Kuurnantietä olevaa yksikerroksista liikerakennusta."
+        "quote": "Tietääkseni talo sijaitsi Ahtelantien ja Kuurnantien risteyksessä, suunnilleen vastapäätä toisella puolella Kuurnantietä olevaa yksikerroksista liikerakennusta.",
+        "used_for_marker": false
       },
       {
         "label": "Kuurnantie 3, Teppana, Kajaani",
@@ -559,7 +580,8 @@ const CASES = [
         "precision": "address",
         "credibility": "rumour",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=860416#p860416",
-        "quote": "Google mapsin mukaan osoitteessa Kuurnantie 3 näyttäisi olevan aiempien viestien kuvailujen mukainen talo isohkolla tontilla. Mahtaako olla sama rakennus?"
+        "quote": "Google mapsin mukaan osoitteessa Kuurnantie 3 näyttäisi olevan aiempien viestien kuvailujen mukainen talo isohkolla tontilla. Mahtaako olla sama rakennus?",
+        "used_for_marker": false
       },
       {
         "label": "Teppanan koulun lähistö, Teppana, Kajaani",
@@ -567,7 +589,8 @@ const CASES = [
         "precision": "area",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=134736#p134736",
-        "quote": "Muistan vieläkin poliisi-tv:n jutun aiheesta ja lapsena se oli melkoisen hiuksianostattavaa, sillä Reuterin talo sijaitsi ihan Teppanan koulun lähellä."
+        "quote": "Muistan vieläkin poliisi-tv:n jutun aiheesta ja lapsena se oli melkoisen hiuksianostattavaa, sillä Reuterin talo sijaitsi ihan Teppanan koulun lähellä.",
+        "used_for_marker": false
       },
       {
         "label": "Teppana, Kajaani",
@@ -575,7 +598,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=132604#p132604",
-        "quote": "Laajan taidekokoelman omistanut Reuter löydettiin surmattuna kotoaan Kajaanin Teppanasta 14. joulukuuta 1991."
+        "quote": "Laajan taidekokoelman omistanut Reuter löydettiin surmattuna kotoaan Kajaanin Teppanasta 14. joulukuuta 1991.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaanijoki, Kajaani",
@@ -583,7 +607,8 @@ const CASES = [
         "precision": "area",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=421834#p421834",
-        "quote": "Murha-asetta etsittiin mm. tyhjentämällä Kajaanijoki kahden voimalaitoksen välistä - pätkällä jonka varrella Reuter asui."
+        "quote": "Murha-asetta etsittiin mm. tyhjentämällä Kajaanijoki kahden voimalaitoksen välistä - pätkällä jonka varrella Reuter asui.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaanin uimahalli, Kajaani",
@@ -591,7 +616,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=162163#p162163",
-        "quote": "Hän oli ollut samana päivänä noin klo 15 Kajaanin uimahallissa kolmen miehen seurassa."
+        "quote": "Hän oli ollut samana päivänä noin klo 15 Kajaanin uimahallissa kolmen miehen seurassa.",
+        "used_for_marker": false
       },
       {
         "label": "Teppanan kauppaliike, Teppana, Kajaani",
@@ -599,7 +625,8 @@ const CASES = [
         "precision": "area",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=162163#p162163",
-        "quote": "Poliisin viimeisten vihjeiden mukaan herra Reuter olisi nähty ehdottomasti viimeisen kerran elossa 9.11. eräässä Teppanan kauppaliikkeessä jonkun tuntemattoman henkilön seurassa."
+        "quote": "Poliisin viimeisten vihjeiden mukaan herra Reuter olisi nähty ehdottomasti viimeisen kerran elossa 9.11. eräässä Teppanan kauppaliikkeessä jonkun tuntemattoman henkilön seurassa.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -607,7 +634,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=278044#p278044",
-        "quote": "Reuter ammuttiin marraskuussa vuonna 1991 omassa talossaan Kajaanissa."
+        "quote": "Reuter ammuttiin marraskuussa vuonna 1991 omassa talossaan Kajaanissa.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -680,7 +708,7 @@ const CASES = [
     "date_note": "The opening post dates the restaurant shooting to Monday 25.4.1994 at 22:30, and the Suomen Kuvalehti article reproduced in the thread states the shopkeeper was shot 'omassa kaupassaan 25. huhtikuuta 1994' the same evening.",
     "status": "Solved",
     "outcome": "Kajaani District Court convicted Jari Taisto Räsänen on 12 September 1994 of manslaughter, attempted manslaughter, illegal threat and a firearms offence and sentenced him to 14 years in prison (upheld in length on appeal); he died in September 2011.",
-    "location": "The restaurant Wanha Kettu in the Kettu district of Kajaani, where the fatal shooting took place at about 22:30 on 25 April 1994",
+    "location": "KILLING SITE. The restaurant Wanha Kettu in the Kettu district of Kajaani, where the fatal shooting took place at about 22:30 on 25 April 1994, before the gunman drove to Mainua.",
     "summary": "On the evening of Monday 25 April 1994 a man was shot dead in the restaurant Wanha Kettu in the Ketun kaupunginosa district of Kajaani at about 22:30. The thread's opening post is a detailed summary compiled by a poster who cites Helsingin Sanomat archives and the magazine Alibi (9/2004); its core facts are corroborated later in the thread by an Iltalehti news item (2010) and by a six-page Suomen Kuvalehti feature (issue 51-52/2011) reproduced in full in the thread. According to that account the victim was a man originally from Savo, shot in the head with a .22 calibre pistol by a heavily intoxicated gunman who afterwards told police the victim \"had started mouthing off\". The victim died immediately and is never named anywhere in the thread. The gunman fled with his 27-year-old Kajaani girlfriend in a red Citroen towards Iisalmi and stopped at the village shop in Mainua, 19 kilometres from Kajaani, where he shot the shopkeeper, Jussi Piipponen, in the head shortly after 23:00; the shop was not robbed and the customer's 500-mark note was left on the counter. Police found the shopkeeper before midnight and he was flown to Oulu University Hospital in critical condition. After a night-long pursuit covering some 350 kilometres the couple were arrested near Kuivaniemi early on the Tuesday morning.\n\nOn Monday 12 September 1994 Kajaani District Court convicted Jari Taisto Räsänen, born 1963, a Kajaani man aged 31, of manslaughter, attempted manslaughter, illegal threat and a firearms offence, sentencing him to 14 years' imprisonment - reportedly the longest sentence in the history of the Kajaani courthouse - and proposing his detention in a preventive institution. The court of appeal did not change the length of the sentence. Räsänen had been released on parole only about two weeks before the shootings. The shopkeeper survived but suffered a severe brain injury and paralysis of his left side, as described at length in the Suomen Kuvalehti interview. Räsänen, later a member of the NBK and United Brotherhood criminal organisations and named in the press among Finland's most dangerous criminals, was released in July 2011, was arrested a week later on suspicion of attempted manslaughter in Vantaa, and died in the Kajaani region in late September 2011; police said no crime was suspected in the death and the prosecution lapsed (Ilta-Sanomat/Iltalehti, 15 October 2011). Much of the surrounding thread is forum talk about Räsänen's prison years, nicknames and rumours; one long local post (jalmari68) disputes press details, claiming the victim was considerably older than reported and had lived in Kajaani for over ten years, and that the shooting followed a quarrel with a different person - that account is an unsourced forum claim.",
     "victims": [
       {
@@ -729,19 +757,21 @@ const CASES = [
     "locations": [
       {
         "label": "Ravintola Wanha Kettu, Kettu, Kajaani",
-        "detail": "The restaurant Wanha Kettu in the Kettu district of Kajaani, where the fatal shooting took place at about 22:30 on 25 April 1994",
+        "detail": "KILLING SITE. The restaurant Wanha Kettu in the Kettu district of Kajaani, where the fatal shooting took place at about 22:30 on 25 April 1994, before the gunman drove to Mainua.",
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=88344#p88344",
-        "quote": "Maanantaina 25.4.1994 Kajaanissa, Ketun kaupunginosassa Wanha Kettu – nimisessä ravintolassa ammuskeltiin klo 22:30."
+        "quote": "Maanantaina 25.4.1994 Kajaanissa, Ketun kaupunginosassa Wanha Kettu – nimisessä ravintolassa ammuskeltiin klo 22:30.",
+        "used_for_marker": true
       },
       {
         "label": "Mainuan kyläkauppa, Mainua, Kajaani",
-        "detail": "Village shop and petrol station at Mainua, 19 km from Kajaani, open until 23:00, where the shopkeeper Jussi Piipponen was shot in the head the same night; the shop closed for good in 1996",
+        "detail": "ATTEMPTED HOMICIDE SCENE, NOT THE KILLING. Village shop and petrol station at Mainua, 19 km from Kajaani, where the gunman shot shopkeeper Jussi Piipponen in the head shortly after 23:00 while being served. Suomen Kuvalehti (51-52/2011) interviewed him 17 years later: he survived with a severe brain injury and left-side paralysis. The shop was not robbed; the 500-mark note was left on the counter. The shop closed in 1996.",
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=88344#p88344",
-        "quote": "He ajoivat 19 kilometrin päässä Kajaanista olevalle Mainuan klo 23:een saakka avoinna olevalle kyläkaupalle. Siellä mies ampui kauppias Jussi Piipposta päähän."
+        "quote": "He ajoivat 19 kilometrin päässä Kajaanista olevalle Mainuan klo 23:een saakka avoinna olevalle kyläkaupalle. Siellä mies ampui kauppias Jussi Piipposta päähän.",
+        "used_for_marker": false
       },
       {
         "label": "Mainua, Kajaani",
@@ -749,7 +779,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=454316#p454316",
-        "quote": "Mainuan kylän entinen sydän on kylmillään."
+        "quote": "Mainuan kylän entinen sydän on kylmillään.",
+        "used_for_marker": false
       },
       {
         "label": "Mertapolku, Kajaani",
@@ -757,7 +788,8 @@ const CASES = [
         "precision": "street",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=454381#p454381",
-        "quote": "Asusteli jo useamman vuoden ennen tapahtumaa Mertapolun rivareissa."
+        "quote": "Asusteli jo useamman vuoden ennen tapahtumaa Mertapolun rivareissa.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -765,7 +797,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=297904#p297904",
-        "quote": "Räsänen tappoi vuonna 1994 Kajaanissa miehen ampumalla tätä päähän kapakassa. Lähdettyään paikalta karkuun hän ampui kyläkauppiasta päähän hengenvaarallisesti."
+        "quote": "Räsänen tappoi vuonna 1994 Kajaanissa miehen ampumalla tätä päähän kapakassa. Lähdettyään paikalta karkuun hän ampui kyläkauppiasta päähän hengenvaarallisesti.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -793,6 +826,11 @@ const CASES = [
         "outlet": "Suomen Kuvalehti 51-52/2011",
         "url": "http://suomenkuvalehti.fi/jutut/kotimaa ... an-varassa",
         "what": "Six-page feature on the shopkeeper's life before and after the shooting, quoting the pre-trial investigation medical report and witness statements, dating the shooting to 25 April 1994, confirming the shop was not robbed, and stating the gunman died in Kajaani in September 2011"
+      },
+      {
+        "outlet": "Suomen Kuvalehti (51-52/2011, online 2.1.2012)",
+        "url": "https://suomenkuvalehti.fi/kotimaa/kylakauppiaan-viimeinen-tyopaiva-vuonna-1994-koko-elama-oli-hiuskarvan-varassa/",
+        "what": "Interview with the Mainua shopkeeper 17 years on. States he was shot in the head in his own shop on 25.4.1994 while serving the man who had shot someone earlier that evening, and that he survived with a severe brain injury and one-sided paralysis. Confirms the shop was the attempted-homicide scene, not the killing."
       }
     ],
     "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=3095"
@@ -876,7 +914,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=746160#p746160",
-        "quote": "Tapahtumat sijoittuivat Oksatielle Kajaaniin, mitä osoitetta Damien on ketjussa aikanaan arvuutellutkin. 3.2. 2009 klo 18.45 poliisi sai ilmoituksen, että Oksatiellä sijaitsevan asunnon sohvalla makaa kuollut mies."
+        "quote": "Tapahtumat sijoittuivat Oksatielle Kajaaniin, mitä osoitetta Damien on ketjussa aikanaan arvuutellutkin. 3.2. 2009 klo 18.45 poliisi sai ilmoituksen, että Oksatiellä sijaitsevan asunnon sohvalla makaa kuollut mies.",
+        "used_for_marker": true
       },
       {
         "label": "Oksatie, Kajaani",
@@ -884,7 +923,8 @@ const CASES = [
         "precision": "street",
         "credibility": "rumour",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=213860#p213860",
-        "quote": "Tänäänpä kuulin kahdesta aivan eri lähteestä saman huhun. Paikka kuulemma oli Oksatie."
+        "quote": "Tänäänpä kuulin kahdesta aivan eri lähteestä saman huhun. Paikka kuulemma oli Oksatie.",
+        "used_for_marker": false
       },
       {
         "label": "Kättö, Kajaani",
@@ -892,7 +932,8 @@ const CASES = [
         "precision": "district",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=211932#p211932",
-        "quote": "Eilen 3.2.2009 klo 19 aikoihin Kajaanissa Kätön alueella paljastuneeseen henkirikokseen liittyen poliisi on ottanut kiinni kaksi keski-ikäistä kajaanilaista miestähenkilöä epäiltynä taposta."
+        "quote": "Eilen 3.2.2009 klo 19 aikoihin Kajaanissa Kätön alueella paljastuneeseen henkirikokseen liittyen poliisi on ottanut kiinni kaksi keski-ikäistä kajaanilaista miestähenkilöä epäiltynä taposta.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -900,7 +941,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=212555#p212555",
-        "quote": "Uhri löytyi Kajaanin Kätön alueella olevasta asunnosta tällä viikolla keskiviikkona."
+        "quote": "Uhri löytyi Kajaanin Kätön alueella olevasta asunnosta tällä viikolla keskiviikkona.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -994,7 +1036,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=301918#p301918",
-        "quote": "Noin 50-vuotias mies löytyi kuolleena torstaina iltapäivällä Kajaanissa Kätön kaupunginosassa. Alustavien poliisitutkimusten mukaan mies on joutunut henkirikoksen uhriksi. Kainuun poliisilaitos kaipaa havaintoja Kumputie 30:n pihalla liikkuneista henkilöistä ja ajoneuvoista."
+        "quote": "Noin 50-vuotias mies löytyi kuolleena torstaina iltapäivällä Kajaanissa Kätön kaupunginosassa. Alustavien poliisitutkimusten mukaan mies on joutunut henkirikoksen uhriksi. Kainuun poliisilaitos kaipaa havaintoja Kumputie 30:n pihalla liikkuneista henkilöistä ja ajoneuvoista.",
+        "used_for_marker": true
       },
       {
         "label": "Kumputie, Kätö, Kajaani",
@@ -1002,7 +1045,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=342353#p342353",
-        "quote": "Poliisi löysi noin 50-vuotiaan kajaanilaismiehen surmattuna yksityisasunnosta Kumputieltä Kätön kaupunginosasta maaliskuun lopussa."
+        "quote": "Poliisi löysi noin 50-vuotiaan kajaanilaismiehen surmattuna yksityisasunnosta Kumputieltä Kätön kaupunginosasta maaliskuun lopussa.",
+        "used_for_marker": false
       },
       {
         "label": "Kumputie, Kuurna, Kajaani",
@@ -1010,7 +1054,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=342347#p342347",
-        "quote": "Rikos tapahtui Kuurnassa Kumputiellä maaliskuun 18. päivänä."
+        "quote": "Rikos tapahtui Kuurnassa Kumputiellä maaliskuun 18. päivänä.",
+        "used_for_marker": false
       },
       {
         "label": "Oksatie, Kajaani",
@@ -1018,7 +1063,8 @@ const CASES = [
         "precision": "street",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=301918#p301918",
-        "quote": "Kyseinen asunto on nk. vähäosaisten/pahasti syrjäytyneiden käytössä välittömässä Oksatien läheisyydessä. Oksatie on Kajaanissa paikka joka on Kajaanin pietarin asuntoja eli vuokra-asuntoja joka on paikkana aika kirjava."
+        "quote": "Kyseinen asunto on nk. vähäosaisten/pahasti syrjäytyneiden käytössä välittömässä Oksatien läheisyydessä. Oksatie on Kajaanissa paikka joka on Kajaanin pietarin asuntoja eli vuokra-asuntoja joka on paikkana aika kirjava.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaanin keskusta, Kajaani",
@@ -1026,7 +1072,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=342814#p342814",
-        "quote": "Viime vuoden syyskuussa hän puukotti toista miestä takaapäin niskaan Kajaanin keskustassa."
+        "quote": "Viime vuoden syyskuussa hän puukotti toista miestä takaapäin niskaan Kajaanin keskustassa.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -1148,7 +1195,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=453472#p453472",
-        "quote": "Poliisi löysi Rekitiellä sijaitsevasta yksityisasunnosta kuolleen miehen ja haavoittuneen miehen."
+        "quote": "Poliisi löysi Rekitiellä sijaitsevasta yksityisasunnosta kuolleen miehen ja haavoittuneen miehen.",
+        "used_for_marker": true
       },
       {
         "label": "Rekitie, Teppana, Kajaani",
@@ -1156,7 +1204,8 @@ const CASES = [
         "precision": "street",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=452946#p452946",
-        "quote": "Samaisessa keskustelussa kirjoitettu näköjään, että tapaus sattunut Rekitiellä."
+        "quote": "Samaisessa keskustelussa kirjoitettu näköjään, että tapaus sattunut Rekitiellä.",
+        "used_for_marker": false
       },
       {
         "label": "Teppana, Kajaani",
@@ -1164,7 +1213,8 @@ const CASES = [
         "precision": "district",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=452901#p452901",
-        "quote": "Kainuun poliisi sai sunnuntai-iltana tehtävän yksityisasuntoon, joka sijaitsi Kajaanin Teppanan kaupunginosassa."
+        "quote": "Kainuun poliisi sai sunnuntai-iltana tehtävän yksityisasuntoon, joka sijaitsi Kajaanin Teppanan kaupunginosassa.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -1172,7 +1222,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=452901#p452901",
-        "quote": "Yksi surmattiin asuntoon Kajaanissa Sunnuntai 25.12.2011 klo 21.34 (päivitetty klo 21.43) Poliisi epäilee tappoa ja taponyritystä Kajaanissa."
+        "quote": "Yksi surmattiin asuntoon Kajaanissa Sunnuntai 25.12.2011 klo 21.34 (päivitetty klo 21.43) Poliisi epäilee tappoa ja taponyritystä Kajaanissa.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -1288,7 +1339,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=496925#p496925",
-        "quote": "Kajaanin poliisi tutkii Kajaanin Rajalähiössä Sirkunkujalla tehtyä tappoa."
+        "quote": "Kajaanin poliisi tutkii Kajaanin Rajalähiössä Sirkunkujalla tehtyä tappoa.",
+        "used_for_marker": true
       },
       {
         "label": "Sirkunkuja, Kajaani",
@@ -1296,7 +1348,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=496734#p496734",
-        "quote": "Torstaina 2. elokuuta Kainuun poliisille ilmoitettiin kuolemantapauksesta Kajaanin Sirkunkujalla."
+        "quote": "Torstaina 2. elokuuta Kainuun poliisille ilmoitettiin kuolemantapauksesta Kajaanin Sirkunkujalla.",
+        "used_for_marker": false
       },
       {
         "label": "Rajalähiö, Kajaani",
@@ -1304,7 +1357,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=525685#p525685",
-        "quote": "Henkirikos sattui viime elokuun ensimmäisenä päivänä Kajaanin Rajalähiössä Sirkunkujalla."
+        "quote": "Henkirikos sattui viime elokuun ensimmäisenä päivänä Kajaanin Rajalähiössä Sirkunkujalla.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -1312,7 +1366,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=873692#p873692",
-        "quote": "Teko tapahtui viime lauantaina aamuyöllä yksityisasunnossa Kajaanissa."
+        "quote": "Teko tapahtui viime lauantaina aamuyöllä yksityisasunnossa Kajaanissa.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -1415,7 +1470,8 @@ const CASES = [
         "precision": "address",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=584880#p584880",
-        "quote": "Rikoksen epäillään sattuneen lauantaina 12.10.2013 henkilön asunnolla, Kajaanin Huuhkajanvaaran kaupunginosassa, osoitteessa Ensitaival 4 N 93."
+        "quote": "Rikoksen epäillään sattuneen lauantaina 12.10.2013 henkilön asunnolla, Kajaanin Huuhkajanvaaran kaupunginosassa, osoitteessa Ensitaival 4 N 93.",
+        "used_for_marker": true
       },
       {
         "label": "Ensitaival, Huuhkajanvaara, Kajaani",
@@ -1423,7 +1479,8 @@ const CASES = [
         "precision": "street",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=584852#p584852",
-        "quote": "Poliisi pyytää yleisöltä havaintoja Kajaanin Huuhkajanvaarassa Ensitaipaleen alueella lauantai-iltana klo 16.30 – 21.00 liikkuneista henkilöistä ja autoista."
+        "quote": "Poliisi pyytää yleisöltä havaintoja Kajaanin Huuhkajanvaarassa Ensitaipaleen alueella lauantai-iltana klo 16.30 – 21.00 liikkuneista henkilöistä ja autoista.",
+        "used_for_marker": false
       },
       {
         "label": "Huuhkajanvaara, Kajaani",
@@ -1431,7 +1488,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=584656#p584656",
-        "quote": "Vuonna 1981 syntynyt mies löytyi kuolleena Kajaanista lauantai-iltana. Kajaanilaismies löydettiin Huuhkajanvaaran kaupunginosasta."
+        "quote": "Vuonna 1981 syntynyt mies löytyi kuolleena Kajaanista lauantai-iltana. Kajaanilaismies löydettiin Huuhkajanvaaran kaupunginosasta.",
+        "used_for_marker": false
       },
       {
         "label": "Kontinjoki, Kajaani",
@@ -1439,7 +1497,8 @@ const CASES = [
         "precision": "area",
         "credibility": "rumour",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=587963#p587963",
-        "quote": "murha asetta eli puukkoa etsittiin eilen kontinjoesta ja sieltähän se löytyi."
+        "quote": "murha asetta eli puukkoa etsittiin eilen kontinjoesta ja sieltähän se löytyi.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -1566,7 +1625,8 @@ const CASES = [
         "precision": "street",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=618188#p618188",
-        "quote": "Kajaanin poliisi on edennyt Kajaanin Komiahon kaupunginosassa Suomelanpolulla tapahtuneen henkirikoksen tutkinnassa. Tutkinnassa on selvinnyt yksityisasunnossa tapahtuneen henkirikoksen tapahtuma-ajaksi perjantai 25.4.2014."
+        "quote": "Kajaanin poliisi on edennyt Kajaanin Komiahon kaupunginosassa Suomelanpolulla tapahtuneen henkirikoksen tutkinnassa. Tutkinnassa on selvinnyt yksityisasunnossa tapahtuneen henkirikoksen tapahtuma-ajaksi perjantai 25.4.2014.",
+        "used_for_marker": true
       },
       {
         "label": "Suomelanpolku, Komiaho, Kajaani",
@@ -1574,7 +1634,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=618120#p618120",
-        "quote": "Kainuun Sanomien saamien tietojen mukaan poliisi saapui paikalle Komiahon kaupunginosaan maanantaina iltapäivällä kello 15 aikaan. Kello 16 poliisi aitasi tapahtumapaikan sekä koko Suomelanpolun."
+        "quote": "Kainuun Sanomien saamien tietojen mukaan poliisi saapui paikalle Komiahon kaupunginosaan maanantaina iltapäivällä kello 15 aikaan. Kello 16 poliisi aitasi tapahtumapaikan sekä koko Suomelanpolun.",
+        "used_for_marker": false
       },
       {
         "label": "Kärrytien ja Paltaniementien risteys, Kajaani",
@@ -1582,7 +1643,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=619195#p619195",
-        "quote": "Poliisi pysäytti auton lauantain vastaisena yönä kello yhden aikaan Kärrytien ja Paltaniementien risteyksessä."
+        "quote": "Poliisi pysäytti auton lauantain vastaisena yönä kello yhden aikaan Kärrytien ja Paltaniementien risteyksessä.",
+        "used_for_marker": false
       },
       {
         "label": "Suomelanpolku - Komiahon S-market jalkakäytävä, Komiaho, Kajaani",
@@ -1590,7 +1652,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=618374#p618374",
-        "quote": "Torstai-iltana poliisi oli nähty haravoimassa koiran kanssa Suomelanpolun ja Komiahon S-marketin välistä jalkakäytävää ja pientareita vielä kello 20 jälkeen."
+        "quote": "Torstai-iltana poliisi oli nähty haravoimassa koiran kanssa Suomelanpolun ja Komiahon S-marketin välistä jalkakäytävää ja pientareita vielä kello 20 jälkeen.",
+        "used_for_marker": false
       },
       {
         "label": "Komiahon Teboil, Komiaho, Kajaani",
@@ -1598,7 +1661,8 @@ const CASES = [
         "precision": "area",
         "credibility": "rumour",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=618090#p618090",
-        "quote": "Kuulema ollut kovasti poliiseja ja valkopukuisia tutkijoita paikalla Komiahon Teboilin ympäristössä."
+        "quote": "Kuulema ollut kovasti poliiseja ja valkopukuisia tutkijoita paikalla Komiahon Teboilin ympäristössä.",
+        "used_for_marker": false
       },
       {
         "label": "Komiaho, Kajaani",
@@ -1606,7 +1670,8 @@ const CASES = [
         "precision": "district",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=683410#p683410",
-        "quote": "Vellonen ampui kajaanilaisen naisen Kajaanin Komiaholla sijaitsevassa yksityisasunnossa perjantaina 25.4."
+        "quote": "Vellonen ampui kajaanilaisen naisen Kajaanin Komiaholla sijaitsevassa yksityisasunnossa perjantaina 25.4.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -1699,7 +1764,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=697950#p697950",
-        "quote": "Hätäkeskukseen ilmoitettiin sunnuntaina 23.8. noin klo 14.00 aikaan tulipalosta Vuorimiehentie 6 C rapun asunnossa."
+        "quote": "Hätäkeskukseen ilmoitettiin sunnuntaina 23.8. noin klo 14.00 aikaan tulipalosta Vuorimiehentie 6 C rapun asunnossa.",
+        "used_for_marker": true
       },
       {
         "label": "Otanmäki, Kajaani",
@@ -1707,7 +1773,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=697950#p697950",
-        "quote": "Otanmäessä viime viikon sunnuntaina tulipalon yhteydessä loukkaantunut noin 40-vuotias mies oli pahoinpidelty."
+        "quote": "Otanmäessä viime viikon sunnuntaina tulipalon yhteydessä loukkaantunut noin 40-vuotias mies oli pahoinpidelty.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -1786,7 +1853,8 @@ const CASES = [
         "precision": "street",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=774067#p774067",
-        "quote": "Kajaanin Otanmäessä löytyi tänään sunnuntaiaamuna kuollut, vuonna 1964 syntynyt mies. Mies löytyi Vuorimiehentien varrelta."
+        "quote": "Kajaanin Otanmäessä löytyi tänään sunnuntaiaamuna kuollut, vuonna 1964 syntynyt mies. Mies löytyi Vuorimiehentien varrelta.",
+        "used_for_marker": true
       },
       {
         "label": "Otanmäen huoltoaseman piha ja viereinen metsikkö, Otanmäki, Kajaani",
@@ -1794,7 +1862,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=774072#p774072",
-        "quote": "Useiden Iltalehteen yhteyttä ottaneiden paikallisten mukaan Otanmäessä sijaitsevan huoltoaseman pihan läheisyydestä metsiköstä löytyi aamupäivällä ruumis."
+        "quote": "Useiden Iltalehteen yhteyttä ottaneiden paikallisten mukaan Otanmäessä sijaitsevan huoltoaseman pihan läheisyydestä metsiköstä löytyi aamupäivällä ruumis.",
+        "used_for_marker": false
       },
       {
         "label": "Uunimiehentie, Otanmäki, Kajaani",
@@ -1802,7 +1871,8 @@ const CASES = [
         "precision": "street",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=774214#p774214",
-        "quote": "Tällä hetkellä miesten epäillään ryöstäneen myös toisen otanmäkeläisen miehen sunnuntain vastaisena yönä Uunimiehentiellä. Vuonna 1975 syntyneeltä mieheltä anastettiin matkapuhelin."
+        "quote": "Tällä hetkellä miesten epäillään ryöstäneen myös toisen otanmäkeläisen miehen sunnuntain vastaisena yönä Uunimiehentiellä. Vuonna 1975 syntyneeltä mieheltä anastettiin matkapuhelin.",
+        "used_for_marker": false
       },
       {
         "label": "Otanmäen vastaanottokeskus (SPR), Otanmäki, Kajaani",
@@ -1810,7 +1880,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=774226#p774226",
-        "quote": "Miehet ovat ainakin oleskelleet Otanmäen vastaanottokeskuksessa, mutta poliisille on vielä epäselvää, ovatko he asuneet siellä edelleen."
+        "quote": "Miehet ovat ainakin oleskelleet Otanmäen vastaanottokeskuksessa, mutta poliisille on vielä epäselvää, ovatko he asuneet siellä edelleen.",
+        "used_for_marker": false
       },
       {
         "label": "Otanmäen Seo-huoltamon Otto-automaatti, Otanmäki, Kajaani",
@@ -1818,7 +1889,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=790096#p790096",
-        "quote": "Otanmäen Seo-huoltamon yhteydessä oleva Otto-automaatti, jolta uhrin pankkikorteilla oli yritetty nostaa rahaa."
+        "quote": "Otanmäen Seo-huoltamon yhteydessä oleva Otto-automaatti, jolta uhrin pankkikorteilla oli yritetty nostaa rahaa.",
+        "used_for_marker": false
       },
       {
         "label": "Ravintola Kuksa, Otanmäki, Kajaani",
@@ -1826,7 +1898,8 @@ const CASES = [
         "precision": "address",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=794113#p794113",
-        "quote": "Asianomistaja Okkonen on todistelutarkoituksessa kuultaessa kertonut, että hän oli lähtenyt ravintola Kuksasta ja ennättänyt kä'vellä noin 100 - 150 metriä, kun kaksi miestä oli hyökännyt hänen kimppuunsa."
+        "quote": "Asianomistaja Okkonen on todistelutarkoituksessa kuultaessa kertonut, että hän oli lähtenyt ravintola Kuksasta ja ennättänyt kä'vellä noin 100 - 150 metriä, kun kaksi miestä oli hyökännyt hänen kimppuunsa.",
+        "used_for_marker": false
       },
       {
         "label": "Vuorimiehenkatu, Otanmäki, Kajaani",
@@ -1834,7 +1907,8 @@ const CASES = [
         "precision": "street",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=774074#p774074",
-        "quote": "Tuo tapettu mies löytyi Vuorimiehenkadulta, on Otanmäen pääkatu, sieltä löytyy palvelu jos toinenkin. Vuorimiehenkatu, Otanmäki"
+        "quote": "Tuo tapettu mies löytyi Vuorimiehenkadulta, on Otanmäen pääkatu, sieltä löytyy palvelu jos toinenkin. Vuorimiehenkatu, Otanmäki",
+        "used_for_marker": false
       },
       {
         "label": "Kajaanin linja-autoasema, Kajaani",
@@ -1842,7 +1916,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=774270#p774270",
-        "quote": "Toinen miehistä pidätettiin vastaanottokeskuksen tiloista sunnuntaina iltapäivällä ja toinen irakilaismiehistä jäi poliisin haaviin Kajaanin linja-autoasemalla."
+        "quote": "Toinen miehistä pidätettiin vastaanottokeskuksen tiloista sunnuntaina iltapäivällä ja toinen irakilaismiehistä jäi poliisin haaviin Kajaanin linja-autoasemalla.",
+        "used_for_marker": false
       },
       {
         "label": "Otanmäki, Kajaani",
@@ -1850,7 +1925,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=774240#p774240",
-        "quote": "Otanmäen kylä sijaitsee noin 37 kilometrin päässä Kajaanin keskustasta."
+        "quote": "Otanmäen kylä sijaitsee noin 37 kilometrin päässä Kajaanin keskustasta.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaanin keskusta, Kajaani",
@@ -1858,7 +1934,8 @@ const CASES = [
         "precision": "district",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=774214#p774214",
-        "quote": "– Toinen epäillyistä otettiin kiinni Otanmäestä ja toinen Kajaanin keskustasta."
+        "quote": "– Toinen epäillyistä otettiin kiinni Otanmäestä ja toinen Kajaanin keskustasta.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -1983,7 +2060,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=849106#p849106",
-        "quote": "Henkirikos tapahtui Otanmäen maastossa noin 70 metrin päässä Kokkolantiestä 17.8.2017."
+        "quote": "Henkirikos tapahtui Otanmäen maastossa noin 70 metrin päässä Kokkolantiestä 17.8.2017.",
+        "used_for_marker": true
       },
       {
         "label": "Otanmäen apteekki, Otanmäki, Kajaani",
@@ -1991,7 +2069,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=849106#p849106",
-        "quote": "He olivat 17. elokuuta illan aikana päättäneet murtautua Otanmäen apteekkiin, josta he anastivat lääkkeitä."
+        "quote": "He olivat 17. elokuuta illan aikana päättäneet murtautua Otanmäen apteekkiin, josta he anastivat lääkkeitä.",
+        "used_for_marker": false
       },
       {
         "label": "Otanmäki, Kajaani",
@@ -1999,7 +2078,8 @@ const CASES = [
         "precision": "district",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=831027#p831027",
-        "quote": "Kajaanin poliisi tutkii epäiltyä henkirikosta, joka on tapahtunut Otanmäessä viime viikon torstaina 17.8.2017."
+        "quote": "Kajaanin poliisi tutkii epäiltyä henkirikosta, joka on tapahtunut Otanmäessä viime viikon torstaina 17.8.2017.",
+        "used_for_marker": false
       },
       {
         "label": "Lehtikankaan S-market, Lehtikangas, Kajaani",
@@ -2007,7 +2087,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=830969#p830969",
-        "quote": "Kajaanissa Lehtikankaan S-marketilla on tapahtunut poliisioperaatio tänään alkuillasta. Silminnäkijän havaintojen mukaan yksi mies on otettu kiinni kaupan lastauslaiturin luota ja poliisi olisi keräillyt maasta jotakin."
+        "quote": "Kajaanissa Lehtikankaan S-marketilla on tapahtunut poliisioperaatio tänään alkuillasta. Silminnäkijän havaintojen mukaan yksi mies on otettu kiinni kaupan lastauslaiturin luota ja poliisi olisi keräillyt maasta jotakin.",
+        "used_for_marker": false
       },
       {
         "label": "Otanmäen metsätie, Otanmäki, Kajaani",
@@ -2015,7 +2096,8 @@ const CASES = [
         "precision": "area",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=831281#p831281",
-        "quote": "Jostain metsätieltä otanmäestä."
+        "quote": "Jostain metsätieltä otanmäestä.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -2023,7 +2105,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=832431#p832431",
-        "quote": "Epäillyt miehet poliisi otti kiinni elokuun 24. päivä Kajaanin kaupungin alueella."
+        "quote": "Epäillyt miehet poliisi otti kiinni elokuun 24. päivä Kajaanin kaupungin alueella.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -2111,7 +2194,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=832562#p832562",
-        "quote": "Kajaanin poliisi tutkii epäiltyä henkirikosta, joka on tapahtunut Kajaanissa Rajalähiössä yksityisasunnossa myöhään perjantai-iltana."
+        "quote": "Kajaanin poliisi tutkii epäiltyä henkirikosta, joka on tapahtunut Kajaanissa Rajalähiössä yksityisasunnossa myöhään perjantai-iltana.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -2119,7 +2203,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=832233#p832233",
-        "quote": "Vuonna 1988 syntynyt kajaanilaismies kuoli henkirikoksen uhrina Kajaanissa myöhään perjantai-iltana. Väkivallanteko tapahtui yksityisasunnossa."
+        "quote": "Vuonna 1988 syntynyt kajaanilaismies kuoli henkirikoksen uhrina Kajaanissa myöhään perjantai-iltana. Väkivallanteko tapahtui yksityisasunnossa.",
+        "used_for_marker": true
       }
     ],
     "sources": [
@@ -2224,7 +2309,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=977897#p977897",
-        "quote": "Kuolemaan johtanut pahoinpitely tapahtui joulukuun 1. päivä Kajaanin Kauppakadulla sijaitsevassa pitseriassa kahden aikaan aamuyöstä."
+        "quote": "Kuolemaan johtanut pahoinpitely tapahtui joulukuun 1. päivä Kajaanin Kauppakadulla sijaitsevassa pitseriassa kahden aikaan aamuyöstä.",
+        "used_for_marker": true
       },
       {
         "label": "Linnantaustie, Kajaani",
@@ -2232,7 +2318,8 @@ const CASES = [
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=977897#p977897",
-        "quote": "20 minuuttia käsirysyn jälkeen poliisipartiota vastaan Linnantaustiellä asteli lyöjän tuntomerkkeihin sopiva mies."
+        "quote": "20 minuuttia käsirysyn jälkeen poliisipartiota vastaan Linnantaustiellä asteli lyöjän tuntomerkkeihin sopiva mies.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaanin keskusta, Kajaani",
@@ -2240,7 +2327,8 @@ const CASES = [
         "precision": "district",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=908985#p908985",
-        "quote": "Kajaanin keskustassa sijaitsevassa pizzeriassa tapahtui 1.12.2018 aamuyöllä pahoinpitely."
+        "quote": "Kajaanin keskustassa sijaitsevassa pizzeriassa tapahtui 1.12.2018 aamuyöllä pahoinpitely.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -2322,7 +2410,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1142042#p1142042",
-        "quote": "Tuolloin aamulla kotihoito löysi vanhemman miehen kuolleena hänen omasta asunnostaan."
+        "quote": "Tuolloin aamulla kotihoito löysi vanhemman miehen kuolleena hänen omasta asunnostaan.",
+        "used_for_marker": true
       }
     ],
     "sources": [
@@ -2413,7 +2502,8 @@ const CASES = [
         "precision": "address",
         "credibility": "rumour",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1276402#p1276402",
-        "quote": "Missä päin Lehtaria? Olisin epäillyt Laajankankaankatu 7:aa, tuota taloa mihin taksitkaan ei suostu. Mut on Lehtarillakin ne omat \"helmensä\".."
+        "quote": "Missä päin Lehtaria? Olisin epäillyt Laajankankaankatu 7:aa, tuota taloa mihin taksitkaan ei suostu. Mut on Lehtarillakin ne omat \"helmensä\"..",
+        "used_for_marker": true
       },
       {
         "label": "Lehtikangas, Kajaani",
@@ -2421,7 +2511,8 @@ const CASES = [
         "precision": "district",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1262553#p1262553",
-        "quote": "Lehtikankaalla tapahtunut"
+        "quote": "Lehtikankaalla tapahtunut",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -2429,7 +2520,8 @@ const CASES = [
         "precision": "town",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1262436#p1262436",
-        "quote": "Uhri ja epäilty ovat kajaanilaisia. Henkirikos on tapahtunut asunnossa viime tiistain ja keskiviikon välisenä aikana."
+        "quote": "Uhri ja epäilty ovat kajaanilaisia. Henkirikos on tapahtunut asunnossa viime tiistain ja keskiviikon välisenä aikana.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -2505,7 +2597,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1281818#p1281818",
-        "quote": "Poliisista vahvistetaan, että Otanmäestä on löytynyt kuolleina kaksi henkilöä. Kainuun Sanomien saamien tietojen mukaan kuolleet on löydetty omakotitalosta."
+        "quote": "Poliisista vahvistetaan, että Otanmäestä on löytynyt kuolleina kaksi henkilöä. Kainuun Sanomien saamien tietojen mukaan kuolleet on löydetty omakotitalosta.",
+        "used_for_marker": true
       },
       {
         "label": "Kajaani",
@@ -2513,7 +2606,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1281818#p1281818",
-        "quote": "Kajaanin poliisi tutkii kahta kuolemantapausta Kajaanissa."
+        "quote": "Kajaanin poliisi tutkii kahta kuolemantapausta Kajaanissa.",
+        "used_for_marker": false
       },
       {
         "label": "Otanmäki, Kajaani",
@@ -2521,7 +2615,8 @@ const CASES = [
         "precision": "district",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1282218#p1282218",
-        "quote": "Tappoi naisen sisälle kirveellä, nainen yritti soittaa apua. Mies lampsi pihalle ja ampui itsensä."
+        "quote": "Tappoi naisen sisälle kirveellä, nainen yritti soittaa apua. Mies lampsi pihalle ja ampui itsensä.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -2606,7 +2701,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1390902#p1390902",
-        "quote": "Ja joo, Länsitie 35: Kainuun Sanomat 19.12.2022. Kajaani_Länsitie_35.jpg (240.72 KiB) Katsottu 8753 kertaa Kuva googlemaps heinäkuu 2009."
+        "quote": "Ja joo, Länsitie 35: Kainuun Sanomat 19.12.2022. Kajaani_Länsitie_35.jpg (240.72 KiB) Katsottu 8753 kertaa Kuva googlemaps heinäkuu 2009.",
+        "used_for_marker": true
       },
       {
         "label": "Länsitie 35, Purola, Kajaani",
@@ -2614,7 +2710,8 @@ const CASES = [
         "precision": "address",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1390331#p1390331",
-        "quote": "Jodelissa oli länsitie 35"
+        "quote": "Jodelissa oli länsitie 35",
+        "used_for_marker": false
       },
       {
         "label": "Länsitie 13, Purola, Kajaani",
@@ -2622,7 +2719,8 @@ const CASES = [
         "precision": "address",
         "credibility": "rumour",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1390326#p1390326",
-        "quote": "Länsitie 13 vilahti jossain kommentissa, mutta se taidettiin poistaa lähes saman tien. EDIT: sittemmin on tosiaan tainnut Länsitie 35 \"varmistua\" tapahtumapaikan osoitteeksi."
+        "quote": "Länsitie 13 vilahti jossain kommentissa, mutta se taidettiin poistaa lähes saman tien. EDIT: sittemmin on tosiaan tainnut Länsitie 35 \"varmistua\" tapahtumapaikan osoitteeksi.",
+        "used_for_marker": false
       },
       {
         "label": "Länsitie, Kajaani",
@@ -2630,7 +2728,8 @@ const CASES = [
         "precision": "street",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1390978#p1390978",
-        "quote": "Hlöauto tämän Nooran ja Nooran osoitteena Länsitie."
+        "quote": "Hlöauto tämän Nooran ja Nooran osoitteena Länsitie.",
+        "used_for_marker": false
       },
       {
         "label": "Purola, Kajaani",
@@ -2638,7 +2737,8 @@ const CASES = [
         "precision": "district",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1390763#p1390763",
-        "quote": "poliisi sai hätäkeskuksen kautta ilmoituksen, jonka mukaan ilmoittajaa uhataan aseella yksityisasunnossa Purolan kaupunginosassa."
+        "quote": "poliisi sai hätäkeskuksen kautta ilmoituksen, jonka mukaan ilmoittajaa uhataan aseella yksityisasunnossa Purolan kaupunginosassa.",
+        "used_for_marker": false
       },
       {
         "label": "Purola, Kajaani",
@@ -2646,7 +2746,8 @@ const CASES = [
         "precision": "district",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1477599#p1477599",
-        "quote": "Kajaanin Purolassa sijaitsevasta yksityisasunnosta löytyi kaksi kuollutta ja yksi loukkaantunut 18. joulukuuta 2022."
+        "quote": "Kajaanin Purolassa sijaitsevasta yksityisasunnosta löytyi kaksi kuollutta ja yksi loukkaantunut 18. joulukuuta 2022.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -2654,7 +2755,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1390109#p1390109",
-        "quote": "Poliisi tutkii epäiltyä henkirikosta Kajaanissa Purolan kaupunginosassa."
+        "quote": "Poliisi tutkii epäiltyä henkirikosta Kajaanissa Purolan kaupunginosassa.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -2758,7 +2860,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1704298#p1704298",
-        "quote": "Epäilty rikos on tapahtunut Kajaanin Laajankankaalla sijaitsevassa kerrostaloasunnossa."
+        "quote": "Epäilty rikos on tapahtunut Kajaanin Laajankankaalla sijaitsevassa kerrostaloasunnossa.",
+        "used_for_marker": true
       },
       {
         "label": "Laajankangas, Kajaani",
@@ -2766,7 +2869,8 @@ const CASES = [
         "precision": "district",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1858452#p1858452",
-        "quote": "Kyseessä on noin vuosi sitten Kajaanissa Laajankankaalla tapahtunut henkirikos, jossa mies kuoli puukotuksen uhrina."
+        "quote": "Kyseessä on noin vuosi sitten Kajaanissa Laajankankaalla tapahtunut henkirikos, jossa mies kuoli puukotuksen uhrina.",
+        "used_for_marker": false
       },
       {
         "label": "Laajankankaan kerrostalot, Kajaani",
@@ -2774,7 +2878,8 @@ const CASES = [
         "precision": "area",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1709451#p1709451",
-        "quote": "Kerrostalot on lähinnä kaupungin vuokra-asuntoja. Itsekin niissä asunut. Talo 7 on sellainen rettelöintiluola, että siihen pihaan ei 10v sitten menneet edes taksit kun ei ollut asiakkaat kyytiä maksavaa sorttia..."
+        "quote": "Kerrostalot on lähinnä kaupungin vuokra-asuntoja. Itsekin niissä asunut. Talo 7 on sellainen rettelöintiluola, että siihen pihaan ei 10v sitten menneet edes taksit kun ei ollut asiakkaat kyytiä maksavaa sorttia...",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -2782,7 +2887,8 @@ const CASES = [
         "precision": "town",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1772864#p1772864",
-        "quote": "Henkirikos tapahtui 7.-8.10.2024 yksityisasunnossa Kajaanissa ulkomaalaistaustaisen pariskunnan välillä."
+        "quote": "Henkirikos tapahtui 7.-8.10.2024 yksityisasunnossa Kajaanissa ulkomaalaistaustaisen pariskunnan välillä.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -2916,7 +3022,8 @@ const CASES = [
         "precision": "address",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1781072#p1781072",
-        "quote": "Korjaus edelliseen, oikea nro on 11 (en pääse muokkaamaan kommenttia). Tiedä sitten onko tällä niin väliä, mutta eipähän tiirailla ulkopuolisten taloja."
+        "quote": "Korjaus edelliseen, oikea nro on 11 (en pääse muokkaamaan kommenttia). Tiedä sitten onko tällä niin väliä, mutta eipähän tiirailla ulkopuolisten taloja.",
+        "used_for_marker": true
       },
       {
         "label": "Keskuskatu, Kajaani",
@@ -2924,7 +3031,8 @@ const CASES = [
         "precision": "street",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1781045#p1781045",
-        "quote": "Keskuskatu, periaatteessa Lehtikangasta mutta ihan keskusta-alueen kupeessa. Taitaa talon numero olla 10."
+        "quote": "Keskuskatu, periaatteessa Lehtikangasta mutta ihan keskusta-alueen kupeessa. Taitaa talon numero olla 10.",
+        "used_for_marker": false
       },
       {
         "label": "Ala-Lehtikangas, Kajaani",
@@ -2932,7 +3040,8 @@ const CASES = [
         "precision": "district",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1781021#p1781021",
-        "quote": "Ala-Lehtikangasta näyttää olevan. Talo on lähes purkukuntoinen ja olisko ns. juoppotalo, joita joskus oli useampikin Lehtikankaalla."
+        "quote": "Ala-Lehtikangasta näyttää olevan. Talo on lähes purkukuntoinen ja olisko ns. juoppotalo, joita joskus oli useampikin Lehtikankaalla.",
+        "used_for_marker": false
       },
       {
         "label": "Lehtikangas, Kajaani",
@@ -2940,7 +3049,8 @@ const CASES = [
         "precision": "district",
         "credibility": "rumour",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1780898#p1780898",
-        "quote": "Yöllä kuului että ois ollut Lehtikankaan alueella, nyt lukee lehdissä että keskustan alueella.. Ei ole kovin tarkkaa, parista suunnasta kuullut että puukotuksesta olisi kyse."
+        "quote": "Yöllä kuului että ois ollut Lehtikankaan alueella, nyt lukee lehdissä että keskustan alueella.. Ei ole kovin tarkkaa, parista suunnasta kuullut että puukotuksesta olisi kyse.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaanin keskusta, Kajaani",
@@ -2948,7 +3058,8 @@ const CASES = [
         "precision": "area",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1780771#p1780771",
-        "quote": "Hätäkeskukseen ilmoitettiin torstaina 13.3. illalla Kajaanin keskustan tuntumassa tapahtuneesta puukotuksesta. Paikalla poliisille selvisi, että yksityisasunnossa on puukotettu miestä ylävartaloon."
+        "quote": "Hätäkeskukseen ilmoitettiin torstaina 13.3. illalla Kajaanin keskustan tuntumassa tapahtuneesta puukotuksesta. Paikalla poliisille selvisi, että yksityisasunnossa on puukotettu miestä ylävartaloon.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -2956,7 +3067,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1955426#p1955426",
-        "quote": "Nainen surmasi nelikymppisen miehen yhdellä veitseniskulla kotonaan Kajaanissa 13. maaliskuuta 2025."
+        "quote": "Nainen surmasi nelikymppisen miehen yhdellä veitseniskulla kotonaan Kajaanissa 13. maaliskuuta 2025.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -3097,7 +3209,8 @@ const CASES = [
         "precision": "street",
         "credibility": "forum_claim",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1869382#p1869382",
-        "quote": "Sitten tuo Askeltiellä asunut kaveri myös kaiketi Suomussalmelainen entinen tai vaan näitten tuttu ja velka piikki päällä jolloin henki lähti."
+        "quote": "Sitten tuo Askeltiellä asunut kaveri myös kaiketi Suomussalmelainen entinen tai vaan näitten tuttu ja velka piikki päällä jolloin henki lähti.",
+        "used_for_marker": true
       },
       {
         "label": "Huuhkajanvaaran luhtitalot, Huuhkajanvaara, Kajaani",
@@ -3105,7 +3218,8 @@ const CASES = [
         "precision": "area",
         "credibility": "rumour",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1857389#p1857389",
-        "quote": "Paikallisessa Jodelissa arvuuteltu paikaksi Huuhkajanvaaran luhtitaloja, eli kaupungin vuokra-asuntoja, joissa ajoittain hieman levotonta on ollutkin."
+        "quote": "Paikallisessa Jodelissa arvuuteltu paikaksi Huuhkajanvaaran luhtitaloja, eli kaupungin vuokra-asuntoja, joissa ajoittain hieman levotonta on ollutkin.",
+        "used_for_marker": false
       },
       {
         "label": "Huuhkajanvaara, Kajaani",
@@ -3113,7 +3227,8 @@ const CASES = [
         "precision": "district",
         "credibility": "official",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1857482#p1857482",
-        "quote": "Poliisille ilmoitettiin tiistaina 19.8.2025 Kajaanin Huuhkajanvaarassa asunnosta löytyneestä kuolleesta miehestä."
+        "quote": "Poliisille ilmoitettiin tiistaina 19.8.2025 Kajaanin Huuhkajanvaarassa asunnosta löytyneestä kuolleesta miehestä.",
+        "used_for_marker": false
       },
       {
         "label": "Huuhkajanvaara, Kajaani",
@@ -3121,7 +3236,8 @@ const CASES = [
         "precision": "area",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1934699#p1934699",
-        "quote": "Kyseisenä perjantaina kello 18.57 farmarimallinen Volvo tallentui valvontakameraan asunnon läheisellä kääntöpaikalla."
+        "quote": "Kyseisenä perjantaina kello 18.57 farmarimallinen Volvo tallentui valvontakameraan asunnon läheisellä kääntöpaikalla.",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -3129,7 +3245,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1857386#p1857386",
-        "quote": "Iltalehden tietojen mukaan poliisi tutkii Kajaanissa tapahtunutta henkirikosta."
+        "quote": "Iltalehden tietojen mukaan poliisi tutkii Kajaanissa tapahtunutta henkirikosta.",
+        "used_for_marker": false
       }
     ],
     "sources": [
@@ -3282,7 +3399,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1870842#p1870842",
-        "quote": "Poliisi sai viikko sitten ilmoituksen Kainuun keskussairaalasta vammoihinsa menehtyneestä naisesta, joka oli tuotu sairaalaan ambulanssilla."
+        "quote": "Poliisi sai viikko sitten ilmoituksen Kainuun keskussairaalasta vammoihinsa menehtyneestä naisesta, joka oli tuotu sairaalaan ambulanssilla.",
+        "used_for_marker": true
       },
       {
         "label": "Kajaanin poliisiasema (putka), Kajaani",
@@ -3290,7 +3408,8 @@ const CASES = [
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1874770#p1874770",
-        "quote": "KAKSissa menehtynyt nainen oli ensin putkassa Kajaanissa Jukka Keränen Kainuun Sanomat Ma 22.9.2025 klo 18:00"
+        "quote": "KAKSissa menehtynyt nainen oli ensin putkassa Kajaanissa Jukka Keränen Kainuun Sanomat Ma 22.9.2025 klo 18:00",
+        "used_for_marker": false
       },
       {
         "label": "Kajaani",
@@ -3298,7 +3417,8 @@ const CASES = [
         "precision": "town",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1866889#p1866889",
-        "quote": "https://www.kainuunsanomat.fi/artikkeli/kajaanin-poliisi-tutkii-naisen-vakivaltaista-kuolemaa"
+        "quote": "https://www.kainuunsanomat.fi/artikkeli/kajaanin-poliisi-tutkii-naisen-vakivaltaista-kuolemaa",
+        "used_for_marker": false
       },
       {
         "label": "Soundfactory, parkkipaikka, Kajaani",
@@ -3306,7 +3426,8 @@ const CASES = [
         "precision": "address",
         "credibility": "rumour",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1884469#p1884469",
-        "quote": "Loput todisteet löytyy soundfactoryn parkkipaikalta, kun jollekin selvisi ettei sateenkaariväen baari olekaan kuin 99% hetero kunnes tämä poikiin päin menevä laski todennäköisyyden 25% tasolle."
+        "quote": "Loput todisteet löytyy soundfactoryn parkkipaikalta, kun jollekin selvisi ettei sateenkaariväen baari olekaan kuin 99% hetero kunnes tämä poikiin päin menevä laski todennäköisyyden 25% tasolle.",
+        "used_for_marker": false
       }
     ],
     "sources": [

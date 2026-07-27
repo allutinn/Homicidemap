@@ -253,3 +253,8 @@ html, body {
 .tag-status { color: var(--grey); }
 
 .sheet-thread { margin-top: 20px; }
+
+/* The one location the marker was actually placed from. The rest of the list
+   includes places connected to the case but not the killing site. */
+.sheet-list li.is-marker { border-left: 2px solid #fff; padding-left: 10px; }
+.tag-marker { color: #000; background: #fff; border-color: #fff; font-weight: 700; }

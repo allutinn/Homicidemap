@@ -677,7 +677,7 @@
     "locations": [
       {
         "label": "Ravintola Wanha Kettu, Kettu, Kajaani",
-        "detail": "The restaurant Wanha Kettu in the Kettu district of Kajaani, where the fatal shooting took place at about 22:30 on 25 April 1994",
+        "detail": "KILLING SITE. The restaurant Wanha Kettu in the Kettu district of Kajaani, where the fatal shooting took place at about 22:30 on 25 April 1994, before the gunman drove to Mainua.",
         "precision": "address",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=88344#p88344",
@@ -685,7 +685,7 @@
       },
       {
         "label": "Mainuan kyläkauppa, Mainua, Kajaani",
-        "detail": "Village shop and petrol station at Mainua, 19 km from Kajaani, open until 23:00, where the shopkeeper Jussi Piipponen was shot in the head the same night; the shop closed for good in 1996",
+        "detail": "ATTEMPTED HOMICIDE SCENE, NOT THE KILLING. Village shop and petrol station at Mainua, 19 km from Kajaani, where the gunman shot shopkeeper Jussi Piipponen in the head shortly after 23:00 while being served. Suomen Kuvalehti (51-52/2011) interviewed him 17 years later: he survived with a severe brain injury and left-side paralysis. The shop was not robbed; the 500-mark note was left on the counter. The shop closed in 1996.",
         "precision": "street",
         "credibility": "news",
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=88344#p88344",
@@ -741,6 +741,11 @@
         "outlet": "Suomen Kuvalehti 51-52/2011",
         "url": "http://suomenkuvalehti.fi/jutut/kotimaa ... an-varassa",
         "what": "Six-page feature on the shopkeeper's life before and after the shooting, quoting the pre-trial investigation medical report and witness statements, dating the shooting to 25 April 1994, confirming the shop was not robbed, and stating the gunman died in Kajaani in September 2011"
+      },
+      {
+        "outlet": "Suomen Kuvalehti (51-52/2011, online 2.1.2012)",
+        "url": "https://suomenkuvalehti.fi/kotimaa/kylakauppiaan-viimeinen-tyopaiva-vuonna-1994-koko-elama-oli-hiuskarvan-varassa/",
+        "what": "Interview with the Mainua shopkeeper 17 years on. States he was shot in the head in his own shop on 25.4.1994 while serving the man who had shot someone earlier that evening, and that he survived with a severe brain injury and one-sided paralysis. Confirms the shop was the attempted-homicide scene, not the killing."
       }
     ],
     "classification": {
