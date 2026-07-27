@@ -29,6 +29,16 @@ CASES.forEach((c) => {
   marker.on("click", () => openSheet(c, marker));
 });
 
+/* Frame every case, rather than a fixed view of the town centre. Kajaani is a
+   large municipality: Otanmäki and Vuolijoki sit ~15 km southwest of the
+   centre, so a centre-anchored view silently hides those markers entirely. */
+if (CASES.length) {
+  map.fitBounds(L.latLngBounds(CASES.map((c) => c.coords)), {
+    padding: [48, 48],
+    maxZoom: 14 // don't zoom into the street when cases happen to cluster
+  });
+}
+
 /* Text from the forum is untrusted: escape everything before it reaches HTML. */
 const esc = (s) =>
   String(s ?? "").replace(
