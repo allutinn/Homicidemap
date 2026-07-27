@@ -59,65 +59,84 @@ npx playwright codegen http://localhost:8000                        # record act
 
 ## Forum topic search (murha.info)
 
-`scripts/murha-search.mjs` drives Playwright over the murha.info Rikosfoorumi
-phpBB search and emits a JSON list of **topics only** (`sr=topics`, never
-individual posts).
+The forum is phpBB 3.3 and fully server-rendered, so both scrapers use plain
+HTTP plus a DOM parser ([linkedom](https://github.com/WebReflection/linkedom)) —
+no browser. Shared fetch/parse helpers live in `scripts/lib/forum.mjs`, which
+retries network errors and 5xx with exponential backoff.
+
+### 1. Find the topics
+
+`scripts/murha-search.mjs` walks the phpBB search and emits a JSON list of
+**topics only** (`sr=topics`, never individual posts). Pass `--keywords` more
+than once to run several searches and merge the results — Finnish case endings
+are separate index words, so `kajaani`, `kajaanin` and `kajaanissa` each surface
+threads the others miss.
 
 ```sh
 node scripts/murha-search.mjs \
-  --keywords "kajaani henkirikos" --terms all \
-  --overview --out data/kajaani-topics.json
+  --keywords kajaani --keywords kajaanin --keywords kajaanissa \
+  --keywords kajaanilainen --keywords otanmäki --keywords vuolijoki \
+  --terms all --overview --out data/kajaani-topics.json
 ```
 
-Each entry is `{ topic, link, forum, author, date, overview, valid, reasoning,
-needs_review }`. `valid` comes from a conservative keyword heuristic — it marks
-a topic false when it reads as general discussion or lacks a Kajaani mention —
-and every row carries `needs_review: true`, because deciding whether a thread
-is a *specific case* is a judgement call the script should not make silently.
+Each entry is `{ topic, link, forum, author, date, replies, matched_keywords,
+overview, valid, reasoning, needs_review }`.
 
-Then fetch every message of the selected topics — text, links and images —
-walking each thread's pagination:
+`valid` answers one narrow question: **is this thread about Kajaani?** It is
+true when the title names Kajaani or a place inside the municipality (Otanmäki,
+Vuolijoki, Lehtikangas, Jormua, …), or when the opening post does *and* the
+thread carries crime vocabulary. It deliberately does **not** claim the thread
+is a homicide case — that judgement is left to review, which is why every row
+carries `needs_review: true`.
+
+The distinction matters for scale: a plain `kajaani` search returns hundreds of
+threads, but most are large unrelated discussions where the word appears once,
+several hundred pages deep. Those are excluded by `valid: false` with the
+reasoning spelled out, so the exclusion can be audited rather than assumed.
+
+### 2. Fetch every message
 
 ```sh
-node scripts/murha-threads.mjs --limit 30 \
-  --in data/kajaani-topics.json --out data/kajaani-cases.json
+node scripts/murha-threads.mjs --in data/kajaani-topics.json \
+  --out data/kajaani-cases.json --resume
 ```
 
-Output per case: `{ topic, link, forum, valid, reasoning, message_count,
-messages: [{ index, author, date, text, links, images }] }`. Only topics
-prefiltered `valid: true` are fetched unless you pass `--all`.
+Walks each selected thread's full pagination and captures every post:
 
-Test both scripts offline against a phpBB-shaped fixture (no network needed):
+```
+{ topic, link, forum, valid, reasoning, needs_review,
+  expected_message_count, message_count, truncated,
+  messages: [ { index, post_id, permalink, author, date, date_text,
+                text, quotes, links: [{text, href}], images: [src] } ] }
+```
+
+`date` is the ISO timestamp from the post's `<time datetime>`; `quotes` holds
+the `blockquote` contents separately, so quoted material is not mistaken for a
+poster's own words. `expected_message_count` comes from phpBB's own "N viestiä"
+header and is compared against what was actually captured — any short or
+`truncated` thread is listed at the end of the run.
+
+Only topics prefiltered `valid: true` are fetched unless you pass `--all`.
+Output is written after every topic, and `--resume` reuses what is already in
+the output file, so an interrupted crawl continues where it stopped.
+
+### Test offline
+
+Both scripts run against a phpBB-shaped fixture, no network needed:
 
 ```sh
 node scripts/fixtures/phpbb-fixture.mjs 8200 &
 node scripts/murha-search.mjs  --base http://localhost:8200/rikosfoorumi \
-  --delay 0 --out /tmp/topics.json
+  --delay 0 --overview --out /tmp/topics.json
 node scripts/murha-threads.mjs --base http://localhost:8200/rikosfoorumi \
   --delay 0 --in /tmp/topics.json --out /tmp/cases.json
 ```
 
-Be considerate when running against the live forum: the default `--delay 1500`
+Be considerate when running against the live forum: the default `--delay 1200`
 throttles requests, and `--max-pages` bounds the crawl.
 
-### Status / next session
-
-The scrape has **not** been run yet: `murha.info` is denied by the sandbox's
-egress policy (403 on CONNECT), so no data has been collected. Both scripts are
-written and verified against the fixture above.
-
-To run it, the environment needs network access to `murha.info` (claude.ai/code
-→ environment → **Network access** → *Custom* + allowed domains, or *Full*),
-then in a fresh session:
-
-```sh
-npm install
-node scripts/murha-search.mjs  --keywords "kajaani henkirikos" --terms all --overview
-node scripts/murha-threads.mjs --limit 30
-```
-
-Then review each `valid` / `reasoning` pair, keep the specific Kajaani cases,
-and commit `data/kajaani-topics.json` + `data/kajaani-cases.json`.
+> If the environment routes egress through an HTTPS proxy, run the scripts with
+> `NODE_USE_ENV_PROXY=1` so Node's `fetch` honours `HTTPS_PROXY`.
 
 Note: `publish_dir: .` in the deploy workflow means anything committed under
 `data/` is also served publicly at `https://allutinn.github.io/Homicidemap/`.

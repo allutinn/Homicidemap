@@ -1,13 +1,15 @@
 /**
- * Minimal phpBB-shaped fixture server used to test scripts/murha-search.mjs
+ * Minimal phpBB-shaped fixture server used to test the murha.info scripts
  * offline (and on networks where the real forum is unreachable).
  *
  *   node scripts/fixtures/phpbb-fixture.mjs 8200
  *   node scripts/murha-search.mjs --base http://localhost:8200/rikosfoorumi \
- *why     --overview --delay 0 --out /tmp/out.json
+ *       --overview --delay 0 --out /tmp/out.json
  *
- * It reproduces the markup the scraper relies on: a.topictitle links,
- * .content snippets, memberlist author links, and start= pagination.
+ * It reproduces the phpBB 3.3 markup the scrapers rely on: `a.topictitle`
+ * inside `li.row` with a `.responsive-hide.left-box` meta line, `div.post#pNNN`
+ * with `.postprofile .username`, `p.author time[datetime]` and `.content`,
+ * a `.pagination` post total, and `start=` pagination that clamps like phpBB.
  */
 import { createServer } from "node:http";
 
@@ -47,7 +49,7 @@ const TOPICS = [
   },
   {
     t: 105,
-    title: "Kajaanin surma 1998 – ratkaisematon",
+    title: "Surma 1998 – ratkaisematon",
     snippet:
       "Vuonna 1998 Kajaanissa tapahtunut surma on yhä ratkaisematta. Tuomiota ei ole annettu.",
     author: "kayttaja5",
@@ -58,51 +60,63 @@ const TOPICS = [
 const PER_PAGE = 3;
 
 const resultsPage = (start) => {
-  const slice = TOPICS.slice(start, start + PER_PAGE);
-  const rows = slice
+  // phpBB clamps an out-of-range start to the last page rather than 404ing.
+  const clamped = Math.min(start, Math.max(0, TOPICS.length - 1));
+  const rows = TOPICS.slice(clamped, clamped + PER_PAGE)
     .map(
       (t) => `
-    <div class="search post">
-      <div class="postbody">
-        <h3><a href="./viewtopic.php?f=5&amp;t=${t.t}&amp;hilit=kajaani"
-               class="topictitle">${t.title}</a></h3>
-        <div class="author">
-          <a href="./memberlist.php?mode=viewprofile&amp;u=${t.t}">${t.author}</a>
-          » 12 Jan 2020, 10:00
-        </div>
-        <div class="content">${t.snippet}</div>
-        <a href="./viewforum.php?f=5">${t.forum}</a>
-      </div>
-    </div>`
+    <li class="row bg1">
+      <dl>
+        <dd><div class="list-inner">
+          <a href="./viewtopic.php?f=5&amp;t=${t.t}&amp;hilit=kajaani&amp;sid=abc"
+             class="topictitle">${t.title}</a>
+          <div class="responsive-hide left-box">
+            Kirjoittaja <span class="username">${t.author}</span> &raquo;
+            <time datetime="2020-01-12T10:00:00+00:00">Su Tammi 12, 2020 10:00 am</time>
+            &raquo; Sijainti: <a href="./viewforum.php?f=5&amp;sid=abc">${t.forum}</a>
+          </div>
+        </div></dd>
+        <dd class="posts">${postsFor(t).length - 1} <dfn>Vastaukset</dfn></dd>
+      </dl>
+    </li>`
     )
     .join("\n");
 
   return `<!DOCTYPE html><html lang="fi"><head><meta charset="utf-8">
   <title>Haku – Rikosfoorumi</title></head><body>
-  <div id="page-body">${rows || "<p>Haku ei tuottanut tuloksia.</p>"}</div>
+  <div id="page-body"><ul class="topiclist topics">${
+    rows || "<p>Haku ei tuottanut tuloksia.</p>"
+  }</ul></div>
   </body></html>`;
 };
 
-/** Two posts per topic page, three pages' worth of posts, to test pagination. */
+/** Two posts per topic page, so pagination is exercised. */
 const POSTS_PER_PAGE = 2;
 
 const postsFor = (topic) => [
   {
+    id: topic.t * 1000 + 1,
     author: topic.author,
-    date: "12 Jan 2020, 10:00",
+    iso: "2020-01-12T10:00:00+00:00",
+    date: "Su Tammi 12, 2020 10:00 am",
     html: `${topic.snippet} Lisätietoja aiheesta ketjun ensimmäisessä viestissä.
            <a href="https://yle.fi/uutiset/3-1234567" class="postlink">Ylen uutinen</a>
            <img src="./download/file.php?id=11" class="postimage" alt="kartta">`,
   },
   {
+    id: topic.t * 1000 + 2,
     author: "kommentoija",
-    date: "13 Jan 2020, 09:30",
-    html: `Poliisin tiedote asiasta:
+    iso: "2020-01-13T09:30:00+00:00",
+    date: "Ma Tammi 13, 2020 9:30 am",
+    html: `<blockquote><div>Aiempi viesti lainattuna</div></blockquote>
+           Poliisin tiedote asiasta:
            <a href="https://poliisi.fi/tiedote/999" class="postlink">poliisi.fi</a>`,
   },
   {
+    id: topic.t * 1000 + 3,
     author: "kolmas",
-    date: "14 Jan 2020, 20:15",
+    iso: "2020-01-14T20:15:00+00:00",
+    date: "Ti Tammi 14, 2020 8:15 pm",
     html: `Oikeuden päätös tuli tänään.
            <img src="https://example.org/kuva.jpg" class="postimage" alt="kuva">`,
   },
@@ -113,16 +127,21 @@ const topicPage = (t, start) => {
   if (!topic) return `<!DOCTYPE html><html><body><p>Not found</p></body></html>`;
 
   const all = postsFor(topic);
-  const slice = all.slice(start, start + POSTS_PER_PAGE);
-  const posts = slice
+  const clamped = Math.min(start, Math.max(0, all.length - 1));
+  const posts = all
+    .slice(clamped, clamped + POSTS_PER_PAGE)
     .map(
       (p) => `
-    <div class="post has-profile">
-      <dl class="postprofile">
-        <dt><a href="./memberlist.php?mode=viewprofile&amp;u=1">${p.author}</a></dt>
+    <div id="p${p.id}" class="post has-profile bg2">
+      <dl class="postprofile" id="profile${p.id}">
+        <dt><strong><span class="username">${p.author}</span></strong></dt>
       </dl>
       <div class="postbody">
-        <p class="author">${p.date}</p>
+        <p class="author">
+          <span class="responsive-hide">Kirjoittaja
+            <strong><span class="username">${p.author}</span></strong> &raquo; </span>
+          <time datetime="${p.iso}">${p.date}</time>
+        </p>
         <div class="content">${p.html}</div>
       </div>
     </div>`
@@ -132,6 +151,7 @@ const topicPage = (t, start) => {
   return `<!DOCTYPE html><html lang="fi"><head><meta charset="utf-8">
   <title>${topic.title}</title></head><body>
   <h2 class="topic-title">${topic.title}</h2>
+  <div class="pagination">${all.length} viestiä</div>
   <div id="page-body">${posts}</div>
   </body></html>`;
 };
@@ -148,4 +168,6 @@ createServer((req, res) => {
     res.statusCode = 404;
     res.end("<html><body>404</body></html>");
   }
-}).listen(port, () => console.log(`phpBB fixture on http://localhost:${port}/rikosfoorumi/search.php`));
+}).listen(port, () =>
+  console.log(`phpBB fixture on http://localhost:${port}/rikosfoorumi/search.php`)
+);
