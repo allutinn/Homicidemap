@@ -944,5 +944,25 @@
         "country_code": "fi"
       }
     }
+  ],
+  "Kivimäentie 313, Kajaani": [
+    {
+      "lat": 64.129062,
+      "lon": 27.6320538,
+      "display_name": "Kivimäentie, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87900, Suomi / Finland",
+      "type": "tertiary",
+      "addresstype": "road",
+      "address": {
+        "road": "Kivimäentie",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87900",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
   ]
 }

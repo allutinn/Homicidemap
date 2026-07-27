@@ -180,6 +180,14 @@
     ],
     "locations": [
       {
+        "label": "Kivimäentie 313, Kajaani",
+        "detail": "Street address of the shooting, supplied by the repository maintainer. It is not stated anywhere in the forum thread; the thread only places the scene in the Kivimäki gravel-pit and dump area. OpenStreetMap has no house number 313 on Kivimäentie, so the marker sits on the road itself rather than on the house.",
+        "precision": "street",
+        "credibility": "editor",
+        "source_permalink": null,
+        "quote": null
+      },
+      {
         "label": "Kivimäki gravel pits and municipal dump, Kajaani",
         "detail": "Scene of the shooting and rape: a then-remote area of gravel pits (soramontut) and the town dump, a few kilometres from Kajaani towards Iisalmi. Koskinen directed the driver there saying his brother lived in Kivimäki; the shooting happened in the car and the rape at the edge of a gravel pit.",
         "precision": "area",
