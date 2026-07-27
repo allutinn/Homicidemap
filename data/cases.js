@@ -159,18 +159,18 @@ const CASES = [
     "topic_id": "3966",
     "title": "Kajaani 27.4.1986: Mies ampui kaverinsa ja raiskasi tämän raskaana olevan avovaimon",
     "coords": [
-      64.2273,
-      27.7285
+      64.129062,
+      27.6320538
     ],
-    "coords_precision": "town",
-    "coords_credibility": "fallback",
-    "coords_label": "Kajaani (no more precise location in the thread)",
-    "coords_resolved": null,
+    "coords_precision": "street",
+    "coords_credibility": "editor",
+    "coords_label": "Kivimäentie 313, Kajaani",
+    "coords_resolved": "Kivimäentie, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87900, Suomi / Finland",
     "date": "1986-04-27",
     "date_note": "The thread title and the detailed 2024 account both state Sunday 27 April 1986; the original 2008 poster had given only an approximate year, and newspaper clippings cited are from October 1986 (trial).",
     "status": "Solved",
     "outcome": "Lauri Koskinen was convicted of murder, rape and drunk driving at Kajaani kihlakunnanoikeus and sentenced in October 1986 to life imprisonment plus damages and maintenance payments.",
-    "location": "Scene of the shooting and rape: a then-remote area of gravel pits (soramontut) and the town dump, a few kilometres from Kajaani towards Iisalmi. Koskinen directed the driver there saying his brother lived in Kivimäki; the shooting happened in the car and the rape at the edge of a gravel pit.",
+    "location": "Street address of the shooting, supplied by the repository maintainer. It is not stated anywhere in the forum thread; the thread only places the scene in the Kivimäki gravel-pit and dump area. OpenStreetMap has no house number 313 on Kivimäentie, so the marker sits on the road itself rather than on the house.",
     "summary": "On Sunday 27 April 1986 two hungover drinking companions, 29-year-old Veli-Pekka Leppanen and 30-year-old Lauri Koskinen, spent the day drinking in Kajaani, starting at the Pitka Taneli music restaurant in the town centre. In the afternoon Leppanen's common-law wife, seven months pregnant, was called to act as their driver and set out with the couple's 4-year-old son. The group first drove to Koskinen's flat, where he collected a hunting rifle, a revolver and beer and swapped to his own white Volkswagen Jetta. A planned trip to Kuhmo was abandoned as too long, and Koskinen instead directed them to Kivimaki, a then-remote area a few kilometres from Kajaani towards Iisalmi consisting of gravel pits and the municipal dump, where he said his brother lived. With the two men in the back seat and no quarrel between them, Koskinen shot Leppanen; after the woman stopped the car he fired again outside it, hitting Leppanen in the head, chest and above the knee. The head and chest wounds were fatal. Koskinen then forced the widow at gunpoint to drive on, made her undress and raped her at the edge of a gravel pit in front of her small son. She managed to seize the gun, throw it into bushes and flee with the boy; Koskinen caught and beat her demanding the revolver, but mother and son escaped again and hid in the forest for several hours before a passing motorist took them to the police station. Meanwhile police called to a car that had run into a ditch found Leppanen's body beside it, at first assuming a traffic accident. Koskinen was found about a hundred metres away under a tree trunk and surrendered without resistance. He claimed the first shot was accidental, said he could not remember the rest, and denied the rape. A mental examination found him fully responsible. Tried at Kajaani kihlakunnanoikeus, partly behind closed doors, on charges of murder, rape and drunk driving (1.59 per mille), he was sentenced in October 1986 to life imprisonment plus damages and maintenance payments. The detailed narrative comes from one forum poster citing RikosRaportti, Iltalehti, Helsingin Sanomat and Ilta-Sanomat and reproducing 1986 newspaper clippings; posters' further claims that Koskinen served in Oulu, Pelso, Sukeva and Konnunsuo and hanged himself after release are unsourced forum talk, as is a rumour of an earlier rape settled with money.",
     "victims": [
       {
@@ -211,6 +211,14 @@ const CASES = [
       }
     ],
     "locations": [
+      {
+        "label": "Kivimäentie 313, Kajaani",
+        "detail": "Street address of the shooting, supplied by the repository maintainer. It is not stated anywhere in the forum thread; the thread only places the scene in the Kivimäki gravel-pit and dump area. OpenStreetMap has no house number 313 on Kivimäentie, so the marker sits on the road itself rather than on the house.",
+        "precision": "street",
+        "credibility": "editor",
+        "source_permalink": null,
+        "quote": null
+      },
       {
         "label": "Kivimäki gravel pits and municipal dump, Kajaani",
         "detail": "Scene of the shooting and rape: a then-remote area of gravel pits (soramontut) and the town dump, a few kilometres from Kajaani towards Iisalmi. Koskinen directed the driver there saying his brother lived in Kivimäki; the shooting happened in the car and the rape at the edge of a gravel pit.",

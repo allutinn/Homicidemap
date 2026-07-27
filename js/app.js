@@ -47,6 +47,7 @@ const CRED_LABEL = {
   news: "news",
   forum_claim: "forum claim",
   rumour: "rumour",
+  editor: "maintainer", // supplied outside the thread, not found in any source
   fallback: "no location given"
 };
 
@@ -62,7 +63,7 @@ const person = (p) =>
 
 const place = (l) =>
   `<li><strong>${esc(l.label)}</strong> ` +
-  badge(l.credibility === "official" || l.credibility === "news" ? "ok" : "weak",
+  badge(["official", "news", "editor"].includes(l.credibility) ? "ok" : "weak",
         CRED_LABEL[l.credibility] ?? l.credibility) +
   badge("status", l.precision) +
   (l.detail ? `<span class="muted">${esc(l.detail)}</span>` : "") +
