@@ -24,15 +24,72 @@ const markerIcon = L.divIcon({
 
 let activeMarker = null;
 
+/* Markers by the case's forum topic id. That id is stable across rebuilds;
+   the positional `id` is not, so a shared link must not be built from it. */
+const markers = new Map();
+
 CASES.forEach((c) => {
   const marker = L.marker(c.coords, { icon: markerIcon }).addTo(map);
   marker.on("click", () => openSheet(c, marker));
+  markers.set(String(c.topic_id), { case: c, marker });
 });
+
+/* --- Deep links -------------------------------------------------------------
+
+   A case is addressable as ?case=<topic_id>. Opening a case writes that into
+   the address bar, so copying the URL while the sheet is open shares that
+   case, and following such a link opens straight onto it.
+
+   A query string is used rather than a path segment because the site is served
+   as static files: the server never sees the parameter, so no rewrite rule is
+   needed and no link can 404. */
+
+const caseUrl = (c) => {
+  const url = new URL(location.href);
+  url.search = `?case=${encodeURIComponent(c.topic_id)}`;
+  url.hash = "";
+  return url.toString();
+};
+
+const baseUrl = () => {
+  const url = new URL(location.href);
+  url.search = "";
+  url.hash = "";
+  return url.toString();
+};
+
+/** Case named by the current URL, if any. Also accepts #case=… for links that
+    have been through a client which mangles query strings. */
+const caseFromUrl = () => {
+  const search = new URLSearchParams(location.search);
+  const hash = new URLSearchParams(location.hash.replace(/^#/, ""));
+  const id = search.get("case") ?? hash.get("case");
+  return id ? markers.get(String(id)) : null;
+};
+
+/* Open whatever the URL asks for, without touching history — used on first
+   load and when the user navigates back or forward. */
+function syncFromUrl({ initial = false } = {}) {
+  const target = caseFromUrl();
+  if (target) {
+    openSheet(target.case, target.marker, { pushUrl: false });
+    // A shared link should land on the case, not on the whole-municipality view.
+    map.setView(target.case.coords, Math.max(map.getZoom(), 14), { animate: !initial });
+    return true;
+  }
+  if (!initial) closeSheet({ pushUrl: false });
+  return false;
+}
 
 /* Frame every case, rather than a fixed view of the town centre. Kajaani is a
    large municipality: Otanmäki and Vuolijoki sit ~15 km southwest of the
-   centre, so a centre-anchored view silently hides those markers entirely. */
-if (CASES.length) {
+   centre, so a centre-anchored view silently hides those markers entirely.
+
+   Skipped when the URL already names a case: fitBounds zooms with a CSS
+   animation, which would land after the deep link's setView and quietly undo
+   it, dropping the visitor on the whole-municipality view instead of the case
+   they followed a link to. */
+if (CASES.length && !caseFromUrl()) {
   map.fitBounds(L.latLngBounds(CASES.map((c) => c.coords)), {
     padding: [48, 48],
     maxZoom: 14 // don't zoom into the street when cases happen to cluster
@@ -89,10 +146,16 @@ const section = (heading, items, render) =>
     ? `<h3>${esc(heading)}</h3><ul class="sheet-list">${items.map(render).join("")}</ul>`
     : "";
 
-function openSheet(c, marker) {
+let activeCase = null;
+
+function openSheet(c, marker, { pushUrl = true } = {}) {
   if (activeMarker) activeMarker.getElement().classList.remove("active");
   activeMarker = marker;
+  activeCase = c;
   marker.getElement().classList.add("active");
+
+  // Put the case in the address bar so copying the URL shares this case.
+  if (pushUrl) history.pushState({ case: c.topic_id }, "", caseUrl(c));
 
   document.getElementById("sheet-kicker").textContent =
     "Case #" + String(c.id).padStart(3, "0");
@@ -133,17 +196,58 @@ function openSheet(c, marker) {
   map.panTo(c.coords, { animate: true });
 }
 
-function closeSheet() {
+function closeSheet({ pushUrl = true } = {}) {
   sheet.classList.remove("open", "expanded");
   backdrop.classList.remove("visible");
   if (activeMarker) {
     activeMarker.getElement().classList.remove("active");
     activeMarker = null;
   }
+  activeCase = null;
+  // Drop the case from the URL, so a link copied after closing is the map.
+  if (pushUrl && caseFromUrl()) history.pushState({}, "", baseUrl());
 }
 
-closeBtn.addEventListener("click", closeSheet);
-backdrop.addEventListener("click", closeSheet);
+closeBtn.addEventListener("click", () => closeSheet());
+backdrop.addEventListener("click", () => closeSheet());
+
+/* --- Share ---------------------------------------------------------------- */
+
+const shareBtn = document.getElementById("sheet-share");
+const toast = document.getElementById("sheet-toast");
+
+let toastTimer = null;
+function flash(message) {
+  toast.textContent = message;
+  toast.classList.add("visible");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => toast.classList.remove("visible"), 1800);
+}
+
+shareBtn.addEventListener("click", async () => {
+  if (!activeCase) return;
+  const url = caseUrl(activeCase);
+
+  // Native share sheet where there is one (phones); clipboard everywhere else.
+  if (navigator.share) {
+    try {
+      await navigator.share({ title: activeCase.title, url });
+      return;
+    } catch (e) {
+      if (e && e.name === "AbortError") return; // user dismissed the share sheet
+      // otherwise fall through to copying
+    }
+  }
+
+  try {
+    await navigator.clipboard.writeText(url);
+    flash("Link copied");
+  } catch {
+    // Clipboard access can be refused (insecure context, permissions policy).
+    // Selecting the text lets the user copy it by hand rather than failing mute.
+    prompt("Copy this link:", url);
+  }
+});
 
 /* --- Drag the sheet between open / expanded / closed --- */
 let dragStartY = null;
@@ -204,3 +308,8 @@ content.addEventListener("click", () => {
     sheet.classList.add("expanded");
   }
 });
+
+/* Run last: syncFromUrl opens a sheet, which touches state declared with `let`
+   further up this file. Calling it any earlier hits the temporal dead zone. */
+syncFromUrl({ initial: true });
+window.addEventListener("popstate", () => syncFromUrl());

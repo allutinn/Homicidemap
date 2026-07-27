@@ -258,3 +258,39 @@ html, body {
    includes places connected to the case but not the killing site. */
 .sheet-list li.is-marker { border-left: 2px solid #fff; padding-left: 10px; }
 .tag-marker { color: #000; background: #fff; border-color: #fff; font-weight: 700; }
+
+/* --- Share a case --- */
+
+.sheet-share {
+  position: absolute;
+  top: 8px; right: 52px;
+  height: 32px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: var(--black);
+  color: var(--white);
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+.sheet-share:active { background: var(--white); color: var(--black); }
+
+/* Confirmation after copying, so the tap has a visible result even when the
+   platform has no native share sheet. */
+.sheet-toast {
+  position: absolute;
+  top: 14px; right: 52px;
+  padding: 4px 10px;
+  border-radius: 12px;
+  background: var(--white);
+  color: var(--black);
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.18s ease;
+}
+.sheet-toast.visible { opacity: 1; }
