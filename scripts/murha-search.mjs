@@ -12,20 +12,23 @@
  *   --overview                 open each topic and pull the first post
  *   --delay 1200               ms between requests
  *   --out data/kajaani-topics.json
+ *   --reclassify <file>        re-run the heuristic over an existing index and
+ *                              rewrite it; no network access at all
  *
  * Only TOPICS are requested (phpBB `sr=topics`), never individual posts.
  *
  * Output: JSON array of { topic, link, forum, author, date, replies,
- *                         matched_keywords, overview, valid, reasoning,
- *                         needs_review }
+ *                         matched_keywords, overview, valid,
+ *                         kajaani_in_overview, reasoning, needs_review }
  *
- * `valid` is set by a keyword heuristic and is NOT authoritative — every item
- * carries `needs_review: true` so a human (or a model) can confirm whether the
- * topic is a specific Kajaani homicide case rather than general discussion.
+ * `valid` is set by the heuristic in lib/classify.mjs and is NOT authoritative
+ * — every item carries `needs_review: true` so a human (or a model) can confirm
+ * whether the topic is a specific Kajaani case rather than general discussion.
  * Nothing here invents data: every field comes from the page.
  */
-import { writeFile, mkdir } from "node:fs/promises";
+import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname } from "node:path";
+import { classify } from "./lib/classify.mjs";
 import {
   fetchDoc,
   sleep,
@@ -97,72 +100,25 @@ const extractOverview = (document) => {
   return clean(first?.textContent).slice(0, 1500);
 };
 
-/**
- * Kajaani and the districts/villages inside the municipality (Vuolijoki and
- * Otanmäki were merged into Kajaani in 2007). A thread whose *title* carries
- * one of these is about Kajaani; a passing mention deep inside an unrelated
- * thread is not.
- */
-const PLACES = [
-  "kajaan", // kajaani / kajaanin / kajaanissa / kajaanilainen
-  "otanmäki", "otanmäe", "vuolijo", "lehtikangas", "lehtikankaa",
-  "vimpelinvaara", "jormua", "kuluntalahti", "paltaniemi", "teppana",
-  "nakertaja", "huuhkajanvaara", "hauholampi", "kätönlahti", "soidinsuo",
-  "kirkkoaho", "komiaho", "purola", "variskangas", "hoikankangas",
-];
-
-const CASE_WORDS = [
-  "murha", "henkirikos", "surma", "puukot", "tapp", "kuolem", "kuoli",
-  "katosi", "kadonnut", "epäilty", "syyte", "tuomio", "uhri", "raisk",
-  "pahoinpitel", "ryöst", "väkival", "ampu",
-];
-
-/**
- * Heuristic pre-classification. `valid` means "this thread is about Kajaani",
- * which is what decides whether it is worth crawling in full — it does NOT
- * assert that the thread is a homicide case. Everything stays needs_review.
- */
-const classify = ({ topic, overview }) => {
-  const title = topic.toLowerCase();
-  const hay = `${title} ${overview.toLowerCase()}`;
-
-  const titlePlaces = PLACES.filter((p) => title.includes(p));
-  const hits = CASE_WORDS.filter((w) => hay.includes(w));
-  const datedTitle = /\b(19|20)\d{2}\b/.test(title);
-
-  if (titlePlaces.length) {
-    return [
-      true,
-      `Title names a Kajaani-area place (${titlePlaces.join(", ")})` +
-        (hits.length ? `; case terms present (${hits.join(", ")})` : "") +
-        (datedTitle ? "; title carries a year, typical of a specific case" : "") +
-        ".",
-    ];
-  }
-
-  const overviewPlaces = PLACES.filter((p) => overview.toLowerCase().includes(p));
-  if (overviewPlaces.length && hits.length) {
-    return [
-      true,
-      `Title does not name Kajaani, but the opening post does ` +
-        `(${overviewPlaces.join(", ")}) alongside case terms (${hits.join(", ")}).`,
-    ];
-  }
-  if (overviewPlaces.length) {
-    return [
-      false,
-      `Kajaani appears only in the opening post (${overviewPlaces.join(", ")}) ` +
-        `with no case indicators — likely a passing mention.`,
-    ];
-  }
-  return [
-    false,
-    "Neither the title nor the opening post is about Kajaani — the search " +
-      "matched a mention somewhere deeper in the thread.",
-  ];
-};
-
 const seen = new Map();
+
+/** Rebuild the classification of an existing index without touching the forum. */
+const RECLASSIFY = arg("reclassify", null);
+if (RECLASSIFY) {
+  const existing = JSON.parse(await readFile(RECLASSIFY, "utf8"));
+  const rewritten = existing.map((row) => {
+    const { valid, kajaani_in_overview, reasoning } = classify(row);
+    return { ...row, valid, kajaani_in_overview, reasoning, needs_review: true };
+  });
+  await writeFile(RECLASSIFY, JSON.stringify(rewritten, null, 2) + "\n");
+  const before = existing.filter((r) => r.valid).length;
+  const after = rewritten.filter((r) => r.valid).length;
+  console.log(
+    `Reclassified ${rewritten.length} topics in ${RECLASSIFY}: ` +
+      `${before} → ${after} valid.`
+  );
+  process.exit(0);
+}
 
 for (const keywords of KEYWORD_SETS) {
   let start = 0;
@@ -234,7 +190,7 @@ if (WANT_OVERVIEW) {
 
 const results = [...seen.values()].map((item) => {
   const overview = item.overview || "";
-  const [valid, reasoning] = classify({ ...item, overview });
+  const { valid, kajaani_in_overview, reasoning } = classify({ ...item, overview });
   return {
     topic: item.topic,
     link: item.link,
@@ -245,6 +201,7 @@ const results = [...seen.values()].map((item) => {
     matched_keywords: item.matched_keywords,
     overview,
     valid,
+    kajaani_in_overview,
     reasoning,
     needs_review: true,
   };
