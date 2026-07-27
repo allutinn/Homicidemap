@@ -57,6 +57,35 @@ npx playwright codegen http://localhost:8000                        # record act
 > Map tiles are stubbed with a placeholder grid by default, so previews also
 > work on networks that block tile servers. Pass `--tiles` for the real map.
 
+## Forum topic search (murha.info)
+
+`scripts/murha-search.mjs` drives Playwright over the murha.info Rikosfoorumi
+phpBB search and emits a JSON list of **topics only** (`sr=topics`, never
+individual posts).
+
+```sh
+node scripts/murha-search.mjs \
+  --keywords "kajaani henkirikos" --terms all \
+  --overview --out data/kajaani-topics.json
+```
+
+Each entry is `{ topic, link, forum, author, date, overview, valid, reasoning,
+needs_review }`. `valid` comes from a conservative keyword heuristic — it marks
+a topic false when it reads as general discussion or lacks a Kajaani mention —
+and every row carries `needs_review: true`, because deciding whether a thread
+is a *specific case* is a judgement call the script should not make silently.
+
+Test the scraper offline against a phpBB-shaped fixture (no network needed):
+
+```sh
+node scripts/fixtures/phpbb-fixture.mjs 8200 &
+node scripts/murha-search.mjs --base http://localhost:8200/rikosfoorumi \
+  --overview --delay 0 --out /tmp/out.json
+```
+
+Be considerate when running against the live forum: the default `--delay 1500`
+throttles requests, and `--max-pages` bounds the crawl.
+
 ## How it works
 
 - `index.html` — single page: header, full-screen map, and a hidden bottom sheet.
