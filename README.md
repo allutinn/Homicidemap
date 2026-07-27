@@ -75,12 +75,26 @@ a topic false when it reads as general discussion or lacks a Kajaani mention —
 and every row carries `needs_review: true`, because deciding whether a thread
 is a *specific case* is a judgement call the script should not make silently.
 
-Test the scraper offline against a phpBB-shaped fixture (no network needed):
+Then fetch every message of the selected topics — text, links and images —
+walking each thread's pagination:
+
+```sh
+node scripts/murha-threads.mjs --limit 30 \
+  --in data/kajaani-topics.json --out data/kajaani-cases.json
+```
+
+Output per case: `{ topic, link, forum, valid, reasoning, message_count,
+messages: [{ index, author, date, text, links, images }] }`. Only topics
+prefiltered `valid: true` are fetched unless you pass `--all`.
+
+Test both scripts offline against a phpBB-shaped fixture (no network needed):
 
 ```sh
 node scripts/fixtures/phpbb-fixture.mjs 8200 &
-node scripts/murha-search.mjs --base http://localhost:8200/rikosfoorumi \
-  --overview --delay 0 --out /tmp/out.json
+node scripts/murha-search.mjs  --base http://localhost:8200/rikosfoorumi \
+  --delay 0 --out /tmp/topics.json
+node scripts/murha-threads.mjs --base http://localhost:8200/rikosfoorumi \
+  --delay 0 --in /tmp/topics.json --out /tmp/cases.json
 ```
 
 Be considerate when running against the live forum: the default `--delay 1500`
