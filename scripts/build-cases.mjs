@@ -228,7 +228,14 @@ for (const [i, c] of cases.entries()) {
     summary: c.overview,
     victims: c.victims ?? [],
     suspects: c.suspects ?? [],
-    locations: c.locations ?? [],
+    // Flag which entry the marker was placed from. A case's locations include
+    // places that are not the killing site — a shop where a second, surviving
+    // victim was shot, an arrest, a courthouse — and without this the list
+    // reads as if any of them could be where the death happened.
+    locations: (c.locations ?? []).map((l) => ({
+      ...l,
+      used_for_marker: !fallback && l === loc,
+    })),
     sources: c.key_sources ?? [],
     thread: c.link,
   });

@@ -72,7 +72,8 @@ const person = (p) =>
   `</li>`;
 
 const place = (l) =>
-  `<li><strong>${esc(l.label)}</strong> ` +
+  `<li${l.used_for_marker ? ' class="is-marker"' : ""}><strong>${esc(l.label)}</strong> ` +
+  (l.used_for_marker ? badge("marker", "map marker") : "") +
   badge(["official", "news", "editor"].includes(l.credibility) ? "ok" : "weak",
         CRED_LABEL[l.credibility] ?? l.credibility) +
   badge("status", l.precision) +
