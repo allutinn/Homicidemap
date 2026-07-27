@@ -191,12 +191,22 @@ const resolveLocation = async (locations) => {
   return { hit: KAJAANI, loc: ranked[0] ?? null, precision: "town", downgraded: false, fallback: true };
 };
 
-/** Status shown on the map, from the case's legal outcome. */
-const STATUS = {
-  solved: "Solved",
-  unsolved: "Unsolved",
-  in_investigation: "Under investigation",
-  unclear: "Unclear",
+/** Languages the map offers. Every case must carry an overview in each. */
+const LANGS = ["fi", "en"];
+
+/**
+ * Each overview is two-part: a `lead` that says what happened in a few
+ * sentences, and a `detail` that gives the full account with its sourcing.
+ * Missing or empty text is a build error rather than a blank card on the map.
+ */
+const checkOverview = (overview, title) => {
+  if (!overview || typeof overview !== "object")
+    throw new Error(`${title}: overview must be an object of {fi,en}:{lead,detail}`);
+  for (const lang of LANGS)
+    for (const part of ["lead", "detail"])
+      if (!overview[lang]?.[part]?.trim())
+        throw new Error(`${title}: overview.${lang}.${part} is missing or empty`);
+  return overview;
 };
 
 const cases = JSON.parse(await readFile(IN, "utf8"));
@@ -214,18 +224,18 @@ for (const [i, c] of cases.entries()) {
     coords: [hit.lat, hit.lon],
     coords_precision: precision,
     coords_credibility: fallback ? "fallback" : loc.credibility,
-    coords_label: fallback
-      ? "Kajaani (no more precise location in the thread)"
-      : downgraded
-        ? `${loc.label} — placed on the district, exact point not resolvable`
-        : loc.label,
+    coords_label: fallback ? null : loc.label,
+    // Why the marker is not exactly where the source said, if it isn't. The
+    // map spells this out in the chosen language rather than baking in English.
+    coords_note: fallback ? "fallback" : downgraded ? "downgraded" : null,
     coords_resolved: fallback ? null : hit.display_name,
     date: c.incident_date,
     date_note: c.incident_date_note ?? null,
-    status: STATUS[c.solved_status] ?? "Unclear",
+    // The key, not a rendered word: the map labels it in the chosen language.
+    status: c.solved_status ?? "unclear",
     outcome: c.outcome ?? null,
     location: loc?.detail ?? "Kajaani",
-    summary: c.overview,
+    summary: checkOverview(c.overview, c.title),
     victims: c.victims ?? [],
     suspects: c.suspects ?? [],
     // Flag which entry the marker was placed from. A case's locations include
@@ -259,6 +269,10 @@ const banner = `// Kajaani homicide cases, derived from murha.info Rikosfoorumi 
 // came from and how well it is supported, and \`coords_precision\` /
 // \`coords_credibility\` say how exact the marker is. A "town" precision marker
 // is the Kajaani centroid, not the site of the killing.
+//
+// \`summary\` is bilingual: \`{fi,en}\` each with a short \`lead\` and a full
+// \`detail\`. \`status\` is a key (solved / unsolved / in_investigation /
+// unclear), not a rendered word — the map labels it in the chosen language.
 //
 // Forum discussion is not a court record. Names carried here as
 // \`support: "forum_claim"\` were asserted by posters, not established by a
