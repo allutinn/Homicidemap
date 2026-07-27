@@ -100,6 +100,28 @@ node scripts/murha-threads.mjs --base http://localhost:8200/rikosfoorumi \
 Be considerate when running against the live forum: the default `--delay 1500`
 throttles requests, and `--max-pages` bounds the crawl.
 
+### Status / next session
+
+The scrape has **not** been run yet: `murha.info` is denied by the sandbox's
+egress policy (403 on CONNECT), so no data has been collected. Both scripts are
+written and verified against the fixture above.
+
+To run it, the environment needs network access to `murha.info` (claude.ai/code
+→ environment → **Network access** → *Custom* + allowed domains, or *Full*),
+then in a fresh session:
+
+```sh
+npm install
+node scripts/murha-search.mjs  --keywords "kajaani henkirikos" --terms all --overview
+node scripts/murha-threads.mjs --limit 30
+```
+
+Then review each `valid` / `reasoning` pair, keep the specific Kajaani cases,
+and commit `data/kajaani-topics.json` + `data/kajaani-cases.json`.
+
+Note: `publish_dir: .` in the deploy workflow means anything committed under
+`data/` is also served publicly at `https://allutinn.github.io/Homicidemap/`.
+
 ## How it works
 
 - `index.html` — single page: header, full-screen map, and a hidden bottom sheet.
