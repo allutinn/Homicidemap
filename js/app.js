@@ -1,6 +1,6 @@
 /* Homicide Map — mobile-first map with in-page bottom-sheet overview */
 
-const map = L.map("map", { zoomControl: false }).setView([60.1755, 24.9342], 13);
+const map = L.map("map", { zoomControl: false }).setView([64.2273, 27.7285], 12);
 
 L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
   maxZoom: 19,
@@ -29,6 +29,54 @@ CASES.forEach((c) => {
   marker.on("click", () => openSheet(c, marker));
 });
 
+/* Text from the forum is untrusted: escape everything before it reaches HTML. */
+const esc = (s) =>
+  String(s ?? "").replace(
+    /[&<>"']/g,
+    (ch) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" })[ch]
+  );
+
+/* How well a claim is supported. Shown next to every name and place, because
+   a poster's assertion and a court's finding must not look the same. */
+const badge = (kind, label) =>
+  `<span class="tag tag-${esc(kind)}">${esc(label)}</span>`;
+
+const SUPPORT_LABEL = { court_or_news: "reported", forum_claim: "forum claim" };
+const CRED_LABEL = {
+  official: "police",
+  news: "news",
+  forum_claim: "forum claim",
+  rumour: "rumour",
+  fallback: "no location given"
+};
+
+const person = (p) =>
+  `<li>${p.name ? `<strong>${esc(p.name)}</strong>` : "<em>Not named</em>"}` +
+  (p.status ? ` ${badge("status", p.status.replace(/_/g, " "))}` : "") +
+  ` ${badge(p.support === "court_or_news" ? "ok" : "weak", SUPPORT_LABEL[p.support] ?? p.support)}` +
+  (p.description ? `<span class="muted">${esc(p.description)}</span>` : "") +
+  (p.source_permalinks?.length
+    ? ` <a href="${esc(p.source_permalinks[0])}" target="_blank" rel="noopener">source</a>`
+    : "") +
+  `</li>`;
+
+const place = (l) =>
+  `<li><strong>${esc(l.label)}</strong> ` +
+  badge(l.credibility === "official" || l.credibility === "news" ? "ok" : "weak",
+        CRED_LABEL[l.credibility] ?? l.credibility) +
+  badge("status", l.precision) +
+  (l.detail ? `<span class="muted">${esc(l.detail)}</span>` : "") +
+  (l.quote ? `<blockquote>${esc(l.quote)}</blockquote>` : "") +
+  (l.source_permalink
+    ? ` <a href="${esc(l.source_permalink)}" target="_blank" rel="noopener">source message</a>`
+    : "") +
+  `</li>`;
+
+const section = (heading, items, render) =>
+  items?.length
+    ? `<h3>${esc(heading)}</h3><ul class="sheet-list">${items.map(render).join("")}</ul>`
+    : "";
+
 function openSheet(c, marker) {
   if (activeMarker) activeMarker.getElement().classList.remove("active");
   activeMarker = marker;
@@ -39,16 +87,30 @@ function openSheet(c, marker) {
   document.getElementById("sheet-title").textContent = c.title;
 
   document.getElementById("sheet-facts").innerHTML = [
-    ["Date", c.date],
+    ["Date", c.date ?? "Not stated"],
     ["Status", c.status],
-    ["Location", c.location],
+    ["Outcome", c.outcome ?? "—"],
+    ["Marker", `${esc(c.coords_label)} (${CRED_LABEL[c.coords_credibility] ?? c.coords_credibility}, ${esc(c.coords_precision)})`],
     ["Coordinates", c.coords[0].toFixed(4) + ", " + c.coords[1].toFixed(4)]
   ]
-    .map(([k, v]) => `<dt>${k}</dt><dd>${v}</dd>`)
+    .map(([k, v]) => `<dt>${esc(k)}</dt><dd>${k === "Marker" ? v : esc(v)}</dd>`)
     .join("");
 
   document.getElementById("sheet-body").innerHTML =
-    `<p>${c.summary}</p>` + c.details.map((p) => `<p>${p}</p>`).join("");
+    `<p>${esc(c.summary)}</p>` +
+    section("Victims", c.victims, person) +
+    section("Suspects", c.suspects, person) +
+    section("Locations reported", c.locations, place) +
+    section(
+      "Sources",
+      c.sources,
+      (s) =>
+        `<li><strong>${esc(s.outlet)}</strong>` +
+        (s.what ? `<span class="muted">${esc(s.what)}</span>` : "") +
+        (s.url ? ` <a href="${esc(s.url)}" target="_blank" rel="noopener">link</a>` : "") +
+        `</li>`
+    ) +
+    `<p class="sheet-thread"><a href="${esc(c.thread)}" target="_blank" rel="noopener">Full forum thread →</a></p>`;
 
   content.scrollTop = 0;
   sheet.classList.remove("expanded");
