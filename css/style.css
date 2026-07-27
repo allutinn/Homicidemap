@@ -191,3 +191,65 @@ html, body {
   color: #ddd;
   margin-bottom: 14px;
 }
+
+/* --- Case detail sections: victims, suspects, locations, sources --- */
+
+.sheet-body h3 {
+  font-size: 11px;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: var(--grey);
+  margin: 22px 0 10px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
+.sheet-list { list-style: none; }
+.sheet-list li {
+  font-size: 14px;
+  line-height: 1.5;
+  padding: 10px 0;
+  border-bottom: 1px solid var(--line);
+}
+.sheet-list li:last-child { border-bottom: 0; }
+.sheet-list .muted {
+  display: block;
+  color: var(--grey);
+  font-size: 13px;
+  margin-top: 3px;
+}
+.sheet-list blockquote {
+  display: block;
+  margin: 6px 0 0;
+  padding-left: 10px;
+  border-left: 2px solid var(--line);
+  color: var(--grey);
+  font-size: 13px;
+  font-style: italic;
+}
+.sheet-list a,
+.sheet-thread a {
+  color: #fff;
+  font-size: 13px;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+/* How well a claim is supported. `weak` is deliberately dimmer than `ok` so a
+   forum rumour never reads with the same weight as a court or news report. */
+.tag {
+  display: inline-block;
+  font-size: 10px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 1px 6px;
+  margin-left: 6px;
+  border: 1px solid var(--line);
+  border-radius: 2px;
+  vertical-align: 1px;
+}
+.tag-ok { color: #fff; border-color: #fff; }
+.tag-weak { color: var(--grey); border-style: dashed; }
+.tag-status { color: var(--grey); }
+
+.sheet-thread { margin-top: 20px; }
