@@ -83,15 +83,57 @@ const resultsPage = (start) => {
   </body></html>`;
 };
 
-const topicPage = (t) => {
+/** Two posts per topic page, three pages' worth of posts, to test pagination. */
+const POSTS_PER_PAGE = 2;
+
+const postsFor = (topic) => [
+  {
+    author: topic.author,
+    date: "12 Jan 2020, 10:00",
+    html: `${topic.snippet} Lisätietoja aiheesta ketjun ensimmäisessä viestissä.
+           <a href="https://yle.fi/uutiset/3-1234567" class="postlink">Ylen uutinen</a>
+           <img src="./download/file.php?id=11" class="postimage" alt="kartta">`,
+  },
+  {
+    author: "kommentoija",
+    date: "13 Jan 2020, 09:30",
+    html: `Poliisin tiedote asiasta:
+           <a href="https://poliisi.fi/tiedote/999" class="postlink">poliisi.fi</a>`,
+  },
+  {
+    author: "kolmas",
+    date: "14 Jan 2020, 20:15",
+    html: `Oikeuden päätös tuli tänään.
+           <img src="https://example.org/kuva.jpg" class="postimage" alt="kuva">`,
+  },
+];
+
+const topicPage = (t, start) => {
   const topic = TOPICS.find((x) => String(x.t) === String(t));
   if (!topic) return `<!DOCTYPE html><html><body><p>Not found</p></body></html>`;
+
+  const all = postsFor(topic);
+  const slice = all.slice(start, start + POSTS_PER_PAGE);
+  const posts = slice
+    .map(
+      (p) => `
+    <div class="post has-profile">
+      <dl class="postprofile">
+        <dt><a href="./memberlist.php?mode=viewprofile&amp;u=1">${p.author}</a></dt>
+      </dl>
+      <div class="postbody">
+        <p class="author">${p.date}</p>
+        <div class="content">${p.html}</div>
+      </div>
+    </div>`
+    )
+    .join("\n");
+
   return `<!DOCTYPE html><html lang="fi"><head><meta charset="utf-8">
   <title>${topic.title}</title></head><body>
-  <div class="post"><div class="postbody">
-    <h3>${topic.title}</h3>
-    <div class="content">${topic.snippet} Lisätietoja aiheesta ketjun ensimmäisessä viestissä.</div>
-  </div></div></body></html>`;
+  <h2 class="topic-title">${topic.title}</h2>
+  <div id="page-body">${posts}</div>
+  </body></html>`;
 };
 
 createServer((req, res) => {
@@ -101,7 +143,7 @@ createServer((req, res) => {
   if (url.pathname.endsWith("/search.php")) {
     res.end(resultsPage(Number(url.searchParams.get("start") || 0)));
   } else if (url.pathname.endsWith("/viewtopic.php")) {
-    res.end(topicPage(url.searchParams.get("t")));
+    res.end(topicPage(url.searchParams.get("t"), Number(url.searchParams.get("start") || 0)));
   } else {
     res.statusCode = 404;
     res.end("<html><body>404</body></html>");
