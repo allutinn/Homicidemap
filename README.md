@@ -138,8 +138,28 @@ throttles requests, and `--max-pages` bounds the crawl.
 > If the environment routes egress through an HTTPS proxy, run the scripts with
 > `NODE_USE_ENV_PROXY=1` so Node's `fetch` honours `HTTPS_PROXY`.
 
-Note: `publish_dir: .` in the deploy workflow means anything committed under
-`data/` is also served publicly at `https://allutinn.github.io/Homicidemap/`.
+### What has been collected
+
+| File | Contents |
+| --- | --- |
+| `data/kajaani-topics.json` | 484 topics matching `kajaani` / `kajaanin` / `kajaanissa` / `kajaanilainen` / `otanmäki` / `vuolijoki`, each with its opening post. 109 are `valid` (about Kajaani); 54 more are `valid: false` with `kajaani_in_overview: true` and are the ones worth reviewing by hand. |
+| `data/kajaani-cases.json` | All 109 Kajaani threads crawled in full — 2 749 messages, 785 distinct authors, 1 351 links, 682 images, spanning 2007-08-14 → 2026-07-10. |
+
+Every thread's haul matches phpBB's own post total, so nothing is truncated.
+Two posts have empty `text` because they contain only an image; both keep their
+`images` entry.
+
+Still to do: review the `valid` / `reasoning` pairs, decide which threads are
+*specific homicide cases* (the crawl deliberately does not), and derive
+`data/cases.js` records with coordinates from them. `data/cases.js` is still the
+fictional demo dataset.
+
+> **Before merging to `main`:** `publish_dir: .` in the deploy workflow means
+> anything committed under `data/` is served publicly at
+> `https://allutinn.github.io/Homicidemap/`. That would republish 2 749 forum
+> posts — including named suspects, victims and pseudonymous posters — under a
+> different domain than the one they were written for. Worth an explicit
+> decision about what belongs in the published payload before it ships.
 
 ## How it works
 

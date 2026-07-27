@@ -79,8 +79,13 @@ const extractPosts = (document) =>
     return {
       post_id: post.getAttribute("id")?.replace(/^p/, "") ?? null,
       permalink: null, // filled below, needs the topic link
+      // `.username` must be tried on its own first: a comma-separated selector
+      // resolves in document order, and for posters with an avatar the empty
+      // `a.avatar` precedes the username link and would win.
       author: clean(
-        post.querySelector(".postprofile .username, .postprofile a")?.textContent
+        post.querySelector(".postprofile .username")?.textContent ||
+          post.querySelector("p.author .username")?.textContent ||
+          post.querySelector(".postprofile a:not(.avatar)")?.textContent
       ),
       date: post.querySelector("p.author time")?.getAttribute("datetime") ?? null,
       date_text: clean(post.querySelector("p.author time")?.textContent),
