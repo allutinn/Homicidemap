@@ -22,7 +22,10 @@ html, body {
 .topbar {
   position: fixed;
   top: 0; left: 0; right: 0;
-  z-index: 1100;
+  /* Above the sheet's backdrop (1200), below the sheet itself (1300): the
+     language toggle has to stay usable while a case is open, which is exactly
+     when someone is reading text they may want in the other language. */
+  z-index: 1250;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -40,6 +43,25 @@ html, body {
   font-size: 11px;
   color: var(--grey);
   letter-spacing: 0.1em;
+  margin-left: auto; /* count and language sit together on the right */
+}
+.lang-toggle {
+  margin-left: 12px;
+  padding: 3px 8px;
+  font: inherit;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  color: var(--grey);
+  background: none;
+  border: 1px solid var(--line);
+  border-radius: 3px;
+  cursor: pointer;
+}
+.lang-toggle:hover,
+.lang-toggle:focus-visible {
+  color: #fff;
+  border-color: #fff;
 }
 
 /* ---- Map ---- */
@@ -294,3 +316,14 @@ html, body {
   transition: opacity 0.18s ease;
 }
 .sheet-toast.visible { opacity: 1; }
+
+/* The lead: what happened, before the full account. Set apart so the sheet
+   answers the question at a glance and the detail is there if wanted. */
+.sheet-lead {
+  font-size: 15px;
+  line-height: 1.5;
+  color: #fff;
+  border-left: 2px solid #fff;
+  padding-left: 12px;
+  margin-bottom: 14px;
+}

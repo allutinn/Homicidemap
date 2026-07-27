@@ -177,7 +177,7 @@ The large exclusions are deliberate. Threads titled "tapon yritys" and
 *"ei epäillä rikosta"* are not homicides however grim the outcome.
 
 **2. What does the thread say?** Each of the 26 confirmed cases was then read in
-full to produce `data/kajaani-homicides.json`: a one-page overview, victims,
+full to produce `data/kajaani-homicides.json`: an overview, victims,
 suspects, and **every location the thread offers** — 115 in all — each with its
 source message permalink, the verbatim quote, its precision (address / street /
 district / town) and how well it is supported (police, news, forum claim,
@@ -186,6 +186,23 @@ rumour).
 Sourcing tiers are kept apart throughout. Names are marked `court_or_news` or
 `forum_claim`; 18 of the 26 cases have a named victim, but only 7 of those names
 come from a court or a news report rather than from posters.
+
+**3. Two overviews, two languages.** Every case's `overview` is
+`{ fi, en }`, and each language has two parts:
+
+| Part | What it is |
+| --- | --- |
+| `lead` | ~40-70 words. What happened, who it happened to, and how it ended. Written to stand alone: this is all most readers will get through. |
+| `detail` | ~230-450 words. The full account, including which claims are court or news reporting and which are forum talk. Paragraph breaks (`\n\n`) are rendered as paragraphs. |
+
+Finnish is the site's default language — these are Finnish cases described in
+Finnish sources — and the map has a language toggle in the top bar. A case's
+other fields (`outcome`, location `detail`, the descriptions of victims and
+suspects) are still carried in the language they were extracted in and are
+shown unchanged in both modes.
+
+`scripts/build-cases.mjs` fails the build if any of the four texts is missing,
+so a case can never reach the map with a blank overview in one language.
 
 ## Building the map dataset
 
@@ -237,6 +254,9 @@ next to the coordinates, so a rumoured address never looks like a police one.
   collapse, or close it.
 - `data/cases.js` — the generated dataset. Each record carries `coords` plus
   `coords_precision` / `coords_credibility` (how exact and how well-supported
-  the marker is), `summary`, `victims[]`, `suspects[]`, `locations[]` and
-  `sources[]`. The bottom sheet renders each name and place with a tag showing
-  whether it came from a court/news report or from a forum poster.
+  the marker is), a bilingual `summary` (`{fi,en}` each with `lead` and
+  `detail`), `victims[]`, `suspects[]`, `locations[]` and `sources[]`. The
+  bottom sheet renders each name and place with a tag showing whether it came
+  from a court/news report or from a forum poster. `status` and `coords_note`
+  are keys rather than rendered words, so the UI can label them in either
+  language.
