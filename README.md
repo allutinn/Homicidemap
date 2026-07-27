@@ -34,6 +34,29 @@ Alternatively, enable **GitHub Pages** for this repository
 (Settings → Pages → deploy from branch, root folder) and open the published
 URL directly on the phone — no server needed.
 
+## Preview it with Playwright
+
+A Playwright script opens the app in a mobile-sized Chromium, taps a marker,
+and captures screenshots — useful for checking layout without a phone.
+
+```sh
+npm install                 # installs playwright (pinned to 1.56.1)
+npm run serve &             # or: python3 -m http.server 8000
+npm run preview             # screenshots -> screenshots/
+npm run preview -- --tiles  # use real OSM tiles instead of placeholders
+```
+
+The Playwright CLI is also available directly for one-off checks:
+
+```sh
+npx playwright screenshot --viewport-size=390,844 http://localhost:8000 shot.png
+npx playwright open --viewport-size=390,844 http://localhost:8000   # interactive
+npx playwright codegen http://localhost:8000                        # record actions
+```
+
+> Map tiles are stubbed with a placeholder grid by default, so previews also
+> work on networks that block tile servers. Pass `--tiles` for the real map.
+
 ## How it works
 
 - `index.html` — single page: header, full-screen map, and a hidden bottom sheet.

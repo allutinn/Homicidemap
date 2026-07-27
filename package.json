@@ -1,0 +1,13 @@
+{
+  "name": "homicidemap",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Mobile-first black & white map with in-page case overview sheet",
+  "scripts": {
+    "serve": "python3 -m http.server 8000",
+    "preview": "node scripts/preview.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.56.1"
+  }
+}
