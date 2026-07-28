@@ -32,7 +32,7 @@ if (NEXT) {
     console.error(`Unknown stage "${NEXT}". Known: ${STAGES.join(", ")}`);
     process.exit(2);
   }
-  const next = readyFor(state, plan, NEXT)[0];
+  const next = readyFor(state, plan, NEXT, SHARDS)[0];
   // Exit 1 with no output when the queue is empty, so a scheduled job can
   // simply stop rather than run a stage against nothing.
   if (!next) process.exit(1);
@@ -50,7 +50,7 @@ if (flag("json")) {
         plan_topics: plan.batches.reduce((a, b) => a + b.topic_count, 0),
         updated_at: state.updated_at,
         progress: rows,
-        next: Object.fromEntries(STAGES.map((s) => [s, readyFor(state, plan, s)[0]?.id ?? null])),
+        next: Object.fromEntries(STAGES.map((s) => [s, readyFor(state, plan, s, SHARDS)[0]?.id ?? null])),
       },
       null,
       2
@@ -78,7 +78,7 @@ for (const r of rows) {
 
 console.log("\nnext up:");
 for (const stage of STAGES) {
-  const next = readyFor(state, plan, stage);
+  const next = readyFor(state, plan, stage, SHARDS);
   console.log(
     `  ${stage.padEnd(9)} ${next.length ? `batch ${next[0].id} (${next.length} queued)` : "— queue empty"}`
   );

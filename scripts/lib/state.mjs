@@ -68,17 +68,36 @@ export const shardPresent = (state, batchId, shardsDir) => {
 export const orphanedCrawls = (state, plan, shardsDir) =>
   plan.batches.filter((b) => stageDone(state, b.id, "crawl") && !shardPresent(state, b.id, shardsDir));
 
+/** Stages that read the crawled posts, and so need the shard on this machine. */
+const NEEDS_SHARD = new Set(["classify", "extract"]);
+
 /**
  * The batches ready for `stage`: the previous stage is done (or this is the
  * first stage) and this one is not. Returned in plan order, so the queue is
  * drained front to back and progress is a simple prefix of the plan.
+ *
+ * Pass `shardsDir` and the queue also accounts for data that is not on this
+ * machine. State travels through git; shards do not. A scheduled run starting
+ * from a fresh checkout sees "crawl: done" for batches whose posts exist
+ * nowhere it can reach, and without this it would queue them for a review that
+ * has nothing to read. Instead the crawl queue reclaims them and the review
+ * queues skip them until their shard is back.
+ *
+ * `map` is deliberately not in NEEDS_SHARD: it builds from the extracted case
+ * records, which are committed, so it works long after the posts are gone.
  */
-export const readyFor = (state, plan, stage) => {
+export const readyFor = (state, plan, stage, shardsDir = null) => {
   const i = STAGES.indexOf(stage);
   const previous = i > 0 ? STAGES[i - 1] : null;
-  return plan.batches.filter(
-    (b) => !stageDone(state, b.id, stage) && (!previous || stageDone(state, b.id, previous))
-  );
+
+  return plan.batches.filter((b) => {
+    if (stage === "crawl")
+      return !stageDone(state, b.id, "crawl") || (shardsDir && !shardPresent(state, b.id, shardsDir));
+    if (stageDone(state, b.id, stage)) return false;
+    if (previous && !stageDone(state, b.id, previous)) return false;
+    if (shardsDir && NEEDS_SHARD.has(stage) && !shardPresent(state, b.id, shardsDir)) return false;
+    return true;
+  });
 };
 
 /** Per-stage counts, for status reporting. */

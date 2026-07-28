@@ -159,5 +159,5 @@ for (const batch of queue) {
   );
 }
 
-const remaining = readyFor(state, plan, "crawl").length;
+const remaining = readyFor(state, plan, "crawl", SHARDS).length;
 console.log(`\n${remaining} batch(es) still to crawl.`);
