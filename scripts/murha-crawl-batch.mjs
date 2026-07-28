@@ -27,7 +27,7 @@ import { gzipSync } from "node:zlib";
 import { join } from "node:path";
 import { arg, flag, sleep } from "./lib/forum.mjs";
 import { crawlThread } from "./lib/thread.mjs";
-import { loadState, saveState, recordStage, readyFor } from "./lib/state.mjs";
+import { loadState, saveState, recordStage, readyFor, shardPresent } from "./lib/state.mjs";
 
 const PLAN = arg("plan", "data/batch-plan.json");
 const INDEX = arg("index", "data/forum-index.json");
@@ -57,7 +57,19 @@ if (ONLY) {
   }
   queue = [batch];
 } else {
-  queue = readyFor(state, plan, "crawl").slice(0, COUNT);
+  // A recorded crawl whose shard is missing is not a crawl. This is the normal
+  // case for CI picking up state committed from a local run: the entry is
+  // there, the posts are not, so the batch is crawled again rather than skipped.
+  const pending = plan.batches.filter(
+    (b) => !state.batches[b.id]?.crawl?.at || !shardPresent(state, b.id, SHARDS)
+  );
+  const readopted = pending.filter((b) => state.batches[b.id]?.crawl?.at);
+  if (readopted.length)
+    console.log(
+      `${readopted.length} batch(es) recorded as crawled but missing their shard ` +
+        `in ${SHARDS} — re-crawling: ${readopted.map((b) => b.id).join(", ")}`
+    );
+  queue = pending.slice(0, COUNT);
 }
 
 if (!queue.length) {

@@ -17,10 +17,11 @@
  */
 import { readFile } from "node:fs/promises";
 import { arg, flag } from "./lib/forum.mjs";
-import { loadState, readyFor, progress, STAGES } from "./lib/state.mjs";
+import { loadState, readyFor, progress, orphanedCrawls, STAGES } from "./lib/state.mjs";
 
 const PLAN = arg("plan", "data/batch-plan.json");
 const STATE = arg("state", "data/pipeline-state.json");
+const SHARDS = arg("shards", "crawl/threads");
 const NEXT = arg("next", null);
 
 const plan = JSON.parse(await readFile(PLAN, "utf8"));
@@ -89,3 +90,13 @@ const short = Object.entries(state.batches)
   .filter(([, b]) => b.crawl?.incomplete?.length)
   .map(([id, b]) => `${id} (${b.crawl.incomplete.length})`);
 if (short.length) console.log(`\nbatches with incomplete threads: ${short.join(", ")}`);
+
+// State travels through git; shards do not. Say so plainly rather than letting
+// the bars above imply data that is not on this machine.
+const orphans = orphanedCrawls(state, plan, SHARDS);
+if (orphans.length)
+  console.log(
+    `\n${orphans.length} batch(es) recorded as crawled but with no shard in ${SHARDS}: ` +
+      `${orphans.map((b) => b.id).join(", ")}\n` +
+      `  They will be crawled again. If the shards exist elsewhere, point --shards at them.`
+  );

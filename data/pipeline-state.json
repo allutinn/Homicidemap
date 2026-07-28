@@ -1,10 +1,41 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-07-28T12:30:00.277Z",
   "stages": [
     "crawl",
     "classify",
     "extract",
     "map"
   ],
-  "batches": {}
+  "batches": {
+    "001": {
+      "crawl": {
+        "at": "2026-07-28T11:22:59.820Z",
+        "shard": "crawl/threads/batch-001.json.gz",
+        "topics": 3,
+        "messages": 3686,
+        "bytes": 1361952,
+        "incomplete": []
+      }
+    },
+    "002": {
+      "crawl": {
+        "at": "2026-07-28T11:49:48.168Z",
+        "shard": "crawl/threads/batch-002.json.gz",
+        "topics": 1,
+        "messages": 9507,
+        "bytes": 3136316,
+        "incomplete": []
+      }
+    },
+    "003": {
+      "crawl": {
+        "at": "2026-07-28T12:30:00.277Z",
+        "shard": "crawl/threads/batch-003.json.gz",
+        "topics": 24,
+        "messages": 8032,
+        "bytes": 3010091,
+        "incomplete": []
+      }
+    }
+  }
 }
