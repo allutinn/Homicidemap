@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T17:57:05.721Z",
+  "updated_at": "2026-07-28T20:33:01.949Z",
   "stages": [
     "crawl",
     "classify",
@@ -69,15 +69,15 @@
         "note": "28 single homicides, 8 multi-incident, 1 other crime, 1 no crime established"
       },
       "extract": {
-        "at": "2026-07-28T17:57:05.575Z",
-        "cases": 4,
-        "pending": 24,
-        "note": "4 of 28 confirmed cases extracted so far"
+        "at": "2026-07-28T20:33:01.812Z",
+        "cases": 10,
+        "pending": 18,
+        "note": "10 of 28 confirmed cases extracted (4 by hand, 6 via haiku+opus workflow)"
       },
       "map": {
-        "at": "2026-07-28T17:57:05.720Z",
-        "markers": 4,
-        "note": "33 cases on the map"
+        "at": "2026-07-28T20:33:01.949Z",
+        "markers": 10,
+        "note": "39 cases on the map"
       }
     }
   }

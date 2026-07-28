@@ -180,6 +180,36 @@ const geocode = async (loc, { municipality, viewbox }) => {
     for (const name of parts[0].split(/\s*[/&]\s*|\s+ja\s+/))
       queries.push(`${name.trim()}, ${municipality}`);
   }
+  // …and then the same again with Finnish case endings taken off.
+  //
+  // Labels do not always arrive as gazetteer strings. Finnish names a place by
+  // inflecting it — "Helsingin Myllypurossa", "Kauppakartanonkadulla",
+  // "Vihdin Tervalammen kylässä" — and Nominatim knows Myllypuro and
+  // Kauppakartanonkatu but none of those forms. Stripping the endings will not
+  // undo consonant gradation, so it is a widening of the search rather than
+  // proper morphology: the type and district guards still decide what is
+  // acceptable, so a bad de-inflection loses a candidate instead of misplacing
+  // a marker.
+  for (const q of [...queries]) {
+    const plain = q
+      .split(/\s*,\s*/)
+      .map((seg) =>
+        seg
+          .split(/\s+/)
+          .map((w) =>
+            w.replace(
+              /(ssa|ssä|sta|stä|lla|llä|lta|ltä|lle|ksi|neen|ineen|ien|ssaan|llaan)$/i,
+              ""
+            )
+          )
+          .filter((w) => !/^(kylä|kylässä|rannalla|rannassa|alueella|luona|lähellä|kaupunginosassa)$/i.test(w))
+          .join(" ")
+          .trim()
+      )
+      .filter(Boolean)
+      .join(", ");
+    if (plain && plain !== q) queries.push(plain);
+  }
 
   for (const q of [...new Set(queries)]) {
     const typed = (await search(q, viewbox)).filter((r) => typeOk(loc.precision, r));

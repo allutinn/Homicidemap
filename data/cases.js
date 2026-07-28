@@ -4270,5 +4270,703 @@ const CASES = [
       "https://murha.info/rikosfoorumi/viewtopic.php?p=2239#p2239"
     ],
     "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=206"
+  },
+  {
+    "id": 34,
+    "topic_id": "199",
+    "title": "Martti ja Elise Heinon murhat, Loppi 24.8.2001",
+    "coords": [
+      60.7173615,
+      24.4414178
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "fallback",
+    "coords_label": null,
+    "coords_note": "fallback",
+    "coords_resolved": null,
+    "date": "2001-08-24",
+    "date_note": "24 August 2001; the thread title gives the date as \"24.8.2001\".",
+    "status": "solved",
+    "outcome": "Riihimäki District Court convicted all four defendants of the murders on 26 June 2002: Markus Aarre Walter Österman (18 at the time of the killings) was sentenced to life imprisonment; Saku Pyry Salo (16) to 13 years; Jani Petteri Pesola (17) to 12 years; and Sampsa Valtteri Mäntylä (17) to 12 years. Salo, Pesola and Mäntylä were convicted of two murders and two aggravated robberies. Kouvola Court of Appeal upheld the convictions in 2003. The three perpetrators who had been under 18 at the time of the crime were released on parole in early October 2006 after serving slightly over five years. Österman remained in prison; President Tarja Halonen rejected his pardon application on 18 February 2008.",
+    "location": "Where the bodies of Martti and Elise Heino were dumped in the sea in hockey bags after the killing",
+    "municipality": "Loppi",
+    "summary": {
+      "fi": {
+        "lead": "Yrittäjä Martti Heino ja hänen vaimonsa Elise Heino houkuteltiin 24. elokuuta 2001 alkuillasta syrjäiselle kesämökille Lopen Läyliäisiin tekaistun liiketapaamisen varjolla. Molemmat ammuttiin väijytyksestä, ja ruumiit upotettiin mereen jääkiekkokasseissa Espoon Suvisaaristossa. Neljä nuorta miestä tuomittiin murhista Riihimäen käräjäoikeudessa kesäkuussa 2002, päätekijä elinkautiseen vankeuteen.",
+        "detail": "Oikeuden käsittelyyn ja uutisointiin perustuvien tietojen mukaan Martti ja Elise Heino houkuteltiin 24. elokuuta 2001 alkuillasta syrjäiselle kesämökille Lopen Läyliäisiin. Verukkeena oli liiketapaaminen, joka liittyi matkapuhelinten kauppaan. Motiivina oli aseellinen ryöstö: tekijöiden tarkoituksena oli saada uhreilta haltuunsa suuri rahasumma.\n\nMartti Heino ammuttiin ensin väijytyksestä. Ampujalla oli pienikaliiperinen kivääri, jossa oli kiikaritähtäin ja äänenvaimennin. Elise Heino ehti hyökkäyksen aikana soittaa hätäkeskukseen ja kertoa miehensä tulleen ammutuksi, mutta ampuja surmasi myös hänet, vaikka hän rukoili armoa. Tapahtumapaikaksi kerrotaan lähteissä Lopen Läyliäiset, mutta tarkempaa sijaintia mökille ei ketjussa anneta, joten kartan merkintä osoittaa vain alueen.\n\nEsitutkinnan ja oikeudenkäynnin perusteella murhien pääsuunnittelija oli tuolloin 18-vuotias Markus Aarre Walter Österman. Hän järjesti mökin rikospaikaksi, ohjasi uhrit sinne ja piti surmien aikana puhelinyhteyttä ampujaan varmistaakseen väijytyksen onnistumisen. Hän oli myös mukana upottamassa ruumiita mereen jääkiekkokasseissa Espoon Suvisaaristossa. Tuolloin 16-vuotias Saku Pyry Salo oli yksi ampujista ja houkutteli uhrit polkua pitkin väijytykseen; 17-vuotiaat Jani Petteri Pesola ja Sampsa Valtteri Mäntylä osallistuivat uhrien houkutteluun ja surmiin.\n\nRiihimäen käräjäoikeus tuomitsi 26. kesäkuuta 2002 Östermanin elinkautiseen vankeuteen, Salon 13 vuodeksi sekä Pesolan ja Mäntylän kummankin 12 vuodeksi vankeuteen. Salo, Pesola ja Mäntylä tuomittiin kahdesta murhasta ja kahdesta törkeästä ryöstöstä. Kouvolan hovioikeus pysytti tuomiot vuonna 2003. Rikoksentekohetkellä alaikäiset Salo, Pesola ja Mäntylä vapautuivat ehdonalaiseen lokakuun alussa 2006 kärsittyään runsaat viisi vuotta. Österman jäi vankilaan, ja presidentti Tarja Halonen hylkäsi hänen armahdushakemuksensa 18. helmikuuta 2008.\n\nTapausta on pidetty yhtenä Suomen rikoshistorian suunnitelmallisimmista ja kylmäverisimmistä henkirikoksista: tekijöitä kuvattiin tavallisiksi, hyvistä espoolaisperheistä Mankkaalta tulleiksi nuoriksi miehiksi, joilla ei tiedetty olevan vakavaa rikostaustaa. Foorumin keskustelijoiden kertomana – ei siis oikeuslähteenä – ketjussa mainitaan lisäksi, että Salo oli koulussa hiljainen ja huomaamaton oppilas, että tapauksesta on julkaistu kirja \"Totuus Heinojen murhista\" (kustantajana Frederick Neumann, kirjoittajana Tony Latva) ja että vuoden 2005 elokuva \"Game Over\" pohjautui löyhästi Heinojen murhiin mutta otti tapahtumiin nähden huomattavia vapauksia."
+      },
+      "en": {
+        "lead": "Businessman Martti Heino and his wife Elise Heino were lured to a remote summer cottage in Läyliäinen, Loppi, in the early evening of 24 August 2001 under the pretext of a business meeting. Both were shot from ambush and their bodies were sunk in the sea in hockey bags off Suvisaaristo in Espoo. Four young men were convicted of the murders in June 2002; the main planner received life imprisonment.",
+        "detail": "According to court proceedings and news reporting, Martti and Elise Heino were lured to a remote summer cottage in Läyliäinen, Loppi, in the early evening of 24 August 2001. The pretext was a business meeting connected to the sale of mobile phones. The motive was armed robbery: the perpetrators intended to obtain a large sum of money from the victims.\n\nMartti Heino was shot first, from ambush, by a shooter armed with a small-calibre rifle fitted with a telescopic sight and a silencer. During the attack Elise Heino called the emergency number and reported that her husband had been shot, but the shooter then killed her as well, despite her pleading for mercy. The sources locate the killings at Läyliäinen in Loppi, but the thread gives no more precise position for the cottage, so the map marker indicates only the general area.\n\nThe investigation and trial established that the principal planner was Markus Aarre Walter Österman, then 18. He arranged the cottage as the crime scene, guided the victims there, and stayed in phone contact with the shooter during the killings to confirm that the ambush had succeeded. He also took part in sinking the bodies in the sea in hockey bags off Suvisaaristo in Espoo. Saku Pyry Salo, then 16, was one of the shooters and lured the victims down a path into the ambush; Jani Petteri Pesola and Sampsa Valtteri Mäntylä, both 17, took part in luring the victims and in the killings.\n\nOn 26 June 2002 Riihimäki District Court sentenced Österman to life imprisonment, Salo to 13 years, and Pesola and Mäntylä to 12 years each. Salo, Pesola and Mäntylä were convicted of two murders and two aggravated robberies. Kouvola Court of Appeal upheld the convictions in 2003. Salo, Pesola and Mäntylä, who had been minors at the time of the crime, were released on parole in early October 2006 after serving slightly over five years. Österman remained imprisoned, and President Tarja Halonen rejected his pardon application on 18 February 2008.\n\nThe case has been described as one of the most premeditated and cold-blooded homicides in Finnish criminal history: the perpetrators were characterised as ordinary young men from affluent families in the Mankkaa district of Espoo, with no known serious criminal background. As forum discussion rather than court or news material, the thread also states that Salo was a withdrawn, quiet pupil who went unnoticed at school, that a book titled \"Totuus Heinojen murhista\" was published by Frederick Neumann with author Tony Latva, and that the 2005 film \"Game Over\" was loosely based on the Heino murders but took significant fictional liberties."
+      }
+    },
+    "victims": [
+      {
+        "name": "Martti Heino",
+        "description": "Businessman, shot first during the ambush at the cottage in Loppi",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=88282#p88282",
+          "https://murha.info/rikosfoorumi/viewtopic.php?t=199"
+        ]
+      },
+      {
+        "name": "Elise Heino",
+        "description": "Wife of Martti Heino, called emergency services while husband was shot, then killed despite pleading for mercy",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=88282#p88282",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=88444#p88444"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Markus Aarre Walter Österman",
+        "description": "18 years old at time of killing; main planner of the murders; organized the cottage meeting, arranged the ambush, stayed in phone contact during the killing, participated in dumping bodies",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=88282#p88282",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=516436#p516436"
+        ]
+      },
+      {
+        "name": "Saku Pyry Salo",
+        "description": "16 years old at time of killing; one of the shooters; lured victims down path to ambush; convicted of two murders and two aggravated robberies",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=88282#p88282",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=516436#p516436"
+        ]
+      },
+      {
+        "name": "Jani Petteri Pesola",
+        "description": "17 years old at time of killing; participated in luring victims and the killing; convicted of two murders and two aggravated robberies",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=88282#p88282",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=516436#p516436"
+        ]
+      },
+      {
+        "name": "Sampsa Valtteri Mäntylä",
+        "description": "17 years old at time of killing; participated in luring victims and the killing; convicted of two murders and two aggravated robberies",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=88282#p88282",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=516436#p516436"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Espoon Suvisaaristossa, Espoo",
+        "detail": "Where the bodies of Martti and Elise Heino were dumped in the sea in hockey bags after the killing",
+        "quote": "Hän oli mukana upottamassa ruumiita mereen jääkiekkokasseissa Espoon Suvisaaristossa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=88282#p88282",
+        "precision": "area",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Riihimäki District Court, Riihimäki",
+        "detail": "First instance court that convicted all four perpetrators on 26 June 2002",
+        "quote": "26. kesäkuuta 2002 Riihimäen käräjäoikeus: Markus Aarre Walter Österman, 18, elinkautinen vankeustuomio Saku Pyry Salo, 16, 13 vuotta vankeutta. 17-vuotiaat Jani Petteri Pesola, 17, 12 vuotta vankeutta Sampsa Valtteri Mäntylä, 17, 12 vuotta vankeutta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=516436#p516436",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kouvolan Court of Appeal, Kouvola",
+        "detail": "Appellate court that upheld convictions in 2003",
+        "quote": "Alibissa 2/03 oli artikkeli asian käsittelystä Kouvolan hovioikeudessa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=59692#p59692",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=88282#p88282",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=516436#p516436",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=3360#p3360",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=2312#p2312",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=3159#p3159",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=2160#p2160"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=199"
+  },
+  {
+    "id": 35,
+    "topic_id": "235",
+    "title": "Tuija Miettisen surma, Kuopio 27.6.1994",
+    "coords": [
+      62.8372896,
+      27.6368174
+    ],
+    "coords_precision": "address",
+    "coords_credibility": "official",
+    "coords_label": "Kulmakatu 1, Petosella, Kuopio",
+    "coords_note": null,
+    "coords_resolved": "1A, Kulmakatu, Petonen, Kuopio, Kuopion seutukunta, Pohjois-Savo, Manner-Suomi, 70821, Suomi / Finland",
+    "date": "1994-06-27",
+    "date_note": "June 27, 1994, late evening, around 11 PM local time",
+    "status": "unsolved",
+    "outcome": "No one has been charged or convicted. Police identified and investigated several suspects, including one man they regarded as probable, but the evidence was insufficient and no witnesses came forward. The case remains unsolved and, according to the reporting cited in the thread, is still under investigation decades later.",
+    "location": "The victim's apartment where she was shot and the building where the fire was set",
+    "municipality": "Kuopio",
+    "summary": {
+      "fi": {
+        "lead": "Kuopion Petosella Kulmakatu 1:ssä syttyi maanantai-iltana 27.6.1994 hieman kello 23:n jälkeen asuntopalo. Tuhoutuneesta asunnosta löytyi pahoin palanut naisen ruumis, joka tunnistettiin vuonna 1966 syntyneeksi Tuija Marketta Miettiseksi. Poliisin mukaan nainen oli ammuttu ja palo sytytetty henkirikoksen peittämiseksi. Ketään ei ole tuomittu, ja tapaus on yhä selvittämättä.",
+        "detail": "Uutistietoihin perustuvien tietojen mukaan Kuopion palokunta hälytettiin Petoselle Kulmakatu 1:een maanantai-iltana 27.6.1994 kello 23:n jälkeen. Tuhoutuneesta asunnosta löytyi pahoin palaneen, kolmekymppisen naisen ruumis. Poliisi totesi tutkinnassa, että palo oli sytytetty henkirikoksen kätkemiseksi ja peittämiseksi. Uhrin henkilöllisyys varmistui keskiviikkona 29. kesäkuuta: kyseessä oli vuonna 1966 syntynyt Tuija Marketta Miettinen, 28-vuotias kahvilatyöntekijä, jota kutsuttiin myös lempinimellä \"Tupu\". Uutistietojen mukaan hänet oli ammuttu ennen kuin palo sytytettiin todisteiden tuhoamiseksi.\n\nTapahtumailtaa on rekonstruoitu palon tutkijoiden tietojen pohjalta. Tutkijat selvittivät, että tapahtumiin liittyi noin 30-vuotias, 170-senttinen vaalea ja hoikka nainen, joka oli mahdollisesti noussut Kuopion yliopistollisen sairaalan bussipysäkiltä Petoselle liikennöivään paikallisbussiin samana iltana kello 22:n aikoihin. Naapurit kuulivat asunnosta tappelun ääniä ja naisen huutoa pian kello 23:n jälkeen. Jonkun havaittiin poistuvan asunnosta kello 23.20, ja palokunta hälytettiin kello 23.27; tapahtumien kulkuun jää näin 30–40 minuutin epävarma jakso. Asunnosta katosi murhan jälkeen lompakko, jossa oli 8 000 markkaa.\n\nEpäillyistä kerrottua on syytä erotella. Uutislähteisiin nojaavan tiedon mukaan poliisilla oli todennäköinen epäilty, mutta näyttö häntä vastaan ei riittänyt syytteisiin, ja poliisi tutki useita epäiltyjä, joilla kaikilla oli alibi tai joiden osalta asia jäi muuten selvittämättä. Foorumikeskustelussa esitettyjen väitteiden mukaan epäilty olisi ollut pienikokoinen, noin 163–165-senttinen hoikka mies, huumepiireissä liikkunut ja mahdollisesti uhrin entinen poikaystävä; nimeä ei tässä toisteta. Samoin foorumipuheena — ei viranomaistietona — on esitetty, että Miettinen käytti amfetamiinia ja heroiinia ja että hänellä oli noin 7 000 markan huumevelkoja, sekä huhu, jonka mukaan paikalta olisi ennen paloa nähty poistuvan kaksi hyvinpukeutunutta venäjää puhunutta miestä. Nämä ovat vahvistamattomia väitteitä.\n\nKarttamerkki on uhrin asunnon osoitteessa Kulmakatu 1:ssä Petosella, joka on myös surmapaikka. Kukaan ei ole saanut syytettä, ja uutistietojen mukaan tapaus on Kuopion pisimpään auki ollut henkirikos, jota poliisi tutkii yhä vuosikymmeniä myöhemmin."
+      },
+      "en": {
+        "lead": "Late on Monday evening, 27 June 1994, fire crews were called to an apartment fire at Kulmakatu 1 in the Petonen district of Kuopio. The badly burned body of a woman was found in the destroyed flat and identified as Tuija Marketta Miettinen, born 1966. Police concluded she had been shot and the fire set to conceal the killing. No one has ever been charged.",
+        "detail": "According to news reporting cited in the thread, the Kuopio fire brigade was called to Kulmakatu 1 in Petonen on Monday evening, 27 June 1994, shortly after 11 PM. Inside the destroyed apartment lay the badly burned body of a woman in her thirties. Investigators determined that the fire had been set deliberately to hide and cover up a homicide. On Wednesday 29 June the victim was identified as Tuija Marketta Miettinen, born 1966, aged 28, who worked in a cafe and was also known as \"Tupu\". News accounts state that she was shot before the fire was set to destroy evidence.\n\nThe evening was partly reconstructed by fire investigators. They established that the events involved a woman of about 30, around 170 cm tall, blonde and slim, who may have boarded a local bus to Petonen from the Kuopio University Hospital bus stop at around 10 PM that same evening. Neighbours heard sounds of fighting and a woman screaming from the apartment shortly after 11 PM. Someone was observed leaving the flat at 11:20 PM and the fire brigade was alerted at 11:27 PM, leaving a 30 to 40 minute window over which the sequence of events is uncertain. A wallet containing 8,000 marks was missing from the apartment afterwards.\n\nThe claims about suspects need to be kept apart by source. Reporting-based material says police had a probable suspect but that the evidence against him was insufficient to prosecute, and that police investigated several suspects who either had alibis or whose involvement could not be resolved. Forum posters, not court or news sources, describe the suspected perpetrator as a small, thin man of roughly 163 to 165 cm who moved in drug circles and may have been the victim's ex-boyfriend; his name is not repeated here. Also forum talk only are the assertions that Miettinen used amphetamine and heroin and owed around 7,000 marks in drug debts, and a rumour that two well-dressed men speaking Russian were seen leaving the scene before the fire. None of that is confirmed.\n\nThe map marker sits at the victim's apartment address, Kulmakatu 1 in Petonen, which is also the site of the killing. No one has been charged, and according to the reporting quoted in the thread this is Kuopio's longest-running unsolved homicide, still under police investigation decades later."
+      }
+    },
+    "victims": [
+      {
+        "name": "Tuija Miettinen",
+        "description": "Born 1966, also called 'Tupu'. 28 years old at time of death. Worked in a cafe. Had a history of shoplifting. Used amphetamine and heroin. Owed approximately 7000 mk in drug debts.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=41456#p41456",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=875301#p875301",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1765760#p1765760"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Unknown male suspect",
+        "description": "Small, thin man of approximately 163-165 cm height, drug user, possibly Tuija's ex-boyfriend. Had a distinctive nickname. Police regarded him as a probable suspect but evidence was insufficient.",
+        "status": "suspected",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=81101#p81101",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1010837#p1010837"
+        ]
+      },
+      {
+        "name": "Russian nationals (unconfirmed)",
+        "description": "Rumor that two well-dressed Russian men speaking Russian were seen leaving the scene before the fire. Possibly related to debt collection in drug circles. Mentioned only as hearsay.",
+        "status": "suspected",
+        "support": "forum_claim",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=83303#p83303",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=410586#p410586"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Kulmakatu 1, Petosella, Kuopio",
+        "detail": "The victim's apartment where she was shot and the building where the fire was set",
+        "quote": "Kuopion palokunta hälytettiin Petoselle Kulmakatu 1:een maanantai-iltana kello 23:n jälkeen.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=41456#p41456",
+        "precision": "address",
+        "credibility": "official",
+        "used_for_marker": true
+      },
+      {
+        "label": "Petosella, Kuopio",
+        "detail": "The district in Kuopio where the murder occurred, known as a troubled area in the 1990s with frequent violent incidents",
+        "quote": "Kuopion Petosella maanantai-iltana sattuneen asuntopalon epäillään liittyvän henkirikokseen.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=41456#p41456",
+        "precision": "district",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kuopion yliopistollisen sairaalan bussipysäkki, Kuopio",
+        "detail": "Hospital bus stop from which the victim departed around 10 PM on the evening of the murder",
+        "quote": "Palon tutkijat saivat selville, että että tapahtumiin liittyy noin 30-vuotias, 170-senttinen vaalea ja hoikka nainen, joka oli mahdollisesti lähtenyt Kuopion yliopistollisen sairaalan bussipysäkiltä Petoselle liikennöivään paikallisbussiin samana iltana kello 22:n aikoihin.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=41456#p41456",
+        "precision": "street",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Pyörönkaari, Petosella, Kuopio",
+        "detail": "Nearby area in Petosella where violent incidents also occurred; mentioned as a location with similar character to the murder site",
+        "quote": "Se että murha on tapahtunut Petosella ei yllätä hirveästi, sen verran levotonta aluetta on ja oli käsittääkseni vielä enemmän tuohon aikaan",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=41459#p41459",
+        "precision": "district",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Pyörönkaari 1, Petosella, Kuopio",
+        "detail": "Building from which fire department was called; resident had view of the fire scene",
+        "quote": "Myöhemmin kuulin että palohälytyksen oli tehnyt eräs Pyörönkaari 1 kerrostalon asukas jonka huoneistosta oli myös näkyvyys palopaikalle.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1010837#p1010837",
+        "precision": "address",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Sukevan vankila",
+        "detail": "Prison from which a caller demanded the victim obtain drugs, implying debt pressure from incarcerated individuals",
+        "quote": "Tuija sanoi soittajan soittavan Sukevan vankilasta sovitulla aikataululla",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=607766#p607766",
+        "precision": "town",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Puolustusvoimien varikkoa Neulaniemessä, Kuopio",
+        "detail": "Military facility where victim may have worked at some point",
+        "quote": "Korhonen muistelee, että Miettinen saattoi jossain vaiheessa jopa olla töissä Puolustusvoimien varikolla Neulaniemessä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1765760#p1765760",
+        "precision": "area",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=41456#p41456",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1765760#p1765760",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=979965#p979965",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=81101#p81101",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1011281#p1011281",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=83303#p83303"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=235"
+  },
+  {
+    "id": 36,
+    "topic_id": "227",
+    "title": "Päivi-Maria Hopiavuoren ja Tanja Johanna Pirisen murhat, Vihti 3.3.1989",
+    "coords": [
+      60.3290575,
+      24.4053633
+    ],
+    "coords_precision": "area",
+    "coords_credibility": "news",
+    "coords_label": "Tervalampi, Vihti",
+    "coords_note": null,
+    "coords_resolved": "Tervalampi, Vihti, Helsingin seutukunta, Uusimaa, Manner-Suomi, 03220, Suomi / Finland",
+    "date": "1989-03-03",
+    "date_note": "3.3.1989 on päivä, jona tytöt houkuteltiin pois kotipihaltaan ja surmattiin Siltavuoren mökillä Vihdissä.",
+    "status": "solved",
+    "outcome": "Antti Veikko Ilmari Siltavuori was convicted by the Helsinki District Court (Helsingin raastuvanoikeus) on 14 December 1989 of two murders committed while lacking full understanding, two counts of child abduction and other offences. He was sentenced to 15 years' imprisonment and to compulsory detention as a dangerous repeat offender. The Helsinki Court of Appeal (Helsingin hovioikeus) upheld the sentence on 28 June 1990. Siltavuori served roughly 11 years; on 31 January 2000 he was granted conditional release but was transferred immediately to the Niuvanniemi state psychiatric hospital in Kuopio for compulsory psychiatric care, where he remained until his death on 12 March 2012 at the age of 85.",
+    "location": "Siltavuori's dilapidated cottage at Tervalampi in Vihti, on the shore of Huhmarjärvi, where the two girls were killed. The thread gives the village but no address.",
+    "municipality": "Vihti",
+    "summary": {
+      "fi": {
+        "lead": "Kahdeksanvuotiaat Päivi-Maria Hopiavuori ja Tanja Johanna Pirinen leikkivät 3. maaliskuuta 1989 kotipihallaan Helsingin Myllypurossa, kun 62-vuotias Antti Veikko Ilmari Siltavuori houkutteli heidät autoonsa. Tytöt surmattiin Siltavuoren mökillä Vihdissä ja heidän ruumiinsa poltettiin. Siltavuori pidätettiin kaksi päivää myöhemmin ja tuomittiin joulukuussa 1989 kahdesta murhasta 15 vuodeksi vankeuteen ja pakkolaitokseen.",
+        "detail": "Oikeuden ja lehtitietojen mukaan kahdeksanvuotiaat Päivi-Maria Hopiavuori ja Tanja Johanna Pirinen olivat 3. maaliskuuta 1989 leikkimässä kotipihallaan Helsingin Myllypurossa, kun eläkeläismies Antti Veikko Ilmari Siltavuori sai heidät lähtemään autoonsa. Hopiavuoren äiti huolestui, kun tytöt eivät illaksi palanneet, ja soitti hätäkeskukseen noin kello 22.46.\n\nTytöt surmattiin Siltavuoren mökillä Vihdissä. Mökki sijaitsi lehtitietojen mukaan Vihdin Tervalammen kylässä Huhmarjärven rannalla, eli kartan merkki osuu itse surmapaikalle eikä pelkkään kuntaan. Siltavuori kertoi asettaneensa lasten ruumiit tynnyreihin, valelleensa ne bensiinillä ja polttaneensa ne; naapurit luulivat hänen polttavan roskia.\n\nPoliisitutkinta johti Siltavuoren asunnolle Kauppakartanonkadulle Itäkeskukseen, parin kilometrin päähän katoamispaikalta, ja hänet pidätettiin siellä 5. maaliskuuta 1989. Asunnosta löytyi virallisten tietojen mukaan muun muassa bensiinikanisteri, käsiraudat ja puukko, ja auton takakontista poltettuja jäänteitä, joiden joukossa oli uhrien hampaita. Tutkinnassa selvisi myös, että Siltavuori oli vuokrannut Kainuusta, Paltamon kunnan Mieslahden kylästä, maatilan ja rakentanut sinne kalteri-ikkunoita, sellejä ja pieniä käymälöitä; tilaa ei kuitenkaan käytetty Myllypuron tyttöjen kohdalla. Siltavuorella todettiin olevan aiempaa rikostaustaa: tuomioita alaikäisten tyttöjen raiskauksista, varkauksista ja murhan yrityksestä, ja hän oli aiemmin kärsinyt elinkautista, joka oli armahdettu.\n\nSiltavuori tuomittiin 14. joulukuuta 1989 Helsingin raastuvanoikeudessa kahdesta täyttä ymmärrystä vailla olevana tehdystä murhasta, kahdesta lapsenryöstöstä ja muista rikoksista 15 vuodeksi vankeuteen sekä pakkolaitokseen vaarallisena rikoksenuusijana. Helsingin hovioikeus pysytti tuomion 28. kesäkuuta 1990. Istuttuaan noin 11 vuotta hänet päästettiin 31. tammikuuta 2000 ehdonalaiseen, mutta hänet siirrettiin välittömästi pakkohoitoon valtion mielisairaalaan Kuopion Niuvanniemeen. Siltavuori, joka tunnettiin myös nimellä \"Jammu\" tai \"Jammu-setä\" ja oli syntynyt 29. lokakuuta 1926 Joensuussa, kuoli hoidossa 12. maaliskuuta 2012 85-vuotiaana.\n\nKaikki edellä kerrottu perustuu oikeuden ratkaisuihin ja lehtitietoihin sellaisina kuin ne on ketjussa esitetty; keskustelijoiden omia arvailuja ei ole tähän otettu mukaan."
+      },
+      "en": {
+        "lead": "On 3 March 1989 eight-year-old Päivi-Maria Hopiavuori and Tanja Johanna Pirinen were playing in their yard in Myllypuro, Helsinki, when 62-year-old Antti Veikko Ilmari Siltavuori lured them into his car. Both girls were murdered at his cottage in Vihti and their bodies burned. Arrested two days later, he was convicted of two murders in December 1989 and sentenced to 15 years plus compulsory detention.",
+        "detail": "According to court findings and news reporting, eight-year-old Päivi-Maria Hopiavuori and Tanja Johanna Pirinen were playing in the yard of their home in Myllypuro, Helsinki, on 3 March 1989 when Antti Veikko Ilmari Siltavuori, a pensioner, got them into his car. Hopiavuori's mother grew worried when the girls did not return that evening and called the emergency centre at around 10:46 pm.\n\nThe girls were murdered at Siltavuori's summer cottage in Vihti. News reports place the cottage in the village of Tervalampi on the shore of Huhmarjärvi, so the map marker falls on the killing site itself rather than merely on the municipality. Siltavuori stated that he put the children's bodies into barrels, doused them with petrol and burned them; neighbours assumed he was burning rubbish.\n\nThe police investigation led to Siltavuori's flat on Kauppakartanonkatu in Itäkeskus, a couple of kilometres from where the girls disappeared, and he was arrested there on 5 March 1989. Official accounts record that officers found a petrol canister, handcuffs and a knife in the flat, and cremated remains including the victims' teeth in the boot of his car. The investigation also established that he had rented a farm property in the village of Mieslahti in Paltamo, Kainuu, and built barred windows, cells and small lavatories there; that property was not used in the Myllypuro case. Siltavuori was found to have earlier convictions for the rape of underage girls, theft and attempted murder, and had previously served a life sentence that was commuted.\n\nOn 14 December 1989 the Helsinki District Court (Helsingin raastuvanoikeus) convicted him of two murders committed while lacking full understanding, two counts of child abduction and other offences, sentencing him to 15 years' imprisonment and compulsory detention as a dangerous repeat offender. The Helsinki Court of Appeal upheld the sentence on 28 June 1990. After roughly 11 years he was granted conditional release on 31 January 2000, but was transferred immediately to the Niuvanniemi state psychiatric hospital in Kuopio for compulsory care. Siltavuori, also known as \"Jammu\" or \"Jammu-setä\" and born on 29 October 1926 in Joensuu, died there on 12 March 2012 at the age of 85.\n\nEverything above rests on court decisions and news reporting as presented in the thread; posters' own speculation has been left out."
+      }
+    },
+    "victims": [
+      {
+        "name": "Päivi-Maria Hopiavuoren",
+        "description": "8-year-old girl, murdered March 3, 1989",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=2646#p2646"
+        ]
+      },
+      {
+        "name": "Tanja Johanna Pirisen",
+        "description": "8-year-old girl, murdered March 3, 1989",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=2646#p2646"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Antti Veikko Ilmari Siltavuori",
+        "description": "Also known as 'Jammu' or 'Jammu-setä'. Born October 29, 1926 in Joensuu. Age 62 at time of 1989 murders. Previous criminal history includes multiple convictions for rape of underage girls, theft, and attempted murder; previously served elinkautis (life sentence) that was commuted.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=2646#p2646",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=182570#p182570"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Tervalampi, Vihti",
+        "detail": "Siltavuori's dilapidated cottage at Tervalampi in Vihti, on the shore of Huhmarjärvi, where the two girls were killed. The thread gives the village but no address.",
+        "quote": "AS:n huonokuntoinen mökki sijaitsee Vihdin Tervalammen kylässä kauniin Huhmarjärven rannalla.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=189424#p189424",
+        "precision": "area",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Myllypuro, Helsinki",
+        "detail": "The yard in Myllypuro, Helsinki where the two 8-year-olds were playing when Siltavuori lured them into his car. This is where they were taken, not where they died.",
+        "quote": "8-vuotiaat Päivi-Maria Hopiavuoren ja Tanja Johanna Pirisen, jotka olivat leikkimässä kotipihallaan Helsingin Myllypurossa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=2646#p2646",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kauppakartanonkadulla, Itäkeskuksessa, Helsinki",
+        "detail": "Siltavuori's apartment where he was arrested on March 5, 1989; police found suspicious items including gas canister, handcuffs, knife, and cremated remains in the car boot",
+        "quote": "joukko poliisin tutkijoita lähetettiin 5. maaliskuuta parin kilometrin päähän katoamispaikalta Antti Veikko Ilmari Siltavuori -nimisen eläkeläismiehen asunnolle Kauppakartanonkadulle Itäkeskukseen.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=2646#p2646",
+        "precision": "street",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Mieslahden kylä, Paltamo, Kainuu",
+        "detail": "Property Siltavuori rented where he built cells with barred windows and bathroom facilities; not used for the Myllypuro victims",
+        "quote": "Poliisit saivat tutkimuksissaan selville, että Jammu oli vuokrannut Mieslahden kylästä, Paltamon kunnasta Kainuusta maatilan ja rakentanut sinne kalteri-ikkunoita, sellejä ja pieniä käymälöitä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=2646#p2646",
+        "precision": "area",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Helsingin raastuvanoikeus, Helsinki",
+        "detail": "District court that tried and convicted Siltavuori on December 14, 1989",
+        "quote": "Siltavuori tuomittiin 14. joulukuuta 1989 Helsingin raastuvanoikeudessa kahdesta täyttä ymmärrystä vailla olevana tehdystä murhasta",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=2646#p2646",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Niuvanniemen mielisairaala, Kuopio",
+        "detail": "Psychiatric hospital where Siltavuori was placed in forced care from 2000 until his death in 2012",
+        "quote": "Kahden pikkutytön murhasta tuomitun ja sittemmin pakkohoitoon valtion mielisairaalaan Kuopion Niuvanniemeen passitetun Veikko \"Jammu\" Siltavuori",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=134621#p134621",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=2646#p2646",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=182570#p182570"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=227"
+  },
+  {
+    "id": 37,
+    "topic_id": "311",
+    "title": "Sirkka-Liisa Waljuksen surma, Turku 23.7.1963",
+    "coords": [
+      60.4481018,
+      22.2442227
+    ],
+    "coords_precision": "address",
+    "coords_credibility": "forum_claim",
+    "coords_label": "Rauhankatu 19 D 109, Turku",
+    "coords_note": null,
+    "coords_resolved": "Rauhankatu, Kakolanmäki, VIII, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20100, Suomi / Finland",
+    "date": "1963-07-23",
+    "date_note": "Murder occurred on 22-23 July 1963 (late evening 22 July through early morning 23 July); death estimated around 03:00 on 23 July",
+    "status": "unsolved",
+    "outcome": "Unsolved. No one has been charged with or convicted of the killing, and no court has ruled on the case.",
+    "location": "Victim's apartment where she was found dead",
+    "municipality": "Turku",
+    "summary": {
+      "fi": {
+        "lead": "34-vuotias Sirkka-Liisa Waljus löydettiin kuolleena asunnostaan Rauhankadulla Turussa 23. heinäkuuta 1963. Hänet oli foorumikeskustelun mukaan lyöty pullolla ja kuristettu puhelimenjohdolla. Rikos on jäänyt selvittämättä: ketään ei ole asetettu syytteeseen surmasta.",
+        "detail": "Foorumiketjussa kerrotaan, että Sirkka-Liisa Waljus, 34-vuotias tuote-esittelijä, joka hankki elantoaan myös seksityöllä, surmattiin asunnossaan Turussa 23.7.1963. Nämä henkilötiedot samoin kuin lähes kaikki tapahtumien yksityiskohdat perustuvat keskustelupalstan kirjoittajien esityksiin, eivät oikeuden ratkaisuun tai uutislähteeseen. Ainoa asia, jolle ketjussa on esitetty vahvempaa tukea, on se, että tapaus on edelleen selvittämätön.\n\nKirjoittajien mukaan Waljus poistui 22.7.1963 illalla Eerikinkatu 30:ssä sijainneesta ravintola Valenciasta vieraskielisen miehen seurassa. Taksinkuljettaja, joka ajoi heidät ravintolasta, kertoi foorumilla esitetyn tiedon mukaan matkan päättyneen osoitteeseen Rauhankatu 19. Murhapaikan osoitteeksi mainitaan ketjussa Rauhankatu 19 D 109, eli uhrin oma asunto. Kuolinaika on foorumilla arvioitu noin kello kolmeksi yöllä.\n\nAsunnosta kerrotaan löytyneen merkkejä kamppailusta. Waljus makasi kirjoittajien mukaan alasti lattialla sänkynsä vieressä, ja päähaavasta oli vuotanut verta lattialle. Foorumilla esitetyn tiedon mukaan häntä oli lyöty pullolla ennen kuin hänet kuristettiin puhelimenjohdolla. Asunnosta löytyi kirjoittajien mukaan kolme lasia, verinen jalanjälki, jonka arveltiin olevan tekijän, sekä sormenjälkiä, joita ei pystytty yhdistämään keneenkään rekistereissä olleeseen henkilöön. Ruumiin löysi ketjun mukaan ystävä, jolla oli asunnon avaimet; avaimia kerrotaan olleen useammalla ihmisellä.\n\nEpäilyjä on foorumilla esitetty useaan suuntaan. Yksi niistä koskee ravintolasta lähtenyttä tuntematonta vieraskielistä miestä. Toinen koskee liikemies B:tä, makkaratehtaan omistajaa, jolla oli asunnon avaimet ja joka kirjoittajien mukaan hukkui tai hukuttautui Turun saaristossa kaksi viikkoa surman jälkeen. Ketjussa mainitaan myös saksalainen Hans Assmann, jonka alibi kirjoittajien mukaan tarkistettiin poliisin toimesta. Kaikki nämä epäilyt ovat foorumikirjoittajien esittämiä eikä yhtäkään henkilöä ole tuomittu tai edes syytetty teosta. Tapaus on yhä ratkaisematta."
+      },
+      "en": {
+        "lead": "Sirkka-Liisa Waljus, 34, was found dead in her apartment on Rauhankatu in Turku on 23 July 1963. According to forum accounts she had been struck with a bottle and strangled with a telephone cord. The case remains unsolved and no one has ever been charged with the killing.",
+        "detail": "According to the forum thread, Sirkka-Liisa Waljus, a 34-year-old product presenter who also worked in the sex trade, was killed in her apartment in Turku on 23 July 1963. These biographical details, and nearly all the details of the events, rest on claims by forum posters rather than on a court ruling or a news report. The one point given firmer support in the thread is that the case remains unsolved.\n\nPosters state that on the evening of 22 July 1963 Waljus left the Valencia restaurant at Eerikinkatu 30 in the company of a foreign-speaking man. The taxi driver who drove them from the restaurant reportedly said the trip ended at Rauhankatu 19. The thread gives the scene of the killing as Rauhankatu 19 D 109, the victim's own apartment. Time of death is estimated on the forum at around 3 a.m.\n\nThere were said to be signs of a struggle in the apartment. According to posters, Waljus was lying naked on the floor beside her bed with blood pooling from a head wound. Forum accounts say she had been hit with a bottle before being strangled with a telephone cord. Three glasses were reportedly found in the apartment, along with a bloody footprint thought to belong to the killer and fingerprints that could not be matched to anyone on record. The body was found by a friend who had keys to the apartment; several people are said to have had keys.\n\nSuspicion on the forum has run in several directions. One line concerns the unidentified foreign-speaking man who left the restaurant with her. Another concerns a businessman referred to only as B., a sausage factory owner who had keys to the apartment and who, according to posters, drowned in the Turku archipelago two weeks after the killing. The thread also mentions a German man, Hans Assmann, whose alibi posters say was checked by police. All of these suspicions are forum claims. No one has been convicted or charged, and the case remains open."
+      }
+    },
+    "victims": [
+      {
+        "name": "Sirkka-Liisa Waljus",
+        "description": "34-year-old woman, product presenter and sex worker, strangled in her apartment",
+        "support": "forum_claim",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=3848#p3848",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=139948#p139948"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Unknown foreign man (possibly Dutch sailor)",
+        "description": "Young, handsome foreign-speaking man seen with victim at Valencia restaurant on evening of 22.7.1963",
+        "status": "suspected",
+        "support": "forum_claim",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=3848#p3848",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=139948#p139948"
+        ]
+      },
+      {
+        "name": "Hans Assmann",
+        "description": "German man suspected by some of involvement; alibi was checked by police",
+        "status": "suspected",
+        "support": "forum_claim",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=3848#p3848",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=15250#p15250"
+        ]
+      },
+      {
+        "name": "Businessman B.",
+        "description": "Sausage factory owner who had keys to victim's apartment; drowned two weeks after murder",
+        "status": "suspected",
+        "support": "forum_claim",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=3848#p3848",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=15250#p15250"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Rauhankatu 19 D 109, Turku",
+        "detail": "Victim's apartment where she was found dead",
+        "quote": "murhapaikan osoite oli Rauhankatu 19 D 109",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=180913#p180913",
+        "precision": "address",
+        "credibility": "forum_claim",
+        "used_for_marker": true
+      },
+      {
+        "label": "Valencia restaurant, Eerikinkatu 30, Turku",
+        "detail": "Restaurant where victim was seen with foreign man before death",
+        "quote": "Vuosikausia yksi Turun kuuluisimmista ravintoloista oli Eerikinkadulla sijainnut Valencia",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=139948#p139948",
+        "precision": "address",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Turku archipelago (Turun saaristo)",
+        "detail": "Where businessman B. drowned two weeks after the murder",
+        "quote": "B. hukuttautui/hukkui Turun saaristossa kaksi viikkoa tapahtuman jälkeen",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=3848#p3848",
+        "precision": "area",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Rauhankatu, Turku",
+        "detail": "Street where victim's apartment was located",
+        "quote": "Asuin nuorena likkana Turussa ja Rauhankadulla, numeroa en muista",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=14666#p14666",
+        "precision": "street",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=3848#p3848",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=139948#p139948",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=15250#p15250",
+      "https://murha.info/rikosfoorumi/viewtopic.php?t=311",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=905939#p905939",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1190019#p1190019"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=311"
+  },
+  {
+    "id": 38,
+    "topic_id": "254",
+    "title": "Ilpo Härmäläisen murha, Turku 3.8.1994",
+    "coords": [
+      60.4515932,
+      22.2669991
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "fallback",
+    "coords_label": null,
+    "coords_note": "fallback",
+    "coords_resolved": null,
+    "date": "1994-08-03",
+    "date_note": "3.8.1994, jolloin Härmäläinen katosi kotoaan ja hänen uskotaan kuolleen.",
+    "status": "solved",
+    "outcome": "Lasse Erik Lehto, an advertising man born in 1953, was convicted of murder (murha) by Varsinais-Suomen käräjäoikeus on 27 May 2022 and sentenced to life imprisonment (elinkautinen). According to news reports the conviction came 27 years after the killing, the longest interval between a homicide and a conviction in Finnish legal history. The victim's remains were recovered from the sea bottom off Airisto on 2 March 2022, after almost 28 years missing.",
+    "location": "Where the suspect's sailboat was moored",
+    "municipality": "Turku",
+    "summary": {
+      "fi": {
+        "lead": "33-vuotias lakimies Ilpo Härmäläinen lähti kodistaan Eerikinkatu 20:stä Turussa 3. elokuuta 1994 eikä palannut. Hänen jäännöksensä löytyivät meren pohjasta Airistolta maaliskuussa 2022. Varsinais-Suomen käräjäoikeus tuomitsi vuonna 1953 syntyneen mainosmiehen Lasse Erik Lehdon murhasta elinkautiseen vankeuteen 27.5.2022.",
+        "detail": "Oikeus- ja uutislähteiden mukaan 33-vuotias lakimies Ilpo Härmäläinen katosi Turussa 3. elokuuta 1994. Viimeinen varma havainto hänestä tehtiin katoamispäivänä Turun keskustassa Eerikinkatu 20:ssä noin puolenpäivän aikaan, kun hän poistui kotoaan noin kello 12.15. Hän tuli ulos asunnosta 22 ja jäi odottelemaan ulko-ovien eteen.\n\nUutistietojen mukaan epäillyn mainosmiehen purjevene oli tuohon aikaan Satavan vierasvenesatamassa Turussa. Poliisi uskoi, että mainosmies houkutteli Härmäläisen veneeseen, surmasi tämän veneessä ja upotti ruumiin mereen Airiston alueella. Tarkkaa surmapaikkaa ei tässä aineistossa ole vahvistettu, joten kartan merkintä osoittaa katoamispaikkaa eli Härmäläisen kotiosoitetta, ei todennettua tekopaikkaa.\n\nAiriston alueelta merenpohjasta löytyi vainaja, jonka poliisi kertoi olevan vuonna 1994 Turusta kadonnut lakimies. Ruumis löydettiin 2. maaliskuuta 2022, lähes 28 vuotta katoamisen jälkeen, ja jäännökset nostettiin merestä maaliskuun 2.–3. päivän aikana. Löydön jälkeen tehdyn lisätutkinnan mukaan lakimiestä oli ammuttu ainakin kahdesti — syyttäjän mukaan ensin selkään ja sitten vielä kasvoihin teloitustyylisesti.\n\nVarsinais-Suomen käräjäoikeus tuomitsi vuonna 1953 syntyneen mainosmiehen Lasse Erik Lehdon murhasta elinkautiseen vankeuteen 27. toukokuuta 2022. Uutisoinnin mukaan kyseessä on Suomen oikeushistorian pisin aikaväli henkirikoksen ja langettavan tuomion välillä, 27 vuotta.\n\nRahaliikenteestä aineistossa on kahdentasoista tietoa. Oikeus- ja uutislähteisiin nojaavan tiedon mukaan mainostoimisto karhusi Härmäläiseltä 800 000 markan saatavia, mutta viranomaiset ovat epäilleet saatavien oikeudellisuutta ja pitävyyttä. Pelkästään keskustelupalstan kirjoittajan väitteeseen sen sijaan perustuu yksityiskohta, jonka mukaan mainostoimisto olisi lähettänyt Härmäläisen yritykselle 280 000 markan, 320 000 markan ja 190 000 markan laskut factoring-menettelyn kautta; tälle erittelylle ei aineistossa ole oikeuden tai uutislähteen tukea.\n\nMuita ketjussa esiintyviä nimiä tai palstalla esitettyjä arvailuja ei tässä toisteta."
+      },
+      "en": {
+        "lead": "Ilpo Härmäläinen, a 33-year-old lawyer, left his home at Eerikinkatu 20 in Turku on 3 August 1994 and never returned. His remains were found on the sea bottom off Airisto in March 2022. On 27 May 2022 Varsinais-Suomi District Court convicted advertising man Lasse Erik Lehto, born 1953, of murder and sentenced him to life imprisonment.",
+        "detail": "According to court and news sources, Ilpo Härmäläinen, a 33-year-old lawyer, disappeared in Turku on 3 August 1994. The last confirmed sighting of him was made on the day of his disappearance in central Turku at Eerikinkatu 20, around midday, when he left his home at about 12.15. He came out of apartment 22 and waited in front of the street doors.\n\nNews reports state that the suspected advertising man's sailboat was at that time moored at the Satava visitor harbour in Turku. Police believed that the advertising man lured Härmäläinen onto the boat, killed him there and sank the body into the sea in the Airisto area. The exact site of the killing is not confirmed in this material, so the map marker points to the place of disappearance — Härmäläinen's home address — rather than a verified crime scene.\n\nHuman remains were found on the sea bottom in the Airisto area, and police stated that the deceased was the lawyer who went missing from Turku in 1994. The body was found on 2 March 2022, almost 28 years after the disappearance, and the remains were recovered over 2–3 March. According to further investigation carried out after the discovery, the lawyer had been shot at least twice — according to the prosecutor first in the back and then in the face, execution style.\n\nVarsinais-Suomi District Court convicted the advertising man Lasse Erik Lehto, born in 1953, of murder and sentenced him to life imprisonment on 27 May 2022. Press coverage described this as the longest interval in Finnish legal history between a homicide and a conviction, 27 years.\n\nOn the financial background the evidence is of two different weights. Resting on court and news reporting is the statement that the advertising agency pursued 800,000 markka in claims against Härmäläinen, while the authorities have doubted the legal validity and soundness of those claims. Resting only on a forum poster's assertion is the further detail that the agency had sent Härmäläinen's company invoices of 280,000, 320,000 and 190,000 markka through a factoring arrangement; that itemisation has no court or news source behind it in this material.\n\nOther names appearing in the thread, and posters' speculation, are not repeated here."
+      }
+    },
+    "victims": [
+      {
+        "name": "Ilpo Härmäläinen",
+        "description": "33-year-old lawyer who disappeared on August 3, 1994, from his home in Turku. His remains were recovered from the sea on March 2-3, 2022.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1198016#p1198016",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1277736#p1277736"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Lasse Erik Lehto",
+        "description": "Advertising man born in 1953, convicted of murdering Ilpo Härmäläinen. Had a sailboat and was involved in fraudulent invoicing schemes.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1310041#p1310041",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1310146#p1310146"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Satava harbor, Turku",
+        "detail": "Where the suspect's sailboat was moored",
+        "quote": "Miehen purjevene oli tuohon aikaan Satavan vierasvenesatamassa Turussa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1244474#p1244474",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Airisto, Turku archipelago",
+        "detail": "Sea area where victim's remains were found anchored to sea bottom",
+        "quote": "Airiston alueelta merenpohjasta löytynyt vainaja on vuonna 1994 Turusta kadonnut lakimies",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1277736#p1277736",
+        "precision": "area",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Varsinais-Suomen käräjäoikeus, Turku",
+        "detail": "Court that issued the murder conviction",
+        "quote": "Varsinais-Suomen käräjäoikeus käsittelee vangitsemista",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1200462#p1200462",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1200462#p1200462",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1197995#p1197995",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=185422#p185422",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1244474#p1244474",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1277736#p1277736",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1310072#p1310072"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=254"
+  },
+  {
+    "id": 39,
+    "topic_id": "309",
+    "title": "Osmo Ahlqvistin murha, Kotka huhtikuu 1995",
+    "coords": [
+      60.5703288,
+      26.9875116
+    ],
+    "coords_precision": "district",
+    "coords_credibility": "news",
+    "coords_label": "Kotkan Tavastila",
+    "coords_note": null,
+    "coords_resolved": "Tavastila, Kotka, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, 49300, Suomi / Finland",
+    "date": "1995-04",
+    "date_note": "Perjantai-ilta huhtikuussa 1995, hieman ennen kello 21. Tarkkaa päivämäärää ei ketjussa kerrota, mutta huhtikuu 1995 vahvistuu uutislähteistä.",
+    "status": "solved",
+    "outcome": "Jari Kolivaara, 30, was tried at Kotkan käräjäoikeus. In November 1995 the court convicted him of the murder of Osmo Ahlqvist and sentenced him to life imprisonment (elinkautinen vankeus). In December 1995 the same court convicted him of roughly 20 further offences, including attempted murder, aggravated assault and drug offences, adding a sentence of nearly five years' imprisonment. A mental competency evaluation found him to have been in full mental capacity at the time of the killing.",
+    "location": "Osmo Ahlqvist was shot and killed at his home on Friday evening in April 1995. The killer fired multiple times with a silenced handgun. A 3-year-old child in his lap was also struck by bullets.",
+    "municipality": "Kotka",
+    "summary": {
+      "fi": {
+        "lead": "Kotkalainen liikemies ja huumekauppias Osmo \"Lusu\" Ahlqvist, 49, ammuttiin kotonaan Kotkan Tavastilassa perjantai-iltana huhtikuussa 1995 hieman ennen yhdeksää. Ampuja käytti äänenvaimentimella varustettua käsiasetta ja luodeista kaksi osui myös Ahlqvistin sylissä olleeseen kolmivuotiaaseen lapseen. Teosta tuomittiin marraskuussa 1995 elinkautiseen vankeuteen 30-vuotias Jari Kolivaara, joka oli otettu kiinni Lahdessa jo surmaa seuranneena lauantaina.",
+        "detail": "Uutistietojen mukaan Osmo \"Lusu\" Ahlqvist, 49-vuotias kotkalainen liikemies, surmattiin ampumalla omakotitalossaan Kotkan Tavastilassa perjantai-iltana huhtikuussa 1995 hieman ennen kello yhdeksää. Ampuja laukaisi äänenvaimentimella varustetusta pistoolista useita laukauksia. Ahlqvistin sylissä istunut kolmivuotias lapsi sai kaksi osumaa ja loukkaantui vakavasti; lapsi menetti kuulon toisesta korvastaan ja hänet toimitettiin hoitoon Helsinkiin.\n\nAhlqvistia on uutislähteissä kuvattu paitsi liikemieheksi myös huumekauppiaaksi ja laajan salakuljetusverkoston johtohahmoksi. Verkoston arvioitiin tuoneen Suomeen vuosina 1992–1995 yli 300 kiloa hasista sekä amfetamiinia, heroiinia ja kokaiinia. Poliisi piti ampumista huumekauppaan liittyvänä tilaustyönä. Verkoston jäseniä tuomittiin myöhemmin pitkiin, 11–12 vuoden vankeusrangaistuksiin huumausainerikoksista, ja joulukuussa 1995 Naantalin kautta Ruotsista tulleesta rekasta takavarikoitiin yli 160 kiloa hasista — aikanaan yksi Suomen suurimmista takavarikoista.\n\nAmpujaksi tunnistettiin 30-vuotias Jari Kolivaara, joka otettiin kiinni Lahdessa surmaa seuranneena lauantaina. Uutisten mukaan Lahdessa oli lauantaina pidätetty ampumisesta epäiltynä myös lahtelainen mies, joka kuitenkin vapautettiin kuulustelujen ja tarkistusten jälkeen sunnuntaina.\n\nAsia käsiteltiin Kotkan käräjäoikeudessa. Kolivaara tuomittiin marraskuussa 1995 murhasta elinkautiseen vankeuteen. Joulukuussa 1995 hänet tuomittiin lisäksi noin 20 muusta rikoksesta, muun muassa murhan yrityksestä, törkeästä pahoinpitelystä ja huumausainerikoksista, lähes viiden vuoden vankeusrangaistukseen. Mielentilatutkimuksessa hänen katsottiin olleen teon aikana täydessä ymmärryksessä.\n\nKetjussa on käsitelty myös Ahlqvistin henkivartijaa Esa Toikkaa, joka uutistietojen mukaan tuomittiin kesäkuussa 2001 Vantaan käräjäoikeudessa törkeistä huumausainerikoksista kymmeneksi vuodeksi vankeuteen. Tämä liittyy huumeverkostoon, ei itse surmatekoon.\n\nKaikki edellä esitetty perustuu ketjuun kerättyihin uutis- ja oikeustietoihin. Ketjussa esitettyä keskustelijoiden spekulaatiota esimerkiksi teon taustoista tai osallisista ei toisteta tässä. Surmapaikka on ketjussa yksilöity Kotkan Tavastilaan, mutta tarkempaa osoitetta ei kerrota, joten kartan piste on kaupunginosan tarkkuudella."
+      },
+      "en": {
+        "lead": "Osmo \"Lusu\" Ahlqvist, a 49-year-old Kotka businessman and drug trafficker, was shot dead at his home in the Tavastila district of Kotka on a Friday evening in April 1995, shortly before 9 p.m. The gunman used a silenced handgun, and two bullets also struck a three-year-old child sitting on Ahlqvist's lap. Jari Kolivaara, 30, was arrested in Lahti the next day and sentenced to life imprisonment in November 1995.",
+        "detail": "According to news reports, Osmo \"Lusu\" Ahlqvist, a 49-year-old businessman from Kotka, was shot and killed in his detached house in Kotkan Tavastila on a Friday evening in April 1995, shortly before nine o'clock. The gunman fired several shots from a handgun fitted with a silencer. A three-year-old child sitting on Ahlqvist's lap was hit by two bullets and seriously injured, losing the hearing in one ear, and was taken to Helsinki for medical care.\n\nNews sources describe Ahlqvist not only as a businessman but as a drug trafficker and the head of a large smuggling network. The network was estimated to have brought more than 300 kilos of hashish into Finland between 1992 and 1995, along with amphetamine, heroin and cocaine. Police regarded the shooting as a contract killing (tilaustyö) connected to drug trafficking disputes. Members of the network were later convicted and sentenced to long terms of 11 to 12 years, and in December 1995 more than 160 kilos of hashish were seized from a truck arriving from Sweden via Naantali, noted at the time as one of the largest seizures in Finnish history.\n\nThe shooter was identified as Jari Kolivaara, 30, who was arrested in Lahti on the Saturday following the killing. News reports also mention that a man from Lahti had been detained that Saturday on suspicion of the shooting but was released on the Sunday after questioning and checks.\n\nThe case was tried at Kotkan käräjäoikeus. In November 1995 Kolivaara was convicted of murder and sentenced to life imprisonment. In December 1995 he was additionally convicted of roughly 20 further offences, including attempted murder, aggravated assault and drug offences, receiving nearly five years' imprisonment. A mental competency evaluation concluded he had been in full mental capacity when he committed the murder.\n\nThe thread also covers Esa Toikka, described as Ahlqvist's bodyguard, who according to news reports was sentenced in June 2001 by Vantaa district court to ten years' imprisonment for serious drug offences. That concerns the drug network rather than the killing itself.\n\nEverything above rests on court and news material collected in the thread. Posters' speculation about the background or the people involved is not repeated here. The killing site is given only as the Tavastila district of Kotka, with no street address, so the map marker is at district-level precision."
+      }
+    },
+    "victims": [
+      {
+        "name": "Osmo \"Lusu\" Ahlqvist",
+        "description": "49-year-old Kotka businessman and drug trafficker. Head of major drug smuggling network. Shot and killed at his home in April 1995.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=458080#p458080",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=7353#p7353"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Jari Kolivaara",
+        "description": "30-year-old professional criminal who shot Osmo Ahlqvist. Arrested in Lahti on Saturday, day after murder. Convicted of murder and sentenced to life imprisonment in November 1995, and convicted of 20 other crimes in December 1995.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=7353#p7353",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=458080#p458080"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Kotkan Tavastila",
+        "detail": "Osmo Ahlqvist was shot and killed at his home on Friday evening in April 1995. The killer fired multiple times with a silenced handgun. A 3-year-old child in his lap was also struck by bullets.",
+        "quote": "Liikemies surmattiin ampumalla omakotitalossaan Kotkan Tavastilassa perjantai-iltana hieman ennen yhdeksää.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=458080#p458080",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Kotka",
+        "detail": "The city where the murder occurred.",
+        "quote": "Osmo Ahlqvistin murhasta syytetty Jari Kolivaara oli mielentilatutkimuksen mukaan täydessä ymmärryksessä surmatessaan Ahlqvistin Kotkassa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=57121#p57121",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Lahti",
+        "detail": "City where Kolivaara was arrested on Saturday, the day after the murder.",
+        "quote": "Poliisi pidätti lauantaina Lahdessa lahtelaisen miehen ampumisesta epäiltynä, mutta hänet laskettiin kuulustelujen ja tarkistusten jälkeen vapaaksi sunnuntaina......",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=458080#p458080",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Helsinki",
+        "detail": "The injured child was transported to Helsinki for medical care.",
+        "quote": "Kolmivuotias sai käsiaseesta kaksi osumaa ja hänet toimitettiin hoitoon Helsinkiin.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=458080#p458080",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=7353#p7353",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=458080#p458080",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=57121#p57121",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=932412#p932412"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=309"
   }
 ];

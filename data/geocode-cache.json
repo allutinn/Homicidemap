@@ -2266,5 +2266,704 @@
         "country_code": "fi"
       }
     }
+  ],
+  "Loppi": [
+    {
+      "lat": 60.7173615,
+      "lon": 24.4414178,
+      "display_name": "Loppi, Riihimäen seutukunta, Kanta-Häme, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Loppi",
+        "municipality": "Riihimäen seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2094292,
+      "lon": 25.0098201,
+      "display_name": "Loppi, Viikinranta, Viikki, Koillinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "islet",
+      "addresstype": "islet",
+      "address": {
+        "islet": "Loppi",
+        "quarter": "Viikinranta",
+        "suburb": "Viikki",
+        "city_district": "Koillinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.3611337,
+      "lon": 27.3128124,
+      "display_name": "Loppi, Hamina, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, Suomi / Finland",
+      "type": "islet",
+      "addresstype": "islet",
+      "address": {
+        "islet": "Loppi",
+        "town": "Hamina",
+        "municipality": "Kotkan–Haminan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.4290575,
+      "lon": 27.5603227,
+      "display_name": "Loppi, Virolahti, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, Suomi / Finland",
+      "type": "islet",
+      "addresstype": "islet",
+      "address": {
+        "islet": "Loppi",
+        "city": "Virolahti",
+        "municipality": "Kotkan–Haminan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.426161,
+      "lon": 26.8491521,
+      "display_name": "Loppi, Takakylä, Kotka, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, Suomi / Finland",
+      "type": "islet",
+      "addresstype": "islet",
+      "address": {
+        "islet": "Loppi",
+        "suburb": "Takakylä",
+        "city": "Kotka",
+        "municipality": "Kotkan–Haminan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Espoon Suvisaaristossa, Espoo|23.5214,61.1674,25.3614,60.2674": [],
+  "Riihimäki District Court, Riihimäki|23.5214,61.1674,25.3614,60.2674": [],
+  "Kouvolan Court of Appeal, Kouvola|23.5214,61.1674,25.3614,60.2674": [],
+  "Kuopio": [
+    {
+      "lat": 62.8924628,
+      "lon": 27.6783603,
+      "display_name": "Kuopio, Kuopion seutukunta, Pohjois-Savo, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Kuopio",
+        "municipality": "Kuopion seutukunta",
+        "state": "Pohjois-Savo",
+        "ISO3166-2-lvl4": "FI-15",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.8241171,
+      "lon": 27.5932006,
+      "display_name": "Kuopio, Pohjois-Savo, Manner-Suomi, Suomi / Finland",
+      "type": "historic",
+      "addresstype": "historic",
+      "address": {
+        "historic": "Kuopio",
+        "state": "Pohjois-Savo",
+        "ISO3166-2-lvl4": "FI-15",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Petosella, Kuopio|26.6908,63.3425,28.6659,62.4425": [],
+  "Kulmakatu 1, Petosella, Kuopio|26.6908,63.3425,28.6659,62.4425": [],
+  "Kulmakatu 1, Kuopio|26.6908,63.3425,28.6659,62.4425": [
+    {
+      "lat": 62.8372896,
+      "lon": 27.6368174,
+      "display_name": "1A, Kulmakatu, Petonen, Kuopio, Kuopion seutukunta, Pohjois-Savo, Manner-Suomi, 70821, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "building",
+      "address": {
+        "house_number": "1A",
+        "road": "Kulmakatu",
+        "suburb": "Petonen",
+        "city": "Kuopio",
+        "municipality": "Kuopion seutukunta",
+        "state": "Pohjois-Savo",
+        "ISO3166-2-lvl4": "FI-15",
+        "region": "Manner-Suomi",
+        "postcode": "70821",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.8373908,
+      "lon": 27.6383268,
+      "display_name": "1C, Kulmakatu, Petonen, Kuopio, Kuopion seutukunta, Pohjois-Savo, Manner-Suomi, 70821, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "building",
+      "address": {
+        "house_number": "1C",
+        "road": "Kulmakatu",
+        "suburb": "Petonen",
+        "city": "Kuopio",
+        "municipality": "Kuopion seutukunta",
+        "state": "Pohjois-Savo",
+        "ISO3166-2-lvl4": "FI-15",
+        "region": "Manner-Suomi",
+        "postcode": "70821",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.8376481,
+      "lon": 27.6375618,
+      "display_name": "1B, Kulmakatu, Petonen, Kuopio, Kuopion seutukunta, Pohjois-Savo, Manner-Suomi, 70821, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "building",
+      "address": {
+        "house_number": "1B",
+        "road": "Kulmakatu",
+        "suburb": "Petonen",
+        "city": "Kuopio",
+        "municipality": "Kuopion seutukunta",
+        "state": "Pohjois-Savo",
+        "ISO3166-2-lvl4": "FI-15",
+        "region": "Manner-Suomi",
+        "postcode": "70821",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.8378793,
+      "lon": 27.6390457,
+      "display_name": "Kulmakatu, Petonen, Kuopio, Kuopion seutukunta, Pohjois-Savo, Manner-Suomi, 70821, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Kulmakatu",
+        "suburb": "Petonen",
+        "city": "Kuopio",
+        "municipality": "Kuopion seutukunta",
+        "state": "Pohjois-Savo",
+        "ISO3166-2-lvl4": "FI-15",
+        "region": "Manner-Suomi",
+        "postcode": "70821",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.836802,
+      "lon": 27.6446243,
+      "display_name": "Kulmakatu, Petonen, Kuopio, Kuopion seutukunta, Pohjois-Savo, Manner-Suomi, 70821, Suomi / Finland",
+      "type": "cycleway",
+      "addresstype": "road",
+      "address": {
+        "road": "Kulmakatu",
+        "suburb": "Petonen",
+        "city": "Kuopio",
+        "municipality": "Kuopion seutukunta",
+        "state": "Pohjois-Savo",
+        "ISO3166-2-lvl4": "FI-15",
+        "region": "Manner-Suomi",
+        "postcode": "70821",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vihti": [
+    {
+      "lat": 60.4169963,
+      "lon": 24.323664,
+      "display_name": "Vihti, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Vihti",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vihdin Tervalammen kylässä, Huhmarjärven rannalla|23.4121,60.8670,25.2352,59.9670": [],
+  "Helsingin Myllypuro|23.4121,60.8670,25.2352,59.9670": [
+    {
+      "lat": 60.2236491,
+      "lon": 25.0655052,
+      "display_name": "Myllypuro, Vartiokylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00920, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Myllypuro",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00920",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2250101,
+      "lon": 25.0757494,
+      "display_name": "Myllypuro, 2, Myllyaukio, Myllypuro, Vartiokylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00920, Suomi / Finland",
+      "type": "station",
+      "addresstype": "railway",
+      "address": {
+        "railway": "Myllypuro",
+        "house_number": "2",
+        "road": "Myllyaukio",
+        "neighbourhood": "Myllypuro",
+        "suburb": "Vartiokylä",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00920",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2796319,
+      "lon": 24.7412099,
+      "display_name": "Myllypuro, Niipperi, Pohjois-Espoo, Espoo, Helsingin seutukunta, Uusimaa, Manner-Suomi, 02920, Suomi / Finland",
+      "type": "flowline",
+      "addresstype": "flowline",
+      "address": {
+        "flowline": "Myllypuro",
+        "neighbourhood": "Niipperi",
+        "suburb": "Niipperi",
+        "city_district": "Pohjois-Espoo",
+        "city": "Espoo",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "02920",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2205694,
+      "lon": 25.0630902,
+      "display_name": "Myllypuro, Vartiokylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00920, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "neighbourhood",
+      "address": {
+        "neighbourhood": "Myllypuro",
+        "suburb": "Vartiokylä",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00920",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.3116556,
+      "lon": 24.526139,
+      "display_name": "Myllypuro, Vanha-Espoo, Espoo, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "stream",
+      "addresstype": "stream",
+      "address": {
+        "stream": "Myllypuro",
+        "city_district": "Vanha-Espoo",
+        "city": "Espoo",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.3058733,
+      "lon": 24.5371934,
+      "display_name": "Myllypuro, Nuuksionpää, Nuuksio, Vanha-Espoo, Espoo, Helsingin seutukunta, Uusimaa, Manner-Suomi, 02860, Suomi / Finland",
+      "type": "stream",
+      "addresstype": "stream",
+      "address": {
+        "stream": "Myllypuro",
+        "quarter": "Nuuksionpää",
+        "suburb": "Nuuksio",
+        "city_district": "Vanha-Espoo",
+        "city": "Espoo",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "02860",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2796236,
+      "lon": 24.7469951,
+      "display_name": "Myllypuro, Niipperi, Pohjois-Espoo, Espoo, Helsingin seutukunta, Uusimaa, Manner-Suomi, 02920, Suomi / Finland",
+      "type": "stream",
+      "addresstype": "stream",
+      "address": {
+        "stream": "Myllypuro",
+        "neighbourhood": "Niipperi",
+        "suburb": "Niipperi",
+        "city_district": "Pohjois-Espoo",
+        "city": "Espoo",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "02920",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2884233,
+      "lon": 24.7475251,
+      "display_name": "Myllypuro, Perusmäki, Pohjois-Espoo, Espoo, Helsingin seutukunta, Uusimaa, Manner-Suomi, 02920, Suomi / Finland",
+      "type": "stream",
+      "addresstype": "stream",
+      "address": {
+        "stream": "Myllypuro",
+        "neighbourhood": "Perusmäki",
+        "suburb": "Perusmäki",
+        "city_district": "Pohjois-Espoo",
+        "city": "Espoo",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "02920",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Turku": [
+    {
+      "lat": 60.4515932,
+      "lon": 22.2669991,
+      "display_name": "Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Rauhankatu 19 D 109, Turku|21.3545,60.9016,23.1795,60.0016": [
+    {
+      "lat": 60.4481018,
+      "lon": 22.2442227,
+      "display_name": "Rauhankatu, Kakolanmäki, VIII, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20100, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Rauhankatu",
+        "neighbourhood": "Kakolanmäki",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.4510097,
+      "lon": 22.252754,
+      "display_name": "Rauhankatu, Puolalanmäki, VII, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20100, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Rauhankatu",
+        "neighbourhood": "Puolalanmäki",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.4469814,
+      "lon": 22.2409492,
+      "display_name": "Rauhankatu, Kakolanmäki, VIII, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20101, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Rauhankatu",
+        "neighbourhood": "Kakolanmäki",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20101",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.4491255,
+      "lon": 22.2472253,
+      "display_name": "Rauhankatu, VIII, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20101, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Rauhankatu",
+        "neighbourhood": "VIII",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20101",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.4497308,
+      "lon": 22.249007,
+      "display_name": "Rauhankatu, VII, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20101, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Rauhankatu",
+        "neighbourhood": "VII",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20101",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.4500212,
+      "lon": 22.2498816,
+      "display_name": "Rauhankatu, VII, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20100, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Rauhankatu",
+        "neighbourhood": "VII",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.4462768,
+      "lon": 22.2388735,
+      "display_name": "Rauhankatu, Kakolanmäki, VIII, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20200, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Rauhankatu",
+        "neighbourhood": "Kakolanmäki",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Satava harbor, Turku|21.3545,60.9016,23.1795,60.0016": [],
+  "Airisto, Turku archipelago|21.3545,60.9016,23.1795,60.0016": [],
+  "Varsinais-Suomen käräjäoikeus, Turku|21.3545,60.9016,23.1795,60.0016": [
+    {
+      "lat": 60.4448678,
+      "lon": 22.2515579,
+      "display_name": "Varsinais-Suomen käräjäoikeus, 2-4, Sairashuoneenkatu, Kakolanmäki, VIII, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20100, Suomi / Finland",
+      "type": "courthouse",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Varsinais-Suomen käräjäoikeus",
+        "house_number": "2-4",
+        "road": "Sairashuoneenkatu",
+        "neighbourhood": "Kakolanmäki",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kotka": [
+    {
+      "lat": 60.4672673,
+      "lon": 26.9459462,
+      "display_name": "Kotka, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Kotka",
+        "municipality": "Kotkan–Haminan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kotkan Tavastila|26.0330,60.9173,27.8589,60.0173": [
+    {
+      "lat": 60.5733096,
+      "lon": 26.954764,
+      "display_name": "Tavastila, Pohjoistie, Ylänummi, Metsäkulma, Kotka, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, 49300, Suomi / Finland",
+      "type": "halt",
+      "addresstype": "railway",
+      "address": {
+        "railway": "Tavastila",
+        "road": "Pohjoistie",
+        "hamlet": "Ylänummi",
+        "village": "Metsäkulma",
+        "city": "Kotka",
+        "municipality": "Kotkan–Haminan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "postcode": "49300",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.5703288,
+      "lon": 26.9875116,
+      "display_name": "Tavastila, Kotka, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, 49300, Suomi / Finland",
+      "type": "village",
+      "addresstype": "village",
+      "address": {
+        "village": "Tavastila",
+        "city": "Kotka",
+        "municipality": "Kotkan–Haminan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "postcode": "49300",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Espoon Suvisaaristo, Espoo|23.5214,61.1674,25.3614,60.2674": [],
+  "Vihdin Tervalammen, Huhmarjärven ranna|23.4121,60.8670,25.2352,59.9670": [],
+  "Tervalampi, Vihti|23.4121,60.8670,25.2352,59.9670": [
+    {
+      "lat": 60.3290575,
+      "lon": 24.4053633,
+      "display_name": "Tervalampi, Vihti, Helsingin seutukunta, Uusimaa, Manner-Suomi, 03220, Suomi / Finland",
+      "type": "village",
+      "addresstype": "village",
+      "address": {
+        "village": "Tervalampi",
+        "town": "Vihti",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "03220",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.3190995,
+      "lon": 24.415397,
+      "display_name": "Tervalampi, Kurjoo, Tervalampi, Vihti, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Tervalampi",
+        "hamlet": "Kurjoo",
+        "village": "Tervalampi",
+        "town": "Vihti",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
   ]
 }
