@@ -76,12 +76,15 @@ for (const batch of queue) {
   const incomplete = [];
 
   for (const [n, topic] of topics.entries()) {
-    const { messages, expected, truncated, failed } = await crawlThread(topic.link, {
+    const { messages, expected, rendered, truncated, failed } = await crawlThread(topic.link, {
       base: BASE,
       delay: DELAY,
     });
 
-    const short = expected && messages.length < expected;
+    // Pages missed, not posts deduplicated — see crawlThread on why the two
+    // differ. A thread short only because phpBB double-served a post is whole.
+    const missed = expected ? Math.max(0, expected - rendered) : 0;
+    const deduped = rendered - messages.length;
     records.push({
       topic_id: topic.topic_id,
       topic: topic.topic,
@@ -90,16 +93,20 @@ for (const batch of queue) {
       forum_id: topic.forum_id,
       batch: batch.id,
       expected_message_count: expected,
+      rendered_count: rendered,
       message_count: messages.length,
       truncated,
       messages,
     });
-    if (truncated || short) incomplete.push({ topic_id: topic.topic_id, got: messages.length, expected });
+    if (truncated || missed)
+      incomplete.push({ topic_id: topic.topic_id, got: messages.length, rendered, expected });
 
     console.log(
       `  [${n + 1}/${topics.length}] t=${topic.topic_id} ${topic.topic.slice(0, 60)} — ` +
-        `${messages.length} messages${short ? ` (expected ${expected} — INCOMPLETE)` : ""}` +
-        `${failed ? " [fetch failed]" : ""}`
+        `${messages.length} messages` +
+        (missed ? ` (${rendered}/${expected} served — INCOMPLETE)` : "") +
+        (deduped ? ` (${deduped} double-served post${deduped > 1 ? "s" : ""} deduped)` : "") +
+        (failed ? " [fetch failed]" : "")
     );
     await sleep(DELAY);
   }

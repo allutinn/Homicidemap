@@ -73,7 +73,7 @@ for (const [n, topic] of selected.entries()) {
     continue;
   }
 
-  const { messages, expected, truncated, failed } = await crawlThread(topic.link, {
+  const { messages, expected, rendered, truncated, failed } = await crawlThread(topic.link, {
     base: BASE,
     maxPages: MAX_PAGES,
     delay: DELAY,
@@ -88,6 +88,7 @@ for (const [n, topic] of selected.entries()) {
     reasoning: topic.reasoning,
     needs_review: topic.needs_review ?? true,
     expected_message_count: expected,
+    rendered_count: rendered,
     message_count: messages.length,
     truncated,
     messages, // already carry index and permalink from crawlThread
@@ -95,7 +96,7 @@ for (const [n, topic] of selected.entries()) {
   cases.push(record);
 
   const short =
-    expected && messages.length < expected ? ` (expected ${expected} — INCOMPLETE)` : "";
+    expected && rendered < expected ? ` (${rendered}/${expected} served — INCOMPLETE)` : "";
   console.log(`${label} ${topic.topic} — ${messages.length} messages${short}`);
 
   // Write after every topic so a long crawl survives an interruption.
@@ -109,7 +110,9 @@ await writeFile(OUT, JSON.stringify(cases, null, 2) + "\n");
 
 const sum = (fn) => cases.reduce((a, c) => a + fn(c), 0);
 const incomplete = cases.filter(
-  (c) => c.truncated || (c.expected_message_count && c.message_count < c.expected_message_count)
+  // Judged on pages served, not posts kept: deduplicating a double-served post
+  // leaves a thread short of phpBB's total without anything being missed.
+  (c) => c.truncated || (c.expected_message_count && c.rendered_count < c.expected_message_count)
 );
 console.log(
   `\nWrote ${cases.length} cases / ${sum((c) => c.message_count)} messages ` +

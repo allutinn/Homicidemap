@@ -162,6 +162,17 @@ npm run status              # per-stage bars, next batch, incomplete crawls
 npm run status -- --json    # same, machine-readable
 ```
 
-`status` also lists any batch whose threads came up short of phpBB's own post
-total — a partial crawl means the review would read a partial case, so those
-should be re-crawled with `--batch NNN --force` before being reviewed.
+`status` also lists any batch whose threads came up short — a partial crawl
+means the review would read a partial case, so those should be re-crawled with
+`--batch NNN --force` before being reviewed.
+
+"Short" is judged on **pages served**, not posts kept. phpBB sometimes renders
+the same post on two consecutive pages: thread `t=65` serves `p1222751` at both
+`start=420` and `start=435`, so the thread yields 845 distinct posts against a
+reported total of 846 while being completely captured. Each thread therefore
+records `rendered_count` (slots served) next to `message_count` (distinct posts
+kept), and only `rendered_count < expected_message_count` counts as incomplete.
+
+Judging on `message_count` alone — as the first version did — would have raised
+a false alarm on the very first batch containing such a thread, and at 2 475
+threads that noise would hide the real truncations it exists to catch.

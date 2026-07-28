@@ -51,14 +51,24 @@ export const extractPosts = (document, base) =>
 /**
  * Walk a thread's pagination and return every post.
  *
- * Returns { messages, expected, truncated, failed } — `expected` is phpBB's own
- * post total so the caller can tell a short thread from a short crawl.
+ * Returns { messages, expected, rendered, truncated, failed }.
+ *
+ * `expected` is phpBB's own post total and `rendered` is how many post slots
+ * the pages actually served. The two counts exist separately because they
+ * disagree in a way that would otherwise look like data loss: phpBB sometimes
+ * renders the same post on two consecutive pages (t=65 serves p1222751 at both
+ * start=420 and start=435), so a thread can yield 845 distinct posts against a
+ * reported total of 846 while being completely captured.
+ *
+ * `rendered < expected` is the signal that actually means something was missed;
+ * `messages.length < expected` on its own does not.
  */
 export const crawlThread = async (link, { base, maxPages = 2000, delay = 1200 } = {}) => {
   const messages = [];
   const seen = new Set();
   let start = 0;
   let expected = null;
+  let rendered = 0;
   let truncated = false;
   let failed = false;
 
@@ -84,6 +94,9 @@ export const crawlThread = async (link, { base, maxPages = 2000, delay = 1200 } 
     });
     if (!fresh.length) break;
 
+    // Count slots, not distinct posts: a page that re-serves a post already
+    // seen still proves the page was fetched and read.
+    rendered += posts.length;
     messages.push(...fresh);
     start += posts.length;
 
@@ -98,6 +111,7 @@ export const crawlThread = async (link, { base, maxPages = 2000, delay = 1200 } 
       permalink: m.post_id ? `${base}/viewtopic.php?p=${m.post_id}#p${m.post_id}` : null,
     })),
     expected,
+    rendered,
     truncated,
     failed,
   };
