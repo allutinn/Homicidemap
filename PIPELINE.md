@@ -94,7 +94,34 @@ that. `workflow_dispatch` takes `count`, `batch` and `delay` for manual runs.
 The job is `concurrency`-grouped, so a long batch can never overlap the next
 day's run and clobber the state file.
 
-### Review — a Claude Code Routine
+> GitHub only runs `schedule:` triggers on the repository's **default branch**,
+> so while this work lives on `claude/murder-case-pipeline-expansion-hv67qu`
+> the nightly crawl does not fire on its own — use `workflow_dispatch`, or
+> leave it to the Routine below, which crawls what it needs anyway.
+
+### The whole pipeline — a Claude Code Routine
+
+`Homicide map: 4 batches through the pipeline` (`trig_01JWsjKy9PG3FYb6m7nhhd7c`)
+fires daily at **01:00 UTC** into a fresh session and takes **four batches**
+from crawl all the way to the map: crawl what is missing, condense, classify,
+extract, `build-cases.mjs`, mark the stages, commit and push. At four batches a
+day the remaining 52 finish in about **13 days**.
+
+It crawls its own batches rather than relying on the Actions workflow, because
+a fresh session has no shards: `readyFor` treats a recorded crawl whose shard
+is absent as not crawled, so the batch is reclaimed instead of being reviewed
+with nothing to read. Shards it produces are pushed to `crawl-data`, which is
+the only copy — the session's disk is discarded when it ends.
+
+The Routine's prompt carries the bilingual requirement explicitly, because it
+is the one thing a reviewer can silently half-do: every case needs `fi` and
+`en`, each with a `lead` and a `detail`. `build-cases.mjs` fails the build on a
+missing one, and the prompt says not to work around that.
+
+To pause it, disable the Routine; to change cadence or batch count, edit its
+prompt rather than creating a second one.
+
+### Reviewing a batch by hand
 
 The two review stages are model work, so they run as a scheduled session rather
 than a script. Each firing does exactly this:
@@ -111,9 +138,14 @@ empty — so a firing with nothing to do stops instead of reviewing air. Then,
 per thread in the batch:
 
 ```sh
-node scripts/murha-batch-read.mjs --batch $BATCH --topic <id> --text \
+node scripts/murha-batch-read.mjs --batch $BATCH --topic <id> --condense \
   --shards crawl-data/threads
 ```
+
+Use `--condense`, not `--text`: several threads run past 9 000 posts, and
+`--condense` caps each at ~125k tokens while keeping quoted news and police
+text, address lines and every permalink. `--text` renders the thread in full
+and is only for pulling one post back when a location is unclear.
 
 …apply the rubric, write `data/classification/batch-NNN.json`, and close the
 stage:
@@ -131,6 +163,19 @@ over the confirmed cases only.
 `build-cases.mjs` is cheap and idempotent, but it geocodes at Nominatim's
 1 req/s limit, so run it over accumulated extractions rather than per batch —
 say every tenth batch, and once at the end.
+
+## Where the map stands
+
+| | Cases | Municipalities |
+| --- | ---: | --- |
+| Kajaani pass | 26 | Kajaani |
+| Batch 001 | 3 | Helsinki |
+| **On the map** | **29** | **2** |
+
+Batch 001 added Mika Varpa (Helsinki 2006, solved), Jussi Helasvuo (Helsinki
+1988, unsolved) and Susanne Lindholm (Helsinki 1976, unsolved). Lindholm's
+thread is 2 960 posts and was reviewed through a `selected`-tier condensation
+rather than in full — the first case on the map extracted from a reduction.
 
 ## Expected yield
 
