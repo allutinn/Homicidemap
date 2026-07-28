@@ -964,5 +964,1112 @@
         "country_code": "fi"
       }
     }
+  ],
+  "Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2246862,
+      "lon": 27.7339281,
+      "display_name": "Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kajaanin maalaiskunta, Kajaani|26.6991,64.6747,28.7688,63.7747": [],
+  "Voudintie, Kajaanin maalaiskunta, Kajaani|26.6991,64.6747,28.7688,63.7747": [],
+  "Voudintie, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.232592,
+      "lon": 27.7398304,
+      "display_name": "Voudintie, Teppana, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87250, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Voudintie",
+        "suburb": "Teppana",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87250",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kivimäentie 313, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.129062,
+      "lon": 27.6320538,
+      "display_name": "Kivimäentie, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87900, Suomi / Finland",
+      "type": "tertiary",
+      "addresstype": "road",
+      "address": {
+        "road": "Kivimäentie",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87900",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Laajakangas, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.1155979,
+      "lon": 27.2071172,
+      "display_name": "Laajakangas L, Kokkolantie, Vuorokas, Vuottolahti, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 88200, Suomi / Finland",
+      "type": "bus_stop",
+      "addresstype": "highway",
+      "address": {
+        "highway": "Laajakangas L",
+        "road": "Kokkolantie",
+        "hamlet": "Vuorokas",
+        "village": "Vuottolahti",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "88200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.1156907,
+      "lon": 27.2086659,
+      "display_name": "Laajakangas I, Kokkolantie, Vuorokas, Vuottolahti, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 88200, Suomi / Finland",
+      "type": "bus_stop",
+      "addresstype": "highway",
+      "address": {
+        "highway": "Laajakangas I",
+        "road": "Kokkolantie",
+        "hamlet": "Vuorokas",
+        "village": "Vuottolahti",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "88200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Nurmikantie / Sarapolku corner, Laajakangas, Kajaani|26.6991,64.6747,28.7688,63.7747": [],
+  "Nurmikantie, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.1976573,
+      "lon": 27.754197,
+      "display_name": "Nurmikantie, Laajankangas, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87500, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Nurmikantie",
+        "suburb": "Laajankangas",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Nakertaja, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2505119,
+      "lon": 27.6942929,
+      "display_name": "Nakertaja, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87830, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Nakertaja",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87830",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Teppana, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2328059,
+      "lon": 27.7403187,
+      "display_name": "Teppana, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87250, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Teppana",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87250",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.2197028,
+      "lon": 27.7384919,
+      "display_name": "Kajaani, Asemakatu, Lehtikangas, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87100, Suomi / Finland",
+      "type": "station",
+      "addresstype": "railway",
+      "address": {
+        "railway": "Kajaani",
+        "road": "Asemakatu",
+        "suburb": "Lehtikangas",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kuurnantie 10, Teppana, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2303419,
+      "lon": 27.7395353,
+      "display_name": "10, Kuurnantie, Teppana, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87200, Suomi / Finland",
+      "type": "yes",
+      "addresstype": "building",
+      "address": {
+        "house_number": "10",
+        "road": "Kuurnantie",
+        "suburb": "Teppana",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kettu, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2138416,
+      "lon": 27.6800305,
+      "display_name": "Kettu, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87700, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Kettu",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87700",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Ravintola Wanha Kettu, Kettu, Kajaani|26.6991,64.6747,28.7688,63.7747": [],
+  "Ravintola Wanha Kettu, Kajaani|26.6991,64.6747,28.7688,63.7747": [],
+  "Oksatie, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2351173,
+      "lon": 27.7660007,
+      "display_name": "Oksatie, Kuurna, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87250, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Oksatie",
+        "suburb": "Kuurna",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87250",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kätö, Kajaani|26.6991,64.6747,28.7688,63.7747": [],
+  "Kumputie 30, Kätö, Kajaani|26.6991,64.6747,28.7688,63.7747": [],
+  "Kumputie 30, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2394008,
+      "lon": 27.7679184,
+      "display_name": "30, Kumputie, Heinisuo, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87250, Suomi / Finland",
+      "type": "yes",
+      "addresstype": "building",
+      "address": {
+        "house_number": "30",
+        "road": "Kumputie",
+        "suburb": "Heinisuo",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87250",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Rekitie, Teppana, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2374899,
+      "lon": 27.7438601,
+      "display_name": "Rekitie, Teppana, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87250, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Rekitie",
+        "suburb": "Teppana",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87250",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Rajalähiö, Kajaani|26.6991,64.6747,28.7688,63.7747": [],
+  "Sirkunkuja, Rajalähiö, Kajaani|26.6991,64.6747,28.7688,63.7747": [],
+  "Sirkunkuja, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2155441,
+      "lon": 27.7581723,
+      "display_name": "Sirkunkuja, Variskangas, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87400, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Sirkunkuja",
+        "suburb": "Variskangas",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87400",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Huuhkajanvaara, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2051266,
+      "lon": 27.6751026,
+      "display_name": "Huuhkajanvaara, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87700, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Huuhkajanvaara",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87700",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Ensitaival 4, Huuhkajanvaara, Kajaani|26.6991,64.6747,28.7688,63.7747": [],
+  "Ensitaival 4, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.212268,
+      "lon": 27.6766832,
+      "display_name": "4, Ensitaival, Kettu, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87700, Suomi / Finland",
+      "type": "apartments",
+      "addresstype": "building",
+      "address": {
+        "house_number": "4",
+        "road": "Ensitaival",
+        "suburb": "Kettu",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87700",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.2125531,
+      "lon": 27.676581,
+      "display_name": "4, Ensitaival, Kettu, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87700, Suomi / Finland",
+      "type": "yes",
+      "addresstype": "building",
+      "address": {
+        "house_number": "4",
+        "road": "Ensitaival",
+        "suburb": "Kettu",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87700",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Komiaho, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2431889,
+      "lon": 27.7517776,
+      "display_name": "Komiaho, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87250, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Komiaho",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87250",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Suomelanpolku, Komiaho, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2404094,
+      "lon": 27.7513496,
+      "display_name": "Suomelanpolku, Komiaho, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87200, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Suomelanpolku",
+        "suburb": "Komiaho",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Otanmäki, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.1093714,
+      "lon": 27.1069546,
+      "display_name": "Otanmäki, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 88200, Suomi / Finland",
+      "type": "town",
+      "addresstype": "town",
+      "address": {
+        "town": "Otanmäki",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "88200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vuorimiehentie 6, Otanmäki, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.1098987,
+      "lon": 27.1057786,
+      "display_name": "6b, Vuorimiehentie, Otanmäki, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 88200, Suomi / Finland",
+      "type": "yes",
+      "addresstype": "building",
+      "address": {
+        "house_number": "6b",
+        "road": "Vuorimiehentie",
+        "town": "Otanmäki",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "88200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.1110601,
+      "lon": 27.1047611,
+      "display_name": "Vuorimiehentie, Otanmäki, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 88200, Suomi / Finland",
+      "type": "tertiary",
+      "addresstype": "road",
+      "address": {
+        "road": "Vuorimiehentie",
+        "town": "Otanmäki",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "88200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vuorimiehentie, Otanmäki, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.1110601,
+      "lon": 27.1047611,
+      "display_name": "Vuorimiehentie, Otanmäki, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 88200, Suomi / Finland",
+      "type": "tertiary",
+      "addresstype": "road",
+      "address": {
+        "road": "Vuorimiehentie",
+        "town": "Otanmäki",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "88200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kokkolantie, Otanmäki, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.1148007,
+      "lon": 27.0472642,
+      "display_name": "Kokkolantie, Otanmäki, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 88200, Suomi / Finland",
+      "type": "trunk",
+      "addresstype": "road",
+      "address": {
+        "road": "Kokkolantie",
+        "town": "Otanmäki",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "88200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.1117871,
+      "lon": 27.1528189,
+      "display_name": "Kokkolantie, Vuorokas, Otanmäki, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 88200, Suomi / Finland",
+      "type": "trunk",
+      "addresstype": "road",
+      "address": {
+        "road": "Kokkolantie",
+        "hamlet": "Vuorokas",
+        "town": "Otanmäki",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "88200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kauppakatu, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2230522,
+      "lon": 27.7373804,
+      "display_name": "Kauppakatu, Lehtikangas, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87100, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Kauppakatu",
+        "suburb": "Lehtikangas",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.2255521,
+      "lon": 27.7320571,
+      "display_name": "Kauppakatu, Teppana, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87200, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Kauppakatu",
+        "suburb": "Teppana",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.2288078,
+      "lon": 27.7251349,
+      "display_name": "Kauppakatu, Teppana, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87100, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Kauppakatu",
+        "suburb": "Teppana",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.2267101,
+      "lon": 27.7295278,
+      "display_name": "Kauppakatu, Teppana, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87100, Suomi / Finland",
+      "type": "pedestrian",
+      "addresstype": "road",
+      "address": {
+        "road": "Kauppakatu",
+        "suburb": "Teppana",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.2272011,
+      "lon": 27.7285775,
+      "display_name": "Kauppakatu, Teppana, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87200, Suomi / Finland",
+      "type": "pedestrian",
+      "addresstype": "road",
+      "address": {
+        "road": "Kauppakatu",
+        "suburb": "Teppana",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Lehtikangas, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2197028,
+      "lon": 27.7384919,
+      "display_name": "Kajaani, Asemakatu, Lehtikangas, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87100, Suomi / Finland",
+      "type": "station",
+      "addresstype": "railway",
+      "address": {
+        "railway": "Kajaani",
+        "road": "Asemakatu",
+        "suburb": "Lehtikangas",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.2124217,
+      "lon": 27.7394111,
+      "display_name": "Lehtikangas, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87100, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Lehtikangas",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Laajankankaankatu 7, Lehtikangas, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2045902,
+      "lon": 27.7408057,
+      "display_name": "7, Laajankankaankatu, Lehtikangas, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87500, Suomi / Finland",
+      "type": "yes",
+      "addresstype": "building",
+      "address": {
+        "house_number": "7",
+        "road": "Laajankankaankatu",
+        "suburb": "Lehtikangas",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.2044914,
+      "lon": 27.7418237,
+      "display_name": "7, Laajankankaankatu, Laajankangas, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87500, Suomi / Finland",
+      "type": "yes",
+      "addresstype": "building",
+      "address": {
+        "house_number": "7",
+        "road": "Laajankankaankatu",
+        "suburb": "Laajankangas",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Purola, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2286146,
+      "lon": 27.6936062,
+      "display_name": "Purola, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87830, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Purola",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87830",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Länsitie 35, Purola, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2271605,
+      "lon": 27.6889907,
+      "display_name": "35, Länsitie, Purola, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87150, Suomi / Finland",
+      "type": "yes",
+      "addresstype": "building",
+      "address": {
+        "house_number": "35",
+        "road": "Länsitie",
+        "suburb": "Purola",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87150",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Laajankangas, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2063721,
+      "lon": 27.7496464,
+      "display_name": "Laajankangas, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87500, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Laajankangas",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Keskuskatu 11, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2173255,
+      "lon": 27.745572,
+      "display_name": "11, Keskuskatu, Lehtikangas, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87100, Suomi / Finland",
+      "type": "yes",
+      "addresstype": "building",
+      "address": {
+        "house_number": "11",
+        "road": "Keskuskatu",
+        "suburb": "Lehtikangas",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Askeltie, Huuhkajanvaara, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2093883,
+      "lon": 27.6773474,
+      "display_name": "Askeltie, Huuhkajanvaara, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87700, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Askeltie",
+        "suburb": "Huuhkajanvaara",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87700",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kainuun keskussairaala, Kajaani|26.6991,64.6747,28.7688,63.7747": [
+    {
+      "lat": 64.2140302,
+      "lon": 27.7281439,
+      "display_name": "Kainuun keskussairaala, 13, Sotkamontie, Lehtikangas, Kajaani, Kajaanin seutukunta, Kainuu, Manner-Suomi, 87300, Suomi / Finland",
+      "type": "hospital",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Kainuun keskussairaala",
+        "house_number": "13",
+        "road": "Sotkamontie",
+        "suburb": "Lehtikangas",
+        "town": "Kajaani",
+        "municipality": "Kajaanin seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "postcode": "87300",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Helsinki": [
+    {
+      "lat": 60.1666204,
+      "lon": 24.9435408,
+      "display_name": "Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Malmi, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.2507611,
+      "lon": 25.0085738,
+      "display_name": "Malmi, Koillinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Malmi",
+        "city_district": "Koillinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2509496,
+      "lon": 25.0107602,
+      "display_name": "Malmi, 14, Malmin kauppatie, Ylä-Malmi, Malmi, Koillinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00700, Suomi / Finland",
+      "type": "station",
+      "addresstype": "railway",
+      "address": {
+        "railway": "Malmi",
+        "house_number": "14",
+        "road": "Malmin kauppatie",
+        "quarter": "Ylä-Malmi",
+        "suburb": "Malmi",
+        "city_district": "Koillinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00700",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Punavuori, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.1620171,
+      "lon": 24.9398885,
+      "display_name": "Punavuori, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Punavuori",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vuorimiehenkatu 14, Punavuori, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.1588868,
+      "lon": 24.9446069,
+      "display_name": "14, Vuorimiehenkatu, Ullanlinna, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00130, Suomi / Finland",
+      "type": "yes",
+      "addresstype": "building",
+      "address": {
+        "house_number": "14",
+        "road": "Vuorimiehenkatu",
+        "suburb": "Ullanlinna",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00130",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1588747,
+      "lon": 24.9443043,
+      "display_name": "14, Vuorimiehenkatu, Ullanlinna, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00130, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "building",
+      "address": {
+        "house_number": "14",
+        "road": "Vuorimiehenkatu",
+        "suburb": "Ullanlinna",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00130",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1591687,
+      "lon": 24.9447093,
+      "display_name": "headMade Helsinki, 14, Vuorimiehenkatu, Ullanlinna, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00130, Suomi / Finland",
+      "type": "hairdresser",
+      "addresstype": "shop",
+      "address": {
+        "shop": "headMade Helsinki",
+        "house_number": "14",
+        "road": "Vuorimiehenkatu",
+        "suburb": "Ullanlinna",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00130",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1591648,
+      "lon": 24.9445862,
+      "display_name": "TehoRento, 14, Vuorimiehenkatu, Ullanlinna, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00130, Suomi / Finland",
+      "type": "massage",
+      "addresstype": "shop",
+      "address": {
+        "shop": "TehoRento",
+        "house_number": "14",
+        "road": "Vuorimiehenkatu",
+        "suburb": "Ullanlinna",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00130",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1591549,
+      "lon": 24.944278,
+      "display_name": "Lilla Creations, 14, Vuorimiehenkatu, Ullanlinna, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00130, Suomi / Finland",
+      "type": "interior_decoration",
+      "addresstype": "shop",
+      "address": {
+        "shop": "Lilla Creations",
+        "house_number": "14",
+        "road": "Vuorimiehenkatu",
+        "suburb": "Ullanlinna",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00130",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1591568,
+      "lon": 24.9443371,
+      "display_name": "Salon Harmony, 14, Vuorimiehenkatu, Ullanlinna, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00130, Suomi / Finland",
+      "type": "hairdresser",
+      "addresstype": "shop",
+      "address": {
+        "shop": "Salon Harmony",
+        "house_number": "14",
+        "road": "Vuorimiehenkatu",
+        "suburb": "Ullanlinna",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00130",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Koskela, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.2187652,
+      "lon": 24.9682441,
+      "display_name": "Koskela, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00600, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Koskela",
+        "city_district": "Keskinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00600",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Sofianlehdonkatu 9, Koskela, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Sofianlehdonkatu 9, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.2061426,
+      "lon": 24.9486341,
+      "display_name": "9, Sofianlehdonkatu, Kisakylä, Käpylä, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00610, Suomi / Finland",
+      "type": "apartments",
+      "addresstype": "building",
+      "address": {
+        "house_number": "9",
+        "road": "Sofianlehdonkatu",
+        "neighbourhood": "Kisakylä",
+        "suburb": "Käpylä",
+        "city_district": "Keskinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00610",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
   ]
 }

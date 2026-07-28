@@ -19,23 +19,43 @@
  * is queried at most once per distinct place string (1 req/s, as its usage
  * policy requires).
  */
-import { readFile, writeFile } from "node:fs/promises";
+import { readFile, writeFile, readdir } from "node:fs/promises";
+import { join } from "node:path";
 import { arg, sleep } from "./lib/forum.mjs";
 
-const IN = arg("in", "data/kajaani-homicides.json");
+/**
+ * Case records come from more than one file now: the original curated Kajaani
+ * set, plus one file per pipeline batch. Repeat --in to add more, or point
+ * --in-dir at a directory of them.
+ */
+const inputs = () => {
+  const out = [];
+  process.argv.forEach((a, i) => {
+    if (a === "--in" && process.argv[i + 1] && !process.argv[i + 1].startsWith("--"))
+      out.push(process.argv[i + 1]);
+  });
+  return out.length ? out : ["data/kajaani-homicides.json"];
+};
+
+const IN = inputs();
+const IN_DIR = arg("in-dir", "data/homicides");
 const OUT = arg("out", "data/cases.js");
 const CACHE = arg("cache", "data/geocode-cache.json");
 
 const UA = "HomicideMap/1.0 (https://github.com/allutinn/Homicidemap)";
 
-/** Kajaani town centre — the fallback when nothing more precise resolves. */
-const KAJAANI = { lat: 64.2273, lon: 27.7285, display_name: "Kajaani, Kainuu, Suomi" };
-
 /**
- * Kajaani municipality bounding box. Searches are bounded to it so a street
- * name that also exists elsewhere in Finland cannot win.
+ * Where a case's markers may fall back to, and the box its lookups are bounded
+ * by, when nothing more precise resolves.
+ *
+ * The map began as one municipality, so this was a pair of Kajaani constants.
+ * Nationwide it has to be per case: a street name repeats across hundreds of
+ * Finnish municipalities, and an unbounded search for "Vuorimiehenkatu" will
+ * happily answer with the wrong city. Each case therefore carries its own
+ * `municipality`, which is geocoded once and used both as the fallback point
+ * and as the centre of a bounding box for that case's lookups.
  */
-const VIEWBOX = "26.90,64.45,28.45,63.90"; // left,top,right,bottom
+const MUNICIPALITY_BOX_DEG = 0.45; // ~50 km north-south, enough for any municipality
 
 /**
  * Nominatim returns *something* for almost any string, and that something is
@@ -70,8 +90,9 @@ const cache = await readFile(CACHE, "utf8")
 let queried = 0;
 
 /** Raw Nominatim query, cached and rate-limited (policy: max 1 request/second). */
-const search = async (query) => {
-  if (query in cache) return cache[query];
+const search = async (query, viewbox = null) => {
+  const key = viewbox ? `${query}|${viewbox}` : query;
+  if (key in cache) return cache[key];
 
   await sleep(queried++ ? 1100 : 0);
   const url =
@@ -81,8 +102,7 @@ const search = async (query) => {
       format: "json",
       limit: "8",
       countrycodes: "fi",
-      viewbox: VIEWBOX,
-      bounded: "1",
+      ...(viewbox ? { viewbox, bounded: "1" } : {}),
       addressdetails: "1",
     });
 
@@ -105,7 +125,7 @@ const search = async (query) => {
     console.warn(`  geocode failed for "${query}": ${e.message}`);
   }
 
-  cache[query] = results;
+  cache[key] = results;
   return results;
 };
 
@@ -141,14 +161,14 @@ const km = (a, b) => {
  * downgraded: a coarse marker in the right place beats an exact one in the
  * wrong place.
  */
-const geocode = async (loc) => {
+const geocode = async (loc, { municipality, viewbox }) => {
   const parts = loc.label.split(",").map((s) => s.trim());
-  // "<place>, <district>, Kajaani" → district is the second-to-last part.
-  const district = parts.length >= 3 ? `${parts[parts.length - 2]}, Kajaani` : null;
+  // "<place>, <district>, <municipality>" → district is second-to-last.
+  const district = parts.length >= 3 ? `${parts[parts.length - 2]}, ${municipality}` : null;
 
   let anchor = null;
   if (district) {
-    const hits = await search(district);
+    const hits = await search(district, viewbox);
     anchor = hits.find((h) => typeOk("district", h)) ?? null;
   }
 
@@ -158,17 +178,49 @@ const geocode = async (loc) => {
   const queries = [loc.label];
   if (parts.length >= 3) {
     for (const name of parts[0].split(/\s*[/&]\s*|\s+ja\s+/))
-      queries.push(`${name.trim()}, Kajaani`);
+      queries.push(`${name.trim()}, ${municipality}`);
   }
 
   for (const q of [...new Set(queries)]) {
-    const typed = (await search(q)).filter((r) => typeOk(loc.precision, r));
+    const typed = (await search(q, viewbox)).filter((r) => typeOk(loc.precision, r));
     const near = anchor ? typed.filter((r) => km(r, anchor) <= 6) : typed;
     if (near.length) return { hit: near[0], precision: loc.precision, downgraded: false };
   }
 
   if (anchor) return { hit: anchor, precision: "district", downgraded: true };
   return null;
+};
+
+/**
+ * A case's municipality: its fallback point and the centre of its search box.
+ *
+ * Resolved once per distinct municipality name and cached like any other
+ * lookup. A case whose municipality cannot be geocoded is a build error — the
+ * alternative is a marker in the sea, or worse, silently in another town.
+ */
+const municipalityCache = new Map();
+const resolveMunicipality = async (name) => {
+  if (municipalityCache.has(name)) return municipalityCache.get(name);
+
+  const hit = (await search(name)).find((r) => typeOk("town", r));
+  if (!hit) throw new Error(`municipality "${name}" did not geocode — cannot place its cases`);
+
+  const d = MUNICIPALITY_BOX_DEG;
+  const resolved = {
+    municipality: name,
+    centre: hit,
+    // left,top,right,bottom. Longitude degrees shrink with latitude, and
+    // Finland is far enough north that ignoring it makes the box far too
+    // narrow east-west.
+    viewbox: [
+      (hit.lon - d / Math.cos((hit.lat * Math.PI) / 180)).toFixed(4),
+      (hit.lat + d).toFixed(4),
+      (hit.lon + d / Math.cos((hit.lat * Math.PI) / 180)).toFixed(4),
+      (hit.lat - d).toFixed(4),
+    ].join(","),
+  };
+  municipalityCache.set(name, resolved);
+  return resolved;
 };
 
 /**
@@ -180,15 +232,15 @@ const geocode = async (loc) => {
  * street-address bus station over the district where the body was actually
  * found, and put the marker on the wrong event.
  */
-const resolveLocation = async (locations) => {
+const resolveLocation = async (locations, place) => {
   const ranked = locations;
 
   for (const loc of ranked) {
-    const found = await geocode(loc);
+    const found = await geocode(loc, place);
     if (found)
       return { hit: found.hit, loc, precision: found.precision, downgraded: found.downgraded, fallback: false };
   }
-  return { hit: KAJAANI, loc: ranked[0] ?? null, precision: "town", downgraded: false, fallback: true };
+  return { hit: place.centre, loc: ranked[0] ?? null, precision: "town", downgraded: false, fallback: true };
 };
 
 /** Languages the map offers. Every case must carry an overview in each. */
@@ -209,12 +261,46 @@ const checkOverview = (overview, title) => {
   return overview;
 };
 
-const cases = JSON.parse(await readFile(IN, "utf8"));
+/**
+ * Load every case file. The batch files under --in-dir are added automatically
+ * so a finished batch reaches the map without anyone editing a command line;
+ * a case already present by topic_id is not added twice.
+ */
+const load = async () => {
+  const files = [...IN];
+  try {
+    for (const f of (await readdir(IN_DIR)).sort())
+      if (f.endsWith(".json")) files.push(join(IN_DIR, f));
+  } catch {
+    /* no batch extractions yet */
+  }
+
+  const seen = new Set();
+  const all = [];
+  for (const f of files) {
+    const rows = JSON.parse(await readFile(f, "utf8"));
+    let added = 0;
+    for (const c of rows) {
+      const key = String(c.topic_id);
+      if (seen.has(key)) continue;
+      seen.add(key);
+      all.push({ ...c, source_file: f });
+      added++;
+    }
+    console.log(`${f}: ${added} case(s)`);
+  }
+  return all;
+};
+
+const cases = await load();
 const out = [];
 let fallbacks = 0;
 
 for (const [i, c] of cases.entries()) {
-  const { hit, loc, precision, downgraded, fallback } = await resolveLocation(c.locations ?? []);
+  // Kajaani is the default only because the original 26 records predate the
+  // field; every new extraction carries its own municipality.
+  const place = await resolveMunicipality(c.municipality ?? "Kajaani");
+  const { hit, loc, precision, downgraded, fallback } = await resolveLocation(c.locations ?? [], place);
   if (fallback) fallbacks++;
 
   out.push({
@@ -234,7 +320,8 @@ for (const [i, c] of cases.entries()) {
     // The key, not a rendered word: the map labels it in the chosen language.
     status: c.solved_status ?? "unclear",
     outcome: c.outcome ?? null,
-    location: loc?.detail ?? "Kajaani",
+    location: loc?.detail ?? (c.municipality ?? "Kajaani"),
+    municipality: c.municipality ?? "Kajaani",
     summary: checkOverview(c.overview, c.title),
     victims: c.victims ?? [],
     suspects: c.suspects ?? [],
@@ -262,13 +349,13 @@ await writeFile(CACHE, JSON.stringify(cache, null, 2) + "\n");
 
 const banner = `// Kajaani homicide cases, derived from murha.info Rikosfoorumi threads.
 //
-// Generated by scripts/build-cases.mjs from data/kajaani-homicides.json — edit
-// that file (or the pipeline behind it), not this one.
+// Generated by scripts/build-cases.mjs from data/kajaani-homicides.json and
+// data/homicides/batch-*.json — edit those (or the pipeline behind them), not this.
 //
 // Every field traces to a forum message; \`locations\` records where each place
 // came from and how well it is supported, and \`coords_precision\` /
 // \`coords_credibility\` say how exact the marker is. A "town" precision marker
-// is the Kajaani centroid, not the site of the killing.
+// is the municipality centroid, not the site of the killing.
 //
 // \`summary\` is bilingual: \`{fi,en}\` each with a short \`lead\` and a full
 // \`detail\`. \`status\` is a key (solved / unsolved / in_investigation /

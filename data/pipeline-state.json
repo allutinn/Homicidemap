@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T12:30:00.277Z",
+  "updated_at": "2026-07-28T16:42:23.841Z",
   "stages": [
     "crawl",
     "classify",
@@ -15,6 +15,22 @@
         "messages": 3686,
         "bytes": 1361952,
         "incomplete": []
+      },
+      "classify": {
+        "at": "2026-07-28T16:42:23.549Z",
+        "reviewed": 3,
+        "homicides": 3,
+        "note": "all 3 threads are single homicide cases"
+      },
+      "extract": {
+        "at": "2026-07-28T16:42:23.698Z",
+        "cases": 3,
+        "note": "data/homicides/batch-001.json"
+      },
+      "map": {
+        "at": "2026-07-28T16:42:23.841Z",
+        "markers": 3,
+        "note": "29 cases on the map"
       }
     },
     "002": {
