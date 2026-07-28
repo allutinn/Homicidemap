@@ -3,12 +3,15 @@
  *
  *   node scripts/murha-batch-read.mjs --batch 007            # list its threads
  *   node scripts/murha-batch-read.mjs --batch 007 --topic 43 # one thread, full
- *   node scripts/murha-batch-read.mjs --batch 007 --topic 43 --text
+ *   node scripts/murha-batch-read.mjs --batch 007 --topic 43 --condense
  *
  * Options:
  *   --batch 007      required
  *   --topic <id>     dump one thread instead of listing the batch
  *   --text           render that thread as plain text rather than JSON
+ *   --condense       render it reduced to what a review needs to read — the
+ *                    default way to read anything large (see lib/condense.mjs)
+ *   --budget 500000  character budget for --condense
  *   --shards crawl/threads
  *   --state data/pipeline-state.json
  *
@@ -20,6 +23,7 @@ import { readFile } from "node:fs/promises";
 import { gunzipSync } from "node:zlib";
 import { join } from "node:path";
 import { arg, flag } from "./lib/forum.mjs";
+import { condense, CHAR_BUDGET } from "./lib/condense.mjs";
 
 const BATCH = arg("batch", null);
 const SHARDS = arg("shards", "crawl/threads");
@@ -81,6 +85,16 @@ const thread = shard.threads.find((t) => String(t.topic_id) === String(TOPIC));
 if (!thread) {
   console.error(`Batch ${BATCH} has no topic ${TOPIC}.`);
   process.exit(1);
+}
+
+if (flag("condense")) {
+  const r = condense(thread, { charBudget: Number(arg("budget", String(CHAR_BUDGET))) });
+  process.stderr.write(
+    `[condense] ${thread.message_count} posts -> ${r.shown} shown, ` +
+      `${(r.total_chars / 1000).toFixed(0)}k -> ${(r.chars / 1000).toFixed(0)}k chars (tier: ${r.tier})\n`
+  );
+  console.log(r.text);
+  process.exit(0);
 }
 
 if (!flag("text")) {
