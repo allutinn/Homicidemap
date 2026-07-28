@@ -1,0 +1,114 @@
+name: Crawl murha.info batch
+
+# Drains the batch plan one batch at a time, on a schedule, until every topic in
+# data/batch-plan.json has been crawled. State lives in data/pipeline-state.json
+# on this branch; the crawled posts live on the orphan `crawl-data` branch,
+# which the Pages deploy never publishes.
+
+on:
+  schedule:
+    # 03:17 UTC daily — off-peak for a Finnish forum, and an odd minute so the
+    # job is not queued behind the top-of-hour crowd on GitHub's schedulers.
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+    inputs:
+      count:
+        description: "How many batches to crawl this run"
+        default: "1"
+      batch:
+        description: "Crawl one specific batch id (e.g. 007), overrides count"
+        default: ""
+      delay:
+        description: "ms between requests to murha.info"
+        default: "1200"
+
+permissions:
+  contents: write
+
+# Never run two crawls at once: both would append to the same state file and
+# the second push would clobber the first.
+concurrency:
+  group: murha-crawl
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    # A single oversized batch (the 18 659-post thread) takes ~25 minutes; this
+    # leaves room for several batches per run without ever hanging a runner.
+    timeout-minutes: 180
+
+    steps:
+      - name: Check out the pipeline branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: npm
+
+      - run: npm ci --omit=dev
+
+      - name: Check out the crawl-data branch alongside
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin crawl-data; then
+            git fetch origin crawl-data --depth=1
+            git worktree add crawl-data origin/crawl-data
+          else
+            # First run: an orphan branch, so the crawl never carries the
+            # site's history and the site never carries the crawl's.
+            git worktree add --detach crawl-data
+            git -C crawl-data checkout --orphan crawl-data
+            git -C crawl-data reset --hard
+          fi
+          mkdir -p crawl-data/threads
+
+      - name: Crawl
+        run: |
+          if [ -n "${{ inputs.batch }}" ]; then
+            node scripts/murha-crawl-batch.mjs \
+              --batch "${{ inputs.batch }}" --force \
+              --shards crawl-data/threads --delay "${{ inputs.delay || '1200' }}"
+          else
+            node scripts/murha-crawl-batch.mjs \
+              --count "${{ inputs.count || '1' }}" \
+              --shards crawl-data/threads --delay "${{ inputs.delay || '1200' }}"
+          fi
+
+      - name: Push the shards to crawl-data
+        run: |
+          cd crawl-data
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No new shards."
+            exit 0
+          fi
+          git add threads
+          git commit -m "Crawl batch shards $(date -u +%Y-%m-%d)"
+          for i in 1 2 3 4; do
+            git push origin HEAD:crawl-data && exit 0
+            echo "push failed, retrying in $((2 ** i))s"; sleep $((2 ** i))
+          done
+          exit 1
+
+      - name: Commit the pipeline state
+        run: |
+          if [ -z "$(git status --porcelain data/pipeline-state.json)" ]; then
+            echo "State unchanged — nothing was crawled."
+            exit 0
+          fi
+          git add data/pipeline-state.json
+          git commit -m "Record crawl progress"
+          for i in 1 2 3 4; do
+            git pull --rebase origin ${{ github.ref_name }} && \
+              git push origin HEAD:${{ github.ref_name }} && exit 0
+            echo "push failed, retrying in $((2 ** i))s"; sleep $((2 ** i))
+          done
+          exit 1
+
+      - name: Report what is left
+        if: always()
+        run: node scripts/murha-status.mjs >> $GITHUB_STEP_SUMMARY

@@ -61,10 +61,17 @@ npx playwright codegen http://localhost:8000                        # record act
 
 ## Forum topic search (murha.info)
 
-The forum is phpBB 3.3 and fully server-rendered, so both scrapers use plain
+The forum is phpBB 3.3 and fully server-rendered, so the scrapers use plain
 HTTP plus a DOM parser ([linkedom](https://github.com/WebReflection/linkedom)) —
 no browser. Shared fetch/parse helpers live in `scripts/lib/forum.mjs`, which
-retries network errors and 5xx with exponential backoff.
+retries network errors and 5xx with exponential backoff; thread crawling lives
+in `scripts/lib/thread.mjs` so the keyword crawler and the batch crawler capture
+posts identically.
+
+> Searching by keyword was how the Kajaani pass started. To cover the forum
+> systematically instead, see **[PIPELINE.md](PIPELINE.md)** — it enumerates
+> every topic in the homicide forums (2 475 of them), packs them into 55
+> batches, and drains the queue on a schedule.
 
 ### 1. Find the topics
 
@@ -132,7 +139,20 @@ node scripts/murha-search.mjs  --base http://localhost:8200/rikosfoorumi \
   --delay 0 --overview --out /tmp/topics.json
 node scripts/murha-threads.mjs --base http://localhost:8200/rikosfoorumi \
   --delay 0 --in /tmp/topics.json --out /tmp/cases.json
+
+# the batch pipeline, end to end
+node scripts/murha-forums.mjs --base http://localhost:8200/rikosfoorumi \
+  --forums 2,15 --delay 0 --out /tmp/index.json
+node scripts/murha-batches.mjs --index /tmp/index.json --plan /tmp/plan.json \
+  --max-pages 5 --max-topics 2
+node scripts/murha-crawl-batch.mjs --plan /tmp/plan.json --index /tmp/index.json \
+  --state /tmp/state.json --shards /tmp/shards \
+  --base http://localhost:8200/rikosfoorumi --delay 0 --count 99
+node scripts/murha-status.mjs --plan /tmp/plan.json --state /tmp/state.json
 ```
+
+The fixture serves `viewforum.php` as well as `search.php` and `viewtopic.php`,
+including an announcement row the enumerator has to skip.
 
 Be considerate when running against the live forum: the default `--delay 1200`
 throttles requests, and `--max-pages` bounds the crawl.
@@ -150,6 +170,32 @@ throttles requests, and `--max-pages` bounds the crawl.
 Every thread's haul matches phpBB's own post total, so nothing is truncated.
 Two posts have empty `text` because they contain only an image; both keep their
 `images` entry.
+
+## Covering the whole forum, in batches
+
+Keyword search answers "which topics mention Kajaani?". To cover murha.info's
+homicide forums exhaustively there is a second, batch-driven path — the census,
+plan, queue and state that let the crawl run in intervals over weeks.
+**[PIPELINE.md](PIPELINE.md)** is the full plan; the commands are:
+
+```sh
+npm run census      # enumerate every topic in f=2 and f=15 -> data/forum-index.json
+npm run plan        # pack them into batches            -> data/batch-plan.json
+npm run crawl       # crawl the next pending batch      -> crawl/threads/batch-NNN.json.gz
+npm run status      # how far along is each stage
+```
+
+| File | Committed? | Contents |
+| --- | --- | --- |
+| `data/forum-index.json` | yes | Every topic in the homicide forums with its reply count — 2 475 topics, 323 910 posts. Matches phpBB's own counters exactly. |
+| `data/batch-plan.json` | yes | The 55 batches, bounded by 600 page fetches *and* 60 topics each. Assignment is stable, so re-planning after the forum grows only appends. |
+| `data/pipeline-state.json` | yes | Which of `crawl` / `classify` / `extract` / `map` has run for each batch, and what it counted. |
+| `crawl/threads/batch-NNN.json.gz` | **no** | The crawled posts (~114 MB gzipped at full scope). Gitignored; CI keeps them on the orphan `crawl-data` branch so `deploy.yml` never republishes them. |
+
+`.github/workflows/crawl-batch.yml` runs one batch nightly, so the crawl
+completes in 55 days unattended. The two review passes run as a scheduled
+Claude Code session against `murha-batch-read.mjs` and close their stage with
+`murha-mark.mjs`.
 
 ## From threads to map records
 

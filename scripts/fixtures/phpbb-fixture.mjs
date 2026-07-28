@@ -59,6 +59,10 @@ const TOPICS = [
 
 const PER_PAGE = 3;
 
+/** Forum ids, mirroring murha.info: 2 = henkirikokset, 15 = selvittämättömät. */
+const FORUM_NAMES = { 2: "Henkirikokset - kotimaa", 15: "Henkirikokset kotimaa - selvittämättömät" };
+const forumIdOf = (t) => (t.forum === "Vanhat tapaukset" ? 15 : 2);
+
 const resultsPage = (start) => {
   // phpBB clamps an out-of-range start to the last page rather than 404ing.
   const clamped = Math.min(start, Math.max(0, TOPICS.length - 1));
@@ -122,6 +126,56 @@ const postsFor = (topic) => [
   },
 ];
 
+/**
+ * A forum listing, as walked by murha-forums.mjs. Unlike the search page this
+ * carries the forum's own topic total ("N viestiketjua") and an announcement
+ * row, which the enumerator has to skip.
+ */
+const forumPage = (f, start) => {
+  const inForum = TOPICS.filter((t) => String(forumIdOf(t)) === String(f));
+  const clamped = Math.min(start, Math.max(0, inForum.length - 1));
+  const rows = inForum
+    .slice(clamped, clamped + PER_PAGE)
+    .map(
+      (t) => `
+    <li class="row bg1">
+      <dl>
+        <dd><div class="list-inner">
+          <a href="./viewtopic.php?f=${f}&amp;t=${t.t}&amp;sid=abc" class="topictitle">${t.title}</a>
+          <div class="responsive-hide left-box">
+            Kirjoittaja <span class="username">${t.author}</span> &raquo;
+            <time datetime="2020-01-12T10:00:00+00:00">Su Tammi 12, 2020 10:00 am</time>
+          </div>
+        </div></dd>
+        <dd class="posts">${postsFor(t).length - 1} <dfn>Vastaukset</dfn></dd>
+      </dl>
+    </li>`
+    )
+    .join("\n");
+
+  // Announcements repeat on every page of the forum and are not cases.
+  const announcement = `
+    <li class="row bg1 global-announce">
+      <dl>
+        <dd><div class="list-inner">
+          <a href="./viewtopic.php?f=${f}&amp;t=273&amp;sid=abc" class="topictitle">Palstan säännöt</a>
+          <div class="responsive-hide left-box">
+            Kirjoittaja <span class="username">yllapito</span> &raquo;
+            <time datetime="2010-01-01T00:00:00+00:00">Pe Tammi 01, 2010 12:00 am</time>
+          </div>
+        </div></dd>
+        <dd class="posts">0 <dfn>Vastaukset</dfn></dd>
+      </dl>
+    </li>`;
+
+  return `<!DOCTYPE html><html lang="fi"><head><meta charset="utf-8">
+  <title>Foorumi ${f}</title></head><body>
+  <h2><a href="./viewforum.php?f=${f}">${FORUM_NAMES[f] ?? `Foorumi ${f}`}</a></h2>
+  <div class="pagination">${inForum.length} viestiketjua Sivu 1/1</div>
+  <div id="page-body"><ul class="topiclist topics">${announcement}${rows}</ul></div>
+  </body></html>`;
+};
+
 const topicPage = (t, start) => {
   const topic = TOPICS.find((x) => String(x.t) === String(t));
   if (!topic) return `<!DOCTYPE html><html><body><p>Not found</p></body></html>`;
@@ -162,6 +216,8 @@ createServer((req, res) => {
 
   if (url.pathname.endsWith("/search.php")) {
     res.end(resultsPage(Number(url.searchParams.get("start") || 0)));
+  } else if (url.pathname.endsWith("/viewforum.php")) {
+    res.end(forumPage(url.searchParams.get("f"), Number(url.searchParams.get("start") || 0)));
   } else if (url.pathname.endsWith("/viewtopic.php")) {
     res.end(topicPage(url.searchParams.get("t"), Number(url.searchParams.get("start") || 0)));
   } else {

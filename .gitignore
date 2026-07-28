@@ -1,2 +1,10 @@
 screenshots/
 node_modules/
+
+# Crawled forum posts. ~114 MB gzipped at full scope, and 324 000 verbatim
+# posts naming victims, suspects and pseudonymous posters — deploy.yml publishes
+# the repo root to GitHub Pages, so this must never be committed on a branch
+# that deploys. CI keeps the shards on the orphan `crawl-data` branch instead;
+# `crawl-data/` is the worktree that branch is checked out into.
+crawl/
+crawl-data/

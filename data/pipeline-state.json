@@ -1,0 +1,10 @@
+{
+  "updated_at": null,
+  "stages": [
+    "crawl",
+    "classify",
+    "extract",
+    "map"
+  ],
+  "batches": {}
+}

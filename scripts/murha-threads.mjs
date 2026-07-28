@@ -26,7 +26,8 @@
  */
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import { dirname } from "node:path";
-import { fetchDoc, sleep, clean, arg, flag, absolute } from "./lib/forum.mjs";
+import { sleep, arg, flag } from "./lib/forum.mjs";
+import { crawlThread } from "./lib/thread.mjs";
 
 const IN = arg("in", "data/kajaani-topics.json");
 const OUT = arg("out", "data/kajaani-cases.json");
@@ -59,50 +60,6 @@ if (!selected.length) {
   process.exit(1);
 }
 
-/** Total post count, read from phpBB's "N viestiä" pagination header. */
-const readTotal = (document) => {
-  const text = clean(document.querySelector(".pagination")?.textContent);
-  return Number(text.match(/(\d+)\s*viesti/i)?.[1] ?? 0);
-};
-
-/** Extract every post on the current viewtopic page. */
-const extractPosts = (document) =>
-  [...document.querySelectorAll("div.post")].map((post) => {
-    const content = post.querySelector(".content");
-
-    // phpBB renders quoted text as blockquote; keep it, but also record the
-    // post's own words separately so quotes are not mistaken for new content.
-    const quotes = [...(content?.querySelectorAll("blockquote") ?? [])].map((q) =>
-      clean(q.textContent)
-    );
-
-    return {
-      post_id: post.getAttribute("id")?.replace(/^p/, "") ?? null,
-      permalink: null, // filled below, needs the topic link
-      // `.username` must be tried on its own first: a comma-separated selector
-      // resolves in document order, and for posters with an avatar the empty
-      // `a.avatar` precedes the username link and would win.
-      author: clean(
-        post.querySelector(".postprofile .username")?.textContent ||
-          post.querySelector("p.author .username")?.textContent ||
-          post.querySelector(".postprofile a:not(.avatar)")?.textContent
-      ),
-      date: post.querySelector("p.author time")?.getAttribute("datetime") ?? null,
-      date_text: clean(post.querySelector("p.author time")?.textContent),
-      text: clean(content?.textContent),
-      quotes,
-      links: [...(content?.querySelectorAll("a[href]") ?? [])]
-        .map((a) => ({
-          text: clean(a.textContent),
-          href: absolute(a.getAttribute("href"), BASE),
-        }))
-        .filter((l) => l.href && !l.href.includes("memberlist.php")),
-      images: [...(content?.querySelectorAll("img[src]") ?? [])]
-        .map((i) => absolute(i.getAttribute("src"), BASE))
-        .filter(Boolean),
-    };
-  });
-
 const cases = [];
 let failures = 0;
 
@@ -116,41 +73,12 @@ for (const [n, topic] of selected.entries()) {
     continue;
   }
 
-  const messages = [];
-  const seen = new Set();
-  let start = 0;
-  let expected = null;
-  let truncated = false;
-
-  for (let p = 0; p < MAX_PAGES; p++) {
-    const url = `${topic.link}&start=${start}`;
-    const { ok, status, document } = await fetchDoc(url);
-    if (!ok) {
-      console.warn(`  HTTP ${status} on ${url} — stopping this thread.`);
-      truncated = true;
-      failures++;
-      break;
-    }
-
-    if (expected === null) expected = readTotal(document) || null;
-
-    const posts = extractPosts(document);
-    // phpBB clamps an out-of-range `start` and re-serves the last page, so the
-    // walk ends when a page yields nothing new.
-    const fresh = posts.filter((post) => {
-      const key = post.post_id || `${post.author}|${post.date}|${post.text.slice(0, 120)}`;
-      if (seen.has(key)) return false;
-      seen.add(key);
-      return true;
-    });
-    if (!fresh.length) break;
-
-    messages.push(...fresh);
-    start += posts.length;
-
-    if (p === MAX_PAGES - 1) truncated = true;
-    await sleep(DELAY);
-  }
+  const { messages, expected, truncated, failed } = await crawlThread(topic.link, {
+    base: BASE,
+    maxPages: MAX_PAGES,
+    delay: DELAY,
+  });
+  if (failed) failures++;
 
   const record = {
     topic: topic.topic,
@@ -162,11 +90,7 @@ for (const [n, topic] of selected.entries()) {
     expected_message_count: expected,
     message_count: messages.length,
     truncated,
-    messages: messages.map((m, i) => ({
-      ...m,
-      index: i + 1,
-      permalink: m.post_id ? `${BASE}/viewtopic.php?p=${m.post_id}#p${m.post_id}` : null,
-    })),
+    messages, // already carry index and permalink from crawlThread
   };
   cases.push(record);
 
