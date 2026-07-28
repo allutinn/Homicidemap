@@ -1,0 +1,22 @@
+import { chromium } from "playwright";
+const b = await chromium.launch();
+const p = await b.newPage({ viewport: { width: 390, height: 844 } });
+const errors = []; p.on("pageerror", e => errors.push(e.message));
+await p.route("**tile.openstreetmap.org/**", r => r.abort());
+await p.goto("http://localhost:8324/", { waitUntil: "networkidle" });
+await p.waitForTimeout(1200);
+console.log("markers:", await p.locator(".leaflet-marker-icon").count());
+console.log("case-count label:", await p.locator("#case-count").innerText());
+// jump to the Helsinki cluster, then click a marker there
+await p.evaluate(() => { const m = window.__map || null; });
+const idx = await p.evaluate(() => CASES.findIndex(c => /Varpa/.test(c.title)));
+console.log("Varpa index:", idx, "| coords:", await p.evaluate(i => CASES[i].coords, idx));
+await p.evaluate(i => { document.querySelectorAll('.leaflet-marker-icon')[i].click(); }, idx);
+await p.waitForTimeout(700);
+const txt = await p.locator("body").innerText();
+const start = txt.indexOf("Mika Varpa");
+console.log("--- sheet content ---");
+console.log(txt.slice(start, start + 380));
+console.log("--- errors:", errors.length ? errors : "none");
+await p.screenshot({ path: "/tmp/map.png" });
+await b.close();

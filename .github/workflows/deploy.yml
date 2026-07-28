@@ -19,10 +19,32 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
+      # Assemble exactly what index.html loads, and nothing else.
+      #
+      # This used to publish the repository root, which meant the public site
+      # also served data/kajaani-cases.json — 2 749 verbatim forum posts naming
+      # victims, suspects and pseudonymous posters — plus the topic indexes and
+      # batch plans. None of it is referenced by the page; all of it was
+      # readable at allutinn.github.io, republished under a different domain
+      # than the one those posts were written for.
+      #
+      # The curated records in data/cases.js are a deliberate, reviewed subset
+      # and are what the map is for. The raw crawl is working material.
+      - name: Assemble the published site
+        run: |
+          mkdir -p _site/data
+          cp index.html _site/
+          cp -r css js vendor _site/
+          cp data/cases.js _site/data/
+          echo "Publishing:"
+          find _site -type f | sort
+          echo "Total: $(du -sh _site | cut -f1)"
+
       # Publishing to a gh-pages branch auto-enables GitHub Pages on public
       # repos, so no manual settings step is needed.
       - name: Publish to gh-pages branch
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: .
+          publish_dir: _site
