@@ -1,0 +1,373 @@
+[
+  {
+    "topic_id": "358",
+    "topic": "Sarjakuristaja Jukka Lindholm",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "A serial strangler with several victims in separate incidents; the thread is about the offender."
+  },
+  {
+    "topic_id": "359",
+    "topic": "Lakimiehen surma Lahdessa -86",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "A 35-year-old lawyer killed at one address in Lahti on 11.12.1986."
+  },
+  {
+    "topic_id": "360",
+    "topic": "Liftarisurmat 1971",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Killings on two separate dates (11 July and 14 August 1971), per the evidence pass which read the thread in full. Reclassified from the title-based judgement."
+  },
+  {
+    "topic_id": "361",
+    "topic": "Carita Sopenperän surma, Hämeenlinna 1987",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Named victim killed by two men in one incident at her flat."
+  },
+  {
+    "topic_id": "363",
+    "topic": "Unimurha - Helsinki 10.8.1993",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Arto Huhta killed at home; his wife convicted and given a life sentence. One incident."
+  },
+  {
+    "topic_id": "364",
+    "topic": "Kalevi Heinosen murha 1985, muurahaispesämurha",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A named man's body found at Siilinjärvi; one identifiable killing."
+  },
+  {
+    "topic_id": "368",
+    "topic": "Tampere, Teisko - Pentti Aalto -90",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Covers several killings at different times and places, per the evidence pass which read the thread in full. Reclassified from the title-based judgement."
+  },
+  {
+    "topic_id": "371",
+    "topic": "Kauppias tapettiin Alajärvellä 1996",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A shopkeeper couple killed at their shop in one incident."
+  },
+  {
+    "topic_id": "382",
+    "topic": "Jari Pesonen, 27v. Ilomantsi",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Named man vanished in 2005 and was established as killed. One incident."
+  },
+  {
+    "topic_id": "384",
+    "topic": "Porin jokisurma 6.7.2000",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "A witness drowned in the Kokemäenjoki by two men in one incident."
+  },
+  {
+    "topic_id": "385",
+    "topic": "Lapsisurmat Suomessa",
+    "verdict": "discussion",
+    "confidence": "high",
+    "reasoning": "A general discussion of child killings in Finland, not one case."
+  },
+  {
+    "topic_id": "389",
+    "topic": "Pariskunnan murha Oulussa 1.1.1996",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "A couple killed in their home on one night by four intruders. One incident."
+  },
+  {
+    "topic_id": "403",
+    "topic": "Kirjailija Aili Konttisen viikatemurha - Vihti 1969",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Named author killed at Vihti in September 1969. One incident."
+  },
+  {
+    "topic_id": "409",
+    "topic": "Valopistoolimurha Porissa 1992",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A man lured to a sandpit and shot with a flare pistol by two people. One incident."
+  },
+  {
+    "topic_id": "410",
+    "topic": "Kankaanpäässä opiskelija ampui haulikolla kaksi ihmistä 2004",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Two people shot in one incident at Kankaanpää in November 2004."
+  },
+  {
+    "topic_id": "420",
+    "topic": "Kanaali-Koskinen",
+    "verdict": "multiple_incidents",
+    "confidence": "medium",
+    "reasoning": "A thread about an offender rather than one identifiable killing."
+  },
+  {
+    "topic_id": "422",
+    "topic": "Kaarina; mies surmasi exänsä",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "A woman killed near her home at Kaarina by her former partner. One incident."
+  },
+  {
+    "topic_id": "426",
+    "topic": "Pikkupojan puukotus Vammalan Karkussa 1999",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A young boy stabbed at home at Karkku. One incident."
+  },
+  {
+    "topic_id": "431",
+    "topic": "Professori Kari S. Tikka surmattiin kotiinsa - Hki 25.5.2006",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Named professor killed in his Helsinki flat by two robbers. One incident."
+  },
+  {
+    "topic_id": "440",
+    "topic": "Suomussalmen ampumatapaus",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A young man shot his girlfriend and then himself in one incident."
+  },
+  {
+    "topic_id": "443",
+    "topic": "Nuoren opiskelijan muilutussurma Porissa, toukokuu 2006",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A student abducted and killed at Pori in May 2006. One incident."
+  },
+  {
+    "topic_id": "457",
+    "topic": "Mies puukotettiin kotiovelle Espoossa 2007",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A man stabbed to death at his own door in Espoo. One incident."
+  },
+  {
+    "topic_id": "459",
+    "topic": "Rauma - Autettava hakkasi tukihenkilönsä kuoliaaksi",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A support worker beaten to death by the person they were helping. One incident."
+  },
+  {
+    "topic_id": "463",
+    "topic": "Pori 2007: Kaksi naista murhattiin jalkajousella",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Two women killed with a crossbow at a sheltered-housing block in one incident."
+  },
+  {
+    "topic_id": "468",
+    "topic": "\"Verinen mies\" Marjaniemessä",
+    "verdict": "discussion",
+    "confidence": "medium",
+    "reasoning": "Speculation about whether a song lyric refers to a real event; no established case."
+  },
+  {
+    "topic_id": "491",
+    "topic": "Liminka 2007: Mies ampui vaimonsa haulikolla",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "A man shot his wife at Liminka and was sentenced to 8 years 9 months. One incident."
+  },
+  {
+    "topic_id": "493",
+    "topic": "Tampere: Sarjamurhaaja 60-luvulta - kolme kauppiasta uhreina",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Three shopkeepers robbed and killed on three separate occasions in 1964-65."
+  },
+  {
+    "topic_id": "494",
+    "topic": "Tupla- ja triplamurhat",
+    "verdict": "discussion",
+    "confidence": "high",
+    "reasoning": "A general thread collecting multi-victim crimes, not one case."
+  },
+  {
+    "topic_id": "502",
+    "topic": "Kai Kustaa Vähäkallio - Hyvinkää 1972",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "Campers killed by a landowner in one incident in 1972."
+  },
+  {
+    "topic_id": "504",
+    "topic": "Tilanhoitajan murha Hyvinkään Kytäjällä 2003",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "An estate manager killed by her partner at Kytäjä. One incident."
+  },
+  {
+    "topic_id": "507",
+    "topic": "Vantaan ammesurma 2005",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "A man killed his girlfriend at Vantaa and lived with the body. One incident."
+  },
+  {
+    "topic_id": "529",
+    "topic": "Lahden jäätuurasurma -07",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A killing with an ice chisel at Lahti in 2007. Short thread."
+  },
+  {
+    "topic_id": "579",
+    "topic": "Puukotus Porvoossa kaupan edustalla -07",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A stabbing outside a shop in Porvoo in 2007. One incident."
+  },
+  {
+    "topic_id": "580",
+    "topic": "Henkirikoskatsaus 2006",
+    "verdict": "discussion",
+    "confidence": "high",
+    "reasoning": "A link to a homicide statistics publication, not a case."
+  },
+  {
+    "topic_id": "581",
+    "topic": "Malminkartanon puukotusmurha - maaliskuu 2006",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Markus Samuel Mäkinen given a life sentence for killing a middle-aged man in Malminkartano. One incident."
+  },
+  {
+    "topic_id": "583",
+    "topic": "Kauhavan myrkkyviinajuttu v. 2006",
+    "verdict": "single_homicide",
+    "confidence": "low",
+    "reasoning": "A poisoned-spirits case at Kauhava; whether it is one incident and an intentional killing is unclear from the opening post."
+  },
+  {
+    "topic_id": "613",
+    "topic": "Raija Juutila, Kangasala - katosi 1993, löytyi surmattuna 2011",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Named woman vanished in 1993 and was found killed. One incident."
+  },
+  {
+    "topic_id": "618",
+    "topic": "Vaajakoski: Terhi Tukio surmasi vesurilla 47-vuotiaan miehen",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Named woman killed a named man with a billhook at Vaajakoski on 8.6.2007. One incident."
+  },
+  {
+    "topic_id": "625",
+    "topic": "Myllykosken grillisurma 1997",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A grill owner killed at Myllykoski in 1997. One incident."
+  },
+  {
+    "topic_id": "629",
+    "topic": "Romanimies ammuttiin Mäntsälän Suurlavalla 23.6.2007",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "An 18-year-old shot dead outside Mäntsälä Suurlava on 23.6.2007. One incident."
+  },
+  {
+    "topic_id": "633",
+    "topic": "Ilpo Susivuori: Tappoi Lahdessa 1994, paloittelusurmasi Turussa 2004",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Two killings ten years apart in different cities by the same man."
+  },
+  {
+    "topic_id": "637",
+    "topic": "Töölön mattosurma 1998",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A woman strangled and wrapped in a rug in Helsinki. One incident."
+  },
+  {
+    "topic_id": "639",
+    "topic": "Reijo Hammar - Antti Eljaalan surma 1986 ja pakokaverin surma 1988",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Two killings two years apart; the thread is about the offender."
+  },
+  {
+    "topic_id": "650",
+    "topic": "Juha Alangon surma - Raisio 31.12.2003",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Named man killed in a Raisio block of flats on 31.12.2003. One incident."
+  },
+  {
+    "topic_id": "651",
+    "topic": "Pietarsaari: Surma Estonian uppoamisen jälkimainingeissa",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A crewman shot a colleague aboard M/S Fennia at Pietarsaari. One incident."
+  },
+  {
+    "topic_id": "660",
+    "topic": "Elli Immon murha Kemi 7.12.1955",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Named young woman killed near her home gate at Kemi on 7.12.1955. Unsolved."
+  },
+  {
+    "topic_id": "667",
+    "topic": "Pohjanmaan Pia-surmat v. 1991 ja 1994",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Two killings three years apart, linked only by the victims' shared first name."
+  },
+  {
+    "topic_id": "669",
+    "topic": "Taksimurhat",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "A thread collecting killings of taxi drivers across years and places."
+  },
+  {
+    "topic_id": "679",
+    "topic": "Parikkalan pommipaketti 1979",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "A parcel bomb killed Lauri Hinkkanen at Parikkala on 3.7.1979. One incident."
+  },
+  {
+    "topic_id": "686",
+    "topic": "Tornion postiherra Jussi Haapala",
+    "verdict": "single_homicide",
+    "confidence": "low",
+    "reasoning": "A historical case around a Tornio postmaster; whether the thread is about one killing is not clear from the opening post."
+  },
+  {
+    "topic_id": "691",
+    "topic": "Humalainen ajoi poliisin yli Kälviällä",
+    "verdict": "single_homicide",
+    "confidence": "low",
+    "reasoning": "A police officer run over by a drunk driver at Kälviä. One incident, but whether it was charged as an intentional killing is unclear."
+  },
+  {
+    "topic_id": "705",
+    "topic": "Turun laskettelurinnesurma",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "A killing on a Turku ski slope. Very short thread."
+  },
+  {
+    "topic_id": "708",
+    "topic": "Lauri Stålhammar, 91, Sysmä - surmattu kotiinsa 13.7.1992",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "A 91-year-old war veteran robbed and killed at home by two named men. One incident."
+  }
+]

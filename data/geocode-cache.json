@@ -4159,5 +4159,606 @@
         "country_code": "fi"
       }
     }
-  ]
+  ],
+  "Lahti": [
+    {
+      "lat": 60.982628,
+      "lon": 25.6613418,
+      "display_name": "Lahti, Lahden seutukunta, Päijät-Häme, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Lahti",
+        "municipality": "Lahden seutukunta",
+        "state": "Päijät-Häme",
+        "ISO3166-2-lvl4": "FI-16",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Tonttila district apartment, Lahti|24.7336,61.4326,26.5890,60.5326": [],
+  "Vesijärvi lake, Lahti|24.7336,61.4326,26.5890,60.5326": [],
+  "Lahti District Court (Lahden raastuvanoikeus)|24.7336,61.4326,26.5890,60.5326": [],
+  "Sotkamo (Sotka)|24.7336,61.4326,26.5890,60.5326": [],
+  "Mikkeli District Prison (Mikkelin lääninvankila)|24.7336,61.4326,26.5890,60.5326": [],
+  "Hämeenlinna": [
+    {
+      "lat": 60.9966192,
+      "lon": 24.465141,
+      "display_name": "Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.9810913,
+      "lon": 24.4582641,
+      "display_name": "Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city_district",
+      "address": {
+        "city_district": "Hämeenlinna",
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Aulangontie 53 F 1, Hämeenlinna|23.5370,61.4466,25.3932,60.5466": [
+    {
+      "lat": 61.0107409,
+      "lon": 24.4677252,
+      "display_name": "Aulangontie, Sairionranta, Sairio, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 13220, Suomi / Finland",
+      "type": "secondary",
+      "addresstype": "road",
+      "address": {
+        "road": "Aulangontie",
+        "neighbourhood": "Sairionranta",
+        "suburb": "Sairio",
+        "city_district": "Hämeenlinna",
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "postcode": "13220",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.0197876,
+      "lon": 24.4494313,
+      "display_name": "Aulangontie, Aulanko, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 13600, Suomi / Finland",
+      "type": "secondary",
+      "addresstype": "road",
+      "address": {
+        "road": "Aulangontie",
+        "suburb": "Aulanko",
+        "city_district": "Hämeenlinna",
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "postcode": "13600",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.0261848,
+      "lon": 24.4454113,
+      "display_name": "Aulangontie, Aulanko, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 13600, Suomi / Finland",
+      "type": "tertiary",
+      "addresstype": "road",
+      "address": {
+        "road": "Aulangontie",
+        "suburb": "Aulanko",
+        "city_district": "Hämeenlinna",
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "postcode": "13600",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.0339422,
+      "lon": 24.4501383,
+      "display_name": "Aulangontie, Aulanko, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 13900, Suomi / Finland",
+      "type": "tertiary",
+      "addresstype": "road",
+      "address": {
+        "road": "Aulangontie",
+        "suburb": "Aulanko",
+        "city_district": "Hämeenlinna",
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "postcode": "13900",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.0036365,
+      "lon": 24.4841147,
+      "display_name": "Aulangontie, Hätilä, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 13120, Suomi / Finland",
+      "type": "secondary",
+      "addresstype": "road",
+      "address": {
+        "road": "Aulangontie",
+        "suburb": "Hätilä",
+        "city_district": "Hämeenlinna",
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "postcode": "13120",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.0310537,
+      "lon": 24.4505192,
+      "display_name": "Aulangontie, Aulanko, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 13900, Suomi / Finland",
+      "type": "cycleway",
+      "addresstype": "road",
+      "address": {
+        "road": "Aulangontie",
+        "suburb": "Aulanko",
+        "city_district": "Hämeenlinna",
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "postcode": "13900",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.0265493,
+      "lon": 24.4463225,
+      "display_name": "Aulangontie, Aulanko, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 13600, Suomi / Finland",
+      "type": "cycleway",
+      "addresstype": "road",
+      "address": {
+        "road": "Aulangontie",
+        "suburb": "Aulanko",
+        "city_district": "Hämeenlinna",
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "postcode": "13600",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Tuusula": [
+    {
+      "lat": 60.4015818,
+      "lon": 25.0295324,
+      "display_name": "Tuusula, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Tuusula",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Hyrylä|24.1184,60.8516,25.9406,59.9516": [
+    {
+      "lat": 60.4023504,
+      "lon": 25.0251833,
+      "display_name": "Hyrylä, Tuusula, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Hyrylä",
+        "town": "Tuusula",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Hakuninmaa, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.2525878,
+      "lon": 24.888068,
+      "display_name": "Hakuninmaa, Kaarela, Läntinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00430, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Hakuninmaa",
+        "city_district": "Läntinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00430",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Ilomantsi": [
+    {
+      "lat": 62.6730588,
+      "lon": 30.9322642,
+      "display_name": "Ilomantsi, Joensuun seutukunta, Pohjois-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Ilomantsi",
+        "municipality": "Joensuun seutukunta",
+        "state": "Pohjois-Karjala",
+        "ISO3166-2-lvl4": "FI-13",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Ilomantsin Monttu ravintola, Ilomantsi|29.9520,63.1231,31.9125,62.2231": [],
+  "Ilomantsin Hattuvaara, Ilomantsi|29.9520,63.1231,31.9125,62.2231": [],
+  "Alajärvi": [
+    {
+      "lat": 62.9998641,
+      "lon": 23.8167613,
+      "display_name": "Alajärvi, Järviseudun seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Alajärvi",
+        "municipality": "Järviseudun seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.7504735,
+      "lon": 25.4357256,
+      "display_name": "Alajärvi, Kuhmoinen, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Alajärvi",
+        "town": "Kuhmoinen",
+        "municipality": "Tampereen seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.9583495,
+      "lon": 24.3669698,
+      "display_name": "Alajärvi, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Alajärvi",
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.0074056,
+      "lon": 23.8709864,
+      "display_name": "Alajärvi, Järviseudun seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Alajärvi",
+        "town": "Alajärvi",
+        "municipality": "Järviseudun seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 66.8836309,
+      "lon": 25.5956625,
+      "display_name": "Alajärvi, Rovaniemi, Rovaniemen seutukunta, Lappi, Manner-Suomi, Suomi / Finland",
+      "type": "hamlet",
+      "addresstype": "hamlet",
+      "address": {
+        "hamlet": "Alajärvi",
+        "city": "Rovaniemi",
+        "municipality": "Rovaniemen seutukunta",
+        "state": "Lappi",
+        "ISO3166-2-lvl4": "FI-10",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 65.5768274,
+      "lon": 29.5165835,
+      "display_name": "Alajärvi, Kuusamo, Koillismaan seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Alajärvi",
+        "town": "Kuusamo",
+        "municipality": "Koillismaan seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.3969426,
+      "lon": 30.7680408,
+      "display_name": "Alajärvi, Koskenniska, Joensuu, Joensuun seutukunta, Pohjois-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Alajärvi",
+        "village": "Koskenniska",
+        "city": "Joensuu",
+        "municipality": "Joensuun seutukunta",
+        "state": "Pohjois-Karjala",
+        "ISO3166-2-lvl4": "FI-13",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.5009689,
+      "lon": 30.7188483,
+      "display_name": "Alajärvi, Joensuu, Joensuun seutukunta, Pohjois-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Alajärvi",
+        "city": "Joensuu",
+        "municipality": "Joensuun seutukunta",
+        "state": "Pohjois-Karjala",
+        "ISO3166-2-lvl4": "FI-13",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Alajärvi Menkijärvi, kyläkauppa|22.8256,63.4499,24.8080,62.5499": [],
+  "Kimmon isän teollisuushalli, Pori|20.8545,61.9366,22.7399,61.0366": [],
+  "Luotsinmäen haara, Pori|20.8545,61.9366,22.7399,61.0366": [],
+  "Kokemäenjoki, Luotsinmäen haara, Pori|20.8545,61.9366,22.7399,61.0366": [],
+  "Kokemäenjoki, Pori|20.8545,61.9366,22.7399,61.0366": [
+    {
+      "lat": 61.3376619,
+      "lon": 22.1137258,
+      "display_name": "Kokemäenjoki, Lammainen, Nakkila, Porin seutukunta, Satakunta, Manner-Suomi, 29200, Suomi / Finland",
+      "type": "pressurised",
+      "addresstype": "pressurised",
+      "address": {
+        "pressurised": "Kokemäenjoki",
+        "suburb": "Lammainen",
+        "town": "Nakkila",
+        "municipality": "Porin seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "postcode": "29200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.2734051,
+      "lon": 22.3551545,
+      "display_name": "Kokemäenjoki, Kolsi, Kokemäki, Porin seutukunta, Satakunta, Manner-Suomi, 32800, Suomi / Finland",
+      "type": "pressurised",
+      "addresstype": "pressurised",
+      "address": {
+        "pressurised": "Kokemäenjoki",
+        "suburb": "Kolsi",
+        "town": "Kokemäki",
+        "municipality": "Porin seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "postcode": "32800",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kalaholma, Pori|20.8545,61.9366,22.7399,61.0366": [
+    {
+      "lat": 61.4834106,
+      "lon": 21.8583138,
+      "display_name": "Kalaholma, Pori, Porin seutukunta, Satakunta, Manner-Suomi, 28300, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Kalaholma",
+        "city": "Pori",
+        "municipality": "Porin seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "postcode": "28300",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Puolivälinkankaa, Oulu|24.4049,65.4618,26.5355,64.5618": [],
+  "Maahisentie 2, Puolivälinkankaa, Oulu|24.4049,65.4618,26.5355,64.5618": [],
+  "Maahisentie 2, Oulu|24.4049,65.4618,26.5355,64.5618": [
+    {
+      "lat": 65.0429522,
+      "lon": 25.4892242,
+      "display_name": "Maahisentie, Puolivälinkangas, Oulu, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, 90550, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Maahisentie",
+        "suburb": "Puolivälinkangas",
+        "city": "Oulu",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "postcode": "90550",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Huhmarin, Vihti|23.4121,60.8670,25.2352,59.9670": [
+    {
+      "lat": 60.3106724,
+      "lon": 24.3913193,
+      "display_name": "Pohjois-Huhmarintie, Kurjoo, Palojärvi, Vihti, Helsingin seutukunta, Uusimaa, Manner-Suomi, 03150, Suomi / Finland",
+      "type": "unclassified",
+      "addresstype": "road",
+      "address": {
+        "road": "Pohjois-Huhmarintie",
+        "hamlet": "Kurjoo",
+        "village": "Palojärvi",
+        "town": "Vihti",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "03150",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.3036979,
+      "lon": 24.3568563,
+      "display_name": "Huhmarin tenniskenttä, Vanha Turuntie, Linnanniittu, Huhmari, Vihti, Helsingin seutukunta, Uusimaa, Manner-Suomi, 03150, Suomi / Finland",
+      "type": "pitch",
+      "addresstype": "leisure",
+      "address": {
+        "leisure": "Huhmarin tenniskenttä",
+        "road": "Vanha Turuntie",
+        "suburb": "Linnanniittu",
+        "village": "Huhmari",
+        "town": "Vihti",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "03150",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.290991,
+      "lon": 24.3928613,
+      "display_name": "Palojärven talviuintipaikka, Tarvontie, Palojärvi, Vihti, Helsingin seutukunta, Uusimaa, Manner-Suomi, 03150, Suomi / Finland",
+      "type": "public_bath",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Palojärven talviuintipaikka",
+        "road": "Tarvontie",
+        "village": "Palojärvi",
+        "town": "Vihti",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "03150",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Ailinkallion, Huhmarin, Vihti|23.4121,60.8670,25.2352,59.9670": [],
+  "Ailinkallion, Vihti|23.4121,60.8670,25.2352,59.9670": [],
+  "Vihdin Palojärven koulu, Vihti|23.4121,60.8670,25.2352,59.9670": [],
+  "Kellokosken sairaala|23.4121,60.8670,25.2352,59.9670": [
+    {
+      "lat": 60.5333206,
+      "lon": 25.1083041,
+      "display_name": "Kellokosken sairaala, Kellotori, Joenranta, Kellokoski, Tuusula, Helsingin seutukunta, Uusimaa, Manner-Suomi, 04500, Suomi / Finland",
+      "type": "hospital",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Kellokosken sairaala",
+        "road": "Kellotori",
+        "suburb": "Joenranta",
+        "town": "Kellokoski",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "04500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Viipuri|23.4121,60.8670,25.2352,59.9670": [],
+  "Makholman sorakuopassa, Pori|20.8545,61.9366,22.7399,61.0366": [],
+  "Makholman sorakuopa, Pori|20.8545,61.9366,22.7399,61.0366": [],
+  "Makholman läheinen lampi, Pori|20.8545,61.9366,22.7399,61.0366": [],
+  "Porin raastuvanoikeus|20.8545,61.9366,22.7399,61.0366": [],
+  "Meri-Porin poliisin venehalli|20.8545,61.9366,22.7399,61.0366": [],
+  "Turun lääninvankilaan|20.8545,61.9366,22.7399,61.0366": [],
+  "Porin poliisivankilasta|20.8545,61.9366,22.7399,61.0366": [],
+  "Porin poliisivankila|20.8545,61.9366,22.7399,61.0366": []
 }
