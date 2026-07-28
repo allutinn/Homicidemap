@@ -11,8 +11,14 @@ export const meta = {
 // Parameterised: Workflow({name:'extract-cases', args:{batch:'004', topics:['199','227']}})
 // Falls back to nothing rather than guessing — a run with no topics is a no-op,
 // not a run over the whole batch.
-const BATCH = (args && args.batch) || ''
-const TOPICS = (args && args.topics) || []
+// args can arrive as an object or as a JSON string depending on how the caller
+// passes it; a string would otherwise silently yield no batch and no topics,
+// and the run would report success having done nothing.
+let a = args
+if (typeof a === 'string') { try { a = JSON.parse(a) } catch { a = null } }
+
+const BATCH = (a && a.batch) || ''
+const TOPICS = (a && a.topics) || []
 
 if (!BATCH || !TOPICS.length) {
   log('extract-cases needs args {batch, topics[]} — nothing to do')
