@@ -23,7 +23,7 @@
  * Every field is read from the page. Nothing is inferred or invented.
  */
 import { readFile, writeFile, mkdir } from "node:fs/promises";
-import { gzipSync } from "node:zlib";
+import { gzipSync, gunzipSync } from "node:zlib";
 import { join } from "node:path";
 import { arg, flag, sleep } from "./lib/forum.mjs";
 import { crawlThread } from "./lib/thread.mjs";
@@ -77,6 +77,19 @@ if (!queue.length) {
   process.exit(0);
 }
 
+/** Read a shard back, gzipped or plain. Returns null if it is not there. */
+const readShard = async (path) => {
+  for (const p of [path, path.replace(/\.gz$/, "")]) {
+    try {
+      const raw = await readFile(p);
+      return JSON.parse(p.endsWith(".gz") ? gunzipSync(raw).toString("utf8") : raw.toString("utf8"));
+    } catch (e) {
+      if (e.code !== "ENOENT") throw e;
+    }
+  }
+  return null;
+};
+
 for (const batch of queue) {
   const topics = batch.topics.map((id) => byId.get(id)).filter(Boolean);
   console.log(
@@ -84,10 +97,60 @@ for (const batch of queue) {
       `~${batch.est_pages} fetches (~${((batch.est_pages * DELAY) / 60000).toFixed(0)} min) ===`
   );
 
+  const shard = join(SHARDS, `batch-${batch.id}.json${GZIP ? ".gz" : ""}`);
+
+  /**
+   * Reuse a partial shard from an interrupted run.
+   *
+   * A batch is tens of minutes of crawling and the shard used to be written
+   * only once every topic was done, so an interruption threw all of it away and
+   * re-fetched every thread from the forum. Writing after each topic and
+   * skipping what is already captured makes a restart cost one thread. It also
+   * spares murha.info a few hundred needless requests each time.
+   *
+   * --force starts the batch over; without it, a partial is picked up.
+   */
+  const previous = flag("force") ? null : await readShard(shard);
+  const done = new Map((previous?.threads ?? []).map((t) => [t.topic_id, t]));
+  if (done.size)
+    console.log(`  resuming: ${done.size}/${topics.length} topics already in ${shard}`);
+
   const records = [];
   const incomplete = [];
 
+  /** Write what we have so far, so an interruption never loses a finished thread. */
+  const flush = async () => {
+    const payload =
+      JSON.stringify(
+        {
+          batch: batch.id,
+          base: BASE,
+          crawled_at: new Date().toISOString(),
+          topic_count: records.length,
+          message_count: records.reduce((a, r) => a + r.message_count, 0),
+          complete: records.length === topics.length,
+          threads: records,
+        },
+        null,
+        GZIP ? 0 : 2
+      ) + "\n";
+    await mkdir(SHARDS, { recursive: true });
+    const bytes = GZIP ? gzipSync(payload) : payload;
+    await writeFile(shard, bytes);
+    return bytes;
+  };
+
   for (const [n, topic] of topics.entries()) {
+    const cached = done.get(topic.topic_id);
+    if (cached) {
+      records.push(cached);
+      console.log(
+        `  [${n + 1}/${topics.length}] t=${topic.topic_id} ${topic.topic.slice(0, 60)} — ` +
+          `${cached.message_count} messages (cached)`
+      );
+      continue;
+    }
+
     const { messages, expected, rendered, truncated, failed } = await crawlThread(topic.link, {
       base: BASE,
       delay: DELAY,
@@ -120,27 +183,11 @@ for (const batch of queue) {
         (deduped ? ` (${deduped} double-served post${deduped > 1 ? "s" : ""} deduped)` : "") +
         (failed ? " [fetch failed]" : "")
     );
+    await flush();
     await sleep(DELAY);
   }
 
-  const shard = join(SHARDS, `batch-${batch.id}.json${GZIP ? ".gz" : ""}`);
-  const payload =
-    JSON.stringify(
-      {
-        batch: batch.id,
-        base: BASE,
-        crawled_at: new Date().toISOString(),
-        topic_count: records.length,
-        message_count: records.reduce((a, r) => a + r.message_count, 0),
-        threads: records,
-      },
-      null,
-      GZIP ? 0 : 2
-    ) + "\n";
-
-  await mkdir(SHARDS, { recursive: true });
-  const bytes = GZIP ? gzipSync(payload) : payload;
-  await writeFile(shard, bytes);
+  const bytes = await flush();
 
   recordStage(state, batch.id, "crawl", {
     shard,
