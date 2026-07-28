@@ -2071,5 +2071,200 @@
         "country_code": "fi"
       }
     }
+  ],
+  "Vuosaari, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.2083483,
+      "lon": 25.1435537,
+      "display_name": "Vuosaari, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Vuosaari",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2071929,
+      "lon": 25.1424866,
+      "display_name": "Vuosaari, Valkopaadentie, Keski-Vuosaari, Vuosaari, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00980, Suomi / Finland",
+      "type": "station",
+      "addresstype": "railway",
+      "address": {
+        "railway": "Vuosaari",
+        "road": "Valkopaadentie",
+        "quarter": "Keski-Vuosaari",
+        "suburb": "Vuosaari",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00980",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kallvikintie 61, Vuosaari, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.2087443,
+      "lon": 25.1365148,
+      "display_name": "61, Kallvikintie, Keski-Vuosaari, Vuosaari, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00980, Suomi / Finland",
+      "type": "house",
+      "addresstype": "place",
+      "address": {
+        "house_number": "61",
+        "road": "Kallvikintie",
+        "quarter": "Keski-Vuosaari",
+        "suburb": "Vuosaari",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00980",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Joensuu": [
+    {
+      "lat": 62.6006375,
+      "lon": 29.7619759,
+      "display_name": "Joensuu, Joensuun seutukunta, Pohjois-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Joensuu",
+        "municipality": "Joensuun seutukunta",
+        "state": "Pohjois-Karjala",
+        "ISO3166-2-lvl4": "FI-13",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Penttilä, Joensuu|28.7841,63.0506,30.7398,62.1506": [
+    {
+      "lat": 62.5877875,
+      "lon": 29.7632795,
+      "display_name": "Penttilä, Joensuun kantakaupunki, Joensuu, Joensuun seutukunta, Pohjois-Karjala, Manner-Suomi, 80220, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Penttilä",
+        "city_district": "Joensuun kantakaupunki",
+        "city": "Joensuu",
+        "municipality": "Joensuun seutukunta",
+        "state": "Pohjois-Karjala",
+        "ISO3166-2-lvl4": "FI-13",
+        "region": "Manner-Suomi",
+        "postcode": "80220",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.5612454,
+      "lon": 30.7027898,
+      "display_name": "Penttilä, Herajärvi, Joensuu, Joensuun seutukunta, Pohjois-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "farmyard",
+      "addresstype": "farmyard",
+      "address": {
+        "farmyard": "Penttilä",
+        "hamlet": "Herajärvi",
+        "city": "Joensuu",
+        "municipality": "Joensuun seutukunta",
+        "state": "Pohjois-Karjala",
+        "ISO3166-2-lvl4": "FI-13",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Imatra": [
+    {
+      "lat": 61.1959258,
+      "lon": 28.7766593,
+      "display_name": "Imatra, Imatran seutukunta, Etelä-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Imatra",
+        "municipality": "Imatran seutukunta",
+        "state": "Etelä-Karjala",
+        "ISO3166-2-lvl4": "FI-02",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Imatra|27.8427,61.6459,29.7106,60.7459": [
+    {
+      "lat": 61.1959258,
+      "lon": 28.7766593,
+      "display_name": "Imatra, Imatran seutukunta, Etelä-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Imatra",
+        "municipality": "Imatran seutukunta",
+        "state": "Etelä-Karjala",
+        "ISO3166-2-lvl4": "FI-02",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Tampere": [
+    {
+      "lat": 61.4977988,
+      "lon": 23.7616335,
+      "display_name": "Tampere, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Tampere",
+        "municipality": "Tampereen seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Tampere|22.8186,61.9478,24.7046,61.0478": [
+    {
+      "lat": 61.4977988,
+      "lon": 23.7616335,
+      "display_name": "Tampere, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Tampere",
+        "municipality": "Tampereen seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
   ]
 }

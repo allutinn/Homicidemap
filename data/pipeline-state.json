@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28T16:42:23.841Z",
+  "updated_at": "2026-07-28T17:57:05.721Z",
   "stages": [
     "crawl",
     "classify",
@@ -51,6 +51,33 @@
         "messages": 8032,
         "bytes": 3010091,
         "incomplete": []
+      }
+    },
+    "004": {
+      "crawl": {
+        "at": "2026-07-28T17:46:15.618Z",
+        "shard": "crawl/threads/batch-004.json.gz",
+        "topics": 38,
+        "messages": 8399,
+        "bytes": 2898654,
+        "incomplete": []
+      },
+      "classify": {
+        "at": "2026-07-28T17:57:05.409Z",
+        "reviewed": 38,
+        "homicides": 28,
+        "note": "28 single homicides, 8 multi-incident, 1 other crime, 1 no crime established"
+      },
+      "extract": {
+        "at": "2026-07-28T17:57:05.575Z",
+        "cases": 4,
+        "pending": 24,
+        "note": "4 of 28 confirmed cases extracted so far"
+      },
+      "map": {
+        "at": "2026-07-28T17:57:05.720Z",
+        "markers": 4,
+        "note": "33 cases on the map"
       }
     }
   }

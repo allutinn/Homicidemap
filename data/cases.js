@@ -3965,5 +3965,310 @@ const CASES = [
       "https://murha.info/rikosfoorumi/viewtopic.php?p=188#p188"
     ],
     "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=43"
+  },
+  {
+    "id": 30,
+    "topic_id": "314",
+    "title": "Volkan Ünsalin palkkamurha, Helsinki 16.10.2003",
+    "coords": [
+      60.2087443,
+      25.1365148
+    ],
+    "coords_precision": "address",
+    "coords_credibility": "forum_claim",
+    "coords_label": "Kallvikintie 61, Vuosaari, Helsinki",
+    "coords_note": null,
+    "coords_resolved": "61, Kallvikintie, Keski-Vuosaari, Vuosaari, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00980, Suomi / Finland",
+    "date": "2003-10-16",
+    "date_note": "Ketjun otsikon mukainen päivä; ruumista ei ole koskaan löydetty.",
+    "status": "solved",
+    "outcome": "Four men received life sentences. Helsinki Court of Appeal upheld them on 26 October 2005 (reported 27 October 2005): the killing itself was carried out by Janne Tapio Raninen, 28, Ilkka Jani-Markus Leinonen, 35, and Raimo Juhani Andersson, 59, while Leopoldo Gonzalez Carmona was convicted of incitement to murder. The body has never been found.",
+    "location": "The flat where Ünsal most probably died, given in the thread as Kallvikintie 61 B 32. His blood was found there and in a rented van. Stated by posters recounting the investigation, not quoted from a court record.",
+    "municipality": "Helsinki",
+    "summary": {
+      "fi": {
+        "lead": "Ruotsissa asunut 26-vuotias Volkan Ünsal surmattiin Helsingin Vuosaaressa lokakuussa 2003 tilaustyönä. Ruumista ei löydetty koskaan, mutta veri asunnosta ja vuokratusta pakettiautosta riitti näytöksi. Neljä miestä sai elinkautisen, ja Helsingin hovioikeus piti tuomiot ennallaan lokakuussa 2005.",
+        "detail": "Volkan Ünsal, 26, asui Ruotsissa ja surmattiin Helsingin Vuosaaressa 16.10.2003. Kyseessä oli palkkamurha. Ketjun mukaan Ünsal oli kertonut poliisille erään rikollisryhmän toiminnasta; ryhmää epäiltiin vuonna 2002 Tukholman Arlandan lentokentällä tehdystä arvokuljetusryöstöstä, mutta näyttöä ei tuolloin saatu riittävästi.\n\nRuumista ei ole koskaan löydetty. Ketjuun kirjoitettujen tietojen mukaan Ünsalin verta löytyi sekä vuokratun sinisen Toyota Hiacen tavaratilasta että asunnosta osoitteessa Kallvikintie 61 B 32 Vuosaaressa, jossa hän mitä todennäköisimmin menetti henkensä. Osoite esiintyy ketjussa useaan kertaan ja on kirjoittajien esittämä, ei tuomioistuimen asiakirjasta lainattu.\n\nIltalehden 27.10.2005 julkaiseman ja ketjuun lainatun uutisen mukaan Helsingin hovioikeus piti edellisenä päivänä ennallaan neljän miehen käräjäoikeudessa saamat elinkautistuomiot. Oikeuden mukaan itse verityön tekivät Janne Tapio Raninen, 28, Ilkka Jani-Markus Leinonen, 35, ja Raimo Juhani Andersson, 59. Murhan tilaajaksi ja siihen yllyttäjäksi katsottiin Ünsalin chileläinen lapsuudenystävä Leopoldo Gonzalez Carmona.\n\nTapaus on esimerkki siitä, että henkirikostuomio ei edellytä ruumista, kun muu näyttö riittää — seikka, jota ketjun kirjoittajat käyvät läpi vertaamalla tapausta muihin suomalaisiin juttuihin, joissa ruumis on hävitetty."
+      },
+      "en": {
+        "lead": "Volkan Ünsal, 26, who lived in Sweden, was killed in the Vuosaari district of Helsinki in October 2003 in a contract killing. His body has never been found, but blood traces in a flat and a rented van were enough to convict. Four men received life sentences, upheld by Helsinki Court of Appeal in October 2005.",
+        "detail": "Volkan Ünsal, 26, lived in Sweden and was killed in Vuosaari, Helsinki, on 16 October 2003. It was a contract killing. According to the thread, Ünsal had told police about the activities of a criminal group suspected of a 2002 cash-in-transit robbery at Arlanda airport in Stockholm, a case that did not then produce sufficient evidence.\n\nThe body has never been recovered. Posters record that Ünsal's blood was found both in the load space of a rented blue Toyota Hiace and in a flat at Kallvikintie 61 B 32 in Vuosaari, where he most probably died. The address appears repeatedly in the thread and is stated by contributors rather than quoted from a court document.\n\nAn Iltalehti report of 27 October 2005, transcribed into the thread, records that Helsinki Court of Appeal had the previous day upheld the life sentences imposed by the district court on four men. The court found that the killing itself was carried out by Janne Tapio Raninen, 28, Ilkka Jani-Markus Leinonen, 35, and Raimo Juhani Andersson, 59. Ünsal's Chilean childhood friend Leopoldo Gonzalez Carmona was convicted of inciting the murder.\n\nThe case is an example of a homicide conviction without a body where the remaining evidence suffices — a point the thread's contributors work through by comparing it with other Finnish cases in which a body was disposed of."
+      }
+    },
+    "victims": [
+      {
+        "name": "Volkan Ünsal",
+        "description": "26-year-old Turkish man resident in Sweden; had given police information about a criminal group. His body has never been found.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=3880#p3880",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=84063#p84063"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Janne Tapio Raninen",
+        "description": "28 at the time of the appeal ruling; found by the court to have carried out the killing",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=84063#p84063"
+        ]
+      },
+      {
+        "name": "Ilkka Jani-Markus Leinonen",
+        "description": "35 at the time of the appeal ruling; found by the court to have carried out the killing",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=84063#p84063"
+        ]
+      },
+      {
+        "name": "Raimo Juhani Andersson",
+        "description": "59 at the time of the appeal ruling; found by the court to have carried out the killing",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=84063#p84063"
+        ]
+      },
+      {
+        "name": "Leopoldo Gonzalez Carmona",
+        "description": "Ünsal's Chilean childhood friend; convicted of incitement to murder for commissioning the killing",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=3880#p3880"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Kallvikintie 61, Vuosaari, Helsinki",
+        "detail": "The flat where Ünsal most probably died, given in the thread as Kallvikintie 61 B 32. His blood was found there and in a rented van. Stated by posters recounting the investigation, not quoted from a court record.",
+        "precision": "address",
+        "credibility": "forum_claim",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=118490#p118490",
+        "quote": "Volkan Ünsalin verta löytyi niin vuokratun sinisen Toyota Hiacen tavaratilasta, kuin siitä asunnosta missä Ünsal pääsi (mitä todennäköisemmin) hengestään Hgin Vuosaaressa osoitteessa Kallvikintie 61 B 32.",
+        "used_for_marker": true
+      },
+      {
+        "label": "Vuosaari, Helsinki",
+        "detail": "The district of Helsinki in which the killing took place, as stated in the thread's opening post.",
+        "precision": "district",
+        "credibility": "forum_claim",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=3880#p3880",
+        "quote": "Muistuuko mieleen Ruotsissa asuneen turkkilaisen Volkan Ünsalin murha Helsingin Vuosaaressa?",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=3880#p3880",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=84063#p84063",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=118490#p118490"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=314"
+  },
+  {
+    "id": 31,
+    "topic_id": "288",
+    "title": "Riikka Tahvanaisen surma, Joensuu 3.9.2000",
+    "coords": [
+      62.5877875,
+      29.7632795
+    ],
+    "coords_precision": "district",
+    "coords_credibility": "news",
+    "coords_label": "Penttilä, Joensuu",
+    "coords_note": null,
+    "coords_resolved": "Penttilä, Joensuun kantakaupunki, Joensuu, Joensuun seutukunta, Pohjois-Karjala, Manner-Suomi, 80220, Suomi / Finland",
+    "date": "2000-09-03",
+    "date_note": null,
+    "status": "solved",
+    "outcome": "Vesa Petteri Mustonen, a veterinarian from Polvijärvi, was convicted of the killing and sentenced to life imprisonment. The Eastern Finland Court of Appeal confirmed the conviction on 23 May 2002 (reported by Helsingin Sanomat on 24 May 2002).",
+    "location": "The district of Joensuu where Tahvanainen was killed on her way home, near the vocational college. This is the killing site.",
+    "municipality": "Joensuu",
+    "summary": {
+      "fi": {
+        "lead": "24-vuotias sairaanhoitaja Riikka Tahvanainen surmattiin Joensuun Penttilässä 3.9.2000 kotimatkallaan. Hän katosi yöllä, ja ruumis löytyi runsasta viikkoa myöhemmin Viinijärvestä Käsämän salmen läheltä. Polvijärveläinen eläinlääkäri Vesa Petteri Mustonen tuomittiin surmasta elinkautiseen.",
+        "detail": "Sairaanhoitaja Riikka Tahvanainen, 24, surmattiin Joensuussa Penttilän kaupunginosassa 3. syyskuuta 2000. Ketjuun koottujen Ilta-Sanomien ja Karjalaisen lehtileikkeiden mukaan hän oli palaamassa kotiin yöllä, kun hän kohtasi tekijän ammattioppilaitoksen läheisyydessä.\n\nTahvanainen ilmoitettiin kadonneeksi, ja hänen ruumiinsa löytyi runsasta viikkoa myöhemmin, sunnuntai-iltana 10.9.2000, Viinijärvestä läheltä Käsämän salmea. Löytöpaikka on siis eri kuin surmapaikka.\n\nHelsingin Sanomien 24.5.2002 julkaiseman ja ketjuun lainatun uutisen mukaan Itä-Suomen hovioikeus vahvisti torstaina, että polvijärveläinen eläinlääkäri Vesa Petteri Mustonen on syyllinen Tahvanaisen surmaan 3. syyskuuta 2000, ja elinkautinen vankeusrangaistus jäi voimaan.\n\nKetjun kirjoittajien mukaan Mustonen ja Tahvanainen eivät tunteneet toisiaan entuudestaan. Ketjussa esitetyt yksityiskohdat surmatavasta ja tapahtumien kulusta ovat kirjoittajien muistiin ja lehtitietoihin perustuvia kuvauksia, eivät oikeuden asiakirjoja."
+      },
+      "en": {
+        "lead": "Riikka Tahvanainen, a 24-year-old nurse, was killed in the Penttilä district of Joensuu on 3 September 2000 while walking home at night. She was reported missing and her body was found just over a week later in Lake Viinijärvi near the Käsämä strait. A veterinarian from Polvijärvi, Vesa Petteri Mustonen, was convicted and given a life sentence.",
+        "detail": "Riikka Tahvanainen, a 24-year-old nurse, was killed in the Penttilä district of Joensuu on 3 September 2000. According to Ilta-Sanomat and Karjalainen clippings compiled into the thread, she was walking home at night when she encountered her killer near the vocational college.\n\nShe was reported missing, and her body was found just over a week later, on the evening of Sunday 10 September 2000, in Lake Viinijärvi close to the Käsämä strait. The place where she was found is therefore not the place where she was killed.\n\nA Helsingin Sanomat report of 24 May 2002, quoted in the thread, records that the Eastern Finland Court of Appeal confirmed on the Thursday that Vesa Petteri Mustonen, a veterinarian from Polvijärvi, was guilty of Tahvanainen's killing on 3 September 2000, and that the life sentence stood.\n\nContributors note that Mustonen and Tahvanainen did not know each other beforehand. The details of the method and sequence of events discussed in the thread are posters' recollections and paraphrases of press reports rather than court documents."
+      }
+    },
+    "victims": [
+      {
+        "name": "Riikka Tahvanainen",
+        "description": "24-year-old nurse; killed while walking home at night in the Penttilä district of Joensuu, found in Lake Viinijärvi a week later",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=3492#p3492",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=39898#p39898"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Vesa Petteri Mustonen",
+        "description": "Veterinarian from Polvijärvi; convicted of the killing and sentenced to life imprisonment, upheld by the Eastern Finland Court of Appeal in May 2002. Did not know the victim beforehand.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=39898#p39898"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Penttilä, Joensuu",
+        "detail": "The district of Joensuu where Tahvanainen was killed on her way home, near the vocational college. This is the killing site.",
+        "precision": "district",
+        "credibility": "news",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=197926#p197926",
+        "quote": "Sairaanhoitaja Riikka Tahvanainen (24-v) surmattiin siis Joensuussa Penttilän kaupunginosassa 3.9.2000.",
+        "used_for_marker": true
+      },
+      {
+        "label": "Viinijärvi, Liperi",
+        "detail": "The lake where her body was found on 10 September 2000, near the Käsämä strait. This is where she was found, not where she died.",
+        "precision": "area",
+        "credibility": "news",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=3492#p3492",
+        "quote": "24-vuotiaan naisen ruumis löytyi Viinijärvestä läheltä Käsämän salmea",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=3492#p3492",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=39898#p39898",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=197926#p197926"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=288"
+  },
+  {
+    "id": 32,
+    "topic_id": "308",
+    "title": "Eveliina Lappalaisen surma, Imatra 14.11.2000",
+    "coords": [
+      61.1959258,
+      28.7766593
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "news",
+    "coords_label": "Imatra",
+    "coords_note": null,
+    "coords_resolved": "Imatra, Imatran seutukunta, Etelä-Karjala, Manner-Suomi, Suomi / Finland",
+    "date": "2000-11-14",
+    "date_note": null,
+    "status": "solved",
+    "outcome": "Otto Aleksi Martikainen was convicted of manslaughter committed as a young offender by Imatra District Court in 2002 and sentenced to 7 years. The Court of Appeal raised this to 9 years the same year; the Supreme Court granted leave to appeal and restored the district court's 7-year sentence.",
+    "location": "The thread names no place more precise than the town of Imatra. The marker is the municipality centroid and is not the site of the killing.",
+    "municipality": "Imatra",
+    "summary": {
+      "fi": {
+        "lead": "Eveliina Lappalainen löydettiin surmattuna Imatralta marraskuussa 2000. Tekijä selvisi vasta 14 kuukautta myöhemmin: häntä vuotta vanhempi Otto Aleksi Martikainen. Martikainen tuomittiin nuorena henkilönä tehdystä taposta seitsemäksi vuodeksi vankeuteen, ja korkein oikeus palautti tuon rangaistuksen hovioikeuden korotettua sen yhdeksään.",
+        "detail": "Eveliina Lappalainen löydettiin surmattuna Imatralta vuonna 2000. Ketjun avausviestin mukaan tekijä paljastui vasta 14 kuukautta myöhemmin, ja hän oli Eveliinaa vuotta vanhempi Otto Aleksi Martikainen.\n\nMartikainen tuomittiin vuonna 2002 Imatran käräjäoikeudessa nuorena henkilönä tehdystä taposta seitsemäksi vuodeksi vankeuteen. Hovioikeus korotti rangaistuksen samana vuonna yhdeksään vuoteen. Martikainen sai valitusluvan korkeimpaan oikeuteen, jossa tuomio palautettiin käräjäoikeuden aikaisemmin määräämäksi seitsemäksi vuodeksi vankeutta.\n\nKetjussa keskustelu kääntyy varhain rangaistuksen pituuteen ja siihen, että tekijä on sittemmin vapautunut ehdonalaiseen. Osa kirjoittajista arvelee hänen vaihtaneen nimensä. Ketjun ylläpito ja useat kirjoittajat torjuvat nimien arvailun, ja tässä tietueessa ei toisteta mitään sellaista nykyistä henkilöllisyyttä koskevaa väitettä.\n\nKetju ei kerro surmapaikkaa Imatraa tarkemmin, joten karttamerkki on kunnan tasolla eikä osoita tapahtumapaikkaa."
+      },
+      "en": {
+        "lead": "Eveliina Lappalainen was found killed at Imatra in November 2000. The perpetrator was identified only 14 months later: Otto Aleksi Martikainen, a year older than she was. He was convicted of manslaughter committed as a young offender and sentenced to seven years — a term the Court of Appeal raised to nine before the Supreme Court restored it.",
+        "detail": "Eveliina Lappalainen was found killed at Imatra in 2000. According to the thread's opening post the perpetrator emerged only 14 months later, and was Otto Aleksi Martikainen, a year older than she was.\n\nMartikainen was convicted in 2002 by Imatra District Court of manslaughter committed as a young offender and sentenced to seven years' imprisonment. The Court of Appeal raised the sentence to nine years the same year. Martikainen was granted leave to appeal to the Supreme Court, which restored the seven-year term the district court had originally imposed.\n\nThe thread turns quickly to the length of the sentence and to the fact that the perpetrator has since been released on parole. Some contributors speculate that he has changed his name. Moderators and several posters push back against guessing at names, and no claim about his present identity is carried into this record.\n\nThe thread gives no location more precise than Imatra, so the marker sits on the municipality and does not indicate the site of the killing."
+      }
+    },
+    "victims": [
+      {
+        "name": "Eveliina Lappalainen",
+        "description": "Young woman found killed at Imatra in November 2000; a year younger than the man later convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=3820#p3820"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Otto Aleksi Martikainen",
+        "description": "Identified 14 months after the killing; convicted of manslaughter as a young offender, sentenced to 7 years, raised to 9 on appeal and restored to 7 by the Supreme Court",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=3820#p3820"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Imatra",
+        "detail": "The thread names no place more precise than the town of Imatra. The marker is the municipality centroid and is not the site of the killing.",
+        "precision": "town",
+        "credibility": "news",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=3820#p3820",
+        "quote": "Eveliina Lappalainen löydettiin surmattuna Imatralta v. 2000.",
+        "used_for_marker": true
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=3820#p3820"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=308"
+  },
+  {
+    "id": 33,
+    "topic_id": "206",
+    "title": "Pasi Aaltosen surma, Tampere 24.8.2002",
+    "coords": [
+      61.4977988,
+      23.7616335
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "news",
+    "coords_label": "Tampere",
+    "coords_note": null,
+    "coords_resolved": "Tampere, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland",
+    "date": "2002-08-24",
+    "date_note": "Poliisi sai tiedon vasta noin viikkoa myöhemmin.",
+    "status": "unsolved",
+    "outcome": "No one has been charged. The thread records no arrest or prosecution; contributors note that the case has had unusually little media attention for an unsolved homicide.",
+    "location": "Aaltonen was killed in his own block-of-flats home in Tampere. The thread names no street or district, so the marker is the municipality centroid and is not the site of the killing.",
+    "municipality": "Tampere",
+    "summary": {
+      "fi": {
+        "lead": "Tamperelainen tarjoilija Pasi Aaltonen surmattiin erittäin väkivaltaisesti omassa kerrostalokodissaan Tampereella 24.8.2002. Poliisi sai tiedon vasta viikkoa myöhemmin, mikä hankaloitti tutkintaa oleellisesti. Tapaus on yhä selvittämättä.",
+        "detail": "Tarjoilija Pasi Aaltonen surmattiin omassa kerrostaloasunnossaan Tampereella 24. elokuuta 2002. Ketjun avausviesti lainaa Ylen Poliisi-TV:n sivuja: teko oli erittäin väkivaltainen, ja poliisi sai tiedon asiasta vasta viikkoa myöhemmin, mikä hankaloitti oleellisesti henkirikoksen tutkintaa. Aaltonen oli työskennellyt vuosikausia tarjoilijana eri ravintoloissa Tampereen seudulla, mutta oli kuolemaansa edeltäneenä aikana työtön.\n\nViikon viive on tapauksen keskeinen piirre: rikospaikka ja siltä saatava tekninen näyttö olivat ehtineet heikentyä ennen kuin tutkinta alkoi. Ketjun kirjoittajat palaavat tähän toistuvasti pohtiessaan, miksi juttu ei ole ratkennut.\n\nKetju on pitkä ja siinä esitetään runsaasti arvailuja uhrin yksityiselämästä ja mahdollisista motiiveista. Nämä ovat kirjoittajien spekulaatiota ilman poliisi- tai uutislähdettä, eikä niitä toisteta tässä tietueessa. Ketjussa ei nimetä ketään epäiltyä, jota vastaan olisi nostettu syyte.\n\nKetju ei kerro asunnon osoitetta eikä kaupunginosaa, joten karttamerkki on Tampereen tasolla eikä osoita tapahtumapaikkaa."
+      },
+      "en": {
+        "lead": "Pasi Aaltonen, a waiter from Tampere, was killed with extreme violence in his own flat on 24 August 2002. Police only learned of the death about a week later, which substantially hampered the investigation. The case remains unsolved.",
+        "detail": "Pasi Aaltonen, a waiter, was killed in his own block-of-flats home in Tampere on 24 August 2002. The thread's opening post quotes Yle's Poliisi-TV pages: the killing was extremely violent, and police were informed only about a week afterwards, which substantially hampered the investigation. Aaltonen had worked for years as a waiter in restaurants around Tampere but was unemployed in the period before his death.\n\nThat week's delay is the defining feature of the case: the scene and whatever forensic evidence it held had degraded before the investigation began. Contributors return to this repeatedly when discussing why the case has never been solved.\n\nThe thread is long and contains a great deal of speculation about the victim's private life and possible motives. That material is posters' conjecture with no police or news source behind it and is not carried into this record. No one is named in the thread as having been charged.\n\nThe thread gives neither the street address nor the district, so the marker sits on Tampere and does not indicate the site of the killing."
+      }
+    },
+    "victims": [
+      {
+        "name": "Pasi Aaltonen",
+        "description": "Waiter from Tampere who had worked in restaurants across the region and was unemployed before his death; killed with extreme violence in his own flat",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=2239#p2239"
+        ]
+      }
+    ],
+    "suspects": [],
+    "locations": [
+      {
+        "label": "Tampere",
+        "detail": "Aaltonen was killed in his own block-of-flats home in Tampere. The thread names no street or district, so the marker is the municipality centroid and is not the site of the killing.",
+        "precision": "town",
+        "credibility": "news",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=2239#p2239",
+        "quote": "Tamperelainen tarjoilija Pasi Aaltonen surmattiin erittäin väkivaltaisesti hänen omassa kerrostalokodissaan 24. elokuuta 2002.",
+        "used_for_marker": true
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=2239#p2239"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=206"
   }
 ];
