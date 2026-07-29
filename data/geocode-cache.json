@@ -5055,5 +5055,176 @@
         "country_code": "fi"
       }
     }
-  ]
+  ],
+  "Espoo": [
+    {
+      "lat": 60.2049651,
+      "lon": 24.6559808,
+      "display_name": "Espoo, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Espoo",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Espoon Lippajärvi, Kolkekannaksentiellä|23.7504,60.6550,25.5616,59.7550": [],
+  "Espoon Lippajärvi, Kolkekannaksentie|23.7504,60.6550,25.5616,59.7550": [],
+  "Espoo District Court, Espoo|23.7504,60.6550,25.5616,59.7550": [],
+  "Helsinki Appeals Court, Helsinki|23.7504,60.6550,25.5616,59.7550": [],
+  "Rauma|20.5720,61.5789,22.4359,60.6789": [
+    {
+      "lat": 61.1289148,
+      "lon": 21.5039401,
+      "display_name": "Rauma, Rauman seutukunta, Satakunta, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Rauma",
+        "municipality": "Rauman seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Tiilimäen kaupunginosassa, Porissa|20.8545,61.9366,22.7399,61.0366": [],
+  "Tiilimäen kaupunginosa, Pori|20.8545,61.9366,22.7399,61.0366": [],
+  "Esikko, Pori|20.8545,61.9366,22.7399,61.0366": [
+    {
+      "lat": 61.4532091,
+      "lon": 21.8986423,
+      "display_name": "Esikkokuja, Mynsteri, Vihelä, Ulvila, Porin seutukunta, Satakunta, Manner-Suomi, 28450, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Esikkokuja",
+        "suburb": "Mynsteri",
+        "village": "Vihelä",
+        "town": "Ulvila",
+        "municipality": "Porin seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "postcode": "28450",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Tiilimäentiellä, Esikko, Pori|20.8545,61.9366,22.7399,61.0366": [],
+  "Tiilimäentiellä, Pori|20.8545,61.9366,22.7399,61.0366": [],
+  "Tiilimäentie, Esikko, Pori|20.8545,61.9366,22.7399,61.0366": [],
+  "Tiilimäentie, Pori|20.8545,61.9366,22.7399,61.0366": [
+    {
+      "lat": 61.4759268,
+      "lon": 21.7815628,
+      "display_name": "Tiilimäentie, Tiilimäki, Pori, Porin seutukunta, Satakunta, Manner-Suomi, 28500, Suomi / Finland",
+      "type": "tertiary",
+      "addresstype": "road",
+      "address": {
+        "road": "Tiilimäentie",
+        "suburb": "Tiilimäki",
+        "city": "Pori",
+        "municipality": "Porin seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "postcode": "28500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Liminka": [
+    {
+      "lat": 64.6775189,
+      "lon": 25.4418933,
+      "display_name": "Liminka, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Liminka",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.8106448,
+      "lon": 25.4084842,
+      "display_name": "Liminka, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, 91900, Suomi / Finland",
+      "type": "town",
+      "addresstype": "town",
+      "address": {
+        "town": "Liminka",
+        "city": "Liminka",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "postcode": "91900",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Alatemmes, Liminka|24.3898,65.1275,26.4940,64.2275": [],
+  "Oulu District Court, Oulu|24.3898,65.1275,26.4940,64.2275": [
+    {
+      "lat": 65.0106726,
+      "lon": 25.4652598,
+      "display_name": "Oulun käräjäoikeus, 34, Torikatu, Heinäpää, III Vanhatulli, Keskusta, Oulu, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, 90100, Suomi / Finland",
+      "type": "courthouse",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Oulun käräjäoikeus",
+        "house_number": "34",
+        "road": "Torikatu",
+        "neighbourhood": "Heinäpää",
+        "suburb": "III Vanhatulli",
+        "city": "Oulu",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "postcode": "90100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Pelsonen, Tampere|24.3898,65.1275,26.4940,64.2275": [],
+  "Kytäjä, Hyvinkää|23.9428,61.0811,25.7779,60.1811": [
+    {
+      "lat": 60.6016633,
+      "lon": 24.6500194,
+      "display_name": "Kytäjä, Hyvinkää, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "village",
+      "address": {
+        "village": "Kytäjä",
+        "town": "Hyvinkää",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kaalimanokka, Kytäjä, Hyvinkää|23.9428,61.0811,25.7779,60.1811": [],
+  "Kaalimanokka, Hyvinkää|23.9428,61.0811,25.7779,60.1811": []
 }
