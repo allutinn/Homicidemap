@@ -6670,5 +6670,367 @@
   "Forssan|24.7306,61.9574,26.6172,61.0574": [],
   "Hirvensalon laskettelurinteen lähtökopin, Turku|21.3545,60.9016,23.1795,60.0016": [],
   "Turun käräjäoikeus, Turku|21.3545,60.9016,23.1795,60.0016": [],
-  "Niuvanniemen mielisairaalaa|21.3545,60.9016,23.1795,60.0016": []
+  "Niuvanniemen mielisairaalaa|21.3545,60.9016,23.1795,60.0016": [],
+  "Kankola, Lahti|24.7336,61.4326,26.5890,60.5326": [
+    {
+      "lat": 60.9976165,
+      "lon": 25.5973895,
+      "display_name": "Kankola, Jalkaranta, Lahti, Lahden seutukunta, Päijät-Häme, Manner-Suomi, 15950, Suomi / Finland",
+      "type": "quarter",
+      "addresstype": "quarter",
+      "address": {
+        "quarter": "Kankola",
+        "suburb": "Jalkaranta",
+        "city": "Lahti",
+        "municipality": "Lahden seutukunta",
+        "state": "Päijät-Häme",
+        "ISO3166-2-lvl4": "FI-16",
+        "region": "Manner-Suomi",
+        "postcode": "15950",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vuorisenkatu 1, Kankola, Lahti|24.7336,61.4326,26.5890,60.5326": [
+    {
+      "lat": 60.9967608,
+      "lon": 25.5943051,
+      "display_name": "1, Vuorisenkatu, Kankola, Jalkaranta, Lahti, Lahden seutukunta, Päijät-Häme, Manner-Suomi, 15950, Suomi / Finland",
+      "type": "apartments",
+      "addresstype": "building",
+      "address": {
+        "house_number": "1",
+        "road": "Vuorisenkatu",
+        "quarter": "Kankola",
+        "suburb": "Jalkaranta",
+        "city": "Lahti",
+        "municipality": "Lahden seutukunta",
+        "state": "Päijät-Häme",
+        "ISO3166-2-lvl4": "FI-16",
+        "region": "Manner-Suomi",
+        "postcode": "15950",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Toppila, Oulu|24.4049,65.4618,26.5355,64.5618": [
+    {
+      "lat": 65.041678,
+      "lon": 25.4360905,
+      "display_name": "Toppila, Koskela, Oulu, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, 90520, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Toppila",
+        "city": "Oulu",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "postcode": "90520",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Corner of Kapteenintie and Puosuntie, Toppila, Oulu|24.4049,65.4618,26.5355,64.5618": [],
+  "Corner of Kapteenintie and Puosuntie, Oulu|24.4049,65.4618,26.5355,64.5618": [],
+  "Kontulan kerrostalo, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Keinulaudantie 1 C-D, Kontulan kerrostalo, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Keinulaudantie 1 C-D, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.2338588,
+      "lon": 25.0754465,
+      "display_name": "Keinulaudantie, Kontula, Mellunkylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00940, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Keinulaudantie",
+        "suburb": "Kontula",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00940",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2346953,
+      "lon": 25.079423,
+      "display_name": "Keinulaudantie, Kontula, Mellunkylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00940, Suomi / Finland",
+      "type": "tertiary",
+      "addresstype": "road",
+      "address": {
+        "road": "Keinulaudantie",
+        "suburb": "Kontula",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00940",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Toukola, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.2084442,
+      "lon": 24.9721468,
+      "display_name": "Toukola, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00560, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Toukola",
+        "city_district": "Keskinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00560",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2084442,
+      "lon": 24.9721468,
+      "display_name": "Toukola, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00560, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Toukola",
+        "city_district": "Keskinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00560",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Mertakadun kulma, Toukola, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Mertakadun kulma, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Lohja": [
+    {
+      "lat": 60.2512041,
+      "lon": 24.0676953,
+      "display_name": "Lohja, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Lohja",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2606022,
+      "lon": 24.0305982,
+      "display_name": "Lohja, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city_district",
+      "address": {
+        "city_district": "Lohja",
+        "town": "Lohja",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Lohja, Perttilä|23.1608,60.7012,24.9746,59.8012": [
+    {
+      "lat": 60.2751289,
+      "lon": 24.1382516,
+      "display_name": "Perttilä, Lohja, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Perttilä",
+        "city_district": "Lohja",
+        "town": "Lohja",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2747966,
+      "lon": 24.1329852,
+      "display_name": "Perttilä, Mäntynummentie, Asemanrinne, Mäntynummi, Lohja, Helsingin seutukunta, Uusimaa, Manner-Suomi, 08500, Suomi / Finland",
+      "type": "bus_stop",
+      "addresstype": "highway",
+      "address": {
+        "highway": "Perttilä",
+        "road": "Mäntynummentie",
+        "neighbourhood": "Asemanrinne",
+        "suburb": "Mäntynummi",
+        "city_district": "Lohja",
+        "town": "Lohja",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "08500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kymintie 78, Helsinki Toukola|24.0390,60.6166,25.8481,59.7166": [],
+  "Leankatu 8, Helsinki Pasila|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.201654,
+      "lon": 24.9234567,
+      "display_name": "Leankatu, Länsi-Pasila, Pasila, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00240, Suomi / Finland",
+      "type": "cycleway",
+      "addresstype": "road",
+      "address": {
+        "road": "Leankatu",
+        "quarter": "Länsi-Pasila",
+        "suburb": "Pasila",
+        "city_district": "Keskinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00240",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Itäkeskus, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.210804,
+      "lon": 25.0801781,
+      "display_name": "Itäkeskus, Vartiokylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00930, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Itäkeskus",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00930",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2099882,
+      "lon": 25.0773613,
+      "display_name": "Itäkeskus, 2, Tallinnanaukio, Itäkeskus, Vartiokylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00930, Suomi / Finland",
+      "type": "station",
+      "addresstype": "railway",
+      "address": {
+        "railway": "Itäkeskus",
+        "house_number": "2",
+        "road": "Tallinnanaukio",
+        "suburb": "Itäkeskus",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00930",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kajaaninlinnantie, Itäkeskus, Helsinki - apartment building basement|24.0390,60.6166,25.8481,59.7166": [],
+  "Kajaaninlinnantie, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.2111237,
+      "lon": 25.0738468,
+      "display_name": "Kajaaninlinnantie, Puotinharju, Vartiokylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00900, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Kajaaninlinnantie",
+        "quarter": "Puotinharju",
+        "suburb": "Vartiokylä",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00900",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2127624,
+      "lon": 25.0723731,
+      "display_name": "Kajaaninlinnantie, Puu-Myllypuro, Myllypuro, Vartiokylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00920, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Kajaaninlinnantie",
+        "neighbourhood": "Puu-Myllypuro",
+        "suburb": "Vartiokylä",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00920",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2104363,
+      "lon": 25.0746227,
+      "display_name": "Kajaaninlinnantie, Puotinharju, Vartiokylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00930, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Kajaaninlinnantie",
+        "quarter": "Puotinharju",
+        "suburb": "Vartiokylä",
+        "city_district": "Itäinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00930",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ]
 }

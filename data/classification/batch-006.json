@@ -44,9 +44,9 @@
   {
     "topic_id": "743",
     "topic": "Kuolemaan johtanut pahoinpitely, Hki Pihlajamäki 1990",
-    "verdict": "single_homicide",
-    "confidence": "high",
-    "reasoning": "Opening post describes one man assaulted by a youth group at a bus stop who died from his injuries - one incident, one victim."
+    "verdict": "not_a_homicide",
+    "confidence": "medium",
+    "reasoning": "Overruled by the evidence pass on the full thread. A 40-year-old man died after an assault by five youths in Pihlajamaki on 17 March 1990, but Helsingin RO dismissed the manslaughter charges on 4 September 1990, finding no established causal link between the assault and the death, which was attributed to cardiac arrhythmia. The attackers were convicted of assault and robbery only."
   },
   {
     "topic_id": "745",
