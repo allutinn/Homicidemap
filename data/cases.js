@@ -11630,5 +11630,756 @@ const CASES = [
       "https://murha.info/rikosfoorumi/viewtopic.php?p=1980871#p1980871"
     ],
     "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=740"
+  },
+  {
+    "id": 102,
+    "topic_id": "748",
+    "title": "Eino Tammen ja Elsa Eskolan surmat, Lahti 21.8.2003",
+    "coords": [
+      60.9967608,
+      25.5943051
+    ],
+    "coords_precision": "address",
+    "coords_credibility": "official",
+    "coords_label": "Vuorisenkatu 1, Kankola, Lahti",
+    "coords_note": null,
+    "coords_resolved": "1, Vuorisenkatu, Kankola, Jalkaranta, Lahti, Lahden seutukunta, Päijät-Häme, Manner-Suomi, 15950, Suomi / Finland",
+    "date": "2003-08-21",
+    "date_note": "Ketjun otsikossa mainitaan 20.8.2003, mutta yksityiskohtaisemmassa aineistossa surmapäiväksi täsmentyy torstai 21.8.2003. Tietokantaan on merkitty 21.8.2003.",
+    "status": "solved",
+    "outcome": "Lahti District Court convicted Tuomo Heikki Tapani Hippeläinen (44) of two murders on 14 February 2004 and sentenced him to life imprisonment; the same court convicted Niko Johan Kristian Koskinen (27) of aiding and abetting two murders, aggravated robbery and a firearms offence, sentencing him to 8 years in prison. On 17 June 2005 the Kouvola Court of Appeal upheld Hippeläinen's life sentence and increased Koskinen's sentence by two years, to 10 years. According to the evidence an 18-year-old man from Orimatti(la) was also convicted of concealing evidence and received an 8-month suspended sentence. A forum post from 2021 states that Hippeläinen had not been released at that time.",
+    "location": "The home where the couple was murdered early in the morning of August 21, 2003",
+    "municipality": "Lahti",
+    "summary": {
+      "fi": {
+        "lead": "Lahden Kankolassa, osoitteessa Vuorisenkatu 1, surmattiin torstaiaamuna 21. elokuuta 2003 eläkkeellä ollut avopari, vuonna 1943 syntynyt Eino ja vuonna 1945 syntynyt Elsa. Lahden käräjäoikeus tuomitsi helmikuussa 2004 44-vuotiaan Tuomo Heikki Tapani Hippeläisen kahdesta murhasta elinkautiseen vankeuteen ja 27-vuotiaan Niko Johan Kristian Koskisen avunannosta kahdeksaksi vuodeksi. Kouvolan hovioikeus koventoi Koskisen tuomion kymmeneksi vuodeksi.",
+        "detail": "Kaksoissurma tapahtui kerrostaloasunnossa osoitteessa Vuorisenkatu 1 Lahden Kankolassa, noin kolmen kilometrin päässä keskustasta. Oikeus- ja lehtitietoihin perustuvan aineiston mukaan Tuomo ja Niko menivät pariskunnan asuintalolle noin kello 07.05 torstaina 21. elokuuta 2003. Seuraavana iltapäivänä kello 16.11 Lahden poliisilaitokselle soitti Tapio Tammi -niminen mies, joka kertoi olevansa isänsä ja tämän avovaimon asuintalon luona. Hälytyspartio pääsi isännöitsijän avaimilla toisen kerroksen asuntoon ja löysi sieltä kuolleina Tapion isän, vuonna 1943 syntyneen Einon, sekä tämän avovaimon, vuonna 1945 syntyneen Elsan. Aineistossa uhrit yksilöidään nimillä Eino Tammi ja Elsa Eskola.\n\nSurmatavasta todetaan oikeus- ja lehtiaineiston pohjalta, että Hippeläinen tappoi miehen pampulla hakkaamalla ja puukottamalla. Naista hän löi puukolla neljä kertaa syvälle niskaan, kerran yläselkään ja kerran oikeaan kylkeen.\n\nMotiivista kerrotaan vain foorumipuheena: kirjoittajien mukaan Hippeläisen sisko oli parikymmentä vuotta aiemmin saanut kenkää surmatun miehen firmasta ja tekijä janosi kostoa. Samoin foorumitietona esitetään, että Hippeläinen oli noin viikkoa ennen surmatöitä liikkunut talon lähellä saatuaan osoitteen tietoonsa Einon entiseltä työpaikalta, ja että hän tunnusti teot 31. elokuuta. Aineistossa mainitaan lisäksi, että hän käyttäytyi kuulustelun jälkimmäisessä vaiheessa hyvin uhkaavasti ja repi kuulustelupöytäkirjat 30. elokuuta. Taustatietona kerrotaan, että Tuomo on alun perin kotoisin Hollolasta ja on ollut nuoresta pitäen tekemisissä poliisin kanssa.\n\nLahden käräjäoikeus antoi tuomionsa 14.2.2004. Hippeläinen sai kahdesta murhasta elinkautisen vankeusrangaistuksen. Koskinen tuomittiin avunannosta kahteen murhaan, törkeästä ryöstöstä ja ampuma-aserikoksesta kahdeksaksi vuodeksi vankeuteen. Kouvolan hovioikeus antoi ratkaisunsa 17.6.2005: elinkautinen jäi voimaan, mutta Koskisen tuomiota kovennettiin kahdella vuodella kymmeneksi vuodeksi. Aineiston mukaan myös orimattilalainen 18-vuotias mies tuomittiin todisteiden peittämisestä kahdeksan kuukauden ehdolliseen vankeuteen; häntä ei nimetä. Vuonna 2021 kirjoitetun foorumiviestin mukaan Hippeläinen ei ollut tuolloin vielä vapautunut.\n\nAlueen nimestä on ketjussa myös foorumikirjoittajan huomio, jonka mukaan kyseessä on Jalkarannan alue noin kolmen kilometrin päässä keskustasta."
+      },
+      "en": {
+        "lead": "A retired couple, a man born in 1943 and a woman born in 1945, were killed in their home at Vuorisenkatu 1 in the Kankola area of Lahti on the morning of Thursday 21 August 2003. In February 2004 Lahti District Court sentenced Tuomo Heikki Tapani Hippeläinen, 44, to life imprisonment for two murders, and Niko Johan Kristian Koskinen, 27, to eight years for aiding and abetting.",
+        "detail": "The double killing took place in a second-floor flat at Vuorisenkatu 1 in Kankola, Lahti, about three kilometres from the city centre. According to material in the thread drawn from court and news reporting, Tuomo and Niko went to the couple's building at around 07.05 on Thursday 21 August 2003. The following afternoon, at 16.11, a man named Tapio Tammi called Lahti police to say he was outside the home of his father and his father's partner. A patrol entered the flat using the building manager's keys and found Tapio's father, Eino, born 1943, and his partner Elsa, born 1945, dead. The evidence identifies the victims as Eino Tammi and Elsa Eskola.\n\nOn the manner of death, the court- and news-based material states that Hippeläinen killed the man by beating him with a baton and stabbing him. He struck the woman with a knife four times deep in the neck, once in the upper back and once in the right side.\n\nThe motive appears only as forum talk. Posters wrote that Hippeläinen's sister had been dismissed some twenty years earlier from the murdered man's company and that the perpetrator wanted revenge. Also as forum claims: that Hippeläinen had been seen near the house about a week before the killings after obtaining the address from Eino's former workplace, and that he confessed on 31 August. The material further notes that he behaved very threateningly during the later stage of questioning and tore up the interrogation records on 30 August, and that Tuomo originally came from Hollola and had been in contact with police from a young age.\n\nLahti District Court gave its judgment on 14 February 2004. Hippeläinen received a life sentence for two murders. Koskinen was convicted of aiding and abetting two murders, aggravated robbery and a firearms offence, and sentenced to eight years. The Kouvola Court of Appeal ruled on 17 June 2005: the life sentence stood, but Koskinen's term was increased by two years to ten. According to the evidence an 18-year-old man from Orimatti(la) was also convicted of concealing evidence and given an eight-month suspended sentence; he is not named. A forum post from 2021 states that Hippeläinen had not been released by then.\n\nOne forum poster adds that the neighbourhood is called Jalkaranta, roughly three kilometres from the centre."
+      }
+    },
+    "victims": [
+      {
+        "name": "Eino Tammi",
+        "description": "Born 1943, retired male, 60 years old at death. The primary target of the revenge killing. Former employer of perpetrator's sister, deceased as of August 21, 2003.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1677562#p1677562",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=536690#p536690"
+        ]
+      },
+      {
+        "name": "Elsa Eskola",
+        "description": "Born 1945, female partner of Eino Tammi, 58 years old at death. Collateral victim with no connection to the original dispute, killed in her home on August 21, 2003.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1677562#p1677562",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=536690#p536690"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Tuomo Heikki Tapani Hippeläinen",
+        "description": "44 years old at time of conviction, primary perpetrator. Previously from Hollola with long criminal history including prior violence. Acted out of revenge for perceived mistreatment of his sister 25 years earlier by the victim's employer.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=26232#p26232",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=536690#p536690",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1677562#p1677562"
+        ]
+      },
+      {
+        "name": "Niko Johan Kristian Koskinen",
+        "description": "27 years old at time of conviction, accomplice. Participated in the murders as requested by Hippeläinen, whom he feared. Displayed clown antics to his girlfriend after the murders while heavily intoxicated.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=26232#p26232",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=40373#p40373",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1677562#p1677562"
+        ]
+      },
+      {
+        "name": "18-year-old from Orimatti (name not disclosed)",
+        "description": "Helper who concealed evidence in his auto garage and cottage. Hid weapons, stolen property, and provided shelter to the perpetrators after the murders.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=536690#p536690",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1677562#p1677562"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Vuorisenkatu 1, Kankola, Lahti",
+        "detail": "The home where the couple was murdered early in the morning of August 21, 2003",
+        "quote": "Lahden Kankolassa, osoitteessa Vuorisenkatu 1, noin kolmen kilometrin päässä Lahden keskustasta, tehtiin torstaina 21. elokuuta 2003 julma ja häikäilemätön verityö kun kuusikymppinen eläkkeellä oleva avopari surmattiin.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=536690#p536690",
+        "precision": "address",
+        "credibility": "official",
+        "used_for_marker": true
+      },
+      {
+        "label": "Jalkaranta, Lahti",
+        "detail": "Residential area approximately 3 km from Lahti city center where the victims lived",
+        "quote": "Jalkaranta alueen nimi, noin 3 km keskustasta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=11497#p11497",
+        "precision": "district",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Lahden käräjäoikeus, Lahti",
+        "detail": "District court that issued the guilty verdict in February 2004",
+        "quote": "Lahden käräjäoikeus antoi perjantaina päätöksen viime elokuussa tapahtuneista murhista.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=536690#p536690",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kouvolan hovioikeus, Kouvola",
+        "detail": "Court of Appeal that reviewed the case and issued the final verdict in June 2005",
+        "quote": "17.6.-05 Kouvolan hovioikeus tuomitsi Lahden Kankolassa, osoitteessa Vuorisenkatu 1, tapahtuneesta kaksoissurmasta",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=40373#p40373",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Orimatti",
+        "detail": "Town where evidence was hidden in an auto garage and cottage, and where the third defendant lived",
+        "quote": "Matkalla oli soitettu Orimattilaan 18-vuotiaalle Jussi-nimiselle miehelle.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1677562#p1677562",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=11079#p11079",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=26232#p26232",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=536690#p536690",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=11497#p11497",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=40373#p40373",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1677562#p1677562"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=748"
+  },
+  {
+    "id": 103,
+    "topic_id": "745",
+    "title": "Maire Sinikka Kaketin surma, Oulu 25.10.1970",
+    "coords": [
+      65.041678,
+      25.4360905
+    ],
+    "coords_precision": "district",
+    "coords_credibility": "forum_claim",
+    "coords_label": "Corner of Kapteenintie and Puosuntie, Toppila, Oulu",
+    "coords_note": "downgraded",
+    "coords_resolved": "Toppila, Koskela, Oulu, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, 90520, Suomi / Finland",
+    "date": "1970-10-25",
+    "date_note": "Yön 24.–25.10.1970 aikana; uhri lähti tansseista lauantai-iltana, ja hänen kimppuunsa käytiin varhain sunnuntaiaamuna.",
+    "status": "solved",
+    "outcome": "Pertti Olavi Haataja was convicted by Oulun raastuvanoikeus (Oulu District Court) of murha (murder) and väkisinmakaaminen (rape) and initially sentenced to 14 years. Vaasan hovioikeus (Vaasa Court of Appeal), in decision RD 1971 N:o 871 dated 15 October 1971, reduced the sentence to 12 years. Korkein oikeus (the Supreme Court), on 10 February 1972, confirmed the 12-year sentence for the murder and rape; combined with his other October 1970 offences (bicycle theft, breaking a window, car theft and a burglary), the total was 13 years of kuritushuone imprisonment.",
+    "location": "Small park at intersection where attack and murder occurred; victim strangled and raped, approximately 300 meters from victim's home",
+    "municipality": "Oulu",
+    "summary": {
+      "fi": {
+        "lead": "16-vuotias Maire Sinikka Kaketti oli lauantai-iltana 24.10.1970 tansseissa Limingassa ja palasi yöllä bussilla Ouluun. Kotimatkalla Toppilassa, Kapteenintien ja Puosuntien kulmauksen puistikossa, hänen kimppuunsa kävi 22-vuotias Pertti Olavi Haataja, joka kuristi ja raiskasi tytön. Haataja tuomittiin murhasta ja väkisinmakaamisesta, ja korkein oikeus vahvisti helmikuussa 1972 kahdentoista vuoden rangaistuksen.",
+        "detail": "Uhri oli 23.12.1953 syntynyt Maire Sinikka Kaketti, 16-vuotias ammattikoululainen, joka opiskeli kokiksi ja asui perheensä – isän, äidin, veljen ja kahden pikkusiskon – kanssa vaatimattomassa rivitalossa Toppilan Puosuntiellä. Häntä kuvataan hiljaiseksi ja ujoksi. Uhrin henkilöllisyys ja syntymäaika perustuvat ketjussa oikeus- tai lehtilähteisiin nojaaviin tietoihin; kuvaus hänen perheestään ja luonteestaan on foorumikirjoittajien kertomaa.\n\nFoorumilla kerrotun mukaan Maire lähti lauantaina 24.10.1970 tansseihin Limingan nuorisoseurantalolle, parisenkymmentä kilometriä Oulusta etelään, ja palasi kuljetusbussilla Ouluun sunnuntaiaamun puolella noin kello 1.30. Hän jäi bussista kaupungilla ja käveli siltoja pitkin Koskitien kautta kohti Toppilan omakotialuetta. Kapteenintien ja Puosuntien kulmauksessa sijaitsevan pienen puistikon kohdalla, noin 300–400 metrin päässä kodistaan, hänen peräänsä lähti 22-vuotias sekatyömies Pertti Olavi Haataja ja alkoi kuristaa häntä käsin. Nämä tapahtumien kulkua koskevat yksityiskohdat ovat foorumiväitteitä.\n\nItse teon kulusta ketjussa esitetään oikeus- tai lehtilähteisiin nojaava kuvaus: tekijä kuristi uhrin tajuttomaksi käsin, raahasi hänet 10–20 metriä puistikon reunaan aidan viereen, riisui häneltä mustat vetoketjusaappaat ja vaatteet ja kuristi hänet sitten uudelleen sukilla, jotka kiristettiin solmuille kaulan ympärille. Uhri löydettiin sunnuntaiaamuna. Foorumilla kerrotaan lisäksi, että äiti sairastui järkytyksestä vuodepotilaaksi ja että poliisi jakoi Kalevassa julkaistua uhrin valokuvaa todistajien löytämiseksi. Yhtenä foorumiväitteenä esitetään myös, että lähistön huoltoaseman luona olleet etsivät havaittiin noin 300 metrin päässä rikospaikalta suunnilleen tekoaikaan ilman että he puuttuivat tilanteeseen.\n\nHaataja oli syntynyt Oulussa 10.7.1948 ja oli tekoaikaan juuri päässyt ehdonalaiseen Pelson vankilasta; hänen kerrotaan asuneen ulkorakennuksessa Toppilan–Koskelan seudulla. Oikeus- tai lehtilähteisiin nojaavien tietojen mukaan hän syyllistyi lokakuussa 1970 myös polkupyörävarkauteen, ikkunan rikkomiseen, autovarkauteen ja opiskelija-asuntolan huoneeseen tehtyyn murtoon. Oulun raastuvanoikeus tuomitsi hänet murhasta ja väkisinmakaamisesta 14 vuodeksi, Vaasan hovioikeus lievensi rangaistuksen 15.10.1971 antamallaan päätöksellä RD 1971 N:o 871 kahteentoista vuoteen, ja korkein oikeus vahvisti 10.2.1972 kahdentoista vuoden rangaistuksen; yhteiseksi rangaistukseksi muiden rikosten kanssa tuli 13 vuotta kuritushuonetta. Foorumilla kerrotaan Haatajan kuolleen 1.7.2022 Hämeessä 73-vuotiaana."
+      },
+      "en": {
+        "lead": "On Saturday evening, 24 October 1970, 16-year-old Maire Sinikka Kaketti went to a dance in Liminka and returned to Oulu by bus during the night. On her way home in the Toppila district of Oulu, at a small park on the corner of Kapteenintie and Puosuntie, she was attacked by 22-year-old Pertti Olavi Haataja, who strangled and raped her. He was convicted of murder and rape, and in February 1972 the Supreme Court confirmed a twelve-year sentence.",
+        "detail": "The victim was Maire Sinikka Kaketti, born 23 December 1953, a 16-year-old vocational school student training to be a cook. She lived with her family — father, mother, a brother and two younger sisters — in a modest row house on Puosuntie in the Toppila district of Oulu, and is described as quiet and shy. Her identity and date of birth rest on material in the thread attributed to court or news sources; the description of her family and character is what forum posters relate.\n\nAccording to forum accounts, Maire went on Saturday 24 October 1970 to a dance at the youth society hall in Liminka, some twenty kilometres south of Oulu, and returned to Oulu by coach at about 1:30 on Sunday morning. She got off in the town centre and walked across the bridges and along Koskitie towards the Toppila housing area. At a small park on the corner of Kapteenintie and Puosuntie, roughly 300 to 400 metres from her home, 22-year-old labourer Pertti Olavi Haataja ran after her and began to strangle her with his hands. These details of the sequence of events are forum claims.\n\nThe account of the killing itself is given in the thread as resting on court or news sources: the perpetrator strangled the victim into unconsciousness with his hands, dragged her 10 to 20 metres to the edge of the park by a fence, removed her black zip-up boots and her clothing, and then strangled her a second time with her stockings pulled tight around her neck and knotted. She was found on Sunday morning. Forum posters add that her mother became bedridden from shock and grief, that police circulated a photograph of her published in the Kaleva newspaper to find witnesses, and — as a further forum claim — that detectives from a nearby service station were seen about 300 metres from the scene around the time of the attack without intervening.\n\nHaataja was born in Oulu on 10 July 1948 and had recently been released on parole from Pelso prison; he is said to have been living in an outbuilding in the Toppila–Koskela area. Court- or news-based information in the thread records that in October 1970 he also committed a bicycle theft, broke a window, stole a car and burgled a student dormitory room. Oulun raastuvanoikeus sentenced him to 14 years for murder and rape; Vaasan hovioikeus reduced this to 12 years in decision RD 1971 N:o 871 of 15 October 1971; and Korkein oikeus confirmed the 12-year term on 10 February 1972, the combined sentence for all his offences being 13 years of kuritushuone imprisonment. Forum posters state that Haataja died on 1 July 2022 in the Häme region, aged 73."
+      }
+    },
+    "victims": [
+      {
+        "name": "Maire Sinikka Kaketti",
+        "description": "16-year-old girl, vocational school student studying to be a cook; lived with family (father, mother, brother, two younger sisters) in modest row house in Toppila, Oulu; described as quiet and shy",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=468248#p468248",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=468020#p468020"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Pertti Olavi Haataja",
+        "description": "Born 10.7.1948, died 1.7.2022; age 22 at time of crime; manual worker (sekatyömies); recently released from Pelso prison on conditional release; wore glasses, small and dark-haired, mustached, unkempt appearance; from troubled family; had history of bike theft, window breaking, car theft, burglary, and breaking into young women's bedrooms; lived in outbuilding in Toppila-Koskelan area",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=468248#p468248",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=469704#p469704",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1646062#p1646062"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Corner of Kapteenintie and Puosuntie, Toppila, Oulu",
+        "detail": "Small park at intersection where attack and murder occurred; victim strangled and raped, approximately 300 meters from victim's home",
+        "quote": "Kapteenintien ja Puosuntien kulmauksessa sijaitsevan pienen puistikon kohdalla - aivan talojen edustalla - Haataja säntäsi Mairen perään ja alkoi kuristaa tyttöä käsin.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=469704#p469704",
+        "precision": "street",
+        "credibility": "forum_claim",
+        "used_for_marker": true
+      },
+      {
+        "label": "Puosuntie, Toppila, Oulu",
+        "detail": "Residential street in Toppila where victim lived with family in modest row house; close to crime scene",
+        "quote": "Maire oli jäänyt kuljetusbussista pois kaupungilla ja kävellyt siltoja pitkin-Koskitien läpi kohti Toppilan omakotitaloaluetta, jossa siis asui Puosuntiellä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=671237#p671237",
+        "precision": "street",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Liminka, Finland",
+        "detail": "Location of youth society dance approximately 20 kilometers south of Oulu where victim attended evening of October 24, 1970; where victim spent time before returning to Oulu",
+        "quote": "Lauantaina 24.10.1970 Maire lähti tansseihin Limingan nuorisoseuran talolle, parikymmentä kilometriä Oulusta etelään.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=469704#p469704",
+        "precision": "area",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=469704#p469704",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=468020#p468020",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=467640#p467640",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=468248#p468248",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=847996#p847996",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=842867#p842867"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=745"
+  },
+  {
+    "id": 104,
+    "topic_id": "756",
+    "title": "Seija Kekkosen surma, Helsinki 6.12.1980",
+    "coords": [
+      60.2338588,
+      25.0754465
+    ],
+    "coords_precision": "address",
+    "coords_credibility": "official",
+    "coords_label": "Keinulaudantie 1 C-D, Kontulan kerrostalo, Helsinki",
+    "coords_note": null,
+    "coords_resolved": "Keinulaudantie, Kontula, Mellunkylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00940, Suomi / Finland",
+    "date": "1980-12-06",
+    "date_note": "Löydettiin itsenäisyyspäivän aamuna 6.12.1980; surmattiin yön 5.–6.12.1980 aikana.",
+    "status": "unsolved",
+    "outcome": "Unsolved. The investigation remains open. The victim's husband, a taxi driver, was detained for questioning but released; no charges were brought against him or anyone else, and no court has convicted anyone of the killing.",
+    "location": "Basement (kellarikäytävä) of 4-story apartment building where Seija Kekkonen's body was found",
+    "municipality": "Helsinki",
+    "summary": {
+      "fi": {
+        "lead": "41-vuotias postinkantaja Seija Tuulikki Kekkonen löytyi surmattuna itsenäisyyspäivän aamuna 6.12.1980 kotitalonsa kellarikäytävästä osoitteessa Keinulaudantie 1, Kontulassa Helsingissä. Hän oli palannut yöllä työpaikan pikkujouluista ravintola Kaivohuoneelta. Poliisi kuulusteli yli tuhatta ihmistä, mutta tekijää ei koskaan saatu selville. Ketään ei ole asetettu syytteeseen, ja tutkinta on yhä avoinna.",
+        "detail": "Seija Tuulikki Kekkonen, syntynyt 5.8.1939, oli 41-vuotias helsinkiläinen postinkantaja ja perheenäiti. Talon asukas löysi hänen ruumiinsa itsenäisyyspäivän aamuna 1980 nelikerroksisen kerrostalon kellarista Kontulassa, Keinulaudantiellä. Surmapaikka oli maan tasalla sijaitseva kellarikäytävä, josta pääsee talon kaikkiin varastoihin ja saunoihin. Nämä tiedot ovat ketjussa oikeus- ja lehtilähteisiin nojaavia.\n\nEdellisenä iltana Kekkonen oli lähtenyt läheisen valintamyymälän pikkujouluihin ravintola Kaivohuoneelle ja poistunut sieltä aamuyöstä sulkemisajan jälkeen. Sen jälkeisistä vaiheista ei tiedetä juuri mitään. Helsingin murharyhmän komendantin Jari Kosken mukaan Kekkonen tuli Kaivohuoneelta kotiin taksilla: tutkinnassa tavoitettiin taksinkuljettaja, joka oli tuonut Seijan tuntomerkkeihin sopineen, yksin olleen naisen Kaivohuoneelta hänen kotitalonsa eteen.\n\nUhrille oli lähdemerkintöjen mukaan yritetty tehdä seksuaalista väkivaltaa ennen surmatyötä, ja kellarissa oli kamppailun merkkejä – Seija taisteli elämästään. Leningistä löytynyt tahra lähetettiin Kansanterveyslaboratorioon tutkittavaksi, mutta siitä ei löytynyt mitään seksuaalirikokseen viittaavaa. Paikalta löytyi myös Form-savukkeen tumppi sekä kolasalmiakkikaramellin kääre. Kukaan talon asukkaista ei ollut kuullut tai nähnyt mitään poikkeavaa surmayönä. Tutkinnan aikana huolta aiheutti yksi avain, jonka pelättiin kadonneen, mutta lopulta paljastui, että se oli lukkosepällä eikä yhtään avainta ollut hukassa tai talon ulkopuolisen hallussa. Ketjussa esitetään keskustelijan omana päätelmänä – ei siis oikeus- tai lehtitietona – että koska Kekkosella ei ollut mukanaan kellaritiloihin johtavia avaimia, surmaajan olisi täytynyt olla samasta taloyhtiöstä.\n\nPoliisi kuulusteli ja puhutteli yli tuhatta ihmistä. Uhrin aviomies, ammatiltaan taksinkuljettaja, otettiin kiinni ja kuulusteltiin, mutta hänet vapautettiin ilman syytteitä. Tammikuussa 1981 Onerva Ketola löytyi surmattuna asuintalonsa kellarista Itä-Pasilasta, ja mahdollista yhteyttä tutkittiin. Naissurmia tutkinut komisario Martti Latikka joutui kuitenkin toteamaan, ettei erään miehen syyllisyydestä ollut näyttöä Kontulan eikä Itä-Pasilan surmaan. Ketjussa on spekuloitu sarjamurhaajalla, mutta poliisin mukaan yhteistä tekijää ei ole todettu. Ketään ei ole tuomittu, ja tapaus on yhä selvittämättä."
+      },
+      "en": {
+        "lead": "Seija Tuulikki Kekkonen, a 41-year-old postal carrier, was found murdered on the morning of Finnish Independence Day, 6 December 1980, in the basement corridor of her apartment building at Keinulaudantie 1 in Kontula, Helsinki. She had come home overnight from a work Christmas party at the Kaivohuone restaurant. Police questioned more than a thousand people, but the killer was never identified. No one has been charged and the case remains open.",
+        "detail": "Seija Tuulikki Kekkonen, born 5 August 1939, was a 41-year-old Helsinki postal carrier and mother. A resident of the building found her body on the morning of Independence Day 1980 in the basement of the four-storey apartment block on Keinulaudantie in Kontula. The scene was a ground-level basement corridor giving access to all the building's storage rooms and saunas. These details rest in the thread on court and news reporting.\n\nThe previous evening Kekkonen had gone to the Christmas party of a nearby supermarket, held at the Kaivohuone restaurant, and left in the small hours after closing time. What happened afterwards is essentially unknown. According to Jari Koski of the Helsinki homicide squad, Kekkonen travelled home from Kaivohuone by taxi: investigators traced a taxi driver who had driven a woman matching Seija's description, travelling alone, from Kaivohuone to the front of her home building.\n\nPer the reported material, an attempted sexual assault preceded the killing, and there were signs of a struggle in the basement — Seija fought for her life. A stain found on her dress was sent to the National Public Health Laboratory for analysis, but nothing indicating a sexual offence was found in it. A Form-brand cigarette butt and the wrapper of a cola-salmiakki sweet were also recovered at the scene. No resident heard or saw anything unusual that night. During the investigation one key was feared lost, but it turned out to be with a locksmith: no key was missing or in outside hands. One point is a poster's own inference rather than court or news reporting — that because Kekkonen had no basement keys on her, the killer must have come from the same housing company.\n\nPolice questioned or interviewed over a thousand people. The victim's husband, a taxi driver, was detained and questioned but released without charges. In January 1981 Onerva Ketola was found murdered in the basement of her building in Itä-Pasila, and a possible link was examined. Detective inspector Martti Latikka, investigating the killings of women, had to conclude there was no evidence against a certain man in either the Kontula or the Itä-Pasila case. Serial-killer speculation appears in the thread, but police found no common perpetrator. No one has been convicted, and the case is still unsolved."
+      }
+    },
+    "victims": [
+      {
+        "name": "Seija Tuulikki Kekkonen",
+        "description": "41-year-old postal carrier (postinakantaja), family mother. Born August 5, 1939",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=11398#p11398",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1523445#p1523445"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Unnamed husband",
+        "description": "Victim's spouse; profession: taxi driver (taksinkuljettaja). Was detained for questioning but released without charges.",
+        "status": "suspected",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=11398#p11398",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=157151#p157151",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=145024#p145024"
+        ]
+      },
+      {
+        "name": "Unknown perpetrator",
+        "description": "Killer remains unidentified. Thread discusses possibility of serial killer (sarjamurhaaja) due to similar basement murders in 1981, but police determined no common perpetrator.",
+        "status": "unknown",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=11398#p11398",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=431803#p431803"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Keinulaudantie 1 C-D, Kontulan kerrostalo, Helsinki",
+        "detail": "Basement (kellarikäytävä) of 4-story apartment building where Seija Kekkonen's body was found",
+        "quote": "Helsinkiläinen 41-vuotias postinakantaja Seija Tuulikki Kekkonen löydettiin surmattuna itsenäisyyspäivän aamuna 1980 kotitalonsa kellarista Kontulasta Keinulaudantieltä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=11398#p11398",
+        "precision": "address",
+        "credibility": "official",
+        "used_for_marker": true
+      },
+      {
+        "label": "Ravintola Kaivohuone, Helsinki",
+        "detail": "Restaurant where Kekkonen attended company Christmas party the evening before; she left after closing time",
+        "quote": "Surmattu oli lähtenyt edellisenä iltana läheisen valintamyymälän pikkujouluihin ravintola Kaivohuoneelle, josta hän poistui aamuyöstä ravintolan sulkemisajan jälkeen.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=11398#p11398",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Itä-Pasila, Helsinki",
+        "detail": "Location of a similar basement murder of Onerva Ketola in January 1981; police investigated possible connection",
+        "quote": "Onerva Ketola löytyi surmattuna asuintalonsa kellarissa Itä-Pasilasta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=11398#p11398",
+        "precision": "district",
+        "credibility": "official",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=11398#p11398",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1523626#p1523626",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1523445#p1523445",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1804413#p1804413",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=431803#p431803"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=756"
+  },
+  {
+    "id": 105,
+    "topic_id": "761",
+    "title": "Leila Peksujeffin surma, Helsinki 27.4.1969",
+    "coords": [
+      60.2084442,
+      24.9721468
+    ],
+    "coords_precision": "district",
+    "coords_credibility": "official",
+    "coords_label": "Mertakadun kulma, Toukola, Helsinki",
+    "coords_note": "downgraded",
+    "coords_resolved": "Toukola, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00560, Suomi / Finland",
+    "date": "1969-04-27",
+    "date_note": "Ruumis löydettiin sunnuntaiaamuna 27.4.1969 klo 6.45. Ruumiinavauksen perusteella kuolinajaksi arvioitiin noin klo 23.00 lauantaina 26.4.1969.",
+    "status": "unsolved",
+    "outcome": "No one has ever been charged. Police made no arrests at any point in the investigation, no motive was established, and the case remains unsolved. There is therefore no court, conviction or sentence in this case.",
+    "location": "Body discovery site; victim found 4 meters from the road in a half-sitting position against a sand embankment. Dragging marks indicated victim had been pulled from a vehicle.",
+    "municipality": "Helsinki",
+    "summary": {
+      "fi": {
+        "lead": "Pakkaaja Leila Elina Peksujeff, 29, löydettiin kuoliaaksi pahoinpideltynä sunnuntaiaamuna 27.4.1969 kello 6.45 Helsingin Toukolasta, syrjäiseltä Mertakadulta Kyläsaaren lumenkaatopaikan vierestä. Hän oli kuollut päähän osuneeseen tylpän esineen iskuun ja sitä seuranneeseen aivoverenvuotoon. Ketään ei ole koskaan pidätetty, motiivia ei ole löytynyt eikä juttu ole ratkennut.",
+        "detail": "Leila Elina Peksujeff syntyi 3.6.1940 Iisalmen maalaiskunnassa. Hän oli muuttanut Helsinkiin muutamaa vuotta ennen kuolemaansa. Aikalaislähteiden mukaan hänen ammattinsa oli pakkaaja, mutta surmahetkellä hänellä ei ollut säännöllistä työtä eikä asuntoa.\n\nRuumis löytyi sunnuntaiaamuna 27.4.1969 kello 6.45 Mertakadun kulmasta Helsingin Toukolasta, Arabian tehtaiden takaa, Kyläsaaren lumenkaatopaikan vierestä. Löytöpaikka oli neljän metrin päässä ajoradasta. Tämä kuvaus perustuu pääosin aikalaisiin uutis- ja viranomaistietoihin; yksi ketjun myöhemmistä löytöpaikkakuvauksista on pelkkä palstakirjoittajan oma tiivistys, mutta se ei poikkea muusta aineistosta.\n\nOikeuslääketieteellisessä ruumiinavauksessa todettiin, että uhria oli isketty päähän jollakin kovalla, tylpällä esineellä. Kuolinsyyksi määritettiin aivovamma ja aivoihin syntynyt verenpurkauma eli aivoverenvuoto. Kuolinajaksi arvioitiin noin kello 23 lauantaina 26.4.1969.\n\nRikospaikkatutkijat havaitsivat ruumiin ympärillä selviä raahaamisjälkiä. Niiden perusteella pääteltiin, että uhri oli kiskottu autosta löytöpaikalleen. Poliisi epäili, että Peksujeff oli surmattu muualla ja kuljetettu paikalle autolla. Varsinaista surmapaikkaa ei ole aineistossa yksilöity, joten kartalla oleva merkintä osoittaa löytöpaikan, ei tapon tapahtumapaikkaa.\n\nLähellä sijainneen kiinteistön talonmies Raimo Kokkonen kertoi nähneensä edellisenä iltana, lauantaina 26.4. kello 22.50, samassa kohdassa Mertakadulla lumenkaatopaikan lähelle pysäköitynä vaalean Ford Zephyr -merkkisen henkilöauton. Autossa oli hänen mukaansa tuolloin kolme henkilöä. Poliisi ryhtyi heti ruumiin löytymisen jälkeen etsimään aktiivisesti silminnäkijän kuvailemaa autoa, mutta sitä ei koskaan löydetty.\n\nJutussa ei tehty ainoatakaan pidätystä eikä motiivia ole löydetty. Tapaus on yhä selvittämättä. Palstalla esitettyjä arvailuja mahdollisten tekijöiden henkilöllisyydestä ei toisteta tässä, koska ne eivät perustu tuomioistuin- tai uutislähteisiin."
+      },
+      "en": {
+        "lead": "Leila Elina Peksujeff, a 29-year-old packer, was found beaten to death at 6.45 on the morning of Sunday 27 April 1969 on the secluded Mertakatu in the Toukola district of Helsinki, beside the Kylasaari snow dump. She had died of a blunt blow to the head and the brain haemorrhage that followed. No one was ever arrested, no motive was found, and the case remains unsolved.",
+        "detail": "Leila Elina Peksujeff was born on 3 June 1940 in the rural municipality of Iisalmi. She had moved to Helsinki a few years before her death. Contemporary sources give her occupation as a packer, but at the time she was killed she had neither regular work nor a fixed home.\n\nHer body was found at 6.45 on the morning of Sunday 27 April 1969 at the corner of Mertakatu in Toukola, Helsinki, behind the Arabia factory works and beside the Kylasaari snow dump. The body lay four metres from the roadway. This account rests mainly on contemporary news and official information; one of the later descriptions of the discovery site in the thread is only a forum poster's own summary, though it does not conflict with the rest.\n\nThe forensic autopsy established that the victim had been struck on the head with a hard, blunt object. The cause of death was recorded as brain injury with haemorrhage into the brain. The time of death was estimated at around 23.00 on Saturday 26 April 1969.\n\nCrime scene investigators found clear drag marks around the body, from which they concluded that the victim had been hauled out of a car to the spot where she was found. Police suspected she had been killed elsewhere and driven to the site. The material does not identify any actual killing site, so the map marker shows the place where the body was found, not where she died.\n\nA caretaker at a nearby property, Raimo Kokkonen, said that on the previous evening, Saturday 26 April at 22.50, he had seen a pale Ford Zephyr saloon parked at the same spot on Mertakatu near the snow dump. He said three people were in the car at the time. Immediately after the body was found, police searched actively for the car the witness had described, but it was never located.\n\nNot a single arrest was ever made and no motive was established. The case remains unsolved. Speculation posted on the forum about who the perpetrators might have been is not repeated here, as it does not rest on court or news sources."
+      }
+    },
+    "victims": [
+      {
+        "name": "Leila Elina Peksujeff",
+        "description": "29-year-old woman, born 3 June 1940 in Iisalmen maalaiskunta. Moved to Helsinki a few years before her death; had no regular employment or fixed residence at time of death. Occupation: pakkaaja (packer).",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=11490#p11490",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=203790#p203790",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=206157#p206157"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Unknown",
+        "description": "One or more unidentified individuals associated with a pale Ford Zephyr automobile seen at the crime scene on Saturday 26 April 1969 around 22:50. The vehicle contained three people according to witness observation. The perpetrator or perpetrators were never identified or arrested.",
+        "status": "suspected",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=203790#p203790",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=206326#p206326"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Mertakadun kulma, Toukola, Helsinki",
+        "detail": "Body discovery site; victim found 4 meters from the road in a half-sitting position against a sand embankment. Dragging marks indicated victim had been pulled from a vehicle.",
+        "quote": "Leila Peksujeff (s. 3.6.1940 Iisalmen maalaiskunnassa) löydettiin kuoliaaksi pahoinpideltynä 27.4.1969 kello 6.45 Mertakadun kulmasta, Helsingin Toukolasta, Kyläsaaren lumenkaatopaikan vierestä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=11490#p11490",
+        "precision": "street",
+        "credibility": "official",
+        "used_for_marker": true
+      },
+      {
+        "label": "Kyläsaaren lumenkaatopaikan vierestä, Helsinki",
+        "detail": "Dump site area adjacent to Kyläsaari landfill/snow dump near the Mertakatu discovery location in Toukola.",
+        "quote": "Leila Elina Peksujeff (29-v) löydettiin siis kuoliaaksi pahoinpideltynä sunnuntaiaamuna 27.4. 1969 klo 6.45 Kyläsaaren lumenkaatopaikan vierestä, Helsingin Toukolasta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=203790#p203790",
+        "precision": "district",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Unknown location, possibly near Mertakatu",
+        "detail": "Police suspected victim was killed at a different location and transported by vehicle to the body dump site at Mertakatu. Believed to be somewhere not far from where body was found.",
+        "quote": "Näin se tosiaan meni, että poliisi epäili uhrin olevan surmattu muualla ja kuljetettu paikan päälle autolla.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=11620#p11620",
+        "precision": "area",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Iisalmen maalaiskunta",
+        "detail": "Birthplace of victim Leila Peksujeff; she moved to Helsinki several years before her death.",
+        "quote": "Leila Peksujeff (s. 3.6.1940 Iisalmen maalaiskunnassa) löydettiin kuoliaaksi pahoinpideltynä 27.4.1969 kello 6.45 Mertakadun kulmasta, Helsingin Toukolasta, Kyläsaaren lumenkaatopaikan vierestä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=11490#p11490",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=11490#p11490",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=11620#p11620",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=203790#p203790",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=206326#p206326",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=206157#p206157",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=283447#p283447"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=761"
+  },
+  {
+    "id": 106,
+    "topic_id": "765",
+    "title": "56-vuotiaan äidin surma Lohjan Perttilässä, maaliskuu 2007",
+    "coords": [
+      60.2751289,
+      24.1382516
+    ],
+    "coords_precision": "district",
+    "coords_credibility": "news",
+    "coords_label": "Lohja, Perttilä",
+    "coords_note": null,
+    "coords_resolved": "Perttilä, Lohja, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+    "date": "2007-03",
+    "date_note": "Tarkkaa päivämäärää ei kerrota ketjussa. Epäilty vangittiin maaliskuun puolivälissä, oikeuskäsittely oli elokuussa 2007 ja tuomio annettiin 29.8.2007.",
+    "status": "solved",
+    "outcome": "The victim's 19-year-old son was convicted at Lohja district court on 29 August 2007 of murder committed with diminished responsibility (alentuneesti syyntakeisena tehty murha), together with some lesser offences, and sentenced to eight years in prison.",
+    "location": "The home where the 56-year-old mother was killed by her 19-year-old son with over 50 stab wounds during an argument about waste paper disposal",
+    "municipality": "Lohja",
+    "summary": {
+      "fi": {
+        "lead": "Lohjan Perttilässä surmattiin maaliskuussa 2007 kotonaan 56-vuotias nainen. Tekijä oli hänen 19-vuotias poikansa, joka iski äitiään kahdella keittiöveitsellä yli viisikymmentä kertaa riidan päätteeksi. Poika myönsi teon heti ensimmäisessä kuulustelussa ja vangittiin maaliskuun puolivälissä. Lohjan käräjäoikeus tuomitsi hänet 29. elokuuta 2007 kahdeksaksi vuodeksi vankeuteen alentuneesti syyntakeisena tehdystä murhasta.",
+        "detail": "Tapaus tuli julki, kun 19-vuotias mies sai syytteen äitinsä murhasta Lohjalla. Tämän ketjun tiedot ovat kauttaaltaan peräisin uutis- ja oikeuslähteistä; foorumilaisten omiin arvailuihin perustuvia väitteitä ei aineistossa ole, eikä uhria tai tekijää nimetä.\n\nSurma tapahtui maaliskuussa 2007 perheen kotona Lohjan Perttilässä. Uutistietojen mukaan talossa ei tapahtumahetkellä ollut ketään muita kuin 56-vuotias äiti ja hänen poikansa. Poliisin mukaan riita syntyi siitä, että pojan olisi pitänyt viedä jätepaperit keräykseen. Ensimmäisen uutisen mukaan hän jätti paperit matkalle; myöhemmässä, oikeuskäsittelyä koskevassa uutisessa kerrotaan, että hän heitti roskat naapurin pihalle. Riidan päätteeksi nuori mies tarttui kahteen eri keittiöveitseen ja löi äitinsä hengiltä yli viidelläkymmenellä puukoniskulla.\n\nOikeudenkäynnissä kerrottiin, että surmattuaan äitinsä poika raahasi ruumiin makuuhuoneen lattialuukusta entiseen uima-allasastiaan. Uutisten mukaan hän myös anasti veriteon jälkeen äidiltään lompakon ja pankkikortin. Teon hän myönsi jo ensimmäisessä kuulustelussa, ja hänet vangittiin maaliskuun puolivälissä todennäköisin syin murhasta epäiltynä.\n\nOikeudessa nuorukainen kertoi pelänneensä äitiään, joka oli hänen mukaansa solvannut, lyönyt ja uhkaillut häntä useita kertoja aiemmin. Tämä on siis vastaajan oma, oikeudessa esitetty kertomus sellaisena kuin uutisointi sen välittää.\n\nLohjan käräjäoikeus tuomitsi nuoren miehen keskiviikkona 29. elokuuta 2007 kahdeksaksi vuodeksi vankeuteen. Tuomio tuli alentuneesti syyntakeisena tehdystä murhasta sekä muutamista pienemmistä rikoksista. Tapaus on siten selvitetty.\n\nKartalla tapaus on merkitty Lohjan Perttilään, joka on ketjun aineiston mukaan surmapaikka. Tarkempaa osoitetta ei kerrota. Lohjan käräjäoikeus, jossa asia käsiteltiin, sijaitsee samassa kunnassa."
+      },
+      "en": {
+        "lead": "A 56-year-old woman was killed at her home in the Perttila area of Lohja in March 2007. The killer was her 19-year-old son, who struck her more than fifty times with two kitchen knives at the end of an argument. He confessed at his first police interview and was remanded in mid-March. On 29 August 2007 Lohja district court sentenced him to eight years in prison for murder committed with diminished responsibility.",
+        "detail": "The case surfaced when a 19-year-old man was charged with the murder of his mother in Lohja. Everything recorded here comes from news and court reporting quoted in the thread; the material contains no claims resting only on forum posters' speculation, and neither the victim nor the perpetrator is named.\n\nThe killing took place in March 2007 at the family home in Perttila, Lohja. According to the reporting, nobody was in the house at the time other than the 56-year-old mother and her son. Police said the argument began because the son was supposed to take waste paper to a recycling collection point. The earlier news item says he left the papers along the way; the later report on the trial says he threw the paper rubbish into a neighbour's yard. At the end of the argument the young man took hold of two different kitchen knives and killed his mother with more than fifty stab wounds.\n\nThe trial reporting adds that after killing his mother the son dragged the body through a hatch in the bedroom floor into a former swimming pool container. He was also reported to have taken his mother's wallet and bank card after the killing. He admitted the act at his very first police interview, and was remanded in custody in mid-March on probable cause as a murder suspect.\n\nIn court the young man said he had been afraid of his mother, who he claimed had insulted, hit and threatened him on several earlier occasions. That is the defendant's own account as given in court and relayed by the press.\n\nOn Wednesday 29 August 2007 Lohja district court sentenced him to eight years in prison. The conviction was for murder committed with diminished responsibility, together with a few lesser offences. The case is therefore solved.\n\nThe map marker is placed at Perttila in Lohja, which the evidence gives as the scene of the killing; no more precise address is reported. Lohja district court, where the case was heard, is in the same municipality."
+      }
+    },
+    "victims": [
+      {
+        "name": "",
+        "description": "56-year-old mother, killed by her 19-year-old son with over 50 stab wounds during escalated argument over waste paper disposal",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=11534#p11534",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=29808#p29808"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "",
+        "description": "19-year-old son, arrested and convicted of stabbing his mother over 50 times. Claimed to have feared his mother and said she threatened him with a knife.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=11534#p11534",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=29808#p29808"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Lohja, Perttilä",
+        "detail": "The home where the 56-year-old mother was killed by her 19-year-old son with over 50 stab wounds during an argument about waste paper disposal",
+        "quote": "Paikalla Perttilän-talossa ei ollut tapahtumahetkellä ketään muita kuin äiti ja hänen poikansa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=11534#p11534",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Lohja",
+        "detail": "Location of Lohja district court where the trial was held and the verdict delivered",
+        "quote": "Äitinsä puukottanut nuorukainen tuomittiin keskiviikkona kahdeksaksi vuodeksi vankeuteen Lohjan käräjäoikeudessa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=29808#p29808",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=11534#p11534",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=29808#p29808"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=765"
+  },
+  {
+    "id": 107,
+    "topic_id": "763",
+    "title": "Tuula Lindrosin ja Aarne Nymanin surmat, Helsinki elokuu 1972",
+    "coords": [
+      60.201654,
+      24.9234567
+    ],
+    "coords_precision": "address",
+    "coords_credibility": "news",
+    "coords_label": "Leankatu 8, Helsinki Pasila",
+    "coords_note": null,
+    "coords_resolved": "Leankatu, Länsi-Pasila, Pasila, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00240, Suomi / Finland",
+    "date": "1972-08",
+    "date_note": "Tuula Lindros surmattiin 12.-13.8.1972 välisenä yönä, Aarne Nyman 16.8.1972.",
+    "status": "solved",
+    "outcome": "All four accused were convicted. The Helsinki District Court (raastuvanoikeus) sentenced Kari Antero Kulo, held to be the principal offender, to 18 years' penal servitude for murder, manslaughter, robbery and assault; Raimo Juhani Aho to 10 years 2 months; Carita Hantula to 7 years 8 months; and Ritva K. to 8 months 15 days for desecration of unburied corpses, she having witnessed the killings without actively taking part. The Helsinki Court of Appeal (hovioikeus) reduced the sentences: Kulo to 17 years 1 month, Aho to 7 years 10 months and Hantula to 5 years 4 months. Both killings were charged as murder but dealt with in part as manslaughter. The evidence does not give the dates of the judgments. A forum poster states that Kulo died in the spring of 2005; that claim is not backed by a court or news source.",
+    "location": "Where Aarne Nyman was beaten and strangled to death; Carita Hantula's apartment",
+    "municipality": "Helsinki",
+    "summary": {
+      "fi": {
+        "lead": "Elokuussa 1972 helsinkiläinen ryyppyporukka surmasi kaksi ihmistä. Tuula Lindros kuristettiin 12.-13. elokuuta välisenä yönä asunnossa Kymintie 78:ssa Toukolassa, ja Aarne Nyman lyötiin ja kuristettiin 16. elokuuta Leankadun asunnossa Pasilassa. Ruumiit vietiin Arabianrantaan ja Pasilan niitylle. Neljä henkilöä tuomittiin; päätekijä Kari Kulo sai hovioikeudessa 17 vuotta 1 kuukauden tuomion.",
+        "detail": "Oikeuden ja lehtitietojen mukaan surmat tehtiin kahdessa vaiheessa saman ryyppyporukan piirissä. 33-vuotias Tuula Raija Tellervo Lindros kuristettiin poliisin mukaan 12. ja 13. elokuuta 1972 välisenä yönä eräässä Kymintien varrella sijaitsevassa asunnossa. Osoitteeksi kerrotaan Kymintie 78 Helsingin Toukolassa, ja sitä kuvataan porukan päämajana. Seuraavana aamuna ruumis tungettiin patjapussista tehtyyn säkkiin ja siitä takaisin pyykkikoriin; ruumis kuljetettiin pyykkikorissa ja matkalaukussa Arabianrantaan, mistä se löytyi.\n\n42-vuotias autonkuljettaja Aarne Armas Nyman surmattiin poliisin käsityksen mukaan 16. elokuuta Leankadun varrella sijaitsevassa asunnossa Pasilassa. Häntä lyötiin ensin painonnostopunnuksella päähän ja sitten hänet kuristettiin. Nymanilta vietiin rahaa, pankkikirja, kello ja passi. Ruumis siirrettiin muutaman päivän kuluttua Pasilaan Raakelinkadun päässä olevalle niitylle, josta se löytyi 29. elokuuta ja tunnistettiin. Aineistossa asunnon osoitteeksi mainitaan Leankatu 8; lehtitieto puhuu Nymanin omasta asunnosta, kun taas ketjun tiedoissa asuntoa kuvataan Carita Hantulan asunnoksi. Lehtitiedon mukaan molemmat surmatyöt tehtiin kuristamalla.\n\nTuomitut olivat 24-vuotias sekatyömies Kari Antero Kulo, hänen kaksossisarensa, 24-vuotias jäljentäjä Carita Hantula sekä 31-vuotias sorvaaja Raimo Juhani Aho. Kulo katsottiin päätekijäksi, joka yllytti molempiin surmatöihin ja kuristi kummankin uhrin. Aho osallistui molempiin surmatöihin ja oli kuristajien joukossa, ja Hantula osallistui surmatöihin sekä ruumiiden hävittämiseen; oikeudessa todettiin, ettei hän tehnyt elettäkään Tuulan auttamiseksi tämän tultua kuristetuksi. Lisäksi tuomittiin 27-vuotias Ritva K. (Ippa), joka näki surmat mutta ei osallistunut niihin aktiivisesti.\n\nSuurin osa yksityiskohdista perustuu oikeuden ja lehtien tietoihin. Ketjun keskustelijoiden omiin väitteisiin nojaavat tiedot siitä, että Nyman oli huijattu asuntoon ryöstettäväksi, sekä tieto Kari Kulon kuolemasta keväällä 2005. Keskustelijoiden esittämiä arvailuja tekijöiden henkilöllisyyksistä ei toisteta tässä."
+      },
+      "en": {
+        "lead": "In August 1972 members of a Helsinki drinking circle killed two people. Tuula Lindros was strangled during the night of 12-13 August in a flat at Kymintie 78 in Toukola, and Aarne Nyman was beaten and strangled on 16 August in a flat on Leankatu in Pasila. Both bodies were dumped. Four people were convicted; the principal offender, Kari Kulo, received 17 years 1 month on appeal.",
+        "detail": "According to court and news accounts, the two killings took place within the same drinking circle in the space of a few days. Tuula Raija Tellervo Lindros, aged 33, was strangled, police said, during the night of 12-13 August 1972 in a flat on Kymintie. The address is given as Kymintie 78 in Helsinki's Toukola district, described as the group's headquarters. The following morning the body was stuffed into a sack made from a mattress cover and put back into a laundry basket; it was carried in the laundry basket and a suitcase to the Arabianranta shore, where it was found and identified from fingerprints.\n\nAarne Armas Nyman, a 42-year-old driver, was killed, in the police view, on 16 August in a flat on Leankatu in Pasila. He was first struck on the head with a weightlifting weight and then strangled. Money, a bank book, a watch and a passport were taken from him. After several days the body was moved to a meadow at the end of Raakelinkatu in Pasila, where it was found on 29 August and identified. The evidence gives the address as Leankatu 8; the news report calls it Nyman's own flat, while the thread material describes it as Carita Hantula's flat. News reporting states that both killings were carried out by strangulation.\n\nThose convicted were Kari Antero Kulo, a 24-year-old labourer; his twin sister Carita Hantula, 24, a copyist; and Raimo Juhani Aho, 31, a lathe operator. Kulo was held to be the principal offender who instigated both killings and strangled both victims. Aho took part in both killings and was among those who strangled the victims. Hantula took part in the killings and in disposing of the bodies, and the court noted that she did nothing to help Tuula after she had been strangled. Also convicted was Ritva K. (\"Ippa\"), 27, who witnessed the killings but did not actively take part.\n\nMost of the detail above rests on court proceedings and news reports. Resting only on forum posters' claims are the assertion that Nyman was lured to the flat to be robbed, and the statement that Kari Kulo died in the spring of 2005. Posters' speculation about the identities of those involved is not repeated here."
+      }
+    },
+    "victims": [
+      {
+        "name": "Tuula Lindros",
+        "description": "Female victim, age 33, full name Tuula Raija Tellervo Lindros; strangled to death at Kymintie 78 during the night of August 12-13, 1972; body transported in a laundry basket and suitcase to Arabian shore",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=40925#p40925",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=119160#p119160"
+        ]
+      },
+      {
+        "name": "Aarne Armas Nyman",
+        "description": "Male victim, age 42, driver; beaten with weights and strangled to death at Leankatu 8 on August 16, 1972; body moved to Pasila meadow after several days; robbed of money, bank book, watch, and passport",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=40925#p40925",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=119160#p119160"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Kari Antero Kulo",
+        "description": "Age 24 at time of crimes; laborer; main perpetrator; instigated both murders; strangled both victims",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=40925#p40925",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=119160#p119160"
+        ]
+      },
+      {
+        "name": "Carita Hantula",
+        "description": "Age 24 at time of crimes; Kulo's twin sister; copyist; participated in both murders and body disposal; active participant in covering up the crimes",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=40925#p40925",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=119160#p119160"
+        ]
+      },
+      {
+        "name": "Raimo Juhani Aho",
+        "description": "Age 31 at time of crimes; lathe operator; participated in both murders; one of those who strangled victims",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=40925#p40925",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=119160#p119160"
+        ]
+      },
+      {
+        "name": "Ritva K. (Ippa)",
+        "description": "Age 27; witnessed murders but did not actively participate; convicted of desecrating unburied corpses",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=40925#p40925",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=119160#p119160"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Kymintie 78, Helsinki Toukola",
+        "detail": "Where Tuula Lindros was strangled to death by Kari Kulo and Raimo Aho",
+        "quote": "Ryyppyporukan jäsenet Kari Kulo, Carita Hantula ja Raimo Aho (kaksi ensinmainittua kaksossisaruksia) surmasivat ryyppykaverinsa Tuula Lindforsin sekä asuntoon ryöstettäväksi huijatun Aarne Nymanin Helsingin Toukolassa elokuussa 1972.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=11512#p11512",
+        "precision": "address",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Leankatu 8, Helsinki Pasila",
+        "detail": "Where Aarne Nyman was beaten and strangled to death; Carita Hantula's apartment",
+        "quote": "Nymanin poliisi uskoo tämänhetkisten tutkimusten mukaan tulleen surmatuksi 16. elokuuta Leankadun varrella sijaitsevassa asunnossaan.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=40925#p40925",
+        "precision": "address",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Arabian rantaan, Helsinki",
+        "detail": "Body disposal site where Tuula Lindros was found in a sack in the sea",
+        "quote": "Helsngistä Arabian kaatopaikalta perjantaina löydetty naisen ruumis on tunnistettu sormenjälkien perusteella.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=40925#p40925",
+        "precision": "area",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Pasila field, Raakelinkatu area, Helsinki",
+        "detail": "Body disposal site where Aarne Nyman was found on a meadow",
+        "quote": "Pasilasta Raakelinkadun päässä olevalta niityltä löydettiin elokuun 29. päivänä miehen ruumis, joka tunnistettiin Aarne Armas Nymaniksi.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=40925#p40925",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=11512#p11512",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=40925#p40925",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=119160#p119160",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=406045#p406045"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=763"
+  },
+  {
+    "id": 108,
+    "topic_id": "788",
+    "title": "29-vuotiaan naisen vasarasurma, Helsinki 11.7.2007",
+    "coords": [
+      60.2111237,
+      25.0738468
+    ],
+    "coords_precision": "address",
+    "coords_credibility": "official",
+    "coords_label": "Kajaaninlinnantie, Itäkeskus, Helsinki - apartment building basement",
+    "coords_note": null,
+    "coords_resolved": "Kajaaninlinnantie, Puotinharju, Vartiokylä, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00900, Suomi / Finland",
+    "date": "2007-07-11",
+    "date_note": "Surma tapahtui keskiviikkona 11.7.2007 illalla. Ruumis löytyi ja hätäkeskukseen soitettiin 12.7. noin kello 5 aamulla.",
+    "status": "solved",
+    "outcome": "Jannis Lakopoulos, aged 57, a professional musician, was convicted of murder (murha) by the Helsinki District Court on 14 February 2008 and sentenced to life imprisonment. The Helsinki Court of Appeal upheld the conviction and sentence on 31 October 2008, finding no reason to alter the district court's judgment. He was granted conditional early release in March 2019 after serving approximately 12 years and 8 months.",
+    "location": "The basement of an apartment building at Kajaaninlinnantie in the Itäkeskus district of Helsinki where the wife was beaten to death with a hammer",
+    "municipality": "Helsinki",
+    "summary": {
+      "fi": {
+        "lead": "Muusikko Jannis Lakopoulos surmasi keskiviikkoiltana 11.7.2007 vaimonsa, 29-vuotiaan laulaja-viulistin, lyömällä tätä vasaralla Itäkeskuksessa Kajaaninlinnantiellä sijaitsevan kerrostalon kellarissa. Pariskunnan avioero oli kesken, ja nainen oli tullut hakemaan tavaroitaan. Helsingin käräjäoikeus tuomitsi Lakopouloksen helmikuussa 2008 murhasta elinkautiseen vankeuteen, ja hovioikeus piti tuomion voimassa.",
+        "detail": "Uutis- ja oikeuslähteiden mukaan Itäkeskuksessa Kajaaninlinnantiellä sijaitsevan kerrostalon kellarikylmiöstä löytyi kuollut nainen. Talossa asunut tuolloin 56-vuotias muusikko soitti hätäkeskukseen 12.7.2007 noin kello viisi aamulla. Vainaja oli hänen 29-vuotias vaimonsa, ammatiltaan laulaja ja viulisti.\n\nPariskunta oli ollut naimisissa yli kahdeksan vuotta ja heillä oli kaksi pientä lasta. Avioerohakemus oli jätetty toukokuussa 2007, ja vaimo oli muuttanut lasten kanssa omaan asuntoon. Keskiviikkona 11.7. iltapäivällä hän tuli hakemaan tavaroitaan yhteisen asunnon kellarikomerosta sisarensa kanssa, joka auttoi kantamisessa. Kellarissa mies löi vaimoaan vasaralla oikeudessa esitetyn selvityksen mukaan noin 10-15 kertaa päähän ja muualle kehoon. Poliisi kuvasi tekotapaa erityisen raa'aksi ja julmaksi ja kertoi iskuja osuneen kasvoihin, käsivarsiin ja vartaloon.\n\nUhri jäi kellariin yli kymmeneksi tunniksi ennen hätäpuhelua. Tänä aikana mies kävi paikalla oikeudessa esitetyn mukaan ainakin kolme kertaa. Hän myös siivosi tapahtumapaikkaa: peitti ruumiin viltillä, sitoi punaisen nauhan pään haavan päälle, pesi veriset vaatteet ja siivosi kellarin.\n\nEpäilty vangittiin Helsingin käräjäoikeudessa todennäköisin syin murhasta epäiltynä. Hänet nimettiin uutisoinnissa Jannis Lakopoulokseksi. Hän oli ammattimuusikko ja säveltäjä, kotoisin Kreikasta ja asunut Suomessa noin 30 vuotta sekä esiintynyt lukuisissa festivaaleissa ja tilaisuuksissa. Hänellä oli myös aikuisia lapsia aiemmasta avioliitosta; nämä olivat soittaneet hänen kanssaan. Mielentilatutkimuksessa hänet todettiin syyntakeiseksi.\n\nOikeudenkäynnissä syytetty kiisti aluksi syytteen, mutta oli poliisikuulustelussa myöntänyt lyöneensä: \"Menetin hermoni, otin vasaran kylmälaukusta ja löin sillä muutaman kerran.\" Puolustus vaati teon arvioimista tapoksi ja vetosi äkilliseen itsehillinnän menetykseen avioerokiistan yhteydessä, mutta oikeus hylkäsi tämän. Helsingin käräjäoikeus tuomitsi 14.2.2008 murhasta elinkautiseen vankeuteen. Helsingin hovioikeus katsoi 31.10.2008, ettei käräjäoikeuden tuomiota ole aihetta muuttaa. Maaliskuussa 2019 hänet päästettiin ehdonalaiseen vapauteen istuttuaan noin 12 vuotta ja 8 kuukautta.\n\nKaikki edellä kerrottu perustuu aineistossa oikeus- tai uutislähteiksi merkittyihin tietoihin; keskustelupalstan omia arveluja ei ole toistettu."
+      },
+      "en": {
+        "lead": "On the evening of Wednesday 11 July 2007, musician Jannis Lakopoulos beat his wife, a 29-year-old singer and violinist, to death with a hammer in the basement of an apartment building on Kajaaninlinnantie in the Itakeskus district of Helsinki. The couple were in the middle of divorce proceedings and she had come to collect her belongings. The Helsinki District Court convicted him of murder in February 2008 and sentenced him to life imprisonment; the Court of Appeal upheld it.",
+        "detail": "According to court and news reporting, a dead woman was found in the cold storage area of the basement of an apartment building on Kajaaninlinnantie in Itakeskus, Helsinki. A then 56-year-old musician living in the building called emergency services at around 5 AM on 12 July 2007. The deceased was his 29-year-old wife, a singer and violinist by profession.\n\nThe couple had been married for over eight years and had two young children. A divorce petition had been filed in May 2007 and the wife had moved into her own apartment with the children. On the afternoon of Wednesday 11 July she came to retrieve her belongings from the shared apartment's basement storage, accompanied by her sister, who helped carry items. In the basement the man struck her with a hammer approximately 10 to 15 times to the head and other parts of the body, according to the evidence presented in court. Police described the method as exceptionally brutal and cruel, citing blows to the face, arms and body.\n\nThe victim was left in the basement for more than ten hours before emergency services were called. During that time the perpetrator visited the location at least three times. He also cleaned up the scene: he placed a blanket over the body, tied a red ribbon over a head wound, washed bloodstained clothing and cleaned the basement.\n\nThe suspect was remanded in custody by the Helsinki District Court on probable cause of murder. News reporting named him as Jannis Lakopoulos. He was a professional musician and composer, originally from Greece, who had lived in Finland for around 30 years and performed at numerous festivals and events. He also had adult children from an earlier marriage who had played music with him. A mental health examination found him legally sane at the time of the offence.\n\nAt trial he initially denied the charge, but had admitted striking his wife in his first police interrogation, saying: \"I lost my temper, I took the hammer from the cold storage and struck with it a few times.\" The defence argued the offence amounted to manslaughter rather than murder, attributing it to a sudden loss of self-control during the divorce dispute; the court rejected this. On 14 February 2008 the Helsinki District Court convicted him of murder and imposed a life sentence. On 31 October 2008 the Helsinki Court of Appeal found no reason to alter that judgment. In March 2019 he was granted conditional early release after serving roughly 12 years and 8 months.\n\nEverything above rests on material marked in the evidence as coming from court proceedings or news reports; forum posters' own speculation has not been repeated here."
+      }
+    },
+    "victims": [
+      {
+        "name": "Wife (age 29, singer-violinist)",
+        "description": "29-year-old woman, singer and violinist, was in divorce proceedings with the perpetrator. She had moved out with two young children (ages 3-7). She was killed with a hammer while attempting to retrieve belongings from the shared apartment.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=12240#p12240",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=12657#p12657",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=12785#p12785"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Jannis Lakopoulos",
+        "description": "56-57 years old, professional musician and composer. Originally from Southern Europe (Greece), had lived in Finland for approximately 30 years. Killed his wife in the basement of their apartment building with a hammer during a dispute over divorce arrangements.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=12240#p12240",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=12785#p12785",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=86932#p86932"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Kajaaninlinnantie, Itäkeskus, Helsinki - apartment building basement",
+        "detail": "The basement of an apartment building at Kajaaninlinnantie in the Itäkeskus district of Helsinki where the wife was beaten to death with a hammer",
+        "quote": "Itäkeskuksessa Kajaaninlinnantiellä sijaitsevan kerrostalon kellarissa on kuollut nainen",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=12240#p12240",
+        "precision": "address",
+        "credibility": "official",
+        "used_for_marker": true
+      },
+      {
+        "label": "Helsinki",
+        "detail": "The city where the murder was reported to police and where the investigation was conducted by Helsinki police",
+        "quote": "Vaimonsa vasaralla Helsingissä surmannut muusikko saa syytteen murhasta",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=46745#p46745",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Helsinki District Court (Helsingin käräjäoikeus)",
+        "detail": "Where the suspect was brought and held in custody, and where the trial took place in October 2007",
+        "quote": "Hänet on vangittu Helsingin käräjäoikeudessa todennäköisin syin epäiltynä murhasta",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=12240#p12240",
+        "precision": "district",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Helsinki Court of Appeal (Helsingin hovioikeus)",
+        "detail": "Where the appeal of the conviction was heard and upheld in October 2008",
+        "quote": "Helsingin hovioikeus katsoi perjantaina antamassaan ratkaisussa, ettei Helsingin käräjäoikeuden helmikuista tuomiota ole aihetta muuttaa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=179486#p179486",
+        "precision": "district",
+        "credibility": "official",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=12240#p12240",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=12785#p12785",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=51849#p51849",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=86932#p86932",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=82974#p82974",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=179486#p179486"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=788"
   }
 ];
