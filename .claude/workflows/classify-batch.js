@@ -49,20 +49,20 @@ const VERDICTS = {
   },
 }
 
-// The listing is read once per agent and sliced by index, so each agent sees the
-// whole batch but answers for its own slice only. Passing ids explicitly keeps
-// the slices disjoint even if the listing order ever changes.
-const ids = JSON.parse(
-  await agent(
-    `Run this from /home/user/Homicidemap and return ONLY a JSON array of the topic_id values,
-as strings, in the order given — no prose, no code fences:
-
-    node scripts/murha-batch-read.mjs --batch ${BATCH}
-
-The output is JSON with a "threads" array; each thread has a topic_id.`,
-    { model: 'haiku', label: `list:${BATCH}`, phase: 'Classify' }
-  )
-)
+// Each agent sees the whole batch listing but answers only for the ids it is
+// given, which keeps the slices disjoint regardless of listing order.
+//
+// The ids come in through args rather than from an agent that reads the shard:
+// a free-text agent returning JSON wraps it in a code fence sooner or later, and
+// a fence at this point kills the whole run before any classifying happens. The
+// caller has a shell and can produce the list exactly.
+let ids = (a && a.topics) || []
+if (!ids.length) {
+  log(`classify-batch needs args {batch, topics[]} — get them with:\n` +
+      `  node scripts/murha-batch-read.mjs --batch ${BATCH} | jq -c '[.threads[].topic_id|tostring]'`)
+  return []
+}
+ids = ids.map(String)
 
 log(`batch ${BATCH}: ${ids.length} topics to classify in chunks of ${CHUNK}`)
 
