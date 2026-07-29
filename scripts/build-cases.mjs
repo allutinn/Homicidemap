@@ -229,11 +229,41 @@ const geocode = async (loc, { municipality, viewbox }) => {
  * alternative is a marker in the sea, or worse, silently in another town.
  */
 const municipalityCache = new Map();
+
+/**
+ * Municipalities that no longer exist, and what to search for instead.
+ *
+ * Finland has merged well over a hundred municipalities since the 1970s, and
+ * these cases are historical: a killing reported in Anjalankoski in 1998 says
+ * "Anjalankoski", but the municipality was absorbed into Kouvola in 2009 and a
+ * gazetteer no longer has it. The case is not wrong — the map is younger than
+ * the crime.
+ *
+ * Each alias resolves to the successor's *district* rather than to the
+ * successor municipality itself, so the marker stays where the place is instead
+ * of jumping to a town centre tens of kilometres away. Anjalankoski to Kouvola
+ * would move it about 20 km.
+ */
+const FORMER_MUNICIPALITIES = {
+  Anjalankoski: "Anjalankosken suuralue, Kouvola",
+};
+
 const resolveMunicipality = async (name) => {
   if (municipalityCache.has(name)) return municipalityCache.get(name);
 
-  const hit = (await search(name)).find((r) => typeOk("town", r));
-  if (!hit) throw new Error(`municipality "${name}" did not geocode — cannot place its cases`);
+  const queries = [name, FORMER_MUNICIPALITIES[name]].filter(Boolean);
+  let hit = null;
+  for (const q of queries) {
+    hit = (await search(q)).find((r) => typeOk("town", r));
+    if (hit) break;
+  }
+  if (!hit)
+    throw new Error(
+      `municipality "${name}" did not geocode — cannot place its cases.\n` +
+        `If it is a municipality that has since been merged away, add it to ` +
+        `FORMER_MUNICIPALITIES in this file, pointing at the district that ` +
+        `succeeded it (e.g. "Anjalankosken suuralue, Kouvola").`
+    );
 
   const d = MUNICIPALITY_BOX_DEG;
   const resolved = {
@@ -262,13 +292,44 @@ const resolveMunicipality = async (name) => {
  * street-address bus station over the district where the body was actually
  * found, and put the marker on the wrong event.
  */
+/**
+ * Is this resolved point in the municipality the case belongs to?
+ *
+ * A case's locations are ordered killing site first, but they also include
+ * places that are deliberately somewhere else: where the body was dumped, where
+ * the suspects were arrested, which prison the court sat in. When the killing
+ * site fails to geocode — "Apartment building, Raisio" names no building a
+ * gazetteer knows — walking on to the next entry silently placed the marker on
+ * one of those instead. Two cases were caught doing exactly that: a Raisio
+ * killing pinned on Paimio, where the body was found two days later, and a
+ * Mäntsälä shooting pinned on Hyvinkää, where the suspects were stopped that
+ * night. Both markers looked perfectly ordinary.
+ *
+ * So a location only places the marker if it resolves inside the case's own
+ * municipality. Falling back to the municipality centre says "somewhere in this
+ * town", which is true; a marker on the arrest site says something false.
+ */
+const inMunicipality = (hit, place) => {
+  const successor = FORMER_MUNICIPALITIES[place.municipality]?.split(",").pop()?.trim();
+  const names = [place.municipality, successor].filter(Boolean);
+  const hay = (hit.display_name ?? "").toLowerCase();
+  return names.some((n) => hay.includes(n.toLowerCase()));
+};
+
 const resolveLocation = async (locations, place) => {
   const ranked = locations;
 
   for (const loc of ranked) {
     const found = await geocode(loc, place);
-    if (found)
-      return { hit: found.hit, loc, precision: found.precision, downgraded: found.downgraded, fallback: false };
+    if (!found) continue;
+    if (!inMunicipality(found.hit, place)) {
+      console.log(
+        `      skipped "${loc.label}" — resolves to ${found.hit.display_name?.split(",").slice(0, 2).join(",")}, ` +
+          `outside ${place.municipality}`
+      );
+      continue;
+    }
+    return { hit: found.hit, loc, precision: found.precision, downgraded: found.downgraded, fallback: false };
   }
   return { hit: place.centre, loc: ranked[0] ?? null, precision: "town", downgraded: false, fallback: true };
 };

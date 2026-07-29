@@ -5528,5 +5528,754 @@
         "country_code": "fi"
       }
     }
+  ],
+  "Kangasala": [
+    {
+      "lat": 61.4715042,
+      "lon": 24.3261795,
+      "display_name": "Kangasala, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Kangasala",
+        "municipality": "Tampereen seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.4631266,
+      "lon": 24.0734703,
+      "display_name": "Keskusta, Herttuala, Kangasala, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Keskusta",
+        "village": "Herttuala",
+        "city": "Kangasala",
+        "municipality": "Tampereen seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Hevossillantie 22, Kangasala|23.3840,61.9215,25.2684,61.0215": [
+    {
+      "lat": 61.4845128,
+      "lon": 23.9485074,
+      "display_name": "22, Hevossillantie, Lemetty, Vatiala, Kangasala, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, 36240, Suomi / Finland",
+      "type": "yes",
+      "addresstype": "building",
+      "address": {
+        "house_number": "22",
+        "road": "Hevossillantie",
+        "suburb": "Lemetty",
+        "city": "Kangasala",
+        "municipality": "Tampereen seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "postcode": "36240",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vaajakoski": [
+    {
+      "lat": 62.2479788,
+      "lon": 25.8626953,
+      "display_name": "Vaajakoski, Vaajakoski-Jyskä, Jyväskylä, Jyväskylän seutukunta, Keski-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Vaajakoski",
+        "city_district": "Vaajakoski-Jyskä",
+        "city": "Jyväskylä",
+        "municipality": "Jyväskylän seutukunta",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vaajakosken Ristiahossa, omakotitalon pihamaalla|24.8963,62.6980,26.8291,61.7980": [],
+  "Vaajakosken Ristiaho, omakotitalon pihamaa|24.8963,62.6980,26.8291,61.7980": [],
+  "Jyväskylän käräjäoikeus|24.8963,62.6980,26.8291,61.7980": [
+    {
+      "lat": 62.2429714,
+      "lon": 25.7528928,
+      "display_name": "Keski-Suomen käräjäoikeus, 54, Vapaudenkatu, Puistola, Kantakaupunki, Jyväskylä, Jyväskylän seutukunta, Keski-Suomi, Manner-Suomi, 40100, Suomi / Finland",
+      "type": "courthouse",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Keski-Suomen käräjäoikeus",
+        "house_number": "54",
+        "road": "Vapaudenkatu",
+        "suburb": "Puistola",
+        "city_district": "Kantakaupunki",
+        "city": "Jyväskylä",
+        "municipality": "Jyväskylän seutukunta",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "postcode": "40100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vaasan hovioikeus|24.8963,62.6980,26.8291,61.7980": [],
+  "Mäntsälä": [
+    {
+      "lat": 60.6353444,
+      "lon": 25.3159266,
+      "display_name": "Mäntsälä, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Mäntsälä",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.5948803,
+      "lon": 22.9142833,
+      "display_name": "Mäntsälä, Marttila, Loimaan seutukunta, Varsinais-Suomi, Manner-Suomi, 21480, Suomi / Finland",
+      "type": "hamlet",
+      "addresstype": "hamlet",
+      "address": {
+        "hamlet": "Mäntsälä",
+        "town": "Marttila",
+        "municipality": "Loimaan seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "21480",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Mäntsälän Suurlava, sisäänkäynti|24.3982,61.0853,26.2336,60.1853": [],
+  "Hyvinkää|24.3982,61.0853,26.2336,60.1853": [
+    {
+      "lat": 60.6311481,
+      "lon": 24.8603615,
+      "display_name": "Hyvinkää, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Hyvinkää",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Anjalankoski": [
+    {
+      "lat": 60.6979326,
+      "lon": 26.8150708,
+      "display_name": "Ankkapurha, Anjala, Anjalankosken suuralue, Kouvola, Kouvolan seutukunta, Kymenlaakso, Manner-Suomi, 46910, Suomi / Finland",
+      "type": "rapids",
+      "addresstype": "rapids",
+      "address": {
+        "rapids": "Ankkapurha",
+        "suburb": "Anjala",
+        "city_district": "Anjalankosken suuralue",
+        "city": "Kouvola",
+        "municipality": "Kouvolan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "postcode": "46910",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Anjalankosken suuralue, Kouvola": [
+    {
+      "lat": 60.7558962,
+      "lon": 26.8704897,
+      "display_name": "Anjalankosken suuralue, Kouvola, Kouvolan seutukunta, Kymenlaakso, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city_district",
+      "address": {
+        "city_district": "Anjalankosken suuralue",
+        "city": "Kouvola",
+        "municipality": "Kouvolan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kymijoki, Anjalankoski|25.9494,61.2059,27.7916,60.3059": [],
+  "Anjalankosken Myllykoskentiellä|25.9494,61.2059,27.7916,60.3059": [],
+  "Anjalankosken Myllykoskentie|25.9494,61.2059,27.7916,60.3059": [
+    {
+      "lat": 60.7698657,
+      "lon": 26.7838027,
+      "display_name": "Myllykoskentie, Saviniemi, Myllykoski, Anjalankosken suuralue, Kouvola, Kouvolan seutukunta, Kymenlaakso, Manner-Suomi, 46800, Suomi / Finland",
+      "type": "unclassified",
+      "addresstype": "road",
+      "address": {
+        "road": "Myllykoskentie",
+        "suburb": "Saviniemi",
+        "city_district": "Anjalankosken suuralue",
+        "city": "Kouvola",
+        "municipality": "Kouvolan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "postcode": "46800",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.7688819,
+      "lon": 26.7778483,
+      "display_name": "Myllykoskentie, UPM-Kymmene Oyj Myllykosken tehtaat, Saviniemi, Myllykoski, Anjalankosken suuralue, Kouvola, Kouvolan seutukunta, Kymenlaakso, Manner-Suomi, 46800, Suomi / Finland",
+      "type": "unclassified",
+      "addresstype": "road",
+      "address": {
+        "road": "Myllykoskentie",
+        "industrial": "UPM-Kymmene Oyj Myllykosken tehtaat",
+        "suburb": "Saviniemi",
+        "city_district": "Anjalankosken suuralue",
+        "city": "Kouvola",
+        "municipality": "Kouvolan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "postcode": "46800",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.769356,
+      "lon": 26.7809815,
+      "display_name": "Myllykoskentie, Saviniemi, Myllykoski, Anjalankosken suuralue, Kouvola, Kouvolan seutukunta, Kymenlaakso, Manner-Suomi, 46800, Suomi / Finland",
+      "type": "tertiary",
+      "addresstype": "road",
+      "address": {
+        "road": "Myllykoskentie",
+        "suburb": "Saviniemi",
+        "city_district": "Anjalankosken suuralue",
+        "city": "Kouvola",
+        "municipality": "Kouvolan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "postcode": "46800",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Heikintie / Narjuksentien risteys, Anjalankoski|25.9494,61.2059,27.7916,60.3059": [],
+  "Heikintie / Narjuksent risteys, Anjalankoski|25.9494,61.2059,27.7916,60.3059": [],
+  "Espoon Kivenlahti|25.9494,61.2059,27.7916,60.3059": [],
+  "Kouvola|25.9494,61.2059,27.7916,60.3059": [
+    {
+      "lat": 60.8679237,
+      "lon": 26.7041116,
+      "display_name": "Kouvola, Kouvolan seutukunta, Kymenlaakso, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Kouvola",
+        "municipality": "Kouvolan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Töölö, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.1790369,
+      "lon": 24.9242047,
+      "display_name": "Töölö, Taka-Töölö, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00260, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Töölö",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00260",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Messeniuksenkatu 3, Töölö, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.1879929,
+      "lon": 24.9169976,
+      "display_name": "3a, Messeniuksenkatu, Töölö, Taka-Töölö, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00250, Suomi / Finland",
+      "type": "apartments",
+      "addresstype": "building",
+      "address": {
+        "house_number": "3a",
+        "road": "Messeniuksenkatu",
+        "suburb": "Töölö",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00250",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.188031,
+      "lon": 24.916598,
+      "display_name": "3b, Messeniuksenkatu, Töölö, Taka-Töölö, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00250, Suomi / Finland",
+      "type": "apartments",
+      "addresstype": "building",
+      "address": {
+        "house_number": "3b",
+        "road": "Messeniuksenkatu",
+        "suburb": "Töölö",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00250",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1880777,
+      "lon": 24.9144309,
+      "display_name": "Messeniuksenkatu, Töölö, Taka-Töölö, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00250, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Messeniuksenkatu",
+        "suburb": "Töölö",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00250",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Raisio": [
+    {
+      "lat": 60.485513,
+      "lon": 22.1692664,
+      "display_name": "Raisio, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Raisio",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Apartment building, Raisio|21.2558,60.9355,23.0827,60.0355": [],
+  "Paimio|21.2558,60.9355,23.0827,60.0355": [
+    {
+      "lat": 60.4570244,
+      "lon": 22.6883278,
+      "display_name": "Paimio, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Paimio",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kalajoki|24.9382,65.2563,27.0525,64.3563": [],
+  "Hervannassa Opiskelijankadulla, Tampere|22.0598,62.4606,23.9775,61.5606": [],
+  "Hervanna Opiskelijankadu, Tampere|22.0598,62.4606,23.9775,61.5606": [],
+  "Pahkala, Parkano|22.0598,62.4606,23.9775,61.5606": [
+    {
+      "lat": 62.0043112,
+      "lon": 22.9947947,
+      "display_name": "Pahkala, Parkano, Luoteis-Pirkanmaan seutukunta, Pirkanmaa, Manner-Suomi, 39701, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Pahkala",
+        "town": "Parkano",
+        "municipality": "Luoteis-Pirkanmaan seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "postcode": "39701",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Helsinki|25.5567,60.9740,27.3858,60.0740": [
+    {
+      "lat": 60.4805484,
+      "lon": 26.593195,
+      "display_name": "Helsinki-East Aerodrome, 156, Kirkkotie, Purola, Pyhtää, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, 49240, Suomi / Finland",
+      "type": "aerodrome",
+      "addresstype": "aeroway",
+      "address": {
+        "aeroway": "Helsinki-East Aerodrome",
+        "house_number": "156",
+        "road": "Kirkkotie",
+        "village": "Purola",
+        "municipality": "Pyhtää",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "postcode": "49240",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.570474,
+      "lon": 27.1268405,
+      "display_name": "disas fish Хельсинки, Kiilintie, Lankamalmi, Kärenkulma, Hamina, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, 49420, Suomi / Finland",
+      "type": "parking",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "disas fish Хельсинки",
+        "road": "Kiilintie",
+        "suburb": "Lankamalmi",
+        "village": "Kärenkulma",
+        "town": "Hamina",
+        "municipality": "Kotkan–Haminan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "postcode": "49420",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.5614532,
+      "lon": 27.1810941,
+      "display_name": "S/S Hyöky, Tullimakasiininranta, Tervasaari, Hietakylä, Hamina, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, 49400, Suomi / Finland",
+      "type": "museum",
+      "addresstype": "tourism",
+      "address": {
+        "tourism": "S/S Hyöky",
+        "road": "Tullimakasiininranta",
+        "suburb": "Tervasaari",
+        "village": "Hietakylä",
+        "town": "Hamina",
+        "municipality": "Kotkan–Haminan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "postcode": "49400",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Malmilla, Helsinki|25.5567,60.9740,27.3858,60.0740": [],
+  "Malmi, Helsinki|25.5567,60.9740,27.3858,60.0740": [],
+  "Vammala District Court (Vammalan käräjäoikeus)|21.9674,61.7948,23.8442,60.8948": [],
+  "Ylöjärvi|21.9674,61.7948,23.8442,60.8948": [
+    {
+      "lat": 61.5488965,
+      "lon": 23.5951425,
+      "display_name": "Ylöjärvi, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Ylöjärvi",
+        "municipality": "Tampereen seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vantaan vankila|24.3982,61.0853,26.2336,60.1853": [
+    {
+      "lat": 60.2878238,
+      "lon": 25.096972,
+      "display_name": "Vantaan vankila, 2, Siltaniitynkuja, Itä-Hakkila, Hakunilan suuralue, Vantaa, Helsingin seutukunta, Uusimaa, Manner-Suomi, 01260, Suomi / Finland",
+      "type": "prison",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Vantaan vankila",
+        "house_number": "2",
+        "road": "Siltaniitynkuja",
+        "suburb": "Itä-Hakkila",
+        "city_district": "Hakunilan suuralue",
+        "city": "Vantaa",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "01260",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Viking Sally helicopter deck|21.3545,60.9016,23.1795,60.0016": [],
+  "Stockholm|21.3545,60.9016,23.1795,60.0016": [
+    {
+      "lat": 60.3019853,
+      "lon": 21.3919929,
+      "display_name": "Stockholm, Houtskär, Pargas, Åboland, Varsinais-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "islet",
+      "addresstype": "islet",
+      "address": {
+        "islet": "Stockholm",
+        "village": "Houtskär",
+        "town": "Pargas",
+        "municipality": "Åboland",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Turku harbor|21.3545,60.9016,23.1795,60.0016": [
+    {
+      "lat": 60.4399228,
+      "lon": 22.2447535,
+      "display_name": "Turun vierasvenesatama, Läntinen Rantakatu, Linnanfältti, IX, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20101, Suomi / Finland",
+      "type": "marina",
+      "addresstype": "leisure",
+      "address": {
+        "leisure": "Turun vierasvenesatama",
+        "road": "Läntinen Rantakatu",
+        "neighbourhood": "Linnanfältti",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20101",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Mariehamn, Åland|21.3545,60.9016,23.1795,60.0016": [],
+  "Lauttasaaressa, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Lauttasaare, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Porkkala|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 59.9854016,
+      "lon": 24.43447,
+      "display_name": "Porkkala, Kirkkonummi, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "village",
+      "addresstype": "village",
+      "address": {
+        "village": "Porkkala",
+        "town": "Kirkkonummi",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 59.9621166,
+      "lon": 24.4630488,
+      "display_name": "Porkkala, Eteläinen Kirkkonummi, Kirkkonummi, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Porkkala",
+        "city_district": "Eteläinen Kirkkonummi",
+        "town": "Kirkkonummi",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 59.9874923,
+      "lon": 24.4302733,
+      "display_name": "Porkkala, Porkkalantie, Rigårdsnäs, Porkkala, Eteläinen Kirkkonummi, Kirkkonummi, Helsingin seutukunta, Uusimaa, Manner-Suomi, 02470, Suomi / Finland",
+      "type": "bus_stop",
+      "addresstype": "highway",
+      "address": {
+        "highway": "Porkkala",
+        "road": "Porkkalantie",
+        "neighbourhood": "Rigårdsnäs",
+        "suburb": "Porkkala",
+        "city_district": "Eteläinen Kirkkonummi",
+        "town": "Kirkkonummi",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "02470",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kontio family apartment, Oulu|24.4049,65.4618,26.5355,64.5618": [],
+  "Oritkarki harbor, Oulu|24.4049,65.4618,26.5355,64.5618": [],
+  "Koulukatu, Oulu city center|24.4049,65.4618,26.5355,64.5618": [],
+  "Rannan matala bar, Oulu|24.4049,65.4618,26.5355,64.5618": [],
+  "Kemijärvi|24.4049,65.4618,26.5355,64.5618": [],
+  "Lumijoki|24.4049,65.4618,26.5355,64.5618": [
+    {
+      "lat": 64.8384044,
+      "lon": 25.1868431,
+      "display_name": "Lumijoki, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, 91980, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Lumijoki",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "postcode": "91980",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.8390328,
+      "lon": 25.1984353,
+      "display_name": "Lumijoki, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "river",
+      "addresstype": "river",
+      "address": {
+        "river": "Lumijoki",
+        "town": "Lumijoki",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.8196038,
+      "lon": 25.089254,
+      "display_name": "Lumijoki, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, 91980, Suomi / Finland",
+      "type": "river",
+      "addresstype": "river",
+      "address": {
+        "river": "Lumijoki",
+        "town": "Lumijoki",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "postcode": "91980",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Jyväskylä": [
+    {
+      "lat": 62.241672,
+      "lon": 25.7495806,
+      "display_name": "Jyväskylä, Jyväskylän seutukunta, Keski-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Jyväskylä",
+        "municipality": "Jyväskylän seutukunta",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Suuruspääntie 10, Jyväskylä|24.7834,62.6917,26.7158,61.7917": [
+    {
+      "lat": 62.2323637,
+      "lon": 25.7705849,
+      "display_name": "10, Suuruspääntie, Survo, Ainolanranta, Kuokkala, Jyväskylä, Jyväskylän seutukunta, Keski-Suomi, Manner-Suomi, 40520, Suomi / Finland",
+      "type": "apartments",
+      "addresstype": "building",
+      "address": {
+        "house_number": "10",
+        "road": "Suuruspääntie",
+        "neighbourhood": "Survo",
+        "quarter": "Ainolanranta",
+        "suburb": "Kuokkala",
+        "city_district": "Kuokkala",
+        "city": "Jyväskylä",
+        "municipality": "Jyväskylän seutukunta",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "postcode": "40520",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
   ]
 }
