@@ -1,0 +1,434 @@
+[
+  {
+    "topic_id": "712",
+    "topic": "Viking Sallyn murha ja murhan yritys Ahvenanmaan saaristossa 28.7.1987",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly describes one assault incident on a ship where one victim died (though another was also injured in the same incident)."
+  },
+  {
+    "topic_id": "714",
+    "topic": "Palkkamurha Oulussa 1986 - Kotia päin",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post describes one hired killing where one specific man was killed in a bathtub, making it one identifiable incident."
+  },
+  {
+    "topic_id": "733",
+    "topic": "Ivan Belovin surma 1944",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly states one Soviet captain was murdered in Helsinki in 1944 - one person, one incident."
+  },
+  {
+    "topic_id": "735",
+    "topic": "Bandidos-johtaja Marko Hirsman murha 21.10.2001",
+    "verdict": "unclear",
+    "confidence": "low",
+    "reasoning": "Opening post contains only a question (Mikäs johti siihen että mies ammuttiin?) with no substantive description of the incident itself."
+  },
+  {
+    "topic_id": "737",
+    "topic": "Pasilan kellarisurma/Helsingin kellarisurmat",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Thread title uses plural 'kellarisurmat' and opening post explicitly mentions multiple separate Helsinki basement murder cases (Lindholm case, Kekkonen case) being discussed."
+  },
+  {
+    "topic_id": "740",
+    "topic": "Jukka Lehtimäki, 38v. surmattu 15.-16.6.2007, Jyväskylä",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Title and opening post clearly identify one specific person killed in one identifiable incident on specific dates in one location."
+  },
+  {
+    "topic_id": "743",
+    "topic": "Kuolemaan johtanut pahoinpitely, Hki Pihlajamäki 1990",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post describes one man assaulted by a youth group at a bus stop who died from his injuries - one incident, one victim."
+  },
+  {
+    "topic_id": "745",
+    "topic": "16v Maire Kaketin surma - Oulu, 1970",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post describes one young girl being killed in one location in one incident - one victim, one murder."
+  },
+  {
+    "topic_id": "748",
+    "topic": "Pariskunnan murha Lahdessa 20.8.2003",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly describes one incident on 20.8.2003 where an elderly couple were killed together by two perpetrators motivated by revenge - one event, one incident."
+  },
+  {
+    "topic_id": "749",
+    "topic": "Järvenpään sarjamurhaaja (ketju 1)",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Opening post explicitly refers to a suspected serial killer ('sarjamurhaajanliikkuneen') and mentions this could be the second serial murder series uncovered in Finland - multiple separate killings by one offender."
+  },
+  {
+    "topic_id": "756",
+    "topic": "Seija Kekkosen, 41 v. kellarisurma Helsingin Kontulassa 6.12.1980",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post describes a single victim (Seija Kekkonen, 41 years old) murdered on one specific date in one identifiable incident (6.12.1980 basement murder)."
+  },
+  {
+    "topic_id": "761",
+    "topic": "Leila Elina Peksujeff löydetty surmattuna Hki v. 1969",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly states Leila Peksujeff was found dead on 27.4.1969 from brain injuries caused by beating - one victim, one incident."
+  },
+  {
+    "topic_id": "763",
+    "topic": "Toukolan surmat 1972",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post describes two victims (Tuula Lindforsin and Aarne Nyman) killed by the same gang in the same month (August 1972) in the same location (Helsinki Toukola) - one incident with multiple victims killed together."
+  },
+  {
+    "topic_id": "765",
+    "topic": "Äiti surmattiin roskapussien takia -07",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly describes one incident where a young man killed his mother (over 50 knife wounds) in Lohja over a trash-related argument - one victim, one incident."
+  },
+  {
+    "topic_id": "773",
+    "topic": "\"Toholampi-Kostamus kaksoissurma\"",
+    "verdict": "unclear",
+    "confidence": "low",
+    "reasoning": "Opening post mentions a woman found murdered in Russia and a child who disappeared, with suspicion the man killed the child, but does not clearly establish whether the child was actually killed or remains missing - insufficient clarity on whether one or two actual homicides occurred."
+  },
+  {
+    "topic_id": "788",
+    "topic": "Itäkeskuksen kellarisurma 2007 - Jannis Lakopoulos",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post describes a single incident in July 2007 where a 56-year-old man killed his 29-year-old wife in the basement - one victim, one identifiable incident during divorce."
+  },
+  {
+    "topic_id": "797",
+    "topic": "Kauppamatkustajan kuolema 1996",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly describes one salesman murdered at a rest stop in 1996; one victim, one incident."
+  },
+  {
+    "topic_id": "802",
+    "topic": "Timo Tuhkanen: Pia Talaskareen murha - Oulu 1992, Arvo Honkikankaan murha - Oulunsalo 1993",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Title and content explicitly reference two separate murders by the same killer in different years and locations (1992 and 1993)."
+  },
+  {
+    "topic_id": "812",
+    "topic": "Satu Sallisen surma - Helsinki Munkkiniemi 1997",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post discusses Satu Sallinen's murder that attracted attention; one victim in one incident."
+  },
+  {
+    "topic_id": "819",
+    "topic": "Satu Nikkanen (lainvoimainen elinkautistuomio purettiin)",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post explicitly describes 11-year-old school girl Satu Nikkanen stabbed to death on July 26, 1985; one victim in one incident."
+  },
+  {
+    "topic_id": "828",
+    "topic": "Pietarsaaren musiikkiopiston naisrehtorin ja vauvan murhat",
+    "verdict": "single_homicide",
+    "confidence": "medium",
+    "reasoning": "Opening post groups director and newborn baby as part of one case; the phrasing suggests one incident with two victims, but post lacks detail about whether they were killed together."
+  },
+  {
+    "topic_id": "831",
+    "topic": "Kaksoissurma Kankaanpäässä 1995",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Title means 'double murder'; opening post describes an artist killing a couple (two victims in one incident in 1995)."
+  },
+  {
+    "topic_id": "833",
+    "topic": "Nainen surmattiin Porin Väinölässä -07",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post states plainly 'a woman was murdered in Pori'; one victim."
+  },
+  {
+    "topic_id": "834",
+    "topic": "Kukkapenkkisurma Rovaniemi 1989",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post describes 49-year-old pathologist Andrew Kulanga disappearing August 20, 1989 and later found dead; one victim in one incident."
+  },
+  {
+    "topic_id": "849",
+    "topic": "Kolmoissurma ravintolassa Kinnulassa 2000",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "One incident where an ex-boyfriend shot three people in a restaurant: his ex-girlfriend, her new boyfriend, and a customer who volunteered."
+  },
+  {
+    "topic_id": "851",
+    "topic": "Kaksoismurha Turussa vuonna 2000",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "One incident where a man killed his stepson and the stepson's girlfriend, poisoning them with drugged mulled wine before stabbing."
+  },
+  {
+    "topic_id": "858",
+    "topic": "Sitomissurma Porvoossa, joulukuu 2000",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "One incident where a high school student tied his drug friend to a scouting shelter as punishment for a minor dispute, resulting in death."
+  },
+  {
+    "topic_id": "863",
+    "topic": "Insuliinimurha Merimaskussa 1994",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "One incident where a nurse wife injected insulin into her non-diabetic husband, causing his death."
+  },
+  {
+    "topic_id": "879",
+    "topic": "Muhoksen tappo - Mika Karjalainen",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "One incident where a couple killed a man in Muhos."
+  },
+  {
+    "topic_id": "880",
+    "topic": "Pikkukaupungin murhia",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Thread covers multiple separate incidents: 1984 infanticide by a mother, and a separate more recent case involving a Norwegian man."
+  },
+  {
+    "topic_id": "883",
+    "topic": "Jesse-Juuso Nakari - sekä muut veljekset",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Multiple brothers involved in separate killings: oldest brother killed girlfriend and mother; younger brothers killed another man."
+  },
+  {
+    "topic_id": "884",
+    "topic": "Liisa Mäkikangas, 39 v. surmattiin kotiinsa Asikkalan Vääksyssä 5.10.1995",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "One incident where a middle-aged woman was murdered in her apartment."
+  },
+  {
+    "topic_id": "886",
+    "topic": "Mies räjäytti vaimonsa ja itsensä, Helsinki Vuosaari -83",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly describes one incident: a man detonated his car on a forest road, killing himself and his wife together.",
+    "municipality": "Helsinki"
+  },
+  {
+    "topic_id": "890",
+    "topic": "Muhoksen soramonttumurha 2007",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post describes one victim: a 45-year-old man from Rantsila found dead at a gravel pit, murdered in one incident.",
+    "municipality": "Muhos"
+  },
+  {
+    "topic_id": "896",
+    "topic": "Aikamiespoika tappoi äitinsä Kiuruvedellä 2007",
+    "verdict": "unclear",
+    "confidence": "medium",
+    "reasoning": "Opening post contains only a truncated URL link with no substantive information about what occurred beyond the title.",
+    "municipality": "Kiuruvesi"
+  },
+  {
+    "topic_id": "909",
+    "topic": "Malmin paloittelusurma - Helsinki 18.1.1996",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly states a couple murdered one restaurant acquaintance at home with dismemberment involved.",
+    "municipality": "Helsinki"
+  },
+  {
+    "topic_id": "910",
+    "topic": "Skinit tappoivat urheilijapojan - Tampere -91",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post describes a group of skinheads stabbing one athletic boy to death in one event.",
+    "municipality": "Tampere"
+  },
+  {
+    "topic_id": "913",
+    "topic": "Mies surmattiin Jyväskylässä - Ari \"Häkä\" Hänninen",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post reports police investigating the murder of one 43-year-old man in Jyväskylä on July 24, 2007.",
+    "municipality": "Jyväskylä"
+  },
+  {
+    "topic_id": "918",
+    "topic": "Lapsenmurha Vihdissä 1995",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post indicates a Frenchman killed his daughter in one incident in the Nummelan Haka-taloilla area.",
+    "municipality": "Vihti"
+  },
+  {
+    "topic_id": "930",
+    "topic": "7-vuotiaan Sami Laakson murha, Mikkeli 1989",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post identifies one child victim: 7-year-old Sami Laakson, killed by Hannu Voutilainen.",
+    "municipality": "Mikkeli"
+  },
+  {
+    "topic_id": "934",
+    "topic": "Keljonlahden mökkipalo, veljekset kuolivat - Jyväskylä 1999",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Two brothers (Peku and Pena Häggin) were murdered at a cabin in a single incident; two victims, one event."
+  },
+  {
+    "topic_id": "942",
+    "topic": "Säiliön sisässä meren pohjaan -74",
+    "verdict": "unclear",
+    "confidence": "low",
+    "reasoning": "Opening post explicitly states uncertainty: 'vai oliko siinä peräti kaksi kuollutta' (or were there even two dead?); no body found, limited information available."
+  },
+  {
+    "topic_id": "943",
+    "topic": "Rauman kioskimurha - elokuu 1986",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "A 64-year-old kiosk owner (Aune Hellin Orvokki Lehtonen) was stabbed to death by a 19-year-old in one robbery-murder incident in August 1986."
+  },
+  {
+    "topic_id": "944",
+    "topic": "Veli-Tapani Virtanen; surmasi perheensä Vantaalla 1988",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Veli-Tapani Virtanen murdered his father, mother, and younger brother in one incident in the late 1980s; multiple victims in a single family homicide event."
+  },
+  {
+    "topic_id": "959",
+    "topic": "Sari Toivasen liftarisurma Lestijärvellä 1980",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "One woman (Sari Toivanen) was picked up hitchhiking, raped, and shot to death in one incident in 1980."
+  },
+  {
+    "topic_id": "982",
+    "topic": "Utajärven myrkytysmurha -94",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Sirkka Väisänen allegedly poisoned her husband with pesticide in his food; one victim in one poisoning incident."
+  },
+  {
+    "topic_id": "1001",
+    "topic": "Heikki Uksila, 27v. surmattu kotiinsa -Oulu v. 1996",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "A 27-year-old man (Heikki Uksila) was murdered in his apartment in Oulu in February 1996; one victim in one incident."
+  },
+  {
+    "topic_id": "1007",
+    "topic": "Matti Holmala murhasi Vaasassa 1990, tappoi Ikaalisissa 2014",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Title explicitly identifies the same offender (Matti Holmala) killing in two separate incidents 24 years apart: Vaasa 1990 and Ikaalinen 2014; multiple separate killings by one offender."
+  },
+  {
+    "topic_id": "1015",
+    "topic": "Surmat Helsingin keskustan satamaraiteen varressa 1980 ja 1991",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Opening post explicitly mentions two separate murders: one circa 1980 with two youths killing a vagrant, and another in 1990-91 with two men beating Sampo Hjelm on his 18th birthday and throwing him into a ravine."
+  },
+  {
+    "topic_id": "1016",
+    "topic": "Sanna Sillanpää - Helsingin ampumaratasurmat v. 1999",
+    "verdict": "unclear",
+    "confidence": "low",
+    "reasoning": "Opening post provides no substantive information about what happened; it only asks 'what happened to the 3 killers' and mentions an article in a magazine."
+  },
+  {
+    "topic_id": "1018",
+    "topic": "Teppo J. Suonperän murha - Tikkakoski, kesäkuu 1973",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly states Lieutenant Jouko Myssylä shot Colonel Suonperä 11 times in his office on June 6, 1973 in revenge for his dismissal; one victim, one incident."
+  },
+  {
+    "topic_id": "1021",
+    "topic": "14-vuotiaan Arto Pakkasen murha Kotkassa 1998",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post precisely describes September 7, 1998: three perpetrators killed 14-year-old Arto Pakkanen in Kotka with knife wounds, kicks, and a dropped stone; one victim, one incident."
+  },
+  {
+    "topic_id": "1024",
+    "topic": "Naisen surma soramontulla, Liperi 1993",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post describes two men killing a woman at a quarry in Liperi in the mid-1990s with a large stone; one incident, one victim."
+  },
+  {
+    "topic_id": "1032",
+    "topic": "Porin Matti - surmattiin elokuussa 1992",
+    "verdict": "unclear",
+    "confidence": "low",
+    "reasoning": "Opening post contains no substantive information; it merely asks 'can someone tell who legendary Porin Matti was and what happened to him?'"
+  },
+  {
+    "topic_id": "1044",
+    "topic": "16v. poika surmasi 16v. tytön, Evijärvi 29.11.2003",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly describes November 29, 2003: 16-year-old Hannu Suvanto attacked Hanna Poutanen at a youth center dance, knocking her down and continuing to beat her; she was found dead the next morning; one incident, one victim."
+  },
+  {
+    "topic_id": "1045",
+    "topic": "Seija Aulikki Varpenius-Pohjolainen",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Opening post explicitly states Seija was suspected of poisoning four different men in the 1990s; she was convicted of at least one (Matti Pohjolainen, December 7, 1992) and the thread asks what happened with three other suspected poisonings; multiple separate victims and incidents."
+  },
+  {
+    "topic_id": "1046",
+    "topic": "Pornainen: Äiti hukutti nukkuvat lapsensa kaivoon - 1985",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly states a mother drowned her sleeping children in a well due to a nervous breakdown—one incident with multiple victims.",
+    "municipality": "Pornainen"
+  },
+  {
+    "topic_id": "1047",
+    "topic": "Putin surma, Turku 90-luku",
+    "verdict": "unclear",
+    "confidence": "low",
+    "reasoning": "Opening post provides background on Puti but cuts off before describing the actual incident, leaving insufficient information to classify.",
+    "municipality": "Turku"
+  },
+  {
+    "topic_id": "1048",
+    "topic": "Kari Karhu: Keravan kirvessurma -84 ja naisystävän tappo -90",
+    "verdict": "multiple_incidents",
+    "confidence": "high",
+    "reasoning": "Title and opening post both explicitly identify two separate murders by the same offender—an axe murder in 1984 and a girlfriend killing in 1990.",
+    "municipality": "Kerava"
+  },
+  {
+    "topic_id": "1052",
+    "topic": "Espoon Matinkylän perhesurma - toukokuu 2005",
+    "verdict": "single_homicide",
+    "confidence": "high",
+    "reasoning": "Opening post clearly states a man murdered his wife and two children in May 2005—one incident with three victims.",
+    "municipality": "Espoo"
+  }
+]
