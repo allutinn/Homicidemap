@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-29T00:04:28.240Z",
+  "updated_at": "2026-07-29T06:34:42.333Z",
   "stages": [
     "crawl",
     "classify",
@@ -101,6 +101,16 @@
       "map": {
         "at": "2026-07-29T00:04:28.240Z",
         "markers": 16
+      }
+    },
+    "006": {
+      "crawl": {
+        "at": "2026-07-29T06:34:42.333Z",
+        "shard": "crawl/threads/batch-006.json.gz",
+        "topics": 60,
+        "messages": 6072,
+        "bytes": 2163468,
+        "incomplete": []
       }
     }
   }
