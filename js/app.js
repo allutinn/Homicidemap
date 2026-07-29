@@ -63,8 +63,11 @@ const UI = {
     cred_rumour: "huhu",
     cred_editor: "ylläpitäjä",
     cred_fallback: "paikkaa ei kerrottu",
+    cred_unplaceable: "kunnan keskipiste",
     markerTag: "karttamerkki",
-    noPreciseLocation: "Kajaani (ketjussa ei tarkempaa paikkaa)",
+    noPreciseLocation: (municipality) => `${municipality} (ketjussa ei tarkempaa paikkaa)`,
+    unplaceableLocation: (municipality) =>
+      `${municipality} (ketju kertoo paikkoja, mutta yhtäkään ei voitu sijoittaa kartalle tähän kuntaan)`,
     downgraded: "sijoitettu kaupunginosaan, tarkkaa pistettä ei saatu",
     precision_address: "osoite",
     precision_street: "katu",
@@ -108,8 +111,11 @@ const UI = {
     cred_rumour: "rumour",
     cred_editor: "maintainer",
     cred_fallback: "no location given",
+    cred_unplaceable: "town centre",
     markerTag: "map marker",
-    noPreciseLocation: "Kajaani (no more precise location in the thread)",
+    noPreciseLocation: (municipality) => `${municipality} (no more precise location in the thread)`,
+    unplaceableLocation: (municipality) =>
+      `${municipality} (the thread names places, but none could be placed on the map in this municipality)`,
     downgraded: "placed on the district, exact point not resolvable",
     precision_address: "address",
     precision_street: "street",
@@ -303,8 +309,16 @@ let activeCase = null;
 
 /** What the marker sits on, and how faithful that is to what a source said. */
 const markerFact = (c) => {
-  if (c.coords_note === "fallback")
-    return `${esc(t("noPreciseLocation"))} ${badge("weak", cred("fallback"))}`;
+  if (c.coords_note === "fallback") {
+    // "No location given" and "locations given, none placeable" are different
+    // things, and the second is the common one now that a marker may only sit
+    // on a place inside the case's own municipality. Saying the thread named
+    // nothing, when it named a courthouse and an arrest site, is untrue — and
+    // the places it did name are listed further down the sheet.
+    const named = (c.locations ?? []).length > 0;
+    const key = named ? "unplaceableLocation" : "noPreciseLocation";
+    return `${esc(t(key)(c.municipality))} ${badge("weak", cred(named ? "unplaceable" : "fallback"))}`;
+  }
   return (
     `${esc(c.coords_label)} ` +
     badge(["official", "news", "editor"].includes(c.coords_credibility) ? "ok" : "weak",
