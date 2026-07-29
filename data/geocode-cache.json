@@ -7823,5 +7823,527 @@
         "country_code": "fi"
       }
     }
+  ],
+  "Vähärauma, Rauma|20.5720,61.5789,22.4359,60.6789": [],
+  "Lahdenkatu, Vähärauma, Rauma|20.5720,61.5789,22.4359,60.6789": [],
+  "Lahdenkatu, Rauma|20.5720,61.5789,22.4359,60.6789": [
+    {
+      "lat": 61.1466693,
+      "lon": 21.4835537,
+      "display_name": "Lahdenkatu, Syvärauma, Rauma, Rauman seutukunta, Satakunta, Manner-Suomi, 26200, Suomi / Finland",
+      "type": "secondary",
+      "addresstype": "road",
+      "address": {
+        "road": "Lahdenkatu",
+        "suburb": "Syvärauma",
+        "town": "Rauma",
+        "municipality": "Rauman seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "postcode": "26200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.142219,
+      "lon": 21.4825629,
+      "display_name": "Lahdenkatu, Syvärauma, Rauma, Rauman seutukunta, Satakunta, Manner-Suomi, 26200, Suomi / Finland",
+      "type": "cycleway",
+      "addresstype": "road",
+      "address": {
+        "road": "Lahdenkatu",
+        "suburb": "Syvärauma",
+        "town": "Rauma",
+        "municipality": "Rauman seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "postcode": "26200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Sorvikuja 4 B, Vantaa (Vapaalaa)|24.1356,60.7430,25.9517,59.8430": [],
+  "Bulevardi 28, Helsinki|24.1356,60.7430,25.9517,59.8430": [
+    {
+      "lat": 60.1636985,
+      "lon": 24.935607,
+      "display_name": "Lapland hotels bulevardi, 28, Bulevardi, Kamppi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00120, Suomi / Finland",
+      "type": "hotel",
+      "addresstype": "tourism",
+      "address": {
+        "tourism": "Lapland hotels bulevardi",
+        "house_number": "28",
+        "road": "Bulevardi",
+        "suburb": "Kamppi",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00120",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1637183,
+      "lon": 24.9355773,
+      "display_name": "28, Bulevardi, Kamppi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00120, Suomi / Finland",
+      "type": "house",
+      "addresstype": "place",
+      "address": {
+        "house_number": "28",
+        "road": "Bulevardi",
+        "suburb": "Kamppi",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00120",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Myyrmäen terveyskeskus, Myyrmäki|24.1356,60.7430,25.9517,59.8430": [],
+  "Sturenkatu, Helsinki|24.1356,60.7430,25.9517,59.8430": [
+    {
+      "lat": 60.1956035,
+      "lon": 24.9593304,
+      "display_name": "Sturenkatu, Puu-Vallila, Vallilan teollisuusalue, Vallila, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00550, Suomi / Finland",
+      "type": "primary",
+      "addresstype": "road",
+      "address": {
+        "road": "Sturenkatu",
+        "neighbourhood": "Puu-Vallila",
+        "quarter": "Vallilan teollisuusalue",
+        "suburb": "Vallila",
+        "city_district": "Keskinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00550",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1861796,
+      "lon": 24.9410641,
+      "display_name": "Sturenkatu, Alppila, Alppiharju, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00510, Suomi / Finland",
+      "type": "primary",
+      "addresstype": "road",
+      "address": {
+        "road": "Sturenkatu",
+        "quarter": "Alppila",
+        "suburb": "Alppiharju",
+        "city_district": "Keskinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00510",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1916757,
+      "lon": 24.9508866,
+      "display_name": "Sturenkatu, Konepaja, Vallilan teollisuusalue, Vallila, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00510, Suomi / Finland",
+      "type": "primary",
+      "addresstype": "road",
+      "address": {
+        "road": "Sturenkatu",
+        "neighbourhood": "Konepaja",
+        "quarter": "Vallilan teollisuusalue",
+        "suburb": "Vallila",
+        "city_district": "Keskinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00510",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.193055,
+      "lon": 24.9535508,
+      "display_name": "Sturenkatu, Puu-Vallila, Vallilan teollisuusalue, Vallila, Keskinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00510, Suomi / Finland",
+      "type": "primary",
+      "addresstype": "road",
+      "address": {
+        "road": "Sturenkatu",
+        "neighbourhood": "Puu-Vallila",
+        "quarter": "Vallilan teollisuusalue",
+        "suburb": "Vallila",
+        "city_district": "Keskinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00510",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Wallininkuja, Helsinki Kallion|24.1356,60.7430,25.9517,59.8430": [],
+  "Utajärvi": [
+    {
+      "lat": 64.7613984,
+      "lon": 26.416907,
+      "display_name": "Utajärvi, Oulunkaaren seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Utajärvi",
+        "municipality": "Oulunkaaren seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.75113,
+      "lon": 26.4636779,
+      "display_name": "Utajärvi, Oulunkaaren seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Utajärvi",
+        "town": "Utajärvi",
+        "municipality": "Oulunkaaren seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 64.7761262,
+      "lon": 26.4106958,
+      "display_name": "Utajärvi, Hakala, Utajärvi, Oulunkaaren seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Utajärvi",
+        "hamlet": "Hakala",
+        "town": "Utajärvi",
+        "municipality": "Oulunkaaren seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vehmaksen asemarakennus, Utajärvi|25.3615,65.2114,27.4723,64.3114": [],
+  "Muhoksella|25.3615,65.2114,27.4723,64.3114": [],
+  "Muhokse|25.3615,65.2114,27.4723,64.3114": [],
+  "Rovaniemi|25.3615,65.2114,27.4723,64.3114": [],
+  "Kajaani|25.3615,65.2114,27.4723,64.3114": [],
+  "Turku|25.3615,65.2114,27.4723,64.3114": [],
+  "Tikkakoski": [
+    {
+      "lat": 62.389702,
+      "lon": 25.6458923,
+      "display_name": "Tikkakoski, Tikkakoski-Nyrölä, Jyväskylä, Jyväskylän seutukunta, Keski-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Tikkakoski",
+        "city_district": "Tikkakoski-Nyrölä",
+        "city": "Jyväskylä",
+        "municipality": "Jyväskylän seutukunta",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Luonetjärven varuskunta, Tikkakoski|24.6749,62.8397,26.6169,61.9397": [],
+  "Helsinki|24.6749,62.8397,26.6169,61.9397": [],
+  "Rovaniemi|24.6749,62.8397,26.6169,61.9397": [],
+  "Jyväskylä|24.6749,62.8397,26.6169,61.9397": [
+    {
+      "lat": 62.241672,
+      "lon": 25.7495806,
+      "display_name": "Jyväskylä, Jyväskylän seutukunta, Keski-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Jyväskylä",
+        "municipality": "Jyväskylän seutukunta",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Raiskion kylä, Ranua|24.6749,62.8397,26.6169,61.9397": [],
+  "Raiskion, Ranua|24.6749,62.8397,26.6169,61.9397": [],
+  "Lestijärvi": [
+    {
+      "lat": 63.5245085,
+      "lon": 24.6683036,
+      "display_name": "Lestijärvi, Kaustisen seutukunta, Keski-Pohjanmaa, Manner-Suomi, 69440, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Lestijärvi",
+        "municipality": "Kaustisen seutukunta",
+        "state": "Keski-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-07",
+        "region": "Manner-Suomi",
+        "postcode": "69440",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.5318956,
+      "lon": 24.733073,
+      "display_name": "Lestijärvi, Keski-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Lestijärvi",
+        "state": "Keski-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-07",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Pitkäjärven metsäautotie, Lestijärvi|23.6589,63.9745,25.6777,63.0745": [],
+  "Discolandia, Lestijärvi|23.6589,63.9745,25.6777,63.0745": [],
+  "Reisjärvi-Lestijärvi road, road intersection|23.6589,63.9745,25.6777,63.0745": [],
+  "Reisjärvi|23.6589,63.9745,25.6777,63.0745": [
+    {
+      "lat": 63.6041324,
+      "lon": 24.9355989,
+      "display_name": "Reisjärvi, Nivala–Haapajärven seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Reisjärvi",
+        "municipality": "Nivala–Haapajärven seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.6073277,
+      "lon": 24.9720538,
+      "display_name": "Reisjärvi, Nivala–Haapajärven seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Reisjärvi",
+        "town": "Reisjärvi",
+        "municipality": "Nivala–Haapajärven seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kivijärvi|23.6589,63.9745,25.6777,63.0745": [
+    {
+      "lat": 63.155617,
+      "lon": 25.1645336,
+      "display_name": "Kivijärvi, Keski-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Kivijärvi",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.1223025,
+      "lon": 25.0725469,
+      "display_name": "Kivijärvi, Saarijärvi-Viitasaaren seutukunta, Keski-Suomi, Manner-Suomi, 43800, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kivijärvi",
+        "municipality": "Saarijärvi-Viitasaaren seutukunta",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "postcode": "43800",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.9333958,
+      "lon": 23.711353,
+      "display_name": "Kivijärvi, Kokkola, Kokkolan seutukunta, Keski-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Kivijärvi",
+        "city": "Kokkola",
+        "municipality": "Kokkolan seutukunta",
+        "state": "Keski-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-07",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.7151097,
+      "lon": 24.8675103,
+      "display_name": "Kivijärvi, Sievi, Ylivieskan seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Kivijärvi",
+        "town": "Sievi",
+        "municipality": "Ylivieskan seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.8021168,
+      "lon": 24.3938843,
+      "display_name": "Kivijärvi, Toholampi, Kaustisen seutukunta, Keski-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Kivijärvi",
+        "town": "Toholampi",
+        "municipality": "Kaustisen seutukunta",
+        "state": "Keski-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-07",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Lohtajan kihlakunnan oikeus, Kannus|23.6589,63.9745,25.6777,63.0745": [],
+  "Vaasan hovioikeus|23.6589,63.9745,25.6777,63.0745": [],
+  "Niuvanniemen sairaala|23.6589,63.9745,25.6777,63.0745": [],
+  "Malminginkatu 13, Kotka|26.0330,60.9173,27.8589,60.0173": [
+    {
+      "lat": 60.5233576,
+      "lon": 26.9384429,
+      "display_name": "Malminginkatu, Malminki, Helilä, Kotka, Kotkan–Haminan seutukunta, Kymenlaakso, Manner-Suomi, 48600, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Malminginkatu",
+        "neighbourhood": "Malminki",
+        "suburb": "Helilä",
+        "city": "Kotka",
+        "municipality": "Kotkan–Haminan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "postcode": "48600",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Tuira, Oulu|24.4049,65.4618,26.5355,64.5618": [
+    {
+      "lat": 65.0247394,
+      "lon": 25.4720467,
+      "display_name": "Tuira, Oulu, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Tuira",
+        "city": "Oulu",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 65.0247394,
+      "lon": 25.4720467,
+      "display_name": "Tuira, Oulu, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, 90500, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Tuira",
+        "city": "Oulu",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "postcode": "90500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Lassinkallionpolku 8, Tuira, Oulu|24.4049,65.4618,26.5355,64.5618": [
+    {
+      "lat": 65.0259689,
+      "lon": 25.4801197,
+      "display_name": "8, Lassinkallionpolku, Tuira, Oulu, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, 90500, Suomi / Finland",
+      "type": "yes",
+      "addresstype": "building",
+      "address": {
+        "house_number": "8",
+        "road": "Lassinkallionpolku",
+        "suburb": "Tuira",
+        "city": "Oulu",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "postcode": "90500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
   ]
 }
