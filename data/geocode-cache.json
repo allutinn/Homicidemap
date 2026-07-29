@@ -4760,5 +4760,300 @@
   "Meri-Porin poliisin venehalli|20.8545,61.9366,22.7399,61.0366": [],
   "Turun lääninvankilaan|20.8545,61.9366,22.7399,61.0366": [],
   "Porin poliisivankilasta|20.8545,61.9366,22.7399,61.0366": [],
-  "Porin poliisivankila|20.8545,61.9366,22.7399,61.0366": []
+  "Porin poliisivankila|20.8545,61.9366,22.7399,61.0366": [],
+  "Järventausta asuntoalue, Kankaanpää|21.4413,62.2542,23.3461,61.3542": [],
+  "Järventau asuntoalue, Kankaanpää|21.4413,62.2542,23.3461,61.3542": [],
+  "Ikaalisten käräjäoikeus, Ikaali|21.4413,62.2542,23.3461,61.3542": [],
+  "Kankaanpää|21.4413,62.2542,23.3461,61.3542": [
+    {
+      "lat": 61.8041608,
+      "lon": 22.3937178,
+      "display_name": "Kankaanpää, Pohjois-Satakunnan seutukunta, Satakunta, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kankaanpää",
+        "municipality": "Pohjois-Satakunnan seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kaarina": [
+    {
+      "lat": 60.407169,
+      "lon": 22.3678223,
+      "display_name": "Kaarina, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kaarina",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Hovirinnan asuinalueen kävelytie, Kaarina|21.4566,60.8572,23.2791,59.9572": [],
+  "Kaarina|21.4566,60.8572,23.2791,59.9572": [
+    {
+      "lat": 60.407169,
+      "lon": 22.3678223,
+      "display_name": "Kaarina, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kaarina",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Punavuorenkadulla, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Punavuorenkadu, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Iso Roobertinkatu, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.1633726,
+      "lon": 24.9418086,
+      "display_name": "Iso Roobertinkatu, Viiskulma, Punavuori, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00120, Suomi / Finland",
+      "type": "pedestrian",
+      "addresstype": "road",
+      "address": {
+        "road": "Iso Roobertinkatu",
+        "neighbourhood": "Viiskulma",
+        "suburb": "Punavuori",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00120",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1619139,
+      "lon": 24.9376166,
+      "display_name": "Iso Roobertinkatu, Viiskulma, Punavuori, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00120, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Iso Roobertinkatu",
+        "neighbourhood": "Viiskulma",
+        "suburb": "Punavuori",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00120",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.162979,
+      "lon": 24.9406614,
+      "display_name": "Iso Roobertinkatu, Viiskulma, Punavuori, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00120, Suomi / Finland",
+      "type": "pedestrian",
+      "addresstype": "road",
+      "address": {
+        "road": "Iso Roobertinkatu",
+        "neighbourhood": "Viiskulma",
+        "suburb": "Punavuori",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00120",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1641611,
+      "lon": 24.9440991,
+      "display_name": "Iso Roobertinkatu, Kaartinkaupunki, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00130, Suomi / Finland",
+      "type": "pedestrian",
+      "addresstype": "road",
+      "address": {
+        "road": "Iso Roobertinkatu",
+        "suburb": "Kaartinkaupunki",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00130",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1627753,
+      "lon": 24.9392558,
+      "display_name": "Iso Roobertinkatu, 29, Fredrikinkatu, Viiskulma, Punavuori, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00120, Suomi / Finland",
+      "type": "bus_stop",
+      "addresstype": "highway",
+      "address": {
+        "highway": "Iso Roobertinkatu",
+        "house_number": "29",
+        "road": "Fredrikinkatu",
+        "neighbourhood": "Viiskulma",
+        "suburb": "Punavuori",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00120",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1627774,
+      "lon": 24.939046,
+      "display_name": "Iso Roobertinkatu, Fredrikinkatu, Viiskulma, Punavuori, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00120, Suomi / Finland",
+      "type": "tram_stop",
+      "addresstype": "railway",
+      "address": {
+        "railway": "Iso Roobertinkatu",
+        "road": "Fredrikinkatu",
+        "neighbourhood": "Viiskulma",
+        "suburb": "Punavuori",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00120",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.1624621,
+      "lon": 24.9357477,
+      "display_name": "Uudenmaankatu, 26-28, Albertinkatu, Telakkaranta, Punavuori, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00120, Suomi / Finland",
+      "type": "bus_stop",
+      "addresstype": "highway",
+      "address": {
+        "highway": "Uudenmaankatu",
+        "house_number": "26-28",
+        "road": "Albertinkatu",
+        "neighbourhood": "Telakkaranta",
+        "suburb": "Punavuori",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00120",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Restaurant DTM (Don't Tell Mama), Iso Roobertinkatu, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Restaurant DTM (Don't Tell Mama), Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Suomussalmi": [
+    {
+      "lat": 64.8847582,
+      "lon": 28.9145906,
+      "display_name": "Suomussalmi, Kehys-Kainuun seutukunta, Kainuu, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Suomussalmi",
+        "municipality": "Kehys-Kainuun seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Pitämän asuinalue, Suomussalmi|27.8544,65.3348,29.9748,64.4348": [],
+  "Suomussalmi, Kainuu|27.8544,65.3348,29.9748,64.4348": [
+    {
+      "lat": 64.8847582,
+      "lon": 28.9145906,
+      "display_name": "Suomussalmi, Kehys-Kainuun seutukunta, Kainuu, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Suomussalmi",
+        "municipality": "Kehys-Kainuun seutukunta",
+        "state": "Kainuu",
+        "ISO3166-2-lvl4": "FI-05",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vammala, Karkkussa|21.9674,61.7948,23.8442,60.8948": [],
+  "Vammala, Karkku|21.9674,61.7948,23.8442,60.8948": [],
+  "Hospital, Tampere area|21.9674,61.7948,23.8442,60.8948": [],
+  "Tampere|21.9674,61.7948,23.8442,60.8948": [
+    {
+      "lat": 61.4977988,
+      "lon": 23.7616335,
+      "display_name": "Tampere, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Tampere",
+        "municipality": "Tampereen seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Latokartanontie 16, Pori|20.8545,61.9366,22.7399,61.0366": [
+    {
+      "lat": 61.4719742,
+      "lon": 21.8604263,
+      "display_name": "16, Latokartanontie, Väinölä, Pori, Porin seutukunta, Satakunta, Manner-Suomi, 28330, Suomi / Finland",
+      "type": "apartments",
+      "addresstype": "building",
+      "address": {
+        "house_number": "16",
+        "road": "Latokartanontie",
+        "suburb": "Väinölä",
+        "city": "Pori",
+        "municipality": "Porin seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "postcode": "28330",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ]
 }

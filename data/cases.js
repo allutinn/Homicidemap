@@ -8101,5 +8101,642 @@ const CASES = [
       "https://murha.info/rikosfoorumi/viewtopic.php?p=103963#p103963"
     ],
     "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=409"
+  },
+  {
+    "id": 68,
+    "topic_id": "410",
+    "title": "Kahden nuoren ampuminen Kankaanpään Järventaustalla, marraskuu 2004",
+    "coords": [
+      61.8041608,
+      22.3937178
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "official",
+    "coords_label": "Kankaanpää",
+    "coords_note": null,
+    "coords_resolved": "Kankaanpää, Pohjois-Satakunnan seutukunta, Satakunta, Manner-Suomi, Suomi / Finland",
+    "date": "2004-11",
+    "date_note": "Marraskuu 2004; ampuminen tapahtui sunnuntaiaamuna noin klo 5.05. Tarkkaa päivämäärää lanka ei kerro.",
+    "status": "solved",
+    "outcome": "Aki Voitto Matias Raiskio, a student from Kankaanpää (21 at the time of the shooting, 23 at sentencing), was first convicted by Ikaalinen District Court (Ikaalisten käräjäoikeus) of two murders and sentenced to life imprisonment. Turku Court of Appeal (Turun hovioikeus) reduced the convictions to two counts of manslaughter (tappo) and imposed a 12-year prison sentence. The thread does not give the dates of either judgment. A forum post notes that with the usual Finnish release-on-half-sentence rules he would have become eligible for release around November 2010, six years after his arrest; that calculation is a poster's, not a court's.",
+    "location": "Town where the incident took place",
+    "municipality": "Kankaanpää",
+    "summary": {
+      "fi": {
+        "lead": "Kankaanpään Järventaustan asuntoalueella ammuttiin marraskuussa 2004 sunnuntaiaamuna vähän viiden jälkeen kaksi nuorta: vuonna 1983 syntynyt jämijärveläinen nainen ja vuonna 1982 syntynyt kankaanpääläinen mies. Ampujaksi paljastui 21-vuotias kankaanpääläinen opiskelija Aki Voitto Matias Raiskio. Käräjäoikeus tuomitsi hänet murhista elinkautiseen, hovioikeus lievensi syytteet tapoiksi ja tuomion 12 vuodeksi vankeutta.",
+        "detail": "Uutis- ja oikeustietojen mukaan neljän hengen seurue oli viettänyt iltaa ravintolassa ja grillillä ja palannut sieltä asunnolle Kankaanpään Järventaustan asuntoalueelle. Ampuja ei alun perin kuulunut seurueeseen, mutta oli viettänyt sen kanssa jonkin aikaa ravintolassa. Yksi seurueen jäsenistä oli hänen tyttöystävänsä. Poliisin mukaan ravintolassa ei ollut ollut riitaa tyttöystävän ja seurueen toisen miehen välillä.\n\nAsunnolla ampuja ja tyttöystävä keskustelivat kuistilla, kun kolme muuta olivat sisällä. Kun mies lähti hakemaan haulikkoa autostaan, tyttöystävä pakeni paikalta. Ampuja ampui oven avannutta naista, jatkoi asuntoon ja ampui miestä, ja ampui tätä vielä ulkona. Seurueen toinen mies onnistui piiloutumaan. Surmansa saivat vuonna 1983 syntynyt jämijärveläinen nainen ja vuonna 1982 syntynyt kankaanpääläinen mies. Ampuminen tapahtui sunnuntaiaamuna muutama minuutti yli viiden. Tutkinnanjohtajan mukaan uhrit näyttivät valikoituneen sattumalta ja taustalla oli ilmeisesti parisuhdeongelmia; motiivit jäivät lähteiden mukaan hämärän peittoon. Ampujalla oli metsästysharrastuksen kautta kokemusta aseista ja haulikon lisäksi laillisia aselupia. Vangitsemisasiaa käsiteltiin seuraavana päivänä Ikaalisten käräjäoikeudessa.\n\nIkaalisten käräjäoikeus tuomitsi tuolloin 23-vuotiaan Aki Voitto Matias Raiskion kahdesta murhasta elinkautiseen vankeuteen. Turun hovioikeus muutti syyksilukemisen kahdeksi tapoksi ja tuomitsi hänet 12 vuodeksi vankeuteen. Tuomioiden päivämääriä lanka ei kerro. Foorumilla esitetyn laskelman mukaan hän olisi tavanomaisilla ehdonalaissäännöillä vapautunut aikaisintaan marraskuussa 2010, kuusi vuotta marraskuun 2004 kiinnioton jälkeen; tämä on kirjoittajan oma päätelmä.\n\nMuu langan aineisto on nimenomaan foorumipuhetta eikä sitä ole vahvistettu. Lähistöllä asunut kirjoittaja kertoi asuvansa noin kymmenen metrin päässä tapahtumapaikasta ja veljensä heränneen yöllä laukauksiin. Toinen kirjoittaja väitti ampujan varanneen patruunat kaikille viidelle asunnolla olleelle ja tajunneen tekonsa vasta kahden surmattuaan. Kolmas kertoi armeijakaverinsa tunteneen ampujan ja kuvailleen tätä mukavaksi ja rauhalliseksi. Näille väitteille ei ole langassa oikeus- tai uutislähdettä."
+      },
+      "en": {
+        "lead": "In November 2004, on a Sunday morning just after five o'clock, two young people were shot dead in the Järventausta residential area of Kankaanpää: a woman born in 1983 from Jämijärvi and a man born in 1982 from Kankaanpää. The shooter was Aki Voitto Matias Raiskio, a 21-year-old local student. A district court gave him life for murder; the appeal court reduced it to manslaughter and 12 years.",
+        "detail": "According to court and news information, a party of four had spent the evening at a restaurant and a grill and returned to an apartment in the Järventausta residential area of Kankaanpää. The shooter was not originally part of the group but had spent some time with them at the restaurant. One member of the group was his girlfriend. Police said there had been no argument at the restaurant between the girlfriend and another man in the group.\n\nAt the apartment, the shooter and his girlfriend talked on the porch while the other three were inside. When he went to fetch a shotgun from his car, the girlfriend fled the scene. He shot the woman as she opened the door, continued into the apartment and shot a man, then shot him again outside. The other man managed to hide. The dead were a woman born in 1983 from Jämijärvi and a man born in 1982 from Kankaanpää. The shooting took place on a Sunday morning a few minutes past five. The investigating officer said the victims appeared to have been randomly selected and that there were apparently relationship problems in the background; the motive remained unclear. The shooter had experience with firearms through hunting and, besides the shotgun, held legal gun licences. His remand was heard the following day at Ikaalinen District Court.\n\nIkaalinen District Court convicted Aki Voitto Matias Raiskio, then 23, of two murders and sentenced him to life imprisonment. Turku Court of Appeal changed the convictions to two counts of manslaughter and imposed 12 years. The thread does not give the dates of the judgments. A forum poster calculated that under normal Finnish parole rules he would have been eligible for release in November 2010, six years after his arrest; that is the poster's own reasoning, not a court statement.\n\nThe rest of the thread material is forum talk and unverified. A poster living nearby said he lived about ten metres from the scene and that his brother woke to the shots in the night. Another claimed the shooter had prepared ammunition for all five people at the apartment and only realised what he had done after killing two. A third said an army acquaintance who knew the shooter described him as a nice and calm person. None of these claims has a court or news source in the thread."
+      }
+    },
+    "victims": [
+      {
+        "name": "",
+        "description": "Female born in 1983, from Jämijärvi. Shot at an apartment in Järventausta when she opened the door.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=5267#p5267"
+        ]
+      },
+      {
+        "name": "",
+        "description": "Male born in 1982, from Kankaanpää. Shot at the apartment's back porch by the shooter.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=5267#p5267"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Aki Voitto Matias Raiskio",
+        "description": "23-year-old student from Kankaanpää at time of sentencing. Initially confessed to the shooting. Had experience with firearms through hunting hobby and possessed legal gun licenses. Had spent time with the victims' group at a restaurant and grill the evening of the shooting.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=42144#p42144"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Järventausta asuntoalue, Kankaanpää",
+        "detail": "Residential area where the shooting occurred on Sunday morning",
+        "quote": "Ampuminen tapahtui Järventaustan asuntoalueella sunnuntaiaamuna muutaman minuutin yli viisi.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5267#p5267",
+        "precision": "district",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Ikaalisten käräjäoikeus, Ikaali",
+        "detail": "Court where the remand hearing was held the following day",
+        "quote": "Vangitsemista käsitellään huomenna Ikaalisten käräjäoikeudessa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5267#p5267",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kankaanpää",
+        "detail": "Town where the incident took place",
+        "quote": "Kankaanpään ampujan uhrit valikoituivat sattumalta Kankaanpäässä (marraskuussa 2004) kahden henkilön kuolemaan päättyneen ampumistapauksen motiivit ovat edelleen hämärän peitossa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5267#p5267",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": true
+      },
+      {
+        "label": "Jämijärvi",
+        "detail": "Hometown of the female victim",
+        "quote": "Surmansa saivat vuonna 1983 syntynyt jämijärveläinen nainen ja vuonna 1982 syntynyt kankaanpääläinen mies.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5267#p5267",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=5267#p5267",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=42144#p42144",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=5387#p5387",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=5386#p5386"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=410"
+  },
+  {
+    "id": 69,
+    "topic_id": "422",
+    "title": "Tiinan surma Kaarinassa 13.1.2006",
+    "coords": [
+      60.407169,
+      22.3678223
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "news",
+    "coords_label": "Kaarina",
+    "coords_note": null,
+    "coords_resolved": "Kaarina, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, Suomi / Finland",
+    "date": "2006-01-13",
+    "date_note": "Ampuminen noin klo 05.19 perjantaina 13.1.2006; poliisi saapui paikalle 05.21.",
+    "status": "solved",
+    "outcome": "Arto Olavi Pennanen, 40, was convicted of murha (murder) by Turunseudun käräjäoikeus in March 2006 and sentenced to elinkautinen vankeus (life imprisonment) for shooting his former girlfriend Tiina, 40, in Kaarina on 13 January 2006. Turun hovioikeus upheld the conviction and sentence on 17 February 2007, finding that he had killed the woman coldbloodedly and with premeditation, having planned the killing for a long period and prepared it by obtaining an illegal firearm. On 14 March 2018 Helsingin hovioikeus ordered his conditional release, against the recommendation of Rikosseuraamuslaitos, citing among other things that he had completed his matriculation examination in prison; he was released on 1 March 2019 after serving about 13 years and 2 months.",
+    "location": "Municipality where Tiina lived and was killed. Perpetrator waited near victim's home and later captured in city center.",
+    "municipality": "Kaarina",
+    "summary": {
+      "fi": {
+        "lead": "Kaarinalainen 40-vuotias elintarviketyöntekijä Tiina oli aamuyöllä perjantaina 13. tammikuuta 2006 kävelemässä töihin, kun hänen entinen seurustelukumppaninsa Arto Olavi Pennanen ampui häntä kosketusetäisyydeltä oikeaan kylkeen Hovirinnan asuinalueen kävelytiellä. Nainen kuoli välittömästi runsaan 700 metrin päässä kodistaan. Pennanen tuomittiin murhasta elinkautiseen vankeuteen ja vapautui vankilasta 1. maaliskuuta 2019.",
+        "detail": "Tiina ja Pennanen olivat tutustuneet kesällä 2005 ja seurustelleet muutaman viikon. Kun nainen vaihtoi puhelinnumeronsa salaiseksi marraskuun lopulla, mies alkoi soitella tämän siskolle. Tiina oli havainnut miehessä outoja ja pelottavia piirteitä ja kertonut niistä Kaarinan poliisille jo syksyllä 2005. Miehen tiedetään syyllistyneen kesällä 2005 myös pahoinpitelyyn Raisiossa.\n\nOikeudessa esitettyjen ja lehdissä selostettujen tietojen mukaan Pennanen valmisteli tekoa pitkään. Hän hankki luvattoman pistoolin tamperelaiselta myyjältä lähes koko kuukauden ansioillaan, 600 eurolla, ja sai aseen postissa kaksi päivää ennen ampumista. Päivää ennen surmaa hän testasi asetta Haunisissa Raisiossa ampumalla yhden laukauksen. Muutamaa päivää aiemmin hän oli ilmoittanut hankkineensa aseen ja olevansa valmis tulemaan Kaarinaan.\n\nSurmayönä Pennanen lähti kotoaan Raisiosta ja käveli ladattu ase povitaskussa Turun läpi Kaarinaan; matkaan kului nelisen tuntia, koska varaa taksiin ei ollut. Hän odotti naisen kotitalon pihalla Emännäntiellä ja tuppautui tämän seuraan, kun Tiina lähti töihin. Hätääntynyt Tiina huomasi heitä lähestyvän toisen naisen ja huusi apua. Tämä oli juuri valitsemassa hälytyskeskuksen numeroa, kun kuului laukaus. Poliisi oli paikalla klo 05.21 ja löysi Pennasen kolme tuntia teon jälkeen Kaarinan keskustasta. Miehen kotoa Kirkkoväärtinkadulta löytyi A4-arkki, joka oli otsikoitu \"Syyt tappaa Tiina\" ja jossa oli viisitoista ranskalaista viivaa sekä johtopäätös: \"Hanki jostain ase ja käy ampuu se!!!\"\n\nTurunseudun käräjäoikeus tuomitsi Pennasen murhasta elinkautiseen vankeuteen maaliskuussa 2006, ja Turun hovioikeus piti tuomion ennallaan 17.2.2007 katsoen, että hän oli tappanut naisen kylmäverisesti ja vakaasti harkiten. Naisen 13-vuotias poika vaati mieheltä 16 000 euroa henkisestä kärsimyksestä. Helsingin hovioikeus päätti 14.3.2018 vapauttaa hänet, vaikka Rikosseuraamuslaitos ei sitä puoltanut; perusteluissa mainittiin muun muassa se, että mies oli suorittanut vankilassa ylioppilastutkinnon. Vapautuminen tapahtui 1.3.2019.\n\nKaikki edellä kerrottu perustuu ketjussa siteerattuihin oikeuden ratkaisuihin ja uutisjuttuihin. Palstalaisten omia arvailuja ei ole otettu tähän kuvaukseen mukaan. Ketjussa perämiehen kotipaikka on kirjoitettu vaihtelevasti, mutta lainatuissa uutisteksteissä se on Raisio."
+      },
+      "en": {
+        "lead": "Early on Friday 13 January 2006, Tiina, a 40-year-old food industry worker from Kaarina, was walking to work when her former boyfriend Arto Olavi Pennanen shot her at contact range in the right side on a footpath in the Hovirinna residential area. She died instantly, just over 700 metres from her home. Pennanen was convicted of murder, sentenced to life imprisonment, and released on 1 March 2019.",
+        "detail": "Tiina and Pennanen had met in the summer of 2005 and dated for a few weeks. When she made her phone number unlisted in late November, he began calling her sister. She had noticed strange and frightening traits in him and told the Kaarina police about them in the autumn of 2005. He had also committed an assault in Raisio in the summer of 2005.\n\nAccording to the court rulings and news reports quoted in the thread, Pennanen prepared the killing over a long period. He bought an illegal pistol from a seller in Tampere for 600 euros, close to a full month's earnings, and received it by post two days before the shooting. The day before the killing he test-fired it with a single shot at Hauninen in Raisio. A few days earlier he had announced that he had obtained a weapon and was ready to come to Kaarina.\n\nOn the night of the killing he left his home in Raisio and walked through Turku to Kaarina with the loaded pistol in his breast pocket; the journey took nearly four hours because he could not afford a taxi. He waited in the yard of her apartment building on Emännäntie and forced his company on her as she left for work. Alarmed, Tiina saw another woman approaching and shouted for help. That woman was dialling the emergency number when she heard a shot behind her. Police were on the scene at 05.21 and found Pennanen three hours after the act in the centre of Kaarina. At his home on Kirkkoväärtinkatu police found an A4 sheet headed \"Reasons to kill Tiina\", with fifteen bullet points and the conclusion: \"Get a gun somewhere and go shoot her!!!\"\n\nTurunseudun käräjäoikeus convicted Pennanen of murder and sentenced him to life imprisonment in March 2006, and Turun hovioikeus upheld the ruling on 17 February 2007, finding that he had killed the woman coldbloodedly and with premeditation. The victim's 13-year-old son claimed 16,000 euros from him for mental suffering. On 14 March 2018 Helsingin hovioikeus ordered his release even though Rikosseuraamuslaitos did not support it, citing among other things that he had completed his matriculation examination in prison. He was released on 1 March 2019.\n\nEverything above rests on court decisions and news reports quoted in the thread; posters' own speculation has been left out. The perpetrator's home town is spelled inconsistently in the thread, but in the quoted news texts it is Raisio."
+      }
+    },
+    "victims": [
+      {
+        "name": "Tiina",
+        "description": "40-year-old female, food industry worker (elintarviketyöntekijä), victim of shooting",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=5414#p5414",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=204417#p204417",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=205069#p205069"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Arto Olavi Pennanen",
+        "description": "39-40 year old male from Raisi, convicted of murdering his ex-girlfriend Tiina. Obtained illegal firearm, planned the killing for approximately two months, wrote list of 15 reasons to kill her, walked from Raisi to Kaarina at night while intoxicated with loaded pistol.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=5414#p5414",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=204417#p204417",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=205069#p205069",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=863097#p863097"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Hovirinnan asuinalueen kävelytie, Kaarina",
+        "detail": "Footpath in Hovirinna residential area where Tiina was shot at contact range while walking to work. Shot in the right side, approximately 700 meters from her home. Police arrived within 2 minutes at 05:21.",
+        "quote": "Kesän ja syksyn tapahtumat kulminoituivat Hovirinnan asuinalueen yhdelle kävelytielle, kun Arto tuppautui Tiinan seuraan.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=205069#p205069",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kaarina",
+        "detail": "Municipality where Tiina lived and was killed. Perpetrator waited near victim's home and later captured in city center.",
+        "quote": "Henkirikos tapahtui Kaarinassa tammikuussa 2006.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=863097#p863097",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Raisi, Perno alueella / Vaisaari",
+        "detail": "Perpetrator's residence area. Walked from Raisi to Kaarina at night carrying loaded pistol. Took approximately 4 hours to walk to Kaarina. Also had prior incident of pahoinpitely (assault) in summer 2005 in Raisi.",
+        "quote": "Pennanen oli lähtenyt aamuyöllä kotoaan Raisiosta. Matka Turun toisella puolella sijaitsevaan Kaarinaan kesti liki neljä tuntia, sillä varaa taksiin ei ollut.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=205069#p205069",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Haunisissa, Raisi",
+        "detail": "Location where Pennanen test-fired the illegal weapon one day before the shooting.",
+        "quote": "Päivää ennen surmaa mies testasi aseen Haunisissa Raisiossa ampumalla yhden laukauksen.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5414#p5414",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Turku",
+        "detail": "City that perpetrator walked through on the way from Raisi to Kaarina.",
+        "quote": "Hän joi hieman lisää ja lähti sitten ladattu ase povitaskussa kävelemään Raisiosta Turun läpi Kaarinaan naista tapaamaan.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5414#p5414",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Emännäntie, Kaarina",
+        "detail": "Victim Tiina's home address - residential building where Pennanen waited for her to leave for work.",
+        "quote": "Emännäntiellä sijaitsevan kerrostalon pihalle.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=205069#p205069",
+        "precision": "street",
+        "credibility": "editor",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kirkkoväärtinkatu",
+        "detail": "Pennanen's home address in Raisi where police found list of 15 reasons to kill Tiina.",
+        "quote": "Poliisitutkinnassa oli löytynyt Pennasen kotoa Kirkkoväärtinkadulta löytynyt muistio, joka oli otsikoitu \"Syyt tappaa Tiina\".",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=205069#p205069",
+        "precision": "street",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=5414#p5414",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=205069#p205069",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=204417#p204417",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=863097#p863097"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=422"
+  },
+  {
+    "id": 70,
+    "topic_id": "431",
+    "title": "Kari S. Tikan surma, Helsinki 24.–25.5.2006",
+    "coords": [
+      60.2083483,
+      25.1435537
+    ],
+    "coords_precision": "district",
+    "coords_credibility": "forum_claim",
+    "coords_label": "Vuosaari, Helsinki",
+    "coords_note": null,
+    "coords_resolved": "Vuosaari, Itäinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+    "date": "2006-05-25",
+    "date_note": "Surma tapahtui yön 24.–25.5.2006 aikana; ruumis löytyi 27.–28.5.2006.",
+    "status": "solved",
+    "outcome": "Two men, Aleksandr Ionin (19 at the time) and Mika-Martti Zukov (23 at the time), were convicted by Helsinki District Court (Helsingin käräjäoikeus) of killing (tappo) and aggravated robbery (törkeä ryöstö), each receiving 11 years' imprisonment. The Court of Appeal (hovioikeus) upheld both the convictions and the sentences on 15 May 2007. According to the thread the men were first held at Vantaa prison, Ionin later transferred to Riihimäki prison and to the Vilppula open institution; Zukov is said to have escaped from a prison transport in June 2009 and to have been recaptured. All of this is reported by forum posters, and the evidence contains no court document or news article confirming it.",
+    "location": "District where the two suspects were arrested on Sunday May 28, 2006",
+    "municipality": "Helsinki",
+    "summary": {
+      "fi": {
+        "lead": "Helsingin yliopiston finanssioikeuden professori Kari S. Tikka, 61, löydettiin pahoinpideltynä ja kuristettuna kotoaan Punavuorenkadulta touko-kesäkuun vaihteessa 2006. Hänet oli surmattu ryöstön yhteydessä yönä 24.–25.5.2006. Kaksi nuorta miestä, Aleksandr Ionin ja Mika-Martti Zukov, tuomittiin taposta ja törkeästä ryöstöstä 11 vuoden vankeuteen; hovioikeus pysytti tuomiot 15.5.2007.",
+        "detail": "Keskustelun mukaan Kari S. Tikka vietti iltaa 24. toukokuuta 2006 ravintola DTM:ssä (Don't Tell Mama) Iso Roobertinkadulla, lyhyen kävelymatkan päässä kodistaan. Siellä hän tapasi kaksi nuorta miestä, jotka lähtivät hänen mukaansa asunnolle ravintolan sulkeuduttua noin kello neljältä aamuyöllä.\n\nAsunnolla Punavuorenkadulla tilanne muuttui ryöstöksi. Foorumilla kerrotun mukaan Mika-Martti Zukov löi Tikkaa pyyhkeeseen käärityllä pullolla, ja molemmat miehet osallistuivat kuristamiseen ja potkimiseen, kun Tikka vastusti anastusta. Kuolinsyyksi mainitaan useat kallonmurtumat ja aivokudoksen vauriot sekä kuristaminen. Asunnosta vietiin muun muassa alkoholia, tupakkaa, vihkisormus, eri valuuttoja, puukko, kiikarit ja videokamera.\n\nTikan ruumis löytyi lauantaina 27. tai sunnuntaina 28. toukokuuta, kun huolestuneet ystävät ja talonmies menivät katsomaan häntä hänen jäätyään pois sovituista tapaamisista. Epäillyt otettiin kiinni Vuosaaresta sunnuntaina 28. toukokuuta; heidät oli keskustelun mukaan tunnistettu DTM:n lähistön valvontakamerakuvasta.\n\nUhrista kerrotaan foorumilla, että hän oli syntynyt 21. elokuuta 1944 Lahdessa, oli arvostettu vero-oikeuden asiantuntija ja nimitettiin finanssioikeuden professoriksi 31-vuotiaana. Tekijöiksi tuomituista kerrotaan, että Aleksandr Ionin oli tekohetkellä 19-vuotias, Venäjällä syntynyt ja äitinsä kanssa Suomeen 1998 muuttanut Venäjän kansalainen, ja Mika-Martti Zukov 23-vuotias, Virossa syntynyt ja Suomessa 14 vuotta asunut.\n\nMolemmat tuomittiin Helsingin käräjäoikeudessa taposta ja törkeästä ryöstöstä 11 vuoden vankeuteen, ja hovioikeus pysytti ratkaisun 15.5.2007. Miehiä pidettiin aluksi Vantaan vankilassa; Ionin siirtyi keskustelun mukaan myöhemmin Riihimäen vankilaan ja Vilppulan avolaitokseen, ja Zukovin kerrotaan karanneen vanginkuljetuksesta kesäkuussa 2009 ja jääneen pian kiinni.\n\nOn syytä korostaa, että kaikki edellä kerrottu perustuu murha.info-keskustelun kirjoituksiin. Kirjoittajat viittaavat oikeuden ratkaisuihin ja lehtitietoihin, mutta käytettävissä olevassa aineistossa ei ole niitä vahvistavaa tuomiota tai uutislähdettä. Myös uhrin ja tuomittujen nimet, teon yksityiskohdat ja rangaistukset ovat foorumikirjoittajien esittämiä tietoja."
+      },
+      "en": {
+        "lead": "Kari S. Tikka, 61, professor of financial law at the University of Helsinki, was beaten and strangled to death in his flat on Punavuorenkatu during the night of 24-25 May 2006, in what became a robbery. His body was found days later. Two young men, Aleksandr Ionin and Mika-Martti Zukov, were convicted of killing and aggravated robbery and each sentenced to 11 years.",
+        "detail": "According to the thread, Kari S. Tikka spent the evening of 24 May 2006 at the restaurant DTM (Don't Tell Mama) on Iso Roobertinkatu, a short walk from his home. There he met two young men, who left with him for his flat when the place closed around 4 a.m.\n\nAt the flat on Punavuorenkatu the night turned into a robbery. Forum posters state that Mika-Martti Zukov struck Tikka with a bottle wrapped in a towel, and that both men took part in strangling and kicking him when he resisted the theft. The cause of death is given as multiple skull fractures and brain tissue damage from blunt force, together with strangulation. Items taken from the flat are said to have included alcohol, tobacco, a wedding ring, various currencies, a knife, binoculars and a video camera.\n\nTikka's body was found on Saturday 27 or Sunday 28 May by concerned friends and a caretaker after he failed to appear at scheduled appointments. The two suspects were arrested in Vuosaari on Sunday 28 May, having been identified, the thread says, from surveillance camera footage near DTM.\n\nOf the victim, posters write that he was born on 21 August 1944 in Lahti, was a renowned expert in tax law and became a professor of financial law at the age of 31. Of the men convicted, the thread states that Aleksandr Ionin was 19 at the time, born in Russia, a Russian national who moved to Finland with his mother in 1998, and that Mika-Martti Zukov was 23, born in Estonia and resident in Finland for 14 years.\n\nBoth were convicted by Helsinki District Court of killing (tappo) and aggravated robbery and sentenced to 11 years' imprisonment; the Court of Appeal upheld the convictions and sentences on 15 May 2007. They were initially held at Vantaa prison; posters add that Ionin was later moved to Riihimäki prison and the Vilppula open institution, and that Zukov escaped from a prison transport in June 2009 before being recaptured.\n\nEvery statement above rests on posts in the murha.info thread. The posters refer to court rulings and press reports, but the material available here contains no judgment or news article confirming them. The names of the victim and the convicted men, the details of the crime and the sentences are all forum claims."
+      }
+    },
+    "victims": [
+      {
+        "name": "Kari S. Tikka",
+        "description": "61-year-old Professor of Financial Law at University of Helsinki. Born August 21, 1944 in Lahti. Renowned expert in tax law, became professor at age 31. Found beaten and strangled to death in his apartment on May 27-28, 2006",
+        "support": "forum_claim",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=5535#p5535",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1696364#p1696364"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Aleksandr Ionin",
+        "description": "19 years old at time of crime, born in Russia, moved to Finland with mother in 1998, Russian nationality. Convicted of murder and aggravated robbery along with Zukov. Sentenced to 11 years imprisonment.",
+        "status": "convicted",
+        "support": "forum_claim",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=5552#p5552",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1696364#p1696364"
+        ]
+      },
+      {
+        "name": "Mika-Martti Zukov",
+        "description": "23 years old at time of crime, born in Estonia, had lived in Finland for 14 years. Convicted of murder and aggravated robbery along with Ionin. Sentenced to 11 years imprisonment. Later escaped from prison transport in June 2009 but was recaptured.",
+        "status": "convicted",
+        "support": "forum_claim",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=5552#p5552",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1696364#p1696364"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Punavuorenkadulla, Helsinki",
+        "detail": "Kari S. Tikka's apartment, the killing site where he was beaten and strangled to death during a robbery",
+        "quote": "virolainen 23-vuotias ja 19-vuotias venäläinen tappoi ryöstettyään baarireissun jälkeen Tikan asunnossa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5535#p5535",
+        "precision": "district",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Restaurant DTM (Don't Tell Mama), Iso Roobertinkatu, Helsinki",
+        "detail": "Bar where the victim met the two perpetrators on the night of May 24-25, 2006; they left together around 4 AM",
+        "quote": "24. toukokuuta 2006 Ravintola DTM oli lyhyen kävelymatkan pässä Tikan kodista",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5993#p5993",
+        "precision": "street",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Vuosaari, Helsinki",
+        "detail": "District where the two suspects were arrested on Sunday May 28, 2006",
+        "quote": "Poliisi nappasi nuorukaiset Vuosaaresta sunnuntaina",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5993#p5993",
+        "precision": "district",
+        "credibility": "forum_claim",
+        "used_for_marker": true
+      },
+      {
+        "label": "Vantaa Prison",
+        "detail": "Where the convicted men were held during preliminary detention and sentence",
+        "quote": "Ovat tällä hetkellä Vantaan vankilassa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5552#p5552",
+        "precision": "town",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=5552#p5552",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=5993#p5993",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1696364#p1696364"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=431"
+  },
+  {
+    "id": 71,
+    "topic_id": "440",
+    "title": "Alaikäisen tytön surma Suomussalmen Pitämässä 3.6.2007",
+    "coords": [
+      64.8847582,
+      28.9145906
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "official",
+    "coords_label": "Suomussalmi, Kainuu",
+    "coords_note": null,
+    "coords_resolved": "Suomussalmi, Kehys-Kainuun seutukunta, Kainuu, Manner-Suomi, Suomi / Finland",
+    "date": "2007-06-03",
+    "date_note": "Sunnuntaiaamuna noin klo 9.30",
+    "status": "solved",
+    "outcome": "No prosecution or court proceedings followed: the perpetrator, a man born in 1987, shot himself immediately after killing the victim and died. The evidence gives no court judgment, no charge and no sentence against anyone. Suomussalmi police investigated the incident, and according to the same news-based account also looked into the storage of the shotgun as a suspected firearms offence, since the perpetrator had no permit for the weapon. No outcome of that firearms investigation is recorded in the evidence.",
+    "location": "Municipality where the shooting incident occurred",
+    "municipality": "Suomussalmi",
+    "summary": {
+      "fi": {
+        "lead": "Sunnuntaiaamuna 3. kesäkuuta 2007 noin kello 9.30 vuonna 1987 syntynyt mies ampui vuonna 1991 syntyneen alaikäisen tytön Suomussalmen Pitämän asuinalueella, tytön ystävättären omakotitalon pihapiirissä. Uhri oli miehen entinen tyttöystävä, ja poliisin mukaan taustalla oli välirikko seurustelusuhteessa. Ampuja surmasi itsensä välittömästi teon jälkeen.",
+        "detail": "Uutistietojen mukaan tapahtumat etenivät sunnuntaiaamuna nopeasti. Vuonna 1991 syntynyt alaikäinen tyttö oli viettänyt lauantain ja sunnuntain välisen yön ystävättärensä luona Suomussalmen Pitämän asuinalueella. Vuonna 1987 syntynyt mies oli puolestaan yöpynyt tuttaviensa luona ja haki aamulla haulikon yli viidentoista kilometrin päästä. Tämän jälkeen hän ajoi ystävättären omakotitalon pihalle Pitämässä ja ampui tytön noin kello 9.30. Aseena käytettiin luvallista haulikkoa, johon miehellä itsellään ei kuitenkaan ollut hallussapito-oikeutta.\n\nPoliisin ja uutislähteiden mukaan surmateon motiivina oli välirikko seurustelusuhteessa: uhri oli miehen entinen tyttöystävä. Ampuja surmasi itsensä välittömästi tytön ampumisen jälkeen, joten ketään ei asetettu syytteeseen eikä asiaa käsitelty tuomioistuimessa. Tapaus jäi poliisitutkintaan, ja tekijä on tiedossa, joten tapaus luetaan selvitetyksi.\n\nSuomussalmen poliisi tutki tapahtuman lisäksi aseen säilytystä epäiltynä ampuma-aserikkomuksena, koska haulikko oli päätynyt sellaisen henkilön käsiin, jolla ei ollut siihen lupaa. Käytettävissä olevassa aineistossa ei kerrota, mihin tämä tutkinta johti.\n\nSurmapaikka on aineistossa yksilöity ystävättären omakotitalon pihapiiriksi Pitämän asuinalueella. Tarkempaa osoitetta ei anneta, joten kartalla oleva merkintä osoittaa kaupunginosan tarkkuudella oikeaan paikkaan mutta ei tarkalleen rakennukseen.\n\nUhria eikä tekijää ei ole aineistossa nimetty, ainoastaan syntymävuosien ja iän perusteella yksilöity. Tässä yhteenvedossa ei toisteta keskustelupalstan mahdollista spekulaatiota henkilöllisyyksistä. Kaikki edellä esitetyt tiedot – ajankohta, paikka, ase, motiivi, tekijän itsemurha ja poliisitutkinta – perustuvat aineistossa uutis- tai viranomaislähteiksi merkittyihin tietoihin, eivät palstalaisten omiin arveluihin."
+      },
+      "en": {
+        "lead": "On the morning of Sunday 3 June 2007, at around 9.30 am, a man born in 1987 shot and killed an underage girl born in 1991 in the Pitämä residential area of Suomussalmi, at the yard of a house belonging to the girl's friend. The victim was the man's ex-girlfriend. The shooter killed himself immediately afterwards.",
+        "detail": "According to news reporting, the events unfolded quickly on the Sunday morning. The victim, an underage girl born in 1991, had spent the Saturday-to-Sunday night at her friend's house in the Pitämä residential area of Suomussalmi. The perpetrator, a man born in 1987, had spent the night at friends' place and in the morning retrieved a shotgun from more than fifteen kilometres away. He then drove into the yard of the friend's detached house in Pitämä and shot the girl at around 9.30 am. The weapon was a legally held shotgun, but the man himself had no permit or authorisation to possess it.\n\nPolice and news sources gave the motive as a breakdown in a relationship: the victim was the man's former girlfriend. He shot himself immediately after shooting her and died, so no one was ever charged and the case never reached a court. The perpetrator is identified in the reporting, and the case is therefore counted as solved.\n\nSuomussalmi police additionally investigated the storage of the shotgun as a suspected firearms offence, since the gun had come into the hands of a person who had no permit for it. The available material does not say what that investigation concluded.\n\nThe killing site is specified as the yard of the friend's house in the Pitämä residential area. No street address is given, so the map marker is accurate to the district but not to the individual building.\n\nNeither the victim nor the perpetrator is named in the material; both are identified only by year of birth. Any speculation about identities that may have appeared on the forum is not repeated here. All the points above — the time, the place, the weapon, the motive, the perpetrator's suicide and the police investigation — rest on facts marked in the evidence as coming from court or news reporting, not on posters' own claims."
+      }
+    },
+    "victims": [
+      {
+        "name": "",
+        "description": "Underage girl born in 1991",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=42248#p42248"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "",
+        "description": "Man born in 1987, perpetrator who shot the victim",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=42248#p42248"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Pitämän asuinalue, Suomussalmi",
+        "detail": "The victim was shot at her friend's house in the Pitämä residential area. She had spent the night there on Saturday-Sunday.",
+        "quote": "Tämän jälkeen hän ajoi uhrin ystävättären omakotitalon pihalle Pitämän asuinalueelle.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=42248#p42248",
+        "precision": "district",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Suomussalmi, Kainuu",
+        "detail": "Municipality where the shooting incident occurred",
+        "quote": "Suomussalmella Kainuussa tapahtuneen ampumavälikohtauksen motiiviksi on ilmennyt välirikko seurustelusuhteessa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=42248#p42248",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": true
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=42248#p42248"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=440"
+  },
+  {
+    "id": 72,
+    "topic_id": "426",
+    "title": "Kasimir Kähkösen surma, Vammala (Karkku) 27.12.1999",
+    "coords": [
+      61.4977988,
+      23.7616335
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "forum_claim",
+    "coords_label": "Tampere",
+    "coords_note": null,
+    "coords_resolved": "Tampere, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland",
+    "date": "1999-12-27",
+    "date_note": "The 27 December 1999 date comes from a forum poster who says he is the victim's brother; news accounts cited in the thread say only \"late December\" (joulukuun lopussa).",
+    "status": "solved",
+    "outcome": "The case was solved. Vammala District Court (Vammalan käräjäoikeus) heard charges of murder and sexual abuse against a 30-year-old man resident in Karkku, named in the thread as Lauri Lehtonen. On 6 July 2000 the court found him to lack criminal responsibility (ymmärrystä vailla oleva) because of his developmental disability and therefore did not convict him; instead he was ordered into special care (erityishuolto) arranged by the Social Welfare Board. He was ordered to pay the victim's family 225,000 marks for emotional suffering and a further 61,000 marks for various costs and the parents' lost wages. He had also been charged over arsons in May and October 1999, for which he was ordered to pay some 250,000 marks in compensation. The investigation materials and court records, apart from the text of the decision, were sealed for 30 years.",
+    "location": "Where the family was shopping during the incident. They had left the boy at home alone.",
+    "municipality": "Vammala",
+    "summary": {
+      "fi": {
+        "lead": "Kahdeksanvuotias Kasimir Kähkönen surmattiin puukottamalla kotonaan Vammalan Karkussa loppuvuodesta 1999, kun perhe oli joulunjälkeisillä ostoksilla Tampereella. Tekijäksi paljastui naapuritalossa asunut kolmekymppinen kehitysvammainen mies, joka pidätettiin seuraavana päivänä ja tunnusti teon. Vammalan käräjäoikeus totesi hänet ymmärrystä vailla olevaksi, jätti tuomitsematta ja määräsi erityishuoltoon heinäkuussa 2000.",
+        "detail": "Foorumiketjun mukaan perhe oli lähtenyt Tampereelle ostoksille ja kahdeksanvuotias poika oli jäänyt yksin kotiin. Kotiin palattuaan omaiset löysivät hänet eteisestä useiden puukoniskujen uhrina. Poika kuoli matkalla sairaalaan; isoveljet yrittivät elvyttää häntä matkalla. Nämä kuvaukset perustuvat ketjussa siteerattuihin lehtitietoihin. Poikkeuksena on maininta siitä, että perhe oli nimenomaan Tampereella ja että poika olisi itse halunnut jäädä kotiin: se on yksittäisen foorumikirjoittajan kertomaa.\n\nUhri oli Kasimir Kähkönen, ja hänen isänsä oli Olavi Kähkönen. Tekopäiväksi ketjussa ilmoitetaan 27.12.1999. Tämä tarkka päivämäärä perustuu kirjoittajaan, joka kertoo olevansa uhrin veli; siteeratuissa lehtijutuissa puhutaan vain joulukuun lopusta.\n\nTekijäksi ketjussa nimetään Lauri Lehtonen, noin 30-31-vuotias kehitysvammainen mies, joka asui naapuritalossa ja tunnettiin paikkakunnalla tuhopolttojen tekijänä. Oikeus- ja lehtitietojen mukaan hän oli käyttänyt poikaa seksuaalisesti hyväksi jo edellisenä kesänä. Surmapäivänä hän tuli taloon vastaavassa aikeessa, ja pojan vastustellessa hän puukotti tätä toistuvasti: kolme kertaa kaulaan ja kuusi kertaa rintaan. Poliisi pidätti hänet seuraavana päivänä, hän tunnusti teon ja tekoväline löytyi nopeasti. Käräjäoikeuden julkaistussa päätöstekstissä miestä ei yksilöidä nimeltä vaan \"Karkussa asuvana 30-vuotiaana miehenä\"; nimi esiintyy ketjussa lehtitietoihin nojaavana.\n\nVammalan käräjäoikeus käsitteli syytteet murhasta ja seksuaalisesta hyväksikäytöstä ja totesi 6.7.2000 miehen kehitysvammansa vuoksi ymmärrystä vailla olevaksi. Häntä ei tuomittu, vaan hänet määrättiin sosiaalilautakunnan järjestämään erityishuoltoon. Korvauksiksi uhrin perheelle kärsimyksestä määrättiin 225 000 markkaa sekä lisäksi 61 000 markkaa erilaisista kuluista ja vanhempien ansionmenetyksestä. Mies oli vastaajana myös toukokuun ja lokakuun 1999 tuhopolttoja koskevissa syytteissä, joista korvausvelvollisuudeksi tuli noin 250 000 markkaa. Esitutkinta-aineisto ja oikeudenkäyntiasiakirjat päätöstekstiä lukuun ottamatta määrättiin salassa pidettäviksi 30 vuodeksi.\n\nKetjussa kerrotaan lisäksi, että mies sijoitettiin Ylisen kehitysvammaisten hoitokotiin Ylöjärven ja Tampereen välille. Tämä on foorumikirjoittajien puhetta, ei virallisesti vahvistettu tieto. Surmapaikaksi mainitaan uhrin koti Vammalan Karkussa, mutta tarkempaa osoitetta ketju ei anna, joten kartalla oleva merkki osoittaa vain kylän tason eikä täsmällistä tapahtumapaikkaa."
+      },
+      "en": {
+        "lead": "Eight-year-old Kasimir Kähkönen was stabbed to death at his home in Karkku, Vammala, in late December 1999 while his family was out shopping in Tampere. The killer was a man in his early thirties with a developmental disability who lived in the neighbouring house; he was arrested the next day and confessed. Vammala District Court found him to lack criminal responsibility, did not convict him, and ordered him into special care in July 2000.",
+        "detail": "According to the thread, the family had gone shopping in Tampere and the eight-year-old boy had stayed home alone. When they returned, he was found in the entrance hall of the house with multiple stab wounds. He died on the way to hospital, his older brothers attempting to resuscitate him. These accounts rest on news reports quoted in the thread. The exception is the detail that the family was in Tampere and that the boy had himself wanted to stay behind, which comes from a single poster's recollection.\n\nThe victim was Kasimir Kähkönen; his father was Olavi Kähkönen. The thread gives the date of the killing as 27 December 1999. That precise date comes from a poster who says he is the victim's brother; the newspaper material quoted refers only to \"late December\".\n\nThe thread names the perpetrator as Lauri Lehtonen, a man of about 30 or 31 with a developmental disability who lived in the neighbouring house and was locally known as an arsonist. Court and news material cited in the thread states that he had sexually abused the boy the previous summer. On the day of the killing he came to the house with similar intent, and when the boy resisted he stabbed him repeatedly: three times in the throat and six times in the chest. Police arrested him the following day, he confessed, and the weapon was found quickly. The published court text identifies him only as a 30-year-old man resident in Karkku; the name appears in the thread as news-sourced information.\n\nVammala District Court heard charges of murder and sexual abuse and on 6 July 2000 found the man to lack criminal responsibility because of his disability. He was not convicted; instead the court ordered him into special care (erityishuolto) arranged by the Social Welfare Board. He was ordered to pay the victim's family 225,000 marks for emotional suffering and a further 61,000 marks for various costs and the parents' lost wages. He was also a defendant in arson charges relating to May and October 1999, resulting in compensation of roughly 250,000 marks. The investigation file and the court records, apart from the text of the decision, were sealed for 30 years.\n\nPosters in the thread further say he was placed at Ylinen care home for people with developmental disabilities, between Ylöjärvi and Tampere. That is forum talk rather than confirmed record. The killing site is given as the boy's home in Karkku, Vammala, but the thread offers no street address, so the map marker indicates only the village-level location, not the exact spot where the killing happened."
+      }
+    },
+    "victims": [
+      {
+        "name": "Kasimir Kähkönen",
+        "description": "8-year-old boy, victim of stabbing and attempted sexual assault. His father was Olavi Kähkönen.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1523805#p1523805",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=185964#p185964"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Lauri Lehtonen",
+        "description": "30-31 year old developmentally disabled man who lived in the neighboring house. Had history of pyromania and previous sexual abuse of the victim. Stabbed victim multiple times (3 times in throat, 6 times in chest). Was arrested the day after the murder and confessed.",
+        "status": "charged",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1523805#p1523805",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=185964#p185964"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Vammala, Karkkussa",
+        "detail": "Victim's home where the killing occurred. Boy was found dead at home after family returned from Christmas shopping.",
+        "quote": "Vammalan Karkussa sattunut tapaus.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5455#p5455",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Hospital, Tampere area",
+        "detail": "Where the victim died after being stabbed. Family's older brothers attempted to resuscitate him on the way.",
+        "quote": "Poika kuoli matkalla sairaalaan.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5455#p5455",
+        "precision": "area",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Tampere",
+        "detail": "Where the family was shopping during the incident. They had left the boy at home alone.",
+        "quote": "Perhe oli tosiaan Tampereella ostoksilla, lehdissä taisi olla jotain että poika halusi itse jäädä kotiin tms.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=5585#p5585",
+        "precision": "town",
+        "credibility": "forum_claim",
+        "used_for_marker": true
+      },
+      {
+        "label": "Vammala District Court (Vammalan käräjäoikeus)",
+        "detail": "Court that adjudicated the case on 6 July 2000 and found perpetrator lacking criminal responsibility.",
+        "quote": "Vammalan käräjäoikeus totesi 30-vuotiaan Karkussa asuvan miehen ymmärrystä vailla olevaksi, ja jätti tämän tuomitsematta joulukuun lopussa tehdystä 8-vuotiaan pikkupojan murhasta ja seksuaalisesta hyväksikäytöstä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1523805#p1523805",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Ylöjärvi",
+        "detail": "Location of care facility (Ylisen kehitysvammaisten hoitokodin) where perpetrator was placed for special care.",
+        "quote": "Eikö tuossa ollut,että tämä tyyppi joutui Ylisille (ylöjärvelle)..Onhan siitä matkaa Karkkuun aika reippaasti..",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=177613#p177613",
+        "precision": "town",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=5455#p5455",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1523805#p1523805",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=185964#p185964",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=177613#p177613"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=426"
+  },
+  {
+    "id": 73,
+    "topic_id": "443",
+    "title": "Lauri Vuohijoen surma, Pori 7.5.2006",
+    "coords": [
+      61.4719742,
+      21.8604263
+    ],
+    "coords_precision": "address",
+    "coords_credibility": "official",
+    "coords_label": "Latokartanontie 16, Pori",
+    "coords_note": null,
+    "coords_resolved": "16, Latokartanontie, Väinölä, Pori, Porin seutukunta, Satakunta, Manner-Suomi, 28330, Suomi / Finland",
+    "date": "2006-05-07",
+    "date_note": "Pahoinpitely tapahtui varhain aamuyöllä 7.5.2006; uhri kuoli vammoihinsa 17.5.2006",
+    "status": "solved",
+    "outcome": "Solved and adjudicated. Pori District Court in March 2007 convicted Kristian Ravantti and Teemu Saarikalle of gross negligent homicide (törkeä kuolemantuottamus) and sentenced each to 3 years in prison. In September 2007 the Vaasa Court of Appeals reclassified the offence as killing (tappo) and raised the sentence of both men to 10 years' imprisonment.",
+    "location": "Courtyard where victim was found unconscious by police",
+    "municipality": "Pori",
+    "summary": {
+      "fi": {
+        "lead": "Porilainen 23-vuotias opiskelija Lauri Vuohijoki löytyi 7. toukokuuta 2006 aamuyöllä tajuttomana Latokartanontie 16:n piha-alueelta ja kuoli päävammoihinsa kymmenen päivää myöhemmin Turun yliopistollisessa keskussairaalassa. Kaksi miestä, Kristian Ravantti ja Teemu Saarikalle, tuomittiin lopulta Vaasan hovioikeudessa taposta kymmeneksi vuodeksi vankeuteen.",
+        "detail": "Poliisipartio löysi 23-vuotiaan opiskelijan Lauri Vuohijoen 7. toukokuuta 2006 kello 05.16 tajuttomana Latokartanontie 16:n piha-alueelta Porissa. Hän ei enää palannut tajuihinsa. Lauri Vuohijoki menehtyi keskiviikkona 17. toukokuuta 2006 Turun yliopistollisessa keskussairaalassa maksimaalisesta hoidosta huolimatta.\n\nOikeudessa esitetyn ja uutisoinnissa kerrotun selvityksen mukaan uhri oli otettu autoon Porin rautatieaseman kohdalta hänen ollessaan palaamassa ravintolasta. Latokartanontie 18:n pihassa olleet kaksi miestä olivat kuulleet aamuyöllä kello viiden jälkeen pitkän ja voimakkaan äänen. Noin kaksi tuntia tapahtuman jälkeen Satakunnan hätäkeskukseen ilmoitettiin, että Pihlavassa osoitteessa Uusitalontie 3 ajeli valkoinen farmarimallinen Opel pitkin pihoja ja pyöräteitä.\n\nSyytetyt kertoivat uhrin hypänneen omasta tahdostaan liikkuvasta autosta ja loukkaantuneen pudotessaan. Oikeudessa esitetty lääketieteellinen näyttö ei tukenut tätä selitystä. Neljä neuropatologian asiantuntijaa lausui, ettei uhri ollut saanut kuolemaan johtanutta päävammaa pudottuaan liikkuvasta autosta. Oikeuslääkäri Pia Wahlstenin mukaan ainoa järkevä selitys oli, että opiskelija oli saanut yhden erittäin voimakkaan iskun päähän pään ollessa tuettuna alustaa vasten. Hovioikeuden ratkaisussa todettiin uhrilla olleen iskusta tai vastaavasta aiheutunut pään ja aivojen vamma.\n\nPorin käräjäoikeus tuomitsi maaliskuussa 2007 Kristian Ravantin ja Teemu Saarikallen törkeästä kuolemantuottamuksesta kolmen vuoden vankeusrangaistuksiin. Vaasan hovioikeus katsoi syyskuussa 2007 miesten syyllistyneen tappoon ja koventi kummankin rangaistuksen kymmeneksi vuodeksi vankeutta.\n\nKaikki edellä kerrottu perustuu ketjussa välitettyihin oikeuden ratkaisuihin ja uutisointiin. Ketjussa esitettyjä kirjoittajien omia arvailuja ei ole otettu tähän mukaan, eikä ketään nimetä muuten kuin oikeuden ratkaisuissa ja uutisoinnissa nimettyinä. Kartan merkintä on Latokartanontie 16:n piha-alueella eli paikassa, josta uhri löydettiin tajuttomana."
+      },
+      "en": {
+        "lead": "Lauri Vuohijoki, a 23-year-old student, was found unconscious in the courtyard of Latokartanontie 16 in Pori at 05.16 on 7 May 2006. He never regained consciousness and died of head injuries ten days later at Turku University Hospital. Two men, Kristian Ravantti and Teemu Saarikalle, were ultimately convicted of killing (tappo) by the Vaasa Court of Appeals and sentenced to ten years each.",
+        "detail": "A police patrol found 23-year-old student Lauri Vuohijoki unconscious in the courtyard of Latokartanontie 16 in Pori at 05.16 on 7 May 2006. He never regained consciousness and died on Wednesday 17 May 2006 at Turku University Hospital despite maximal treatment.\n\nAccording to court findings and news reporting relayed in the thread, the victim had been taken into a car near Pori railway station as he was returning from a bar. Two men standing in the yard of Latokartanontie 18 heard a long, loud noise shortly after five in the morning. About two hours after the assault, the Satakunta emergency centre received a report that a white Opel estate was being driven around yards and cycle paths at Uusitalontie 3 in Pihlava.\n\nThe accused claimed that the victim had jumped out of their moving car of his own volition and had been injured in the fall. The medical evidence presented in court did not support this account. Four neuropathology experts testified that the victim had not sustained the fatal head injury by falling from a moving car. Forensic pathologist Pia Wahlsten stated that the only reasonable explanation was that the student had received one extremely forceful blow to the head, with the head supported against a surface. The Court of Appeals decision found that the victim had a head and brain injury caused by a blow or the equivalent.\n\nIn March 2007 Pori District Court convicted Kristian Ravantti and Teemu Saarikalle of gross negligent homicide (törkeä kuolemantuottamus) and sentenced each to three years in prison. In September 2007 the Vaasa Court of Appeals held that the men had committed killing (tappo) and raised each sentence to ten years' imprisonment.\n\nEverything set out above rests on court decisions and news reports as passed on in the thread. Posters' own speculation has been left out, and no one is named beyond those identified in the court and press accounts. The map marker sits at the Latokartanontie 16 courtyard, the place where the victim was found unconscious."
+      }
+    },
+    "victims": [
+      {
+        "name": "Lauri Vuohijoki",
+        "description": "23-year-old student, died from head trauma on 17 May 2006",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1688609#p1688609"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Kristian Ravantti",
+        "description": "One of two men convicted of murdering the student",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=40802#p40802",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=41422#p41422"
+        ]
+      },
+      {
+        "name": "Teemu Saarikalle",
+        "description": "One of two men convicted of murdering the student",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=40802#p40802",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=41422#p41422"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Latokartanontie 16, Pori",
+        "detail": "Courtyard where victim was found unconscious by police",
+        "quote": "Hän ei tullut tajuihinsa enää sen jälkeen, kun poliisipartio oli hänet löytänyt 7. toukokuuta 2006 kello 05.16 Latokartanontie 16 piha-alueelta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1688609#p1688609",
+        "precision": "address",
+        "credibility": "official",
+        "used_for_marker": true
+      },
+      {
+        "label": "Pori railway station vicinity",
+        "detail": "Location where victim was picked up from a bar",
+        "quote": "Tuomitut olivat ottaneet uhrin autoonsa Porin rautatieasemalta, kun tämä oli palaamassa ravintolasta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=41422#p41422",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Turku University Hospital",
+        "detail": "Hospital where victim died 10 days after assault",
+        "quote": "Lauri menehtyi Turun Yliopistollisessa keskussairaalassa keskiviikkona 17. toukokuuta 2006 maksimaalisesta hoidosta huolimatta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1688609#p1688609",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Uusitalontie 3, Pihlava",
+        "detail": "Location where suspect's car was spotted approximately 2 hours after assault",
+        "quote": "Satakunnan hätäkeskukseen ilmoitettiin, että Pihlavassa osoitteessa Uusitalontie 3 ajelee valkoinen farmarimallinen Opel pitkin pihoja ja pyöräteitä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1688609#p1688609",
+        "precision": "address",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Latokartanontie 18, Pori",
+        "detail": "Nearby location where residents heard loud noise around 5am",
+        "quote": "Aamuyöllä kello viiden jälkeen Latokartanontie 18 pihassa olleet kaksi miestä olivat kuulleet pitkän ja voimakkaan äänen.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1688609#p1688609",
+        "precision": "address",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=41422#p41422",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1688609#p1688609",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=29343#p29343",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=40802#p40802"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=443"
   }
 ];
