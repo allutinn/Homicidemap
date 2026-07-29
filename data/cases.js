@@ -12381,5 +12381,718 @@ const CASES = [
       "https://murha.info/rikosfoorumi/viewtopic.php?p=179486#p179486"
     ],
     "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=788"
+  },
+  {
+    "id": 109,
+    "topic_id": "812",
+    "title": "Satu Hannele Sallisen surma, Helsinki 19.5.1997",
+    "coords": [
+      60.1983598,
+      24.875853
+    ],
+    "coords_precision": "district",
+    "coords_credibility": "news",
+    "coords_label": "Munka boat club harbor (Munkan venekerhon satama), near Meilahti bridge, Munkkiniemi, Helsinki",
+    "coords_note": "downgraded",
+    "coords_resolved": "Munkkiniemi, Läntinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+    "date": "1997-05-19",
+    "date_note": "Yö 19.–20.5.1997; uhri katosi yövartiovuorostaan Munkan venekerholla, ruumis löytyi 19.6.1997.",
+    "status": "solved",
+    "outcome": "Helsinki District Court convicted Reijo Antero Niemelä of the murder of Satu Hannele Sallinen in October 1998 and sentenced him to 10.5 years in prison. In July 1999 the Helsinki Court of Appeal raised the sentence to 11.5 years, holding that he had killed his former fiancée himself, with premeditation and deliberation, rather than through a contract killing as he had claimed. A 50-year-old security officer (aluevastaava) originally suspected as his accomplice was acquitted. According to the thread evidence, Niemelä died in 2004 without ever confessing.",
+    "location": "Location where Satu Sallinen was working as night watchman when she was killed",
+    "municipality": "Helsinki",
+    "summary": {
+      "fi": {
+        "lead": "29-vuotias puistotyöntekijä Satu Hannele Sallinen katosi 19.5.1997 vastaisena yönä yövartiovuorostaan Munkan venekerhon satamasta Helsingissä. Hänet oli puukotettu kuoliaaksi 13 kertaa, ja jätesäkkiin pakattu ruumis löytyi kuukautta myöhemmin Kuhmoisista Katajajärvestä. Uhrin entinen kihlattu Reijo Antero Niemelä tuomittiin murhasta ensin 10,5 vuoden ja hovioikeudessa 11,5 vuoden vankeuteen.",
+        "detail": "Käräjä- ja hovioikeuden ratkaisuihin sekä uutisointiin nojaavien tietojen mukaan 29-vuotias puistotyöntekijä Satu Hannele Sallinen katosi 19.5.1997 vastaisena yönä. Hän oli yövartiossa Meilahden sillan lähellä sijaitsevassa Munkan venekerhon satamassa Munkkiniemessä, ja hänen vuoronsa oli klo 01.00–07.00. Uhria etsittiin muun muassa Munkkiniemen rannoilta; hänen isänsä osallistui etsintöihin. Syytteen mukaan Niemelä oli virittänyt Salliselle ansan vaihtamalla tämän kanssa aamuyön vartiovuoronsa venekerholla.\n\nSallinen oli tietojen mukaan todennäköisesti ollut syömässä viinirypäleitä, kun häntä oli isketty puukolla selkään kahdesti. Tämän jälkeen häntä puukotettiin etupuolelle 11 kertaa. Jätesäkkiin pakattu ruumis löydettiin 19.6.1997 Kuhmoisista Katajajärveen upotettuna. Ruumis oli heitetty veteen Tampereen valtatien varressa sijaitsevalta levähdysalueelta. Yksi tutkinnan näytöistä oli se, että ruumiskoira merkkasi Niemelän auton takakontin: siellä oli ollut vainaja tai ainakin hänen vaatteitaan.\n\nPoliisi tiedotti 1.7.1997 pidättäneensä 46-vuotiaan helsinkiläisen miehen epäiltynä Sallisen surmasta. Mies oli Reijo Antero Niemelä, uhrin entinen kihlattu, ammatiltaan sähköasentaja ja tuolloin työtön. Kihlaus oli purkautunut miehen mustasukkaisuuden vuoksi, minkä jälkeen mies oli luvannut tappaa Sallisen. Teon motiiviksi oikeus katsoi Niemelän katkeruuden pariskunnan toisen kihlauksen purkautumisesta kevättalvella 1997. Rikoskumppaniksi epäiltynä oli syytteessä myös 50-vuotias helsinkiläinen vahtimestari eli aluevastaava, jota syytettiin palkkatappajan roolista; häntä ei nimetä aineistossa nimeltä eikä häntä siksi nimetä tässäkään.\n\nLokakuussa 1998 Helsingin käräjäoikeus tuomitsi Niemelän murhasta 10,5 vuoden vankeuteen. Rikoskumppaniksi epäilty aluevastaava vapautettiin. Heinäkuussa 1999 Helsingin hovioikeus kovensi tuomion vuodella eli 11,5 vuodeksi vankeutta: hovioikeus ei uskonut ex-kihlatun puheita palkkamurhasta, vaan katsoi miehen itse surmanneen entisen naisystävänsä vakaasti harkiten ja suunnitelmallisesti. Aineiston mukaan Niemelä kuoli vuonna 2004 tunnustamatta koskaan tekoa.\n\nKaikki edellä kerrottu perustuu oikeuden ratkaisuihin ja uutisointiin sellaisena kuin ne on ketjussa esitetty; erillisiä pelkkään palstakeskusteluun nojaavia väitteitä ei tähän ole otettu mukaan."
+      },
+      "en": {
+        "lead": "Satu Hannele Sallinen, a 29-year-old park worker, vanished during the night of 19 May 1997 from her night-watch shift at the Munka boat club harbour in Helsinki. She had been stabbed 13 times; her body, packed in a rubbish bag, was found a month later sunk in Lake Katajajärvi in Kuhmoinen. Her ex-fiancé Reijo Antero Niemelä was convicted of murder and, on appeal, sentenced to 11.5 years.",
+        "detail": "According to court rulings and news reporting as relayed in the thread, 29-year-old park worker Satu Hannele Sallinen disappeared during the night before 19 May 1997. She was on night watch at the Munka boat club harbour near the Meilahti bridge in Munkkiniemi, on a shift running from 01.00 to 07.00. She was searched for along the Munkkiniemi shores, her father taking part. The prosecution held that Niemelä had set a trap for her by swapping his early-morning watch shift at the boat club with hers.\n\nSallinen had probably been eating grapes when she was struck twice in the back with a knife; she was then stabbed 11 times from the front. Her body, packed into a rubbish bag, was found on 19 June 1997 sunk in Lake Katajajärvi in Kuhmoinen, thrown into the water from a rest stop beside the Tampere highway. Among the investigative findings, a cadaver dog alerted on the boot of Niemelä's car, where the deceased or at least her clothing had been.\n\nOn 1 July 1997 police announced the arrest of a 46-year-old Helsinki man on suspicion of the killing. He was Reijo Antero Niemelä, the victim's ex-fiancé, an electrician by trade and unemployed at the time. The engagement had broken off because of his jealousy, after which he had promised to kill Sallinen. The court found the motive to be his bitterness over the collapse of the couple's second engagement in late winter 1997. A 50-year-old Helsinki caretaker or area supervisor was also charged as an alleged accomplice cast in the role of a hired killer; the evidence does not name him, and he is not named here.\n\nIn October 1998 Helsinki District Court convicted Niemelä of murder and sentenced him to 10.5 years. The alleged accomplice was acquitted. In July 1999 the Helsinki Court of Appeal raised the sentence by a year, to 11.5 years, rejecting his account of a contract killing and finding that he had killed his former girlfriend himself, with deliberation and planning. The evidence states that Niemelä died in 2004 and never confessed.\n\nEverything above rests on court rulings and news reporting as presented in the thread; no purely forum-level claims have been carried into this account."
+      }
+    },
+    "victims": [
+      {
+        "name": "Satu Hannele Sallinen",
+        "description": "29-year-old park worker (puistotyöntekijä), worked as night watchman at Munka boat club, stabbed to death with 13 wounds",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=672031#p672031",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1039882#p1039882"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Reijo Antero Niemelä",
+        "description": "46-47 year old man, electrical worker (sähköasentaja), unemployed, ex-fiancé of victim, convicted of the murder",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=672031#p672031",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1039882#p1039882"
+        ]
+      },
+      {
+        "name": "Unknown accomplice",
+        "description": "50-year-old Helsinki man, vahtimestari/aluevastaava (security officer/area manager), originally charged with murder and acting as hired killer, later acquitted",
+        "status": "acquitted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=672031#p672031"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Munka boat club harbor (Munkan venekerhon satama), near Meilahti bridge, Munkkiniemi, Helsinki",
+        "detail": "Location where Satu Sallinen was working as night watchman when she was killed",
+        "quote": "Sallinen oli yövartiossa Meilahden sillan lähellä sijaitsevassa Munkan venekerhon satamassa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=672031#p672031",
+        "precision": "street",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Lake Katajajärvi, Kuhmoinen",
+        "detail": "Body of victim found here on June 19, 1997, dumped in water with weights attached",
+        "quote": "19.6. samana vuonna Sallisen jätesäkkiin pakattu ruumis löydettiin Kuhmoisista Katajajärveen upotettuna",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=672031#p672031",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Rest stop on Tampere highway (Tampereen valtatie), Kuhmoinen",
+        "detail": "Location where body was thrown into water from the rest stop near Lake Katajajärvi",
+        "quote": "Ruumis oli heitetty veteen Tampereen valtatien varressa sijaitsevalta levähdysalueelta",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=672031#p672031",
+        "precision": "area",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Munkkiniemi shores (Munkkiniemen rannat), Helsinki",
+        "detail": "Area where Satu Sallinen's father and police searched for her body",
+        "quote": "kun hänen tytärtään oli etsitty Munkkiniemen rannoilta",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=672031#p672031",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Restaurant Ukko-Munkkia (Ravintola Ukko-Munkkia), Munkkiniemi, Helsinki",
+        "detail": "Restaurant where both suspects were before committing the murder",
+        "quote": "Syytetyt miehet olivat ennen murhaa Ravintola Ukko-Munkissa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=672031#p672031",
+        "precision": "street",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Helsinki Court of Appeal (Helsingin hovioikeus), Helsinki",
+        "detail": "Appeals court that reviewed the case and increased the sentence in July 1999",
+        "quote": "Lopputulos oli, että hovioikeus kovensi tuomion vuodella eli Niemelä annosteltiin vankeutta 11,5 vuotta",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=672031#p672031",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=672031#p672031",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1039882#p1039882"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=812"
+  },
+  {
+    "id": 110,
+    "topic_id": "819",
+    "title": "Satu Nikkasen surma, Hämeenlinna 26.7.1985",
+    "coords": [
+      60.9613234,
+      24.4596281
+    ],
+    "coords_precision": "district",
+    "coords_credibility": "forum_claim",
+    "coords_label": "Visämäentie (Koivukuja area), Hattelmala, Hämeenlinna",
+    "coords_note": "downgraded",
+    "coords_resolved": "Hattelmala, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 13430, Suomi / Finland",
+    "date": "1985-07-26",
+    "date_note": "26.7.1985, noin kello 13",
+    "status": "solved",
+    "outcome": "Esa Tuominen, born 1952, a carpenter and an outpatient at the Hattelmala psychiatric hospital, was arrested on 20 September 1985 and confessed on 2 October 1985. The district court sentenced him to life imprisonment for the murder of 11-year-old Satu Nikkanen in June 1986, and the Turku Court of Appeal upheld the life sentence in November 1986. The Supreme Court first refused leave to appeal, making the sentence final, but later overturned the life sentence on the basis of a new mental examination finding reduced criminal responsibility, and sentenced Tuominen to 11 years' imprisonment for murder committed with diminished responsibility.",
+    "location": "Location where Satu Nikkanen was stabbed to death. She came from Lehmustie and encountered the attacker at this street.",
+    "municipality": "Hämeenlinna",
+    "summary": {
+      "fi": {
+        "lead": "11-vuotias Satu Nikkanen surmattiin puukolla Hattelmalassa Hämeenlinnassa 26. heinäkuuta 1985 noin kello 13. Tyttö löydettiin vasta seitsemän tuntia teon jälkeen. Vuonna 1952 syntynyt puuseppä Esa Tuominen pidätettiin syyskuussa ja tunnusti lokakuussa 1985. Käräjäoikeus tuomitsi hänet elinkautiseen, mutta korkein oikeus alensi tuomion myöhemmin 11 vuodeksi alentuneen syyntakeisuuden perusteella.",
+        "detail": "Yksitoistavuotias koululainen Satu Nikkanen surmattiin puukolla Hattelmalassa Hämeenlinnassa 26. heinäkuuta 1985 noin kello 13. Hänen ruumiinsa löydettiin vasta seitsemän tuntia teon jälkeen. Nämä tiedot on ketjussa esitetty oikeuden ratkaisuihin ja uutislähteisiin nojaten.\n\nTarkemmasta tapahtumapaikasta ketju sisältää myös keskustelijoiden omaa tietoa, joka ei palaudu oikeuden asiakirjoihin tai uutisointiin. Foorumiväitteen mukaan Satu tuli Lehmustieltä Visämäentielle ja kohtasi tekijän heti linja-autopysäkin kohdalla, ja puukotukset tapahtuivat pysäkin takana rypsipellossa. Tämä paikannus on siis foorumitietoa, ei vahvistettua lähdetietoa. Sen sijaan lähdetiedoksi merkitty seikka on, että surmapaikan lähellä sijaitsi Hattelmalan psykiatrinen sairaala.\n\nEpäillyksi ja sittemmin tuomituksi osoittautui vuonna 1952 syntynyt puuseppä Esa Tuominen, joka oli tuon Hattelmalan psykiatrisen sairaalan avohoitopotilas. Hänet pidätettiin 20. syyskuuta 1985 ja hän tunnusti teon 2. lokakuuta 1985. Näyttönä esitettiin muun muassa laboratoriolöydös: Sadun ruumiista otetut kuidut vastasivat Tuomisen vaatteista otettuja kuituja. Lisäksi Tuominen tiesi surmasta yksityiskohtia, joita ei ollut julkistettu, muun muassa sen, mihin Satua oli puukotettu. Tuominen lähetettiin 20. marraskuuta mielentilatutkimukseen Mustasaaren sairaalaan, nykyiseen Vanhan Vaasan sairaalaan.\n\nKäräjäoikeus tuomitsi Tuomisen elinkautiseen vankeuteen kesäkuussa 1986. Turun hovioikeus vahvisti tuomion saman vuoden marraskuussa. Korkein oikeus ei aluksi myöntänyt valituslupaa, ja elinkautistuomio jäi voimaan lainvoimaisena. Myöhemmin korkein oikeus kuitenkin purki elinkautistuomion uuden mielentilatutkimuksen perusteella, jossa Tuomisen katsottiin olleen alentuneesti syyntakeinen. Uusi rangaistus oli 11 vuotta vankeutta murhasta alentuneesti syyntakeisena.\n\nKaikki edellä kuvatut henkilöt on nimetty niin kuin lähdeaineisto heidät nimeää. Ketjussa esiintynyttä keskustelijoiden spekulaatiota ei ole toistettu tässä."
+      },
+      "en": {
+        "lead": "Satu Nikkanen, an 11-year-old schoolgirl, was stabbed to death in Hattelmala, Hämeenlinna, on 26 July 1985 at around 1 PM. Her body was found seven hours later. Esa Tuominen, a carpenter born in 1952, was arrested that September and confessed in October 1985. He was sentenced to life imprisonment, but the Supreme Court later reduced the sentence to 11 years on grounds of diminished responsibility.",
+        "detail": "Satu Nikkanen, an 11-year-old schoolgirl, was stabbed to death with a knife in Hattelmala, Hämeenlinna, on 26 July 1985 at around 1 PM. Her body was found seven hours after the incident. These points are presented in the thread as resting on court rulings and news reporting.\n\nThe more precise location of the killing comes only from forum posters and is not attributed to court documents or news reports. According to that forum claim, Satu came from Lehmustie onto Visämäentie and met the attacker right at the bus stop, and the stabbings took place behind the bus stop in a field of rapeseed. This siting should therefore be read as forum talk rather than confirmed source material. What is presented as sourced fact is that the Hattelmala psychiatric hospital stood near the scene of the killing.\n\nThe person suspected and ultimately convicted was Esa Tuominen, born in 1952, a carpenter and an outpatient at that same Hattelmala psychiatric hospital. He was arrested on 20 September 1985 and confessed on 2 October 1985. The evidence against him included a laboratory finding that fibres taken from Satu's body matched fibres from Tuominen's clothing. He also knew details of the killing that had not been released to the public, among them where Satu had been stabbed. On 20 November he was sent for a mental examination at the Mustasaari hospital, now the Vanha Vaasa hospital.\n\nThe district court sentenced Tuominen to life imprisonment in June 1986. The Turku Court of Appeal upheld the sentence in November of the same year. The Supreme Court initially refused leave to appeal, and the life sentence became final. Later, however, the Supreme Court overturned the life sentence on the basis of a new mental examination which found Tuominen to have had reduced criminal responsibility. He was then sentenced to 11 years' imprisonment for murder committed with diminished responsibility.\n\nEveryone above is named only as the source material names them. Posters' speculation appearing in the thread has not been repeated here."
+      }
+    },
+    "victims": [
+      {
+        "name": "Satu Nikkanen",
+        "description": "11-year-old schoolgirl, stabbed to death",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=13090#p13090"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Esa Tuominen",
+        "description": "Born 1952, carpenter, outpatient at Hattelmala psychiatric hospital",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=13090#p13090"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Visämäentie (Koivukuja area), Hattelmala, Hämeenlinna",
+        "detail": "Location where Satu Nikkanen was stabbed to death. She came from Lehmustie and encountered the attacker at this street.",
+        "quote": "Satu ilmeisesti tuli Lehmustieltä Visämäentielle (Visamäentie ja Lehmustie muodostavat kohdatessaan ns. Y-risteyksen) ja kohtasi Tuomisen heti linja-autopysäkin kohdalla.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=626990#p626990",
+        "precision": "street",
+        "credibility": "forum_claim",
+        "used_for_marker": true
+      },
+      {
+        "label": "Bus stop area, Hattelmala",
+        "detail": "The crime scene was near a bus stop. The stabbings occurred next to a field of rapeseed behind the bus stop.",
+        "quote": "Puukotuksethan tapahtuivat linja-autopysäkin takana rypsipellossa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=626990#p626990",
+        "precision": "street",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Hattelmala psychiatric hospital, Hattelmala, Hämeenlinna",
+        "detail": "Esa Tuominen was an outpatient at this psychiatric hospital near the crime scene. Satu's mother worked there.",
+        "quote": "Tämä kyseinen henkilö oli vuonna 1952 syntynyt puuseppä Esa Tuominen, joka oli Sadun surmapaikan läheisen Hattelmalan psykiatrisen sairaalan avohoitopotilas.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=13090#p13090",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Mustasaari hospital (later Vanhan Vaasan hospital)",
+        "detail": "Where Esa Tuominen was sent for psychiatric examination on November 20",
+        "quote": "Tuominen passitettiin marraskuun 20. päivä mielentilatutkimukseen Mustasaaren sairaalaan (nyk. Vanhan Vaasan sairaala).",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=13090#p13090",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Turku",
+        "detail": "Location of the Court of Appeals that confirmed the sentence",
+        "quote": "Turun hovioikeus vahvisti tuomion saman vuoden marraskuussa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=13090#p13090",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=13090#p13090"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=819"
+  },
+  {
+    "id": 111,
+    "topic_id": "797",
+    "title": "Osmo Lindevallin surma, Kärsämäki 24.5.1996",
+    "coords": [
+      63.979723,
+      25.7588484
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "news",
+    "coords_label": "Karsämäki",
+    "coords_note": null,
+    "coords_resolved": "Kärsämäki, Nivala–Haapajärven seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+    "date": "1996-05-24",
+    "date_note": "Tapahtumapäivä 24.5.1996 käy ilmi ketjun aineistosta; rikos selvisi vasta seitsemän vuotta myöhemmin.",
+    "status": "solved",
+    "outcome": "Both Jukka Tapani Härmä (b. 1954) and his son Mika Tapani Härmä (b. 1977) were convicted of murder and sentenced to life imprisonment by Haapajärvi District Court. On appeal, Jukka Härmä's murder conviction and life sentence were upheld, while Mika Härmä's conviction was reduced from murder to manslaughter and his sentence to 9 years 6 months; with credit for time served he was released after roughly 2 years and 7.5 months. Charges against Jukka Härmä's wife were dropped and she was acquitted of involvement.",
+    "location": "Municipality where rest area killing occurred, 25 km from town toward Pulkkila",
+    "municipality": "Kärsämäki",
+    "summary": {
+      "fi": {
+        "lead": "Lahtelainen 35-vuotias myyntimies Osmo Lindevall ammuttiin ja hakattiin kuoliaaksi 24. toukokuuta 1996 Ristisenojan levähdysalueella nelostien varressa Kärsämäellä, kun raahelaiset isä ja poika Jukka ja Mika Härmä yrittivät kaapata hänen autonsa. Rikos jäi selvittämättä seitsemäksi vuodeksi. Jukka Härmä tuomittiin murhasta elinkautiseen, Mika Härmän tuomio lieveni hovioikeudessa tapoksi ja 9 vuodeksi 6 kuukaudeksi.",
+        "detail": "Osmo Jorma Antero Lindevall, 35-vuotias myyntimies Lahdesta, ajoi uudella Volkswagen Golfillaan nelostietä 24. toukokuuta 1996. Oikeus- ja lehtitietojen mukaan hänet oli valittu autokaappauksen kohteeksi sattumanvaraisesti. Auto pysäytettiin Ristisenojan levähdysalueelle, joka sijaitsee nelostien varressa noin 25 kilometriä Kärsämäeltä Pulkkilan suuntaan; ketjun aineiston mukaan pysäytyksen teki Jukka Härmä. Tekijät, isä ja poika, asuivat tapahtuma-aikaan Raahessa.\n\nTapahtumien kulku on aineistossa kuvattu oikeuden ja uutisten pohjalta. Mika Härmä ampui uhria katkaistulla haulikolla noin 5–6 metrin etäisyydeltä. Uhrin paettua hän ampui uudelleen aivan läheltä ja löi tämän jälkeen uhria useita kertoja päähän aseen perällä. Kuolinsyyksi todettiin kallonmurtuma ja aivovamma, jotka aiheutuivat aseen perällä lyömisestä. Itse autokaappaus epäonnistui: auton avaimet katosivat kamppailun aikana eikä lukittua autoa saatu käyttöön.\n\nMurha-aseena käytetty katkaistu haulikko oli oikeus- ja lehtitietojen mukaan anastettu edellisenä syksynä 1995 Limingasta. Loput samassa yhteydessä anastetuista aseista löytyivät myöhemmin Oulujoesta, jonne ne oli heitetty hävittämistarkoituksessa.\n\nRikos jäi pitkäksi aikaa selvittämättä. Ketjussa esitetyn, pelkästään foorumikirjoitukseen perustuvan tiedon mukaan tapaus ratkesi vasta seitsemän vuoden kuluttua vuonna 2003, kun aseen välittänyt henkilö kertoi isä Jukka Härmän tilanneen sen. Tätä yksityiskohtaa ei aineistossa ole vahvistettu oikeuden tai uutislähteen tiedoksi.\n\nHaapajärven käräjäoikeus tuomitsi sekä Jukka Tapani Härmän (s. 1954), raahelaisen yrittäjän, että hänen poikansa Mika Tapani Härmän (s. 1977) murhasta elinkautiseen vankeuteen. Hovioikeus piti Jukka Härmän elinkautisen voimassa, mutta lievensi Mika Härmän syyksilukemisen murhasta tapoksi ja rangaistuksen 9 vuodeksi 6 kuukaudeksi. Mika Härmä oli teon aikaan 18-vuotias ja vapautui tutkintavankeusajan vähennyksen jälkeen suoritettuaan noin 2 vuotta 7,5 kuukautta. Jukka Härmän vaimoa vastaan nostetuista syytteistä luovuttiin ja hänet vapautettiin osallisuudesta.\n\nKetjussa esitetään lisäksi foorumikirjoittajan tietona, että uhri on haudattu Lahden Mustankallion hautausmaalle. Kartan merkintä on sijoitettu itse surmapaikalle, Ristisenojan levähdysalueelle."
+      },
+      "en": {
+        "lead": "Osmo Lindevall, a 35-year-old salesman from Lahti, was shot and beaten to death on 24 May 1996 at the Ristisenoja rest area on State Road 4 in Kärsämäki, when a father and son from Raahe, Jukka and Mika Härmä, tried to hijack his car. The case went unsolved for seven years. Jukka Härmä received a life sentence for murder; on appeal Mika Härmä's conviction was reduced to manslaughter and 9 years 6 months.",
+        "detail": "Osmo Jorma Antero Lindevall, a 35-year-old salesman from Lahti, was driving his new Volkswagen Golf along State Road 4 on 24 May 1996. According to court and news accounts in the thread, he had been picked at random as the target of a carjacking. The car was stopped at the Ristisenoja rest area, roughly 25 kilometres from Kärsämäki town in the direction of Pulkkila; the material states that Jukka Härmä stopped the car. The two perpetrators, father and son, were living in Raahe at the time.\n\nThe course of events is described in the material on the basis of court and news reporting. Mika Härmä shot the victim with a sawed-off shotgun from about 5 to 6 metres. After the victim fled, he fired again at close range and then struck the victim on the head several times with the butt of the gun. The cause of death was a skull fracture and brain damage caused by that beating. The carjacking itself failed: the car keys were lost during the struggle and the vehicle remained locked.\n\nCourt and news accounts state that the sawed-off shotgun had been stolen from Liminka in the autumn of 1995. The rest of the firearms taken in the same theft were later recovered from the Oulu River, where they had been thrown to dispose of them.\n\nThe crime remained unsolved for a long time. According to a claim made by a forum poster only — not confirmed in the material by any court or news source — the case broke seven years later, in 2003, when the intermediary who had supplied the weapon revealed that the father, Jukka Härmä, had ordered it.\n\nHaapajärvi District Court convicted both Jukka Tapani Härmä (b. 1954), an entrepreneur from Raahe, and his son Mika Tapani Härmä (b. 1977) of murder and sentenced both to life imprisonment. On appeal Jukka Härmä's life sentence was upheld, while Mika Härmä's conviction was reduced from murder to manslaughter and his sentence to 9 years 6 months. Mika Härmä was 18 at the time of the crime and, after credit for time served, was released having served about 2 years and 7.5 months. Charges against Jukka Härmä's wife were dropped and she was acquitted of involvement.\n\nA forum poster further claims that the victim is buried at Mustankallio Cemetery in Lahti. The map marker is placed at the killing site itself, the Ristisenoja rest area."
+      }
+    },
+    "victims": [
+      {
+        "name": "Osmo Jorma Antero Lindevall",
+        "description": "35-year-old salesman from Lahti, driving new VW Golf",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=562418#p562418"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Jukka Tapani Härma",
+        "description": "Father, born 1954, entrepreneur from Raahe. Planned carjacking/murder and provided stolen weapon. Convicted of murder.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=22303#p22303",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=562418#p562418"
+        ]
+      },
+      {
+        "name": "Mika Tapani Härma",
+        "description": "Son, born 1977, age 18 at time of crime. Directly executed shooting and beating. Convicted of manslaughter on appeal.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=22303#p22303",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=562418#p562418"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Ristisenojan levähdysalue, State Road 4, Karsämäki",
+        "detail": "Rest area where the victim was shot and beaten to death during carjacking attempt",
+        "quote": "Jukka Härmän pysäytettyä auton Ristisenojan levähdysalueelle nelostien varteen",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=562418#p562418",
+        "precision": "street",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Karsämäki",
+        "detail": "Municipality where rest area killing occurred, 25 km from town toward Pulkkila",
+        "quote": "nelostiellä 25 kilometriä Kärsämäeltä Pulkkilan suuntaan sijaitsevalla Ristisenojan levikkeellä",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=572010#p572010",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Raahe",
+        "detail": "Residence of perpetrators Jukka and Mika Härma at time of crime",
+        "quote": "Härmat asuivat tapahtuma-aikaan Raahessa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=562418#p562418",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Lahti, Mustankallio Cemetery",
+        "detail": "Victim residence and burial location",
+        "quote": "Uhri on haudattu Lahden Mustankallion hautausmaalle",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=725673#p725673",
+        "precision": "address",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Liminga",
+        "detail": "Location where murder weapon (sawed-off shotgun) was stolen in autumn 1995",
+        "quote": "ase oli anastettu edellisenä syksynä Limingasta",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=572010#p572010",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Oulujoki area",
+        "detail": "Where stolen firearms including murder weapon were disposed in stream",
+        "quote": "loput anastetuista aseista löytyivät Oulujoesta, jonne ne oli heitetty hävittämistarkoituksessa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=572010#p572010",
+        "precision": "area",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=562418#p562418",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=12438#p12438",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=571977#p571977",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=572010#p572010"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=797"
+  },
+  {
+    "id": 112,
+    "topic_id": "828",
+    "title": "Vastasyntyneen surma ja äidin kuolema, Pietarsaari 26.3.2006",
+    "coords": [
+      63.6744703,
+      22.7055385
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "fallback",
+    "coords_label": null,
+    "coords_note": "fallback",
+    "coords_resolved": null,
+    "date": "2006-03-26",
+    "date_note": "Vastasyntynyt surmattiin ja äiti kuoli 26.3.2006 pietarsaarelaisessa kerrostaloasunnossa kotisynnytyksen yhteydessä.",
+    "status": "solved",
+    "outcome": "A 38-year-old part-time music instructor from Vaasa was charged with murder and aggravated negligent manslaughter. Mustasaari District Court, sitting in Pietarsaari, acquitted him of all charges on 3 July 2009. On 31 March 2010 the Vaasa Court of Appeal (Vaasan hovioikeus) convicted him of aggravated negligent manslaughter (törkeä kuolemantuottamus), finding that he had delayed summoning help and that the woman died as a result. He was sentenced to 1 year 6 months conditional imprisonment and 80 hours of community service. The Supreme Court did not grant leave to appeal in 2010, making the conviction final. The evidence does not record anyone being convicted of killing the newborn.",
+    "location": "Newborn baby was killed in the bathroom, body placed in trash can; mother died from bleeding after giving birth at home.",
+    "municipality": "Pietarsaari",
+    "summary": {
+      "fi": {
+        "lead": "Pietarsaarelaisessa kerrostaloasunnossa synnytti 26.3.2006 kotonaan 36-vuotias musiikkiopiston vt. rehtori. Vastasyntynyt poikavauva surmattiin pian syntymän jälkeen ja käärittiin lakanaan kylpyhuoneen roskakoriin. Äiti kuoli muutamaa tuntia myöhemmin verenvuotoon. Paikalla ollut 38-vuotias vaasalainen musiikinopettaja vapautettiin käräjillä, mutta hovioikeus tuomitsi hänet vuonna 2010 törkeästä kuolemantuottamuksesta ehdolliseen vankeuteen.",
+        "detail": "Uutis- ja oikeuslähteiden mukaan 36-vuotias nainen, joka toimi Pietarsaaren musiikkiopiston vt. rehtorina, synnytti 26.3.2006 kotonaan kerrostaloasunnossa täysiaikaisen poikalapsen. Nainen oli salannut raskautensa kaikilta – niin työnantajaltaan kuin omaisiltaan – eikä ollut käynyt lainkaan äitiysneuvolassa.\n\nVastasyntynyt surmattiin pian syntymän jälkeen. Lapsen ruumis löytyi lakanaan käärittynä kylpyhuoneen roskakorista, ja tutkijoiden mukaan ruumis oli pantu myös muovipusseihin. Vauva kuoli kallonmurtumiin ja aivovammoihin. Poliisi epäili jo tutkinnan alkuvaiheessa, että vauva surmattiin juuri tuossa pietarsaarelaisessa kerrostaloasunnossa.\n\nÄiti kuoli muutama tunti synnytyksen jälkeen verenvuotoon matkalla sairaalaan. Ruumiinavauksessa selvisi, että istukka oli jäänyt kohtuun.\n\nAsunnossa oli synnytyksen aikana läsnä 38-vuotias vaasalainen mies, joka työskenteli samassa musiikkiopistossa sivutoimisena opettajana. Uutistietojen mukaan hänellä ja naisella oli salasuhde, joka oli alkanut vuonna 2005 Norjan-matkalla; naisella oli toinen poikaystävä ja mies oli naimisissa, eivätkä työtoverit tienneet suhteesta. Mies kertoi, ettei ollut tiennyt raskaudesta, sillä nainen oli kertonut hänelle tehneensä abortin tammikuussa 2006. Mies soitti ambulanssin naisen alettua vuotaa verta, mutta häntä syytettiin avun viivyttämisestä.\n\nMiestä vastaan nostettiin syytteet murhasta ja törkeästä kuolemantuottamuksesta. Mustasaaren käräjäoikeus, joka käsitteli asian Pietarsaaressa, vapautti hänet kaikista syytteistä 3.7.2009 katsoen, ettei näyttöä hänen osallisuudestaan vauvan surmaan ollut. Vaasan hovioikeus tuomitsi hänet 31.3.2010 törkeästä kuolemantuottamuksesta 1 vuoden 6 kuukauden ehdolliseen vankeuteen ja 80 tunnin yhdyskuntapalveluun; hovioikeus katsoi hänen viivytelleen avun hälyttämisessä ja naisen kuolleen sen seurauksena. Korkein oikeus ei myöntänyt valituslupaa, joten tuomio jäi lainvoimaiseksi.\n\nKaikki edellä kerrottu perustuu ketjussa siteerattuihin uutis- ja oikeuslähteisiin, ei keskustelijoiden omiin väitteisiin. Ketju ei nimeä asianosaisia, eikä tässä toisteta palstalaisten arvailuja henkilöllisyyksistä. Tapahtuma-asunnon tarkkaa osoitetta ei aineistossa kerrota, joten kartan merkintä osoittaa vain Pietarsaaren eikä varsinaista tekopaikkaa."
+      },
+      "en": {
+        "lead": "On 26 March 2006 a 36-year-old woman, acting principal of the Pietarsaari music school, gave birth at home in an apartment building. The newborn boy was killed shortly after birth and left wrapped in a sheet in a bathroom trash can; the mother died hours later from blood loss. A 38-year-old music teacher present at the birth was acquitted at first instance but convicted of aggravated negligent manslaughter on appeal in 2010.",
+        "detail": "According to news and court material cited in the thread, a 36-year-old woman who worked as acting principal of the Pietarsaari music school gave birth to a full-term baby boy at home in an apartment building on 26 March 2006. She had hidden the pregnancy from everyone, including her employer and her family, and had attended no prenatal care appointments.\n\nThe newborn was killed shortly after birth. The body was found wrapped in a sheet and placed in a trash can in the bathroom, and investigators reported the child had also been placed in plastic bags. The baby died of skull fractures and brain injuries. Police suspected from early in the investigation that the killing took place in that Pietarsaari apartment.\n\nThe mother died a few hours after the birth from blood loss, on the way to hospital. An autopsy found that the placenta had remained in the uterus.\n\nA 38-year-old man from Vaasa, a part-time instructor at the same music school, was present in the apartment during the birth. News reports state that he and the woman had a secret relationship that began during a trip to Norway in 2005; the woman had another boyfriend and the man was married, and coworkers did not know about the relationship. The man said he had not known about the pregnancy, because the woman had told him she had an abortion in January 2006. He called an ambulance when she began bleeding, but was accused of delaying assistance.\n\nHe was charged with murder and with aggravated negligent manslaughter. Mustasaari District Court, hearing the case in Pietarsaari, acquitted him of all charges on 3 July 2009, finding no evidence that he had taken part in killing the baby. On 31 March 2010 the Vaasa Court of Appeal convicted him of aggravated negligent manslaughter and sentenced him to 1 year 6 months conditional imprisonment plus 80 hours of community service, holding that he had delayed calling for help and that the woman died as a result. The Supreme Court refused leave to appeal, making the conviction final.\n\nEverything above rests on news and court sources quoted in the thread rather than on posters' own claims. The thread does not name those involved, and posters' speculation about identities is not repeated here. No street address is given for the apartment, so the map marker points only to Pietarsaari and not to the exact site of the killing."
+      }
+    },
+    "victims": [
+      {
+        "name": "36-year-old music school principal (woman)",
+        "description": "Female principal of Pietarsaari music school who gave birth at home and died from blood loss.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=126504#p126504"
+        ]
+      },
+      {
+        "name": "Newborn boy (just born)",
+        "description": "Newborn male child killed shortly after birth, body found wrapped in sheet and placed in trash can in bathroom.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=126504#p126504"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "38-year-old Vaasa-based music teacher",
+        "description": "Part-time music instructor at the school, was present during the birth. He had a secret relationship with the mother. Initially charged with murder and aggravated negligent manslaughter.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=126504#p126504",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=303308#p303308"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Pietarsaari apartment building (killing site)",
+        "detail": "Newborn baby was killed in the bathroom, body placed in trash can; mother died from bleeding after giving birth at home.",
+        "quote": "Poliisi on epäillyt, että vastasyntynyt vauva surmattiin pietarsaarelaisessa kerrostaloasunnossa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=126503#p126503",
+        "precision": "street",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Mustasaaren käräjäoikeus, Pietarsaari",
+        "detail": "District court that first heard the case and acquitted the suspect in July 2009.",
+        "quote": "Mahdollisia syytteitä tullaan käsittelemään Mustasaaren käräjäoikeudessa Pietarsaaressa aikaisintaan loppusyksystä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=126504#p126504",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Vaasa, Appeals Court (Hovioikeus)",
+        "detail": "Appeals court that reviewed the case and convicted the man of aggravated negligent manslaughter in March 2010.",
+        "quote": "Pietarsaaressa kolme vuotta sitten tapahtuneen vauvasurman oikeudenkäynti on alkanut Mustasaaren käräjäoikeudessa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=237468#p237468",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=126504#p126504",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=247010#p247010",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=246963#p246963",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=303308#p303308",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=315414#p315414",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=229914#p229914"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=828"
+  },
+  {
+    "id": 113,
+    "topic_id": "831",
+    "title": "Marjatta ja Matti Kärjen surmat, Kankaanpää 19.8.1995",
+    "coords": [
+      61.8041608,
+      22.3937178
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "fallback",
+    "coords_label": null,
+    "coords_note": "fallback",
+    "coords_resolved": null,
+    "date": "1995-08-19",
+    "date_note": "Teon päivämäärä 19.8.1995 perustuu ketjussa siteerattuihin viranomais- ja lehtitietoihin; ruumiit löydettiin vasta 24.8.1995.",
+    "status": "solved",
+    "outcome": "The killer was identified as photographic artist Pekka Kalevi Kalliomäki, 46, who was stopped by two patrol cars on the evening of 3 September 1995 on the Runon ja rajan tie road, 18 kilometres east of Lieksa, with two pistols (calibres 7.65 and 6.35), a small-bore rifle and some 300 cartridges in his car. He confessed to the killings. Against his own objection he was sent for a psychiatric examination, which found him not criminally responsible (syyntakeeton). At Ikaalinen District Court, prosecutor Mika Letonen demanded punishment for the murder (murha) of Matti Kärki and the manslaughter (tappo) of Marjatta Kärki. The evidence gathered from the thread does not record the court's final ruling, its date, or any sentence, so nothing beyond the finding of non-responsibility is asserted here. A later forum post claims, without any court or news source, that Kankaanpää parish death listings included Pekka Kalevi Kalliomäki, aged 73.",
+    "location": "Omakotitalo jossa pariskunta Marjatta ja Matti Kärki ampui kuoliaaksi",
+    "municipality": "Kankaanpää",
+    "summary": {
+      "fi": {
+        "lead": "Kankaanpään Jäminintiellä ammuttiin 19. elokuuta 1995 kotonaan yrittäjä-taiteilijapariskunta Matti ja Marjatta Kärki. Ruumiit löytyivät vasta viisi päivää myöhemmin. Tekijäksi paljastui pariskunnan hyvin tuntenut valokuvataiteilija Pekka Kalevi Kalliomäki, 46, joka otettiin kiinni Lieksan lähellä 3. syyskuuta, myönsi surmat ja todettiin mielentilatutkimuksessa syyntakeettomaksi.",
+        "detail": "Oikeus- ja lehtitietojen mukaan surmat tapahtuivat 19. elokuuta 1995 Kankaanpäässä Jäminintiellä sijainneessa talossa. Valokuvataiteilija Pekka Kalevi Kalliomäki, 46, ampui hyvin tuntemansa yrittäjä-taiteilijapariskunnan Marjatta ja Matti Kärjen. Pariskunta piti valokuvausliikettä Kankaanpään keskustassa.\n\nMatti Kärjen otsalla todettiin kosketuslaukauksesta syntynyt ampumahaava ja pään sivulla toinen ampumahaava. Oikeassa kyljessä oli luodinreikä ja selkäpuolella saman luodin ulostuloaukko. Marjatta Kärjen ruumis löytyi olohuoneen viereisestä makuuhuoneesta sängyltä; hänet oli surmannut kosketuslaukauksena vasemman korvan tienoille ammuttu laukaus. Ruumiit löysi kaksi Kankaanpään taidekoulun oppilasta vasta 24. elokuuta.\n\nSamojen viranomais- ja lehtitietojen mukaan Matti Kärki oli pari päivää ennen surmatöitä tehnyt rikosilmoituksen tavaroista, joiden arvoksi hän itse arvioi noin 60 000 markkaa. Aineisto ei kerro, mikä yhteys ilmoituksella oli tekoihin, eikä siitä esitetä tässä johtopäätöksiä.\n\nEpäillyn punainen Talbot Horizon -auto löytyi Viitasaarelta syyskuun alkupuolella. Kaksi partioautoa tavoitti Kalliomäen illalla 3. syyskuuta Runon ja rajan tieltä 18 kilometriä Lieksasta itään. Autossa hänellä oli kaksi pistoolia (kaliiberit 7,65 ja 6,35), pienoiskivääri sekä noin 300 panosta. Kalliomäki myönsi surmatyöt. Hänet passitettiin vastustuksestaan huolimatta mielentilatutkimukseen, joka totesi hänet syyntakeettomaksi. Ikaalisten käräjäoikeudessa syyttäjä Mika Letonen vaati Kalliomäelle rangaistusta Matti Kärjen murhasta ja Marjatta Kärjen taposta. Kerätty aineisto ei kerro käräjäoikeuden lopullista ratkaisua eikä sen antopäivää.\n\nKeväällä 1996 Kärkien poika ryhtyi kevättöihin vanhemmiltaan perimänsä talon pihassa Kankaanpäässä ja löysi ketjun ja kellon talon terassilta puutarhatuolien istuintyynykasan alta.\n\nMyöhemmin ketjuun on kirjoitettu pelkkänä keskustelupalstan väitteenä – ilman oikeus- tai lehtilähdettä – että Kankaanpään seurakuntatiedoissa olisi ollut kuolleiden listalla 73-vuotias Pekka Kalevi Kalliomäki. Tätä ei ole tässä vahvistettu."
+      },
+      "en": {
+        "lead": "On 19 August 1995, at a house on Jäminintie in Kankaanpää, the entrepreneur-artist couple Matti and Marjatta Kärki were shot dead in their home. Their bodies were not found until five days later. The killer was photographic artist Pekka Kalevi Kalliomäki, 46, who knew the couple well; he was caught near Lieksa on 3 September, confessed, and was found not criminally responsible.",
+        "detail": "According to court and news information cited in the thread, the killings took place on 19 August 1995 at a house on Jäminintie in Kankaanpää. Photographic artist Pekka Kalevi Kalliomäki, 46, shot the entrepreneur-artist couple Marjatta and Matti Kärki, whom he knew well. The couple ran a photography shop in the centre of Kankaanpää.\n\nMatti Kärki had a contact-shot wound on his forehead and another gunshot wound on the side of his head. There was a bullet hole in his right side and the exit wound of the same bullet in his back. Marjatta Kärki's body was found on a bed in the bedroom next to the living room; she had been killed by a contact shot fired near her left ear. The bodies were found only on 24 August, by two students of the Kankaanpää art school.\n\nThe same official and press sources record that a couple of days before the killings Matti Kärki had filed a crime report about property he himself valued at roughly 60,000 markka. The evidence does not state what connection, if any, that report had to the killings, and none is drawn here.\n\nThe suspect's red Talbot Horizon car was found in Viitasaari in early September. On the evening of 3 September two patrol cars stopped Kalliomäki on the Runon ja rajan tie road, 18 kilometres east of Lieksa. In the car he had two pistols (calibres 7.65 and 6.35), a small-bore rifle and about 300 cartridges. Kalliomäki confessed to the killings. Despite his objection he was sent for a psychiatric examination, which found him not criminally responsible (syyntakeeton). At Ikaalinen District Court, prosecutor Mika Letonen demanded punishment for the murder of Matti Kärki and the manslaughter of Marjatta Kärki. The gathered evidence does not record the court's final ruling or the date it was issued.\n\nIn the spring of 1996 the Kärkis' son began spring work in the yard of the house he had inherited from his parents in Kankaanpää and found a chain and a watch on the terrace, under a stack of garden-chair cushions.\n\nA later post in the thread claims — purely as forum talk, with no court or news source — that Kankaanpää parish death listings included Pekka Kalevi Kalliomäki, aged 73. That claim is unverified here."
+      }
+    },
+    "victims": [
+      {
+        "name": "Matti Kärki",
+        "description": "Yrittäjä-taiteilija, 1995 ammuttu kuoliaaksi omakotitalonsa olohuoneessa",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=188978#p188978"
+        ]
+      },
+      {
+        "name": "Marjatta Kärki",
+        "description": "Yrittäjä-taiteilija, 1995 ammuttu kuoliaaksi sängyissa makuuhuoneessa",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=188978#p188978"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Pekka Kalevi Kalliomäki",
+        "description": "46-vuotias valokuvataiteilija ja taiteilijanimi Jan Susi, joka ampui kuoliaaksi pariskunnan Marjatta ja Matti Kärki. Hänet otettiin kiinni 3. syyskuuta Lieksassa ja hän myönsi surmatyöt. Hän todettiin syyntakeettomaksi ja lähetettiin mielisairaalaan.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=188978#p188978",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=78308#p78308"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Jäminintie, Kankaanpää",
+        "detail": "Omakotitalo jossa pariskunta Marjatta ja Matti Kärki ampui kuoliaaksi",
+        "quote": "Tapahtui 19. elokuuta 1995 Kankaanpäässä Jämintiellä",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=188978#p188978",
+        "precision": "street",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Runon ja rajan tie, 18 km itään Lieksasta",
+        "detail": "Paikka jossa Pekka Kalliomäki otettiin kiinni poliisilla",
+        "quote": "Kaksi partioautoa tavoitti Pekka Kalliomäen illalla 3. syyskuuta Runon ja rajan tieltä 18 kilometriä Lieksasta itään",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=188978#p188978",
+        "precision": "street",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kankaanpään keskusta",
+        "detail": "Paikka jossa uhrien valokuvausliike sijaitsi",
+        "quote": "Tapettu pariskunta piti valokuvausliikettä Kankaanpään keskustassa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=80598#p80598",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Viitasaari",
+        "detail": "Paikka jossa epäillyn punainen Talbot Horizon -auto löytyi",
+        "quote": "Tämä edellä mainittu auto löytyi Viitasaaresta syyskuun alkupuolella",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=188978#p188978",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Ikaalisten käräjäoikeus",
+        "detail": "Oikeus jossa Kalliomäkeä vastaan nostettiin syyte",
+        "quote": "Ikaalisten käräjäoikeudessa syyttäjä Mika Letonen vaati Pekka Kalliomäelle rangaistusta Matti Kärjen murhasta ja Marjatta Kärjen taposta",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=188978#p188978",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=188978#p188978",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=80598#p80598",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1354981#p1354981"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=831"
+  },
+  {
+    "id": 114,
+    "topic_id": "834",
+    "title": "Andrew Kulangan surma, Rovaniemi 20.8.1989",
+    "coords": [
+      66.5025537,
+      25.7303912
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "fallback",
+    "coords_label": null,
+    "coords_note": "fallback",
+    "coords_resolved": null,
+    "date": "1989-08-20",
+    "date_note": "20.8.1989 on päivä, jona uhri katosi kotoaan; ruumis löytyi toukokuussa 1990 kotitalon kukkapenkistä.",
+    "status": "solved",
+    "outcome": "Rovaniemi District Court (Rovaniemen kihlakunnanoikeus) convicted the victim's wife, Ritva Santanen-Kulanga (also known as Riitta Hietanen), of manslaughter (tappo) and sentenced her to 9 years' imprisonment. The Rovaniemi Court of Appeal (Rovaniemen hovioikeus) heard the case in November 1991 and upheld the conviction. The evidence gives no date for the district court judgment.",
+    "location": "Rovaniemi",
+    "municipality": "Rovaniemi",
+    "summary": {
+      "fi": {
+        "lead": "Lapin keskussairaalan patologian erikoislääkäri Andrew Kulanga, 49, katosi kotoaan Rovaniemeltä 20.8.1989. Vaimo kertoi miehen matkustaneen Sri Lankaan ja kuolleen siellä. Toukokuussa 1990 Kulangan ruumis löytyi perheen kotitalon kukkapenkkiin haudattuna. Rovaniemen kihlakunnanoikeus tuomitsi vaimon Ritva Santanen-Kulangan taposta yhdeksäksi vuodeksi vankeuteen, ja hovioikeus piti tuomion voimassa marraskuussa 1991.",
+        "detail": "Andrew Kulanga oli Sri Lankassa syntynyt lääkäri, joka toimi Lapin keskussairaalan patologian osaston erikoislääkärinä. Hän oli ehtinyt asua Suomessa parikymmentä vuotta ja saanut Suomen kansalaisuuden noin seitsemän vuotta ennen kuolemaansa. Ketjun mukaan hän oli opiskellut Turun yliopistossa, ja hänen kaksospoikansa asuivat Turussa äitinsä luona. Kulanga katosi kotoaan Rovaniemeltä 20. elokuuta 1989.\n\nKeskustelupalstan kertoman mukaan vaimo Ritva Santanen-Kulanga selitti tuttaville ja sukulaisille miehen lähteneen Sri Lankaan poliittisiin tehtäviin. Syyskuussa Lapin Kansassa julkaistiin uutinen, jonka mukaan Kulanga oli kuollut Sri Lankassa väkivaltaisissa oloissa; tämä tieto on ketjussa merkitty lehtitietoon perustuvaksi. Palstalla kerrotaan lisäksi — ilman oikeus- tai lehtilähdettä — että vaimo matkusti alkusyksystä Sri Lankaan hakemaan miestään, majoittui hotelliin Colombossa ja sai siellä puhelun tuntemattomalta mieheltä, joka ilmoitti Andrew'n asettuneen väärälle puolelle ja kuolleen.\n\nPoliisitutkinnassa ei löytynyt mitään näyttöä siitä, että Kulanga olisi koskaan poistunut Suomesta: matkustustietoja, passileimoja tai lentovarauksia ei ollut. Juttu siirtyi Rovaniemen poliisilta keskusrikospoliisille loppuvuodesta 1989 tapaukseen liittyneiden kansainvälisten piirteiden vuoksi. Kun vaimolle esitettiin tutkinnan tulokset, hän vaihtoi kertomustaan ja väitti miehen tehneen itsemurhan ampumalla ja hänen itsensä haudanneen tämän kodin kukkapenkkiin miehen oman toiveen mukaisesti. Ruumis löytyi toukokuussa 1990 kukkapenkistä, vain noin kymmenen senttimetrin syvyyteen jätesäkkiin haudattuna. Ketjussa kotitalon osoitteeksi kerrotaan Hirvaskatu 20, mutta tämä täsmennys perustuu palstakirjoittajan tietoon eikä oikeuden tai lehden lähteeseen.\n\nOikeuslääketieteellinen tutkimus osoitti luodin tulleen suoraan ylhäältä, joten itse ammuttu laukaus löytyneessä kulmassa oli fyysisesti mahdoton. Surmassa käytetty parabellum-pistooli jäljitettiin Ritvalle, joka oli lainannut sen edesmenneen isänsä jäämistöstä, ja ballistinen tutkimus vahvisti luodin ammutun juuri tästä aseesta. Todistajat kertoivat Kulangan hankkineen vastikään uuden auton ja ajokortin, suunnitelleen matkaa lääketieteelliseen kongressiin Portugaliin ja järjestelleen poikiensa koulunkäyntiä — kaikki huonosti yhteen sopivaa itsemurha-aikeen kanssa. Palstalla esitetään lisäksi, että Kulangalla olisi ollut suhde toiseen naiseen ja että tämä olisi voinut vaikuttaa tapahtumiin, mutta tätä motiivitulkintaa ei ketjussa ole tuettu oikeus- tai lehtilähteellä.\n\nRovaniemen kihlakunnanoikeus tuomitsi Ritva Santanen-Kulangan (myös nimellä Riitta Hietanen) taposta — ei murhasta — yhdeksäksi vuodeksi vankeuteen. Rovaniemen hovioikeus käsitteli asian marraskuussa 1991 ja pysytti tuomion."
+      },
+      "en": {
+        "lead": "Andrew Kulanga, 49, a specialist in pathology at the Central Hospital of Lapland, vanished from his home in Rovaniemi on 20 August 1989. His wife said he had travelled to Sri Lanka and died there. In May 1990 his body was found buried in the flower bed of the family home. Rovaniemi District Court convicted his wife, Ritva Santanen-Kulanga, of manslaughter and sentenced her to nine years' imprisonment; the court of appeal upheld it in November 1991.",
+        "detail": "Andrew Kulanga was a Sri Lankan-born doctor working as a specialist in the pathology department of the Central Hospital of Lapland. He had lived in Finland for some twenty years and had become a Finnish citizen about seven years before his death. According to the thread he had studied at the University of Turku, and his twin sons lived in Turku with their mother. He disappeared from his home in Rovaniemi on 20 August 1989.\n\nPosters relate that his wife, Ritva Santanen-Kulanga, told friends and relatives that he had gone to Sri Lanka to take part in political activity. In September the newspaper Lapin Kansa carried a report that Kulanga had died in Sri Lanka in violent circumstances; that item is attributed in the thread to press reporting. The thread also states — as forum talk, without a court or news source — that the wife travelled to Sri Lanka in early September to fetch her husband, stayed at a hotel in Colombo and there received a call from an unknown man saying Andrew had gone over to the wrong side and had died.\n\nThe police investigation found no evidence that Kulanga had ever left Finland: there were no travel records, passport stamps or airline bookings. In late 1989 the case passed from the Rovaniemi police to the National Bureau of Investigation (Keskusrikospoliisi) because of its international elements. Confronted with the findings, the wife changed her account and claimed that Kulanga had shot himself and that she had buried him in the flower bed of their home at his own request. The body was found in May 1990 in that flower bed, in a rubbish bag only about ten centimetres deep. The thread gives the address as Hirvaskatu 20, but that street-level detail rests on a poster's claim rather than on a court or news source.\n\nForensic examination showed the bullet had entered from directly above, making a self-inflicted shot at that angle physically impossible. The Parabellum pistol used was traced to Ritva, who had borrowed it from her late father's estate, and ballistic testing confirmed the bullet had been fired from that weapon. Witnesses testified that Kulanga had recently bought a new car, obtained a driving licence, planned a trip to a medical conference in Portugal and been making arrangements for his sons' schooling — none of it consistent with suicidal intent. The thread further suggests he had been having an affair and that this may have bearing on the events, but that motive reading is offered as forum speculation, not as court or news material.\n\nRovaniemi District Court convicted Ritva Santanen-Kulanga (also known as Riitta Hietanen) of manslaughter (tappo) rather than murder and sentenced her to nine years' imprisonment. The Rovaniemi Court of Appeal heard the case in November 1991 and upheld the conviction."
+      }
+    },
+    "victims": [
+      {
+        "name": "Andrew Kulanga",
+        "description": "49-year-old Sri Lankan-born pathologist, specialist in pathology at Lapin Keskussairaala (Central Hospital of Lapland), had become Finnish citizen about 7 years before his death, had lived in Finland for 20 years",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=13389#p13389",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=324318#p324318"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Ritva Santanen-Kulanga",
+        "description": "Wife of victim, also known as Riitta Hietanen, worked as a nurse (sairaanhoitaja). She shot her husband with a Parabellum pistol she had borrowed from her father. Initially claimed he had gone to Sri Lanka and later changed story to claim he committed suicide.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=13389#p13389",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=324318#p324318",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=324320#p324320"
+        ]
+      }
+    ],
+    "locations": [],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=13389#p13389",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=324318#p324318",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=325073#p325073",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=324323#p324323",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=324320#p324320"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=834"
+  },
+  {
+    "id": 115,
+    "topic_id": "833",
+    "title": "41-vuotiaan naisen surma, Pori (Väinölä), heinäkuu 2007",
+    "coords": [
+      61.470177,
+      21.8593799
+    ],
+    "coords_precision": "district",
+    "coords_credibility": "news",
+    "coords_label": "Väinölä, Pori",
+    "coords_note": null,
+    "coords_resolved": "Väinölä, Pori, Porin seutukunta, Satakunta, Manner-Suomi, 28330, Suomi / Finland",
+    "date": "2007-07",
+    "date_note": "Heinäkuu 2007; ketjussa ei kerrota tarkkaa päivämäärää.",
+    "status": "solved",
+    "outcome": "Harri Kalevi Niemi (b. 1953) was convicted by Pori District Court (Porin käräjäoikeus) of killing a 41-year-old woman in her apartment in the Väinölä district of Pori in July 2007, and was sentenced to 10 years in prison. The verdict was reported by Satakunnan Kansa on 25 October 2007. The thread does not state which statutory offence (murha or tappo) the conviction was entered under.",
+    "location": "41-year-old woman killed with knife in her apartment; struck four times in upper body and shoulder area",
+    "municipality": "Pori",
+    "summary": {
+      "fi": {
+        "lead": "Porin Väinölässä surmattiin heinäkuussa 2007 41-vuotias nainen hänen omassa asunnossaan. Tekijä löi häntä veitsellä neljä kertaa ylävartalon ja olkavarren alueelle. Teon jälkeen 53-vuotias Harri Kalevi Niemi soitti hätäkeskukseen ja tunnusti surman heti poliisille. Porin käräjäoikeus tuomitsi hänet kymmeneksi vuodeksi vankeuteen, ja tuomiosta uutisoitiin 25. lokakuuta 2007.",
+        "detail": "Uhri oli 41-vuotias porilainen nainen, jonka nimeä ketjun aineistossa ei kerrota. Oikeus- ja lehtitietojen mukaan hänet surmattiin heinäkuussa 2007 veitsellä hänen omassa asunnossaan Porin Väinölässä. Tekijä löi häntä neljä kertaa ylävartalon ja olkavarren alueelle. Kartan merkki osoittaa Väinölän kaupunginosaan eli itse tekopaikalle, mutta tarkempaa osoitetta aineistossa ei ole. Tarkkaa surmapäivää ei myöskään mainita, ainoastaan kuukausi.\n\nUutistietojen mukaan surman taustalla oli sanaharkka ryyppyseurueen kesken. Teon jälkeen tekijä soitti itse hätäkeskukseen ja tunnusti surman heti poliisille. Kiinni otettiin 53-vuotias mies, joka oli Harri Kalevi Niemi, syntynyt 1953. Porin käräjäoikeus tuomitsi Niemen surmasta kymmeneksi vuodeksi vankeuteen; tuomiosta kertoi Satakunnan Kansa 25. lokakuuta 2007. Aineistossa ei täsmennetä, luettiinko teko murhaksi vai tapoksi.\n\nNiemellä oli aiempaa väkivaltarikostaustaa, ja myös nämä tiedot perustuvat aineistossa oikeus- ja lehtilähteisiin, eivät palstalaisten arveluihin. Joulukuussa 2000 hänet tuomittiin pahoinpitelystä: hän oli viiltänyt naista kaulaan rikkoutuneella olutpullolla, ja rangaistukseksi tuli vankeuden sijasta 138 tuntia yhdyskuntapalvelua. Huhtikuussa 2003 hän syyllistyi Porin Sampolassa henkirikokseen. Aluksi häntä syytettiin taposta, mutta tuomio tuli pahoinpitelystä ja kuolemantuottamuksesta, ja rangaistukseksi määrättiin neljä vuotta kuusi kuukautta vankeutta. Sampolan tapauksessa kuolema aiheutui pään vammoista: uhri sai kasvoihin lyöntejä, löi päänsä pöytään ja sai poikkeuksellisen harvinaisen kovakalvonalaisen verenvuodon. Nämä vuosien 2000 ja 2003 teot ovat erillisiä rikoksia, jotka kerrotaan tässä ainoastaan tekijän taustan vuoksi.\n\nAineiston mukaan Niemi oli päässyt ehdonalaiseen vapauteen vain muutamaa viikkoa ennen heinäkuun 2007 surmaa. Kaikki edellä esitetyt tiedot on ketjussa esitetty oikeuden ratkaisuihin tai uutisointiin nojaten; keskustelijoiden omia arveluja tapahtumien kulusta tai osallisten henkilöllisyyksistä ei tässä toisteta."
+      },
+      "en": {
+        "lead": "In July 2007 a 41-year-old woman was killed in her own apartment in the Väinölä district of Pori. She was struck four times with a knife in the upper body and shoulder area. Afterwards 53-year-old Harri Kalevi Niemi called the emergency centre and immediately confessed to police. Pori District Court sentenced him to 10 years in prison; the verdict was reported on 25 October 2007.",
+        "detail": "The victim was a 41-year-old woman from Pori whose name is not given in the material from this thread. According to court and news reporting, she was killed with a knife in July 2007 in her own apartment in the Väinölä district of Pori, struck four times in the upper body and shoulder area. The map marker points to the Väinölä district, which is the site of the killing itself, but no more precise address is given. The exact date is likewise missing; only the month is reported.\n\nNews reporting gives the background as a quarrel among members of a drinking group. After the killing the perpetrator himself called the emergency centre and immediately confessed to police. A 53-year-old man was arrested: Harri Kalevi Niemi, born 1953. Pori District Court convicted him of the killing and sentenced him to 10 years in prison, a verdict reported by Satakunnan Kansa on 25 October 2007. The material does not specify whether the conviction was for murder (murha) or manslaughter (tappo).\n\nNiemi had a prior record of violence, and these details too rest on court and news sources rather than on forum posters' claims. In December 2000 he was convicted of assault after cutting a woman's neck with a broken beer bottle; instead of prison he received 138 hours of community service. In April 2003 he committed a fatal act of violence in the Sampola district of Pori. He was initially charged with manslaughter but was convicted of assault and negligent homicide, receiving four years and six months in prison. In the Sampola case death was caused by head injuries: the victim was punched in the face, struck his head on a table and suffered a subdural haematoma, described as an exceptionally rare injury. The 2000 and 2003 offences are separate crimes, mentioned here only as background on the perpetrator.\n\nAccording to the material, Niemi had been released on conditional release only a few weeks before the July 2007 killing. All of the above is presented in the thread on the basis of court decisions or news reports; posters' own speculation about the course of events or about the identities of those involved is not repeated here."
+      }
+    },
+    "victims": [
+      {
+        "name": "",
+        "description": "41-year-old woman from Pori",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=52469#p52469"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Harri Kalevi Niemi",
+        "description": "Born 1953, 53 years old in 2007; convicted of knife murder in Väinölä July 2007; also convicted of reckless manslaughter in 2003 Sampola incident and assault in 2000",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=52469#p52469",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=153866#p153866",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=157017#p157017"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Väinölä, Pori",
+        "detail": "41-year-old woman killed with knife in her apartment; struck four times in upper body and shoulder area",
+        "quote": "Hän oli lyönyt naista neljä kertaa ylävartalon ja olkavarren alueelle tämän asunnossa Porin Väinölässä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=52469#p52469",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Pori",
+        "detail": "Pori District Court (Porin käräjäoikeus) where Niemi was convicted to 10 years imprisonment",
+        "quote": "tuomittiin tänään 10 vuoden vankeusrangaistukseen Porin käräjäoikeudessa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=52469#p52469",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Sampola, Pori",
+        "detail": "Site of 2003 fatal violent incident involving same perpetrator (context for Niemi's criminal history)",
+        "quote": "Tuomittu eli Harri Niemi oli jo vuonna 2003 syyllistynyt Porin Sampolassa henkirikokseen.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=153866#p153866",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=52469#p52469",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=13739#p13739",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=153866#p153866",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=157017#p157017"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=833"
   }
 ];

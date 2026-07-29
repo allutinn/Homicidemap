@@ -7032,5 +7032,174 @@
         "country_code": "fi"
       }
     }
+  ],
+  "Munkkiniemi, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.1983598,
+      "lon": 24.875853,
+      "display_name": "Munkkiniemi, Läntinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Munkkiniemi",
+        "city_district": "Läntinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Munka boat club harbor (Munkan venekerhon satama), near Meilahti bridge, Munkkiniemi, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Munka boat club harbor (Munkan venekerhon satama), Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Hattelmala, Hämeenlinna|23.5370,61.4466,25.3932,60.5466": [
+    {
+      "lat": 60.9613234,
+      "lon": 24.4596281,
+      "display_name": "Hattelmala, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 13430, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Hattelmala",
+        "city_district": "Hämeenlinna",
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "postcode": "13430",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Visämäentie (Koivukuja area), Hattelmala, Hämeenlinna|23.5370,61.4466,25.3932,60.5466": [],
+  "Visämäentie (Koivukuja area), Hämeenlinna|23.5370,61.4466,25.3932,60.5466": [],
+  "Kärsämäki": [
+    {
+      "lat": 63.979723,
+      "lon": 25.7588484,
+      "display_name": "Kärsämäki, Nivala–Haapajärven seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kärsämäki",
+        "municipality": "Nivala–Haapajärven seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.4801621,
+      "lon": 22.2797293,
+      "display_name": "Kärsämäki, Runosmäki-Raunistula, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20360, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Kärsämäki",
+        "city_district": "Runosmäki-Raunistula",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20360",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "State Road 4, Kärsämäki|24.7331,64.4297,26.7846,63.5297": [],
+  "Ristisenojan levähdysalue, State Road 4, Karsämäki|24.7331,64.4297,26.7846,63.5297": [],
+  "Ristisenojan levähdysalue, Kärsämäki|24.7331,64.4297,26.7846,63.5297": [],
+  "Karsämäki|24.7331,64.4297,26.7846,63.5297": [
+    {
+      "lat": 63.979723,
+      "lon": 25.7588484,
+      "display_name": "Kärsämäki, Nivala–Haapajärven seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kärsämäki",
+        "municipality": "Nivala–Haapajärven seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Pietarsaari apartment building (killing site)|21.6908,64.1245,23.7203,63.2245": [],
+  "Mustasaaren käräjäoikeus, Pietarsaari|21.6908,64.1245,23.7203,63.2245": [],
+  "Vaasa, Appeals Court (Hovioikeus)|21.6908,64.1245,23.7203,63.2245": [],
+  "Jäminintie, Kankaanpää|21.4413,62.2542,23.3461,61.3542": [],
+  "Runon ja rajan tie, 18 km itään Lieksasta|21.4413,62.2542,23.3461,61.3542": [],
+  "Runon ja rajan tie, 18 km itään Lieksa|21.4413,62.2542,23.3461,61.3542": [],
+  "Kankaanpään keskusta|21.4413,62.2542,23.3461,61.3542": [],
+  "Kankaanpään kesku|21.4413,62.2542,23.3461,61.3542": [],
+  "Viitasaari|21.4413,62.2542,23.3461,61.3542": [
+    {
+      "lat": 61.9690909,
+      "lon": 23.2232988,
+      "display_name": "Viitasaari, Parkano, Luoteis-Pirkanmaan seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "island",
+      "addresstype": "island",
+      "address": {
+        "island": "Viitasaari",
+        "town": "Parkano",
+        "municipality": "Luoteis-Pirkanmaan seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Ikaalisten käräjäoikeus|21.4413,62.2542,23.3461,61.3542": [],
+  "Rovaniemi": [
+    {
+      "lat": 66.5025537,
+      "lon": 25.7303912,
+      "display_name": "Rovaniemi, Rovaniemen seutukunta, Lappi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Rovaniemi",
+        "municipality": "Rovaniemen seutukunta",
+        "state": "Lappi",
+        "ISO3166-2-lvl4": "FI-10",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Väinölä, Pori|20.8545,61.9366,22.7399,61.0366": [
+    {
+      "lat": 61.470177,
+      "lon": 21.8593799,
+      "display_name": "Väinölä, Pori, Porin seutukunta, Satakunta, Manner-Suomi, 28330, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Väinölä",
+        "city": "Pori",
+        "municipality": "Porin seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "postcode": "28330",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
   ]
 }
