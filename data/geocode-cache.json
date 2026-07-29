@@ -7534,5 +7534,294 @@
     }
   ],
   "Forest road, Vuosaari, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
-  "Forest road, Helsinki|24.0390,60.6166,25.8481,59.7166": []
+  "Forest road, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Private apartment, Malmi, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Private apartment, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Arabiankallio soranottoalue, Muhos|24.9382,65.2563,27.0525,64.3563": [],
+  "Rautsila|24.9382,65.2563,27.0525,64.3563": [],
+  "Tampereen keskusta, McDonaldsin kulma|22.8186,61.9478,24.7046,61.0478": [],
+  "Tampereen kesku, McDonaldsin kulma|22.8186,61.9478,24.7046,61.0478": [],
+  "Koskikadun ja Hämeenkadun kulma, Tampere|22.8186,61.9478,24.7046,61.0478": [],
+  "Keskustori, Tampere|22.8186,61.9478,24.7046,61.0478": [
+    {
+      "lat": 61.4980164,
+      "lon": 23.7608252,
+      "display_name": "Keskustori, Tammerkoski, Keskustan suuralue, Tampere, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "square",
+      "addresstype": "square",
+      "address": {
+        "square": "Keskustori",
+        "suburb": "Tammerkoski",
+        "city_district": "Keskustan suuralue",
+        "city": "Tampere",
+        "municipality": "Tampereen seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.4972801,
+      "lon": 23.7613104,
+      "display_name": "Keskustori, Nalkala, Keskustan suuralue, Tampere, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, 33200, Suomi / Finland",
+      "type": "service",
+      "addresstype": "road",
+      "address": {
+        "road": "Keskustori",
+        "suburb": "Nalkala",
+        "city_district": "Keskustan suuralue",
+        "city": "Tampere",
+        "municipality": "Tampereen seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "postcode": "33200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.4973791,
+      "lon": 23.7604192,
+      "display_name": "Jugendtori, Nalkala, Keskustan suuralue, Tampere, Tampereen seutukunta, Pirkanmaa, Manner-Suomi, 33200, Suomi / Finland",
+      "type": "pedestrian",
+      "addresstype": "road",
+      "address": {
+        "road": "Jugendtori",
+        "suburb": "Nalkala",
+        "city_district": "Keskustan suuralue",
+        "city": "Tampere",
+        "municipality": "Tampereen seutukunta",
+        "state": "Pirkanmaa",
+        "ISO3166-2-lvl4": "FI-11",
+        "region": "Manner-Suomi",
+        "postcode": "33200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vihti, Nummela|23.4121,60.8670,25.2352,59.9670": [
+    {
+      "lat": 60.3287511,
+      "lon": 24.3169216,
+      "display_name": "Nummela, Asemantie, Pajuniitty, Nummela, Vihti, Helsingin seutukunta, Uusimaa, Manner-Suomi, 03100, Suomi / Finland",
+      "type": "yard",
+      "addresstype": "railway",
+      "address": {
+        "railway": "Nummela",
+        "road": "Asemantie",
+        "suburb": "Pajuniitty",
+        "town": "Nummela",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "03100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.3339447,
+      "lon": 24.320635,
+      "display_name": "Nummela, Vihti, Helsingin seutukunta, Uusimaa, Manner-Suomi, 03100, Suomi / Finland",
+      "type": "town",
+      "addresstype": "town",
+      "address": {
+        "town": "Nummela",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "03100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Salmiranta, Jyväskylä|24.7834,62.6917,26.7158,61.7917": [
+    {
+      "lat": 62.2189898,
+      "lon": 25.8040501,
+      "display_name": "Salmiranta, Samulinniemi, Hämeenlahti, Kuokkala, Jyväskylä, Jyväskylän seutukunta, Keski-Suomi, Manner-Suomi, 40520, Suomi / Finland",
+      "type": "neighbourhood",
+      "addresstype": "neighbourhood",
+      "address": {
+        "neighbourhood": "Salmiranta",
+        "quarter": "Samulinniemi",
+        "suburb": "Hämeenlahti",
+        "city_district": "Kuokkala",
+        "city": "Jyväskylä",
+        "municipality": "Jyväskylän seutukunta",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "postcode": "40520",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kuokkala, Salmiranta, Jyväskylä|24.7834,62.6917,26.7158,61.7917": [],
+  "Kuokkala, Jyväskylä|24.7834,62.6917,26.7158,61.7917": [
+    {
+      "lat": 62.2258171,
+      "lon": 25.7658089,
+      "display_name": "Kuokkala, Jyväskylä, Jyväskylän seutukunta, Keski-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Kuokkala",
+        "city_district": "Kuokkala",
+        "city": "Jyväskylä",
+        "municipality": "Jyväskylän seutukunta",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.2146028,
+      "lon": 25.7711763,
+      "display_name": "Kuokkala, Jyväskylä, Jyväskylän seutukunta, Keski-Suomi, Manner-Suomi, 40520, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city_district",
+      "address": {
+        "city_district": "Kuokkala",
+        "city": "Jyväskylä",
+        "municipality": "Jyväskylän seutukunta",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "postcode": "40520",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Mikkeli": [
+    {
+      "lat": 61.6877823,
+      "lon": 27.2731918,
+      "display_name": "Mikkeli, Mikkelin seutukunta, Etelä-Savo, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Mikkeli",
+        "municipality": "Mikkelin seutukunta",
+        "state": "Etelä-Savo",
+        "ISO3166-2-lvl4": "FI-04",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.8338069,
+      "lon": 27.153194,
+      "display_name": "Mikkeli, Mikkelin seutukunta, Etelä-Savo, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city_district",
+      "address": {
+        "city_district": "Mikkeli",
+        "city": "Mikkeli",
+        "municipality": "Mikkelin seutukunta",
+        "state": "Etelä-Savo",
+        "ISO3166-2-lvl4": "FI-04",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Tuukkala, Mikkeli|26.3244,62.1378,28.2220,61.2378": [
+    {
+      "lat": 61.64884,
+      "lon": 27.2632491,
+      "display_name": "Tuukkala, Mikkeli, Mikkelin seutukunta, Etelä-Savo, Manner-Suomi, 50500, Suomi / Finland",
+      "type": "suburb",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Tuukkala",
+        "city_district": "Mikkeli",
+        "city": "Mikkeli",
+        "municipality": "Mikkelin seutukunta",
+        "state": "Etelä-Savo",
+        "ISO3166-2-lvl4": "FI-04",
+        "region": "Manner-Suomi",
+        "postcode": "50500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.6628271,
+      "lon": 27.272923,
+      "display_name": "Tuukkala, Tuukkalantie, Laajaharju, Mikkeli, Mikkelin seutukunta, Etelä-Savo, Manner-Suomi, 50160, Suomi / Finland",
+      "type": "bus_stop",
+      "addresstype": "highway",
+      "address": {
+        "highway": "Tuukkala",
+        "road": "Tuukkalantie",
+        "suburb": "Laajaharju",
+        "city_district": "Mikkeli",
+        "city": "Mikkeli",
+        "municipality": "Mikkelin seutukunta",
+        "state": "Etelä-Savo",
+        "ISO3166-2-lvl4": "FI-04",
+        "region": "Manner-Suomi",
+        "postcode": "50160",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kyyhkyläntie 14, Tuukkala, Mikkeli|26.3244,62.1378,28.2220,61.2378": [],
+  "Kyyhkyläntie 14, Mikkeli|26.3244,62.1378,28.2220,61.2378": [
+    {
+      "lat": 61.6343783,
+      "lon": 27.2860293,
+      "display_name": "Kyyhkyläntie, Porrassalmi, Mikkeli, Mikkelin seutukunta, Etelä-Savo, Manner-Suomi, 50500, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Kyyhkyläntie",
+        "hamlet": "Porrassalmi",
+        "city_district": "Mikkeli",
+        "city": "Mikkeli",
+        "municipality": "Mikkelin seutukunta",
+        "state": "Etelä-Savo",
+        "ISO3166-2-lvl4": "FI-04",
+        "region": "Manner-Suomi",
+        "postcode": "50500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.6319341,
+      "lon": 27.2896167,
+      "display_name": "Kyyhkyläntie, Porrassalmi, Mikkeli, Mikkelin seutukunta, Etelä-Savo, Manner-Suomi, 50700, Suomi / Finland",
+      "type": "track",
+      "addresstype": "road",
+      "address": {
+        "road": "Kyyhkyläntie",
+        "hamlet": "Porrassalmi",
+        "city_district": "Mikkeli",
+        "city": "Mikkeli",
+        "municipality": "Mikkelin seutukunta",
+        "state": "Etelä-Savo",
+        "ISO3166-2-lvl4": "FI-04",
+        "region": "Manner-Suomi",
+        "postcode": "50700",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ]
 }

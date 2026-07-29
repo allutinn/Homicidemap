@@ -290,9 +290,9 @@
   {
     "topic_id": "934",
     "topic": "Keljonlahden mökkipalo, veljekset kuolivat - Jyväskylä 1999",
-    "verdict": "single_homicide",
-    "confidence": "high",
-    "reasoning": "Two brothers (Peku and Pena Häggin) were murdered at a cabin in a single incident; two victims, one event."
+    "verdict": "not_a_homicide",
+    "confidence": "medium",
+    "reasoning": "Overruled by the evidence pass on the full thread. Twin brothers Pekka and Pentti Hagg died in a cabin fire on 13 January 1999 and the district court convicted two people of murder, but Vaasan hovioikeus overturned those convictions on 27 June 2000 for insufficient evidence, finding the fire was likely caused by careless handling of candles and hurricane lamps. One incident, two deaths, but not established as a homicide."
   },
   {
     "topic_id": "942",
