@@ -5226,5 +5226,307 @@
     }
   ],
   "Kaalimanokka, Kytäjä, Hyvinkää|23.9428,61.0811,25.7779,60.1811": [],
-  "Kaalimanokka, Hyvinkää|23.9428,61.0811,25.7779,60.1811": []
+  "Kaalimanokka, Hyvinkää|23.9428,61.0811,25.7779,60.1811": [],
+  "Kytäjän kartanon henkilökunnan asuntola, Kytäjä, Hyvinkää|23.9428,61.0811,25.7779,60.1811": [],
+  "Kytäjän kartanon henkilökunnan asuntola, Hyvinkää|23.9428,61.0811,25.7779,60.1811": [],
+  "Patoniityn Vihantakadulla, Lahti|24.7336,61.4326,26.5890,60.5326": [],
+  "Patoniityn Vihantakadu, Lahti|24.7336,61.4326,26.5890,60.5326": [],
+  "Patomäen kaupunginosa, Lahti|24.7336,61.4326,26.5890,60.5326": [],
+  "Lahti|24.7336,61.4326,26.5890,60.5326": [
+    {
+      "lat": 60.982628,
+      "lon": 25.6613418,
+      "display_name": "Lahti, Lahden seutukunta, Päijät-Häme, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Lahti",
+        "municipality": "Lahden seutukunta",
+        "state": "Päijät-Häme",
+        "ISO3166-2-lvl4": "FI-16",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vantaa": [
+    {
+      "lat": 60.2929883,
+      "lon": 25.0436744,
+      "display_name": "Vantaa, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Vantaa",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.7204434,
+      "lon": 24.8597125,
+      "display_name": "Vantaa, Hausjärvi, Riihimäen seutukunta, Kanta-Häme, Manner-Suomi, 11130, Suomi / Finland",
+      "type": "village",
+      "addresstype": "village",
+      "address": {
+        "village": "Vantaa",
+        "municipality": "Hausjärvi",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "postcode": "11130",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vantaa, Jokiniemi|24.1356,60.7430,25.9517,59.8430": [
+    {
+      "lat": 60.298903,
+      "lon": 25.0549391,
+      "display_name": "Jokiniemi, Tikkurilan suuralue, Vantaa, Helsingin seutukunta, Uusimaa, Manner-Suomi, 01370, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "suburb",
+      "address": {
+        "suburb": "Jokiniemi",
+        "city_district": "Tikkurilan suuralue",
+        "city": "Vantaa",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "01370",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Porvoo": [
+    {
+      "lat": 60.3944372,
+      "lon": 25.661997,
+      "display_name": "Porvoo, Porvoon seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Porvoo",
+        "municipality": "Porvoon seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Porvoo Citymarket entrance|24.7511,60.8444,26.5729,59.9444": [],
+  "Porvoon käräjäoikeus (District Court)|24.7511,60.8444,26.5729,59.9444": [],
+  "Kotka|24.7511,60.8444,26.5729,59.9444": [
+    {
+      "lat": 60.165809,
+      "lon": 24.9427347,
+      "display_name": "Kotka, Kamppi, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "city_block",
+      "addresstype": "city_block",
+      "address": {
+        "city_block": "Kotka",
+        "suburb": "Kamppi",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2299235,
+      "lon": 24.7627604,
+      "display_name": "Kotkarinne, 7, Karakallio, Suur-Leppävaara, Espoo, Helsingin seutukunta, Uusimaa, Manner-Suomi, 02620, Suomi / Finland",
+      "type": "wood",
+      "addresstype": "wood",
+      "address": {
+        "wood": "Kotkarinne",
+        "house_number": "7",
+        "neighbourhood": "Karakallio",
+        "suburb": "Karakallio",
+        "city_district": "Suur-Leppävaara",
+        "city": "Espoo",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "02620",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Netherlands|24.7511,60.8444,26.5729,59.9444": [
+    {
+      "lat": 60.1663786,
+      "lon": 24.9442849,
+      "display_name": "Alankomaiden suurlähetystö, 19B, Erottajankatu, Kaartinkaupunki, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00130, Suomi / Finland",
+      "type": "diplomatic",
+      "addresstype": "office",
+      "address": {
+        "office": "Alankomaiden suurlähetystö",
+        "house_number": "19B",
+        "road": "Erottajankatu",
+        "suburb": "Kaartinkaupunki",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00130",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kartanonkaari 29, Helsinki|24.0390,60.6166,25.8481,59.7166": [
+    {
+      "lat": 60.2499458,
+      "lon": 24.8697983,
+      "display_name": "Rukkilan asumisyhteisö, 29, Kartanonkaari, Malminkartano, Kaarela, Läntinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00410, Suomi / Finland",
+      "type": "social_facility",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Rukkilan asumisyhteisö",
+        "house_number": "29",
+        "road": "Kartanonkaari",
+        "suburb": "Malminkartano",
+        "city_district": "Läntinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00410",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.251237,
+      "lon": 24.8677711,
+      "display_name": "Malminkartanon mehiläistarha, 29, Kartanonkaari, Malminkartano, Kaarela, Läntinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00410, Suomi / Finland",
+      "type": "beekeeper",
+      "addresstype": "craft",
+      "address": {
+        "craft": "Malminkartanon mehiläistarha",
+        "house_number": "29",
+        "road": "Kartanonkaari",
+        "suburb": "Malminkartano",
+        "city_district": "Läntinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00410",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.2499684,
+      "lon": 24.8691913,
+      "display_name": "29, Kartanonkaari, Malminkartano, Kaarela, Läntinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00410, Suomi / Finland",
+      "type": "hut",
+      "addresstype": "building",
+      "address": {
+        "house_number": "29",
+        "road": "Kartanonkaari",
+        "suburb": "Malminkartano",
+        "city_district": "Läntinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00410",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kauhava": [
+    {
+      "lat": 63.0993728,
+      "lon": 23.0569547,
+      "display_name": "Kauhava, Seinäjoen seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kauhava",
+        "municipality": "Seinäjoen seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.0993728,
+      "lon": 23.0569547,
+      "display_name": "Kauhava, Seinäjoen seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kauhava",
+        "municipality": "Seinäjoen seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kauhava, defendant's apartment|22.0624,63.5494,24.0516,62.6494": [],
+  "Kauhava|22.0624,63.5494,24.0516,62.6494": [
+    {
+      "lat": 63.0993728,
+      "lon": 23.0569547,
+      "display_name": "Kauhava, Seinäjoen seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kauhava",
+        "municipality": "Seinäjoen seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.0993728,
+      "lon": 23.0569547,
+      "display_name": "Kauhava, Seinäjoen seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kauhava",
+        "municipality": "Seinäjoen seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ]
 }

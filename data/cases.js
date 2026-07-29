@@ -9235,5 +9235,654 @@ const CASES = [
       "https://murha.info/rikosfoorumi/viewtopic.php?p=766333#p766333"
     ],
     "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=502"
+  },
+  {
+    "id": 79,
+    "topic_id": "504",
+    "title": "Eläintenhoitajanaisen murha Hyvinkään Kytäjällä 26.–27.7.2003",
+    "coords": [
+      60.6016633,
+      24.6500194
+    ],
+    "coords_precision": "district",
+    "coords_credibility": "news",
+    "coords_label": "Kytäjän kartanon henkilökunnan asuntola, Kytäjä, Hyvinkää",
+    "coords_note": "downgraded",
+    "coords_resolved": "Kytäjä, Hyvinkää, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+    "date": "2003-07-26",
+    "date_note": "Kotimaa-lehden 29.7.2003 klo 16.22 julkaistu juttu puhuu \"viime lauantain vastaisesta yöstä\". Julkaisupäivä oli tiistai 29.7., joten edeltävä lauantai oli 26.7.2003; itse teko tapahtui varhain sunnuntaiaamuna 27.7.2003.",
+    "status": "solved",
+    "outcome": "Hyvinkään käräjäoikeus (Hyvinkää District Court) convicted 26-year-old Teemu Petteri Salmela on 29 December 2003 of murder committed without full understanding (\"täyttä ymmärrystä vailla tehdystä murhasta\") and sentenced him to 10 years imprisonment. A mental state examination had found that he acted without full understanding at the time of the killing, which affected his culpability. According to the evidence, the judgment was never appealed to the court of appeal (hovioikeus).",
+    "location": "The victim was shot twice at close range in the head in her own room in the staff quarters of Kytäjä Manor",
+    "municipality": "Hyvinkää",
+    "summary": {
+      "fi": {
+        "lead": "Kytäjän kartanolla Hyvinkäällä ammuttiin heinäkuun 26.–27. päivän välisenä yönä 2003 noin 34-vuotias eläintenhoitajana työskennellyt nainen omaan huoneeseensa kartanon henkilökunnan asuntolassa. Kaksi laukausta ammuttiin läheltä päähän. Teosta tuomittiin naisen entinen kumppani, 26-vuotias Teemu Petteri Salmela, jolle Hyvinkään käräjäoikeus antoi joulukuussa 2003 kymmenen vuoden vankeusrangaistuksen murhasta.",
+        "detail": "Uutis- ja oikeuslähteiden mukaan noin 34-vuotias nainen surmattiin heinäkuun lopulla 2003 Kytäjän kartanolla Hyvinkäällä. Nainen ammuttiin kahdesti läheltä päähän omassa huoneessaan kartanon henkilökunnan asuntolassa. Sekä uhri että tekijä työskentelivät kartanolla eläintenhoitajina. Aineiston tarkin paikkatieto on juuri henkilökunnan asuntola Kytäjällä, joten kartan merkintä osoittaa surmapaikkaa.\n\nUutistietojen mukaan pariskunnan noin viisi vuotta kestänyt suhde oli ollut myrskyisä ja sitä leimasivat miehen kalvava mustasukkaisuus sekä alkoholinkäyttö. Nainen päätti suhteen noin viikkoa ennen surmaa ja kertoi asiasta miehelle yhteisellä Viron-risteilyllä. Aineiston mukaan mies uhkasi eron jälkeen naista ja tämän ystäviä puhelimitse grillijuhlien yhteydessä sanoen: \"Jos ette tule, minä tulen hakemaan.\"\n\nNoin viikkoa ennen tekoa mies matkusti kotiseudulleen Perhoon ja haki sieltä haulikon, jota myöhemmin käytettiin surma-aseena, ja toi sen mukanaan. Hyvinkään poliisi piti todennäköisenä, että teko oli suunniteltu etukäteen, ja tutkinnassa kävi ilmi, että mies oli vihjaillut aikeistaan läheisilleen ennen surmaa. Tekohetkellä mies oli poliisin mukaan kohtalaisessa humalassa. Motiiviksi vahvistui mustasukkaisuus ja se, että nainen oli torjunut hänet.\n\nMies otettiin kiinni ja häntä epäiltiin teosta välittömästi ampumisen jälkeen. Hän tunnusti teon poliisille, kertoi kuulusteluissa tapahtumista yksityiskohtaisesti ja osoitti katumusta.\n\nHyvinkään käräjäoikeus tuomitsi 29.12.2003 26-vuotiaan Teemu Petteri Salmelan täyttä ymmärrystä vailla tehdystä murhasta 10 vuodeksi vankeuteen. Mielentilatutkimuksessa oli todettu, että hän oli teon hetkellä vailla täyttä ymmärrystä, mikä vaikutti syyntakeisuuden arviointiin. Tuomiosta ei aineiston mukaan valitettu hovioikeuteen.\n\nKaikki edellä kerrottu perustuu ketjussa siteerattuihin uutisjuttuihin ja oikeuden ratkaisua koskeviin tietoihin; aineistossa ei ole sellaisia kohtia, jotka lepäisivät pelkän keskustelupalstan kirjoittajan oman väitteen varassa. Uhrin nimeä ei aineistossa kerrota, eikä sitä siksi mainita tässä. Ketjussa käsitellään laajasti myös samalla paikalla vuonna 1972 tapahtunutta kolmoismurhaa, mutta se on eri tapaus eikä liity tähän surmaan."
+      },
+      "en": {
+        "lead": "On the night of 26–27 July 2003 a woman of about 34, employed as an animal caretaker at Kytäjä Manor in Hyvinkää, was shot twice at close range in the head in her own room in the manor's staff quarters. Her former partner, 26-year-old Teemu Petteri Salmela, was convicted of murder by Hyvinkää District Court in December 2003 and sentenced to ten years in prison.",
+        "detail": "According to news reports and court information, a woman of about 34 was killed at Kytäjä Manor in Hyvinkää in late July 2003. She was shot twice at close range in the head in her own room in the manor's staff quarters. Both the victim and the perpetrator worked at the manor as animal caretakers. The most precise location given in the evidence is that staff residence at Kytäjä, so the map marker does point to the site of the killing.\n\nNews reports state that the couple's roughly five-year relationship had been turbulent, marked by the man's tormenting jealousy and his use of alcohol. The woman ended the relationship about a week before the killing, telling him so during a shared cruise to Estonia. The evidence also records that after the break-up, at a grill party, he threatened the woman and her friends by telephone, saying: \"If you don't come, I will come get you.\"\n\nAbout a week before the killing the man travelled to his home region of Perho and fetched the shotgun later used as the murder weapon, bringing it back with him. Hyvinkää police considered it likely that the act had been planned in advance, and the investigation established that he had hinted at his intentions to people close to him beforehand. Police stated he was moderately intoxicated at the time of the act. The motive was confirmed as jealousy connected to the woman's rejection of him.\n\nHe was arrested and suspected immediately after the shooting, confessed to police, gave a detailed account of events in questioning, and showed remorse.\n\nOn 29 December 2003 Hyvinkää District Court convicted 26-year-old Teemu Petteri Salmela of murder committed without full understanding and sentenced him to 10 years imprisonment. A mental state examination had concluded that he acted without full understanding at the time, which bore on his culpability. According to the evidence, the judgment was never appealed to the court of appeal.\n\nEverything above rests on news articles quoted in the thread and on information about the court's decision; nothing here depends on a forum poster's unsupported claim. The victim's name does not appear in the evidence and is therefore not given. The thread also discusses at length a separate triple murder at the same location in 1972, which is a different case and unrelated to this killing."
+      }
+    },
+    "victims": [
+      {
+        "name": "",
+        "description": "34-35 year old female animal caretaker (sikalanhoitaja/eläintenhoitaja) employed at Kytäjän kartano, shot twice at close range in the head with a shotgun by her ex-partner",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=9466#p9466",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1051023#p1051023"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Teemu Petteri Salmela",
+        "description": "26-year-old animal caretaker (eläintenhoitaja) who shot his 34-year-old ex-girlfriend twice in the head with a shotgun after she ended their 5-year relationship",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=39429#p39429",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=9466#p9466"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Kytäjän kartanon henkilökunnan asuntola, Kytäjä, Hyvinkää",
+        "detail": "The victim was shot twice at close range in the head in her own room in the staff quarters of Kytäjä Manor",
+        "quote": "Mies ampui naisen omassa huoneessaan kartanon henkilökunnan asuntolassa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=9466#p9466",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Perho",
+        "detail": "The perpetrator traveled to his home region of Perho about a week before the murder to obtain the shotgun used as the murder weapon",
+        "quote": "Lisäksi mies oli viikkoa ennen surmaa matkustanut kotiseudulleen Perhoon, mistä hän haki surma-aseena käytetyn haulikon.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=9466#p9466",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Hyvinkää",
+        "detail": "Hyvinkää police investigated the case and determined the crime was planned in advance",
+        "quote": "Hyvinkään poliisi pitää todennäköisenä, että Kytäjän kartanossa entisen kumppaninsa ampunut 26-vuotias mies suunnitteli tekoaa etukäteen.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=9466#p9466",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Hyvinkään käräjäoikeus",
+        "detail": "Hyvinkää District Court convicted Teemu Petteri Salmela of murder on 29 December 2003 and sentenced him to 10 years imprisonment",
+        "quote": "Hyvinkään käräjäoikeus tuomitsi 26-vuotiaan Teemu Petteri Salmelan murhasta 10 vuodeksi vankeuteen.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=39429#p39429",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=9466#p9466",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1051023#p1051023",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=39429#p39429"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=504"
+  },
+  {
+    "id": 80,
+    "topic_id": "529",
+    "title": "62-vuotiaan miehen surma, Lahti 12.6.2007",
+    "coords": [
+      60.982628,
+      25.6613418
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "news",
+    "coords_label": "Lahti",
+    "coords_note": null,
+    "coords_resolved": "Lahti, Lahden seutukunta, Päijät-Häme, Manner-Suomi, Suomi / Finland",
+    "date": "2007-06-12",
+    "date_note": "Surma tapahtui 12.6.2007; uhri löydettiin kuolleena keskiviikon ja torstain välisenä yönä, eli löytö tehtiin varhain aamulla 13.6.2007.",
+    "status": "solved",
+    "outcome": "Samuli Marjomaa (born 1979), a gardener from Lahti, was convicted by Lahti District Court (Lahden käräjäoikeus) of manslaughter (tappo) for killing a 62-year-old man in the man's row house apartment in Lahti on 12 June 2007. The prosecutor had demanded life imprisonment for murder, but the court found the offence to be manslaughter and sentenced him to 11 years in prison. A mental health examination found him criminally responsible. He was also ordered to pay the victim's daughter 1,500 euros in damages. The evidence gathered from the thread does not record the exact date of the judgment or any appeal outcome.",
+    "location": "City where the murder occurred and where the suspect resided",
+    "municipality": "Lahti",
+    "summary": {
+      "fi": {
+        "lead": "Lahtelainen 62-vuotias mies surmattiin 12. kesäkuuta 2007 kotonaan rivitaloasunnossa Patomäen kaupunginosassa Vihantakadulla. Uhri löydettiin kuolleena keskiviikon ja torstain välisenä yönä. Surmasta epäiltiin vuonna 1979 syntynyttä lahtelaista puutarhuria Samuli Marjomaata, jonka Lahden käräjäoikeus tuomitsi taposta 11 vuodeksi vankeuteen, vaikka syyttäjä oli vaatinut murhasta elinkautista.",
+        "detail": "Uutistietojen mukaan 62-vuotias mies surmattiin 12. kesäkuuta 2007 omassa rivitaloasunnossaan Lahden Patomäen kaupunginosassa, Patoniityn Vihantakadulla. Uhri löydettiin kuolleena keskiviikon ja torstain välisenä yönä. Ketjuun kootuissa uutislainauksissa uhrin iäksi mainitaan kohdasta riippuen 61 tai 62 vuotta; myöhemmät oikeudenkäyntiä koskevat tiedot puhuvat 62-vuotiaasta.\n\nTeko oli oikeudessa esitettyjen tietojen mukaan poikkeuksellisen raaka. Surmaaja käytti jäätuuraa, kirvestä, puukkoa ja nyrkkejään, ja iskuja tuli lukuisia pitkähkön ajan kuluessa. Uhri oli täysin puolustuskyvytön: hänellä todettiin useita teräaseen aiheuttamia vammoja sekä kuusi murtunutta kylkiluuta toisella ja kahdeksan toisella puolella. Kuolinsyyksi kirjattiin rintakehän pistohaavat, tylpän voiman aiheuttamat vammat, rintalastan murtuma, kylkiluumurtumat, veririnta ja sydänruhje. Surmaaja hälytti apua paikalle vasta muutama tunti teon jälkeen.\n\nUutistietojen mukaan uhrin asunnossa oli tiistai-iltana ollut useita ihmisiä, jotka olivat kaikki päihtyneitä, ja alkoholi liittyi tapahtumiin vahvasti. Tekohetkellä asunnossa oli läsnä kolmas henkilö, joka kuultiin oikeudessa todistajana. Epäilty ja uhri tunsivat toisensa entuudestaan. Motiivia ei tutkinnassa löytynyt, eikä tässä aineistossa esitetä sellaista.\n\nTeosta pidätettiin ja syytettiin vuonna 1979 syntynyttä lahtelaista puutarhuria Samuli Marjomaata. Syyttäjä vaati murhasta elinkautista vankeutta, mutta Lahden käräjäoikeus katsoi teon tapoksi ja tuomitsi Marjomaan 11 vuoden vankeusrangaistukseen. Mielentilatutkimuksessa hänet todettiin syyntakeiseksi. Lisäksi hänet velvoitettiin maksamaan uhrin tyttärelle 1 500 euroa korvauksia.\n\nKaikki edellä kerrottu perustuu ketjussa siteerattuihin uutis- ja oikeustietoihin; aineistossa ei ole tähän tapaukseen liittyviä pelkästään palstalaisten omiin arveluihin nojaavia väitteitä, joita tässä toistettaisiin. Uhria ei aineistossa nimetä. Tuomion tarkkaa päivämäärää tai mahdollista hovioikeuskäsittelyä aineisto ei kerro."
+      },
+      "en": {
+        "lead": "A 62-year-old man was killed in his row house apartment on Vihantakatu in the Patomäki district of Lahti on 12 June 2007, and was found dead during the night between Wednesday and Thursday. Samuli Marjomaa, born 1979, a gardener from Lahti, was convicted of manslaughter by Lahti District Court and sentenced to 11 years in prison; the prosecutor had demanded life for murder.",
+        "detail": "According to news reports cited in the thread, a 62-year-old man was killed on 12 June 2007 in his own row house apartment in the Patomäki district of Lahti, on Vihantakatu in the Patoniitty area. He was found dead during the night between Wednesday and Thursday. The quoted news items give the victim's age as either 61 or 62; the later, trial-related reporting refers to a 62-year-old.\n\nThe killing was described in court as exceptionally brutal. The killer used an ice chisel (jäätuura), an axe, a puukko knife and his fists, striking numerous times over a prolonged period. The victim was completely defenceless: he had multiple blade wounds, with six ribs broken on one side and eight on the other. Death was attributed to stab wounds to the chest, blunt force injuries, a fractured sternum, rib fractures, haemothorax and cardiac contusion. The killer called for help only a few hours after the killing.\n\nNews reporting states that several people had been in the victim's apartment on the Tuesday evening, all of them intoxicated, and that alcohol was strongly connected to the events. A third person was present in the apartment during the crime and testified as a witness. The suspect and the victim knew each other beforehand. No motive was established in the investigation, and none is asserted here.\n\nSamuli Marjomaa, born 1979, a gardener from Lahti, was arrested and charged. The prosecutor demanded life imprisonment for murder, but Lahti District Court found the offence to be manslaughter and sentenced him to 11 years in prison. A mental health examination found him criminally responsible, and he was ordered to pay the victim's daughter 1,500 euros in damages.\n\nEverything above rests on news and court information quoted in the thread; the gathered evidence contains no forum-only claims about this case that are repeated here. The victim is not named in the material, and the evidence does not record the exact date of the judgment or any appeal."
+      }
+    },
+    "victims": [
+      {
+        "name": "",
+        "description": "62-year-old man, victim of the murder. He was killed in his row house apartment. The victim's daughter received 1500 euros in damages.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=42206#p42206",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=55646#p55646",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=89710#p89710"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Samuli Marjomaa",
+        "description": "Born 1979. Gardener (puutarhuri) from Lahti. Arrested for the murder and convicted of manslaughter.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=89710#p89710"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Patoniityn Vihantakadulla, Lahti",
+        "detail": "62-year-old man's home where he was killed by Samuli Marjomaa using an ice skate, axe, knife and fists",
+        "quote": "Lahtelainen 61-vuotias mies tapettiin kesäkuun 12. päivänä kotonaan Patoniityn Vihantakadulla.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=11533#p11533",
+        "precision": "street",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Patomäen kaupunginosa, Lahti",
+        "detail": "District location of the row house apartment where the killing took place",
+        "quote": "Puutarhuri surmasi erittäin raa'alla tavalla viime kesäkuussa 62-vuotiaan miehen tämän rivitaloasunnossa Patomäen kaupunginosassa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=55646#p55646",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Lahti",
+        "detail": "City where the murder occurred and where the suspect resided",
+        "quote": "Mies surmattiin rivitalossa Lahdessa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=42206#p42206",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Lahden käräjäoikeus, Lahti",
+        "detail": "District court where the conviction hearing took place",
+        "quote": "Jutun oikeuskäsittely alkoi Lahden käräjäoikeudessa tänään.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=55646#p55646",
+        "precision": "district",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=55646#p55646",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=11533#p11533",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=42206#p42206",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=89710#p89710"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=529"
+  },
+  {
+    "id": 81,
+    "topic_id": "507",
+    "title": "Marin surma, Vantaa 11.6.2005",
+    "coords": [
+      60.298903,
+      25.0549391
+    ],
+    "coords_precision": "district",
+    "coords_credibility": "official",
+    "coords_label": "Vantaa, Jokiniemi",
+    "coords_note": null,
+    "coords_resolved": "Jokiniemi, Tikkurilan suuralue, Vantaa, Helsingin seutukunta, Uusimaa, Manner-Suomi, 01370, Suomi / Finland",
+    "date": "2005-06-11",
+    "date_note": "Puukotus tapahtui 11. kesäkuuta 2005; teko paljastui vasta vajaan kuukauden kuluttua.",
+    "status": "solved",
+    "outcome": "Mikko Tapani Tuomola was convicted of manslaughter (tappo) by Vantaa District Court in February 2006 and sentenced to ten years' unconditional imprisonment, and was also ordered to pay compensation to the victim's parents. He appealed to the Helsinki Court of Appeal, which found no reason to alter the ten-year sentence. A psychiatric examination had led the examining doctor to inform the court that he considered Tuomola to have diminished criminal responsibility, which would have meant a lighter sentence, but the district court held the view of the national medico-legal authority (TEO) to be the correct one. Tuomola gave his motive as jealousy combined with alcohol intoxication.",
+    "location": "Location where the stabbing and homicide occurred",
+    "municipality": "Vantaa",
+    "summary": {
+      "fi": {
+        "lead": "Vantaan Jokiniemessä puukotettiin 23-vuotias nainen kuoliaaksi 11. kesäkuuta 2005. Hänen avomiehensä, varastomies Mikko Tapani Tuomola, iski häntä riidan päätteeksi veitsellä neljästi kaulaan ja kahdesti kasvoihin, siirsi ruumiin kylpyammeeseen ja jatkoi tavanomaista elämäänsä lähes kuukauden ajan. Vantaan käräjäoikeus tuomitsi Tuomolan helmikuussa 2006 taposta kymmeneksi vuodeksi vankeuteen, eikä Helsingin hovioikeus muuttanut tuomiota.",
+        "detail": "Ketjun tiedot perustuvat oikeuden ratkaisuihin ja niistä kertoneisiin uutisiin; kaikki alla oleva on tältä pohjalta kirjattua, eikä mukana ole palstalaisten omia arvailuja.\n\nMikko Tapani Tuomola ja hänen uhrinsa olivat tutustuneet TV-chatin välityksellä noin puoli vuotta ennen tekoa. Tapaamisten jälkeen Tuomola muutti naisen asuntoon Vantaan Ohrakujalle. Uhri oli 23-vuotias, taustaltaan pohjanmaalainen nainen, josta lähteissä käytetään vain etunimeä Mari. Tuomola oli syntynyt vuonna 1982, ja häntä kuvataan 24-vuotiaaksi varastomieheksi.\n\nPari riiteli Vantaan Jokiniemessä 11. kesäkuuta 2005, ja riidan päätteeksi Tuomola iski naista veitsellä neljästi kaulaan ja kahdesti kasvoihin. Nainen kuoli vammoihinsa. Tuomola vei ruumiin kylpyammeeseen ja jäi asumaan asuntoon. Hän jatkoi normaalia elämää, kävi tavalliseen tapaan töissä ja vietti juhannuksen mökillä. Uhrin äidin lähettämiin tekstiviesteihin – niitä kertyi kaikkiaan 62 – hän vastasi tyttären nimissä.\n\nHenkirikos paljastui vasta vajaan kuukauden kuluttua. Äiti päätyi tekemään tyttärestään katoamisilmoituksen, minkä jälkeen poliisi tuli tutkimaan asunnon ja teko tuli ilmi. Jo kaksi päivää aiemmin konstaapeli oli käynyt talolla kysymässä naisesta, mutta uskoi tekijän selityksen eikä pitänyt lisätutkimuksia tarpeellisina.\n\nTuomolalle tehtiin mielentilatutkimus, jonka jälkeen lääkäri ilmoitti oikeudelle pitävänsä häntä alentuneesti syyntakeisena. Se olisi merkinnyt lievempää tuomiota, mutta käräjäoikeus piti TEO:n näkemystä oikeana ja langetti helmikuussa 2006 Tuomolalle kymmenen vuoden ehdottoman vankeusrangaistuksen taposta. Lisäksi hänet määrättiin maksamaan korvaukset uhrin vanhemmille. Tuomola valitti päätöksestä Helsingin hovioikeuteen, mutta syytä kymmenen vuoden tuomion muuttamiseen ei nähty. Motiivikseen Tuomola ilmoitti mustasukkaisuuden yhdistettynä alkoholipäihtymykseen.\n\nKartan merkki osuu Jokiniemeen, jossa puukotus tapahtui; asunto, jossa ruumista säilytettiin, oli Ohrakujalla. Tarkempaa osoitetta lähteissä ei anneta."
+      },
+      "en": {
+        "lead": "A 23-year-old woman was stabbed to death in the Jokiniemi district of Vantaa on 11 June 2005. Her partner, warehouse worker Mikko Tapani Tuomola, stabbed her four times in the neck and twice in the face after an argument, moved her body to the bathtub and carried on with normal life for nearly a month. Vantaa District Court sentenced him to ten years for manslaughter in February 2006, and the Helsinki Court of Appeal left the sentence unchanged.",
+        "detail": "Everything recorded here rests on court rulings and news reporting about them as relayed in the thread; no posters' speculation is included.\n\nMikko Tapani Tuomola and his victim had met through a TV chat channel roughly six months before the killing. After they met in person, Tuomola moved into her flat on Ohrakuja in Vantaa. The victim was a 23-year-old woman of Ostrobothnian background, identified in the sources only by the first name Mari. Tuomola was born in 1982 and is described as a 24-year-old warehouse worker.\n\nThe couple argued in Jokiniemi, Vantaa, on 11 June 2005, and at the end of the argument Tuomola struck her with a knife four times in the neck and twice in the face. She died of her injuries. Tuomola carried her body into the bathtub and went on living in the flat. He continued his ordinary routine, went to work as usual and spent Midsummer at a summer cottage. He answered text messages sent by the victim's mother in the daughter's name; there were 62 of them in all.\n\nThe homicide came to light only after nearly a month. The mother eventually filed a missing person report, police came to examine the flat, and the killing was uncovered. Two days earlier a constable had already come to the building asking after the woman, but believed the perpetrator's explanation and saw no need for further enquiries.\n\nTuomola underwent a psychiatric examination, after which the examining doctor informed the court that he regarded him as having diminished criminal responsibility, which would have meant a lighter sentence. The district court instead held the view of the national medico-legal authority (TEO) to be correct and in February 2006 sentenced Tuomola to ten years' unconditional imprisonment for manslaughter, also ordering him to pay compensation to the victim's parents. He appealed to the Helsinki Court of Appeal, which saw no reason to alter the ten-year sentence. Tuomola gave his motive as jealousy combined with alcohol intoxication.\n\nThe map marker points to Jokiniemi, where the stabbing took place; the flat in which the body was kept was on Ohrakuja. No more precise address is given in the sources."
+      }
+    },
+    "victims": [
+      {
+        "name": "Mari",
+        "description": "23-year-old woman of Bothnian background, lived in Vantaa",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=808707#p808707"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Mikko Tapani Tuomola",
+        "description": "Born 1982, age 24 at time of crime. Warehouse worker. Met victim through TV chat approximately six months before the homicide.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=808707#p808707",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=6613#p6613"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Vantaa, Jokiniemi",
+        "detail": "Location where the stabbing and homicide occurred",
+        "precision": "district",
+        "credibility": "official",
+        "quote": "Vantaan Jokiniemessä ja iski tätä veitsellä neljästi kaulaan ja kahdesti kasvoihin.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=808707#p808707",
+        "used_for_marker": true
+      },
+      {
+        "label": "Vantaa, Ohrakuja",
+        "detail": "Residence where Tuomola and victim lived; body was kept in the bathroom",
+        "precision": "street",
+        "credibility": "official",
+        "quote": "Tuomola muutti uhrinsa asuntoon Vantaan Ohrakujalle.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=808707#p808707",
+        "used_for_marker": false
+      },
+      {
+        "label": "Vantaa, Käräjäoikeus",
+        "detail": "District court where case was tried and verdict rendered in February 2006",
+        "precision": "town",
+        "credibility": "official",
+        "quote": "Tapausta alettiin käsitellä Vantaan käräjäoikeudessa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=808707#p808707",
+        "used_for_marker": false
+      },
+      {
+        "label": "Helsinki, Helsingin hovioikeus",
+        "detail": "Court of Appeals where conviction was upheld on appeal",
+        "precision": "town",
+        "credibility": "official",
+        "quote": "Vaikka Tuomola valitti päätöksestä Helsingin hovioikeuteen, syytä 10 vuoden tuomion muuttamiseen ei nähty.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=808707#p808707",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=6613#p6613",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=808707#p808707"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=507"
+  },
+  {
+    "id": 82,
+    "topic_id": "579",
+    "title": "Hollantilaisen turistin puukotussurma, Porvoo 18.6.2007",
+    "coords": [
+      60.3944372,
+      25.661997
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "fallback",
+    "coords_label": null,
+    "coords_note": "fallback",
+    "coords_resolved": null,
+    "date": "2007-06-18",
+    "date_note": "Maanantai 18.6.2007 noin kello 16. Uutislainauksessa \"maanantaina iltapäivällä kello 16 aikaan\".",
+    "status": "solved",
+    "outcome": "Porvoo District Court (Porvoon käräjäoikeus) convicted Tero Kristian Kivelä on 18 January 2008 of manslaughter (tapo) together with a group of other offences, including attempted assault and illegal threats, and sentenced him to 11 years and 6 months in prison. A forensic mental examination found him criminally responsible (syyntakeinen) at the time of the act despite his mental illness. He was ordered to pay the victim's widow 25,000 euros in compensation for mental suffering. The Helsinki Court of Appeal (Helsingin hovioikeus) upheld the conviction and the sentence on 25 June 2008.",
+    "location": "75-year-old Dutch tourist stabbed and killed at the main entrance of Citymarket in Porvoo city center.",
+    "municipality": "Porvoo",
+    "summary": {
+      "fi": {
+        "lead": "Porvoon Citymarketin pääoven edustalla puukotettiin maanantaina 18. kesäkuuta 2007 noin kello 16 kuoliaaksi 75-vuotias hollantilainen turisti, joka oli vaimonsa kanssa 48. hääpäivän matkalla Suomessa. Uhri oli paikalla sattumalta eikä tuntenut tekijää. Porvoon käräjäoikeus tuomitsi tammikuussa 2008 vuonna 1972 syntyneen Tero Kristian Kivelän taposta ja useista muista rikoksista 11,5 vuoden vankeuteen.",
+        "detail": "Uutislähteiden mukaan mies riehui Porvoon keskustassa keskellä päivää 18. kesäkuuta 2007 ja puukotti noin kello 16 tavaratalo Citymarketin pääoven edustalla iäkästä miestä. Uhri oli vuonna 1931 syntynyt hollantilainen, ja hän kuoli puukoniskuihin välittömästi. Uhri oli paikalla sattumalta eikä tuntenut tekijää. Uutistietojen mukaan mies oli ennen surmaa käynyt veitsin useiden muiden ihmisten kimppuun sekä kaupan sisällä että sen ulkopuolella; syyttäjän kuvauksen mukaan hän huitoi kahdella eri veitsellä itselleen tuntemattomia ihmisiä tavaratalon kulmilla. Poliisi otti tekijän kiinni tapahtumapaikalta ja käytti kumiluoteja, kun mies kieltäytyi pudottamasta veistään; häntä ammuttiin jalkaan. Syyttäjä katsoi myöhemmin poliisin voimankäytön oikeutetuksi eikä katsonut poliisien syyllistyneen rikokseen.\n\nUutistietojen mukaan surmattu mies oli Suomessa vaimonsa kanssa 48. hääpäivän matkalla. Vaimo oli paikalla ja näki surman; hänet ohjattiin pois tapahtumapaikalta ja hänelle järjestettiin kriisiapua. Hän palasi tiistaina takaisin kotimaahansa Hollantiin. Uhrin nimeä ei aineistossa kerrota.\n\nTekijäksi vahvistui oikeus- ja uutistietojen mukaan vuonna 1972 syntynyt Tero Kristian Kivelä, kotoisin Kotkasta. Uutistietojen mukaan hän oli tekohetkellä humalassa ja huumausaineiden vaikutuksen alaisena, ja hänen aiempi rikosrekisterinsä koostui pääosin omaisuusrikoksista ja lievemmistä pahoinpitelytuomioista. Mielentilatutkimuksessa hänet todettiin mielenterveysongelmistaan huolimatta syyntakeiseksi. Foorumilla on lisäksi esitetty, ettei tämä perustu oikeuden tai uutisten tietoihin, että tekijä olisi kuullut ääniä, jotka käskivät tappamaan, ja että hän olisi hakeutunut psykiatriseen hoitoon mutta hänet olisi kotiutettu viikon jälkeen; nämä ovat kirjoittajien väitteitä, joita aineisto ei vahvista.\n\nPorvoon käräjäoikeus tuomitsi 18. tammikuuta 2008 Kivelän taposta ja nipusta muita rikoksia, muun muassa pahoinpitelyn yrityksistä ja laittomista uhkauksista, 11 vuoden ja 6 kuukauden vankeuteen. Hänet määrättiin maksamaan uhrin leskelle 25 000 euroa korvausta henkisestä kärsimyksestä. Helsingin hovioikeus pysytti tuomion 25. kesäkuuta 2008.\n\nTapahtumapaikaksi aineisto antaa Porvoon Citymarketin pääoven edustan keskustassa; tarkempaa osoitetietoa muille tapahtumasarjan vaiheille ei ole."
+      },
+      "en": {
+        "lead": "A 75-year-old Dutch tourist was stabbed to death at the main entrance of the Citymarket store in central Porvoo at about 4 p.m. on Monday 18 June 2007. He was in Finland with his wife on their 48th wedding anniversary trip and did not know his attacker. In January 2008 Porvoo District Court convicted Tero Kristian Kivelä, born 1972, of manslaughter and sentenced him to 11.5 years in prison.",
+        "detail": "According to news reports, a man went on a rampage in the centre of Porvoo in the middle of the day on 18 June 2007 and, at around 4 p.m., stabbed an elderly man in front of the main door of the Citymarket store. The victim, born in 1931, was a Dutch national and died immediately of his stab wounds. He was at the spot by chance and did not know the attacker. News reports state that before the killing the man had attacked several other people with knives both inside and outside the store; according to the prosecutor's account he flailed at strangers with two different knives around the corners of the department store. Police arrested him at the scene and used rubber bullets when he refused to drop his knife, shooting him in the leg. A prosecutor later found the police use of force justified and concluded the officers had committed no offence.\n\nNews reports state that the victim was in Finland with his wife on their 48th wedding anniversary trip. The widow was present and witnessed the killing; she was escorted away from the scene and given crisis support, and returned to the Netherlands the following day, a Tuesday. The evidence does not give the victim's name.\n\nCourt and news information identifies the attacker as Tero Kristian Kivelä, born 1972, from Kotka. News reports state that he was drunk and under the influence of drugs at the time, and that his previous criminal record consisted mainly of property offences and minor assault convictions. A forensic mental examination found him criminally responsible despite his mental health problems. Separately, forum posters — not a court or a news report — have claimed that he heard voices commanding him to kill and that he had sought psychiatric care but was discharged after a week; these claims are not corroborated by the evidence.\n\nOn 18 January 2008 Porvoo District Court convicted Kivelä of manslaughter (tapo) and a bundle of other offences, including attempted assault and illegal threats, and sentenced him to 11 years and 6 months in prison. He was ordered to pay the victim's widow 25,000 euros in compensation for mental suffering. The Helsinki Court of Appeal upheld the conviction and sentence on 25 June 2008.\n\nThe evidence places the killing at the Citymarket main entrance in central Porvoo; no more precise addresses are given for the other stages of the attack."
+      }
+    },
+    "victims": [
+      {
+        "name": "Unnamed Dutch tourist",
+        "description": "Male, born 1931 (age 75), Dutch national, tourist celebrating 48th wedding anniversary with wife, stabbed to death at Porvoo Citymarket entrance.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=7703#p7703",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=45529#p45529",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=77493#p77493"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Tero Kristian Kivelä",
+        "description": "Male, born 1972 (age 35 at time), from Kotka, stabbed and killed 75-year-old Dutch tourist and attacked several other people with knives on June 18, 2007 in Porvoo.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=77493#p77493",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=45529#p45529",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=113435#p113435"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Porvoo Citymarket entrance",
+        "detail": "75-year-old Dutch tourist stabbed and killed at the main entrance of Citymarket in Porvoo city center.",
+        "quote": "Silmittömästi riehunut mies puukotti maanantaina iltapäivällä kello 16 aikaan Porvoon Citymarketin pääoven edustalla vanhempaa miestä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=7703#p7703",
+        "precision": "address",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Porvoon käräjäoikeus (District Court)",
+        "detail": "Court that heard the case and convicted Tero Kristian Kivelä in January 2008.",
+        "quote": "Porvoon käräjäoikeus tuomitsi miehen taposta ja nipusta muita rikoksia.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=77493#p77493",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kotka",
+        "detail": "Attacker's hometown; he traveled from Kotka to Helsinki and then to Porvoo on day of incident.",
+        "quote": "Olen kotoisin Kotkasta",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=113435#p113435",
+        "precision": "town",
+        "credibility": "forum_claim",
+        "used_for_marker": false
+      },
+      {
+        "label": "Netherlands",
+        "detail": "Victim's home country. Widow returned to Netherlands after incident.",
+        "quote": "Hän lähti tiistaina takaisin kotimaahansa Hollantiin.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=7818#p7818",
+        "precision": "area",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=7703#p7703",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=7818#p7818",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=77493#p77493",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=113435#p113435",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=128619#p128619",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=18363#p18363"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=579"
+  },
+  {
+    "id": 83,
+    "topic_id": "581",
+    "title": "Nimeltä mainitsemattoman 44-vuotiaan miehen surma Malminkartanossa, Helsinki 21.3.2006",
+    "coords": [
+      60.2499458,
+      24.8697983
+    ],
+    "coords_precision": "address",
+    "coords_credibility": "news",
+    "coords_label": "Kartanonkaari 29, Helsinki",
+    "coords_note": null,
+    "coords_resolved": "Rukkilan asumisyhteisö, 29, Kartanonkaari, Malminkartano, Kaarela, Läntinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00410, Suomi / Finland",
+    "date": "2006-03-21",
+    "date_note": "MTV:n rikoskartan mukaan, johon ketjussa viitataan: tekopäivä 21.3.2006.",
+    "status": "solved",
+    "outcome": "Helsinki District Court (Helsingin käräjäoikeus) convicted Markus Samuel Mäkinen of murder (murha) and theft, and sentenced him to life imprisonment. The Helsinki Court of Appeal (Helsingin hovioikeus) upheld the conviction and the life sentence, finding no reason to alter the district court's judgment. According to the thread, Mäkinen was released on conditional parole in October 2020 after serving roughly 14.5 years.",
+    "location": "Apartment where the stabbing murder occurred. Perpetrator struck victim with frying pan multiple times on head, then stabbed and slashed over 100 times with knife.",
+    "municipality": "Helsinki",
+    "summary": {
+      "fi": {
+        "lead": "Helsingin Malminkartanossa Kartanonkaarella surmattiin 21.3.2006 soluasunnossa 44-vuotias helsinkiläismies. Tekijä, 23-vuotias Markus Samuel Mäkinen, löi uhria ensin paistinpannulla päähän ja puukotti sekä viilteli tätä sen jälkeen yli sata kertaa. Miehet olivat tavanneet toisilleen ennestään tuntemattomina rautatieasemalla edellisenä iltana. Mäkinen tuomittiin murhasta ja varkaudesta elinkautiseen vankeuteen.",
+        "detail": "Ketjussa siteerattujen uutis- ja oikeustietojen mukaan 44-vuotias helsinkiläismies surmattiin 21.3.2006 Helsingin Malminkartanossa, osoitteessa Kartanonkaari 29 sijainneessa soluasunnossa. Uhri ja tekijä olivat toisilleen ennestään tuntemattomia: he olivat tavanneet edellisenä iltana Helsingin rautatieasemalla, mistä matka jatkui uhrin asunnolle.\n\nTekijä oli tuolloin 23-vuotias, Luopioisista kotoisin ollut Markus Samuel Mäkinen. Oikeudessa esitetyn mukaan hän löi uhria ensin useita kertoja paistinpannulla päähän ja puukotti sekä viilteli tätä sen jälkeen yli sata kertaa eri puolille kehoa, muun muassa vatsaan, rintaan ja kurkkuun. Miesten välinen riita liittyi kännykkään ja alkoholiin: uhri oli juonut Mäkisen viinit luvatta eikä suostunut lainaamaan puhelintaan.\n\nTeon jälkeen Mäkinen pesi aseet ja jätti ne tiskialtaaseen sekä otti mukaansa uhrin matkapuhelimen ja 1,5 euroa. Hän soitti isälleen, veljelleen, äidilleen ja ystävälleen ja kertoi surmanneensa ihmisen. Poliisi otti hänet kiinni myöhemmin Helsingin keskustasta.\n\nMäkinen oli vapautunut Kylmäkosken vankilasta 5.3.2006, noin kaksi viikkoa ennen surmaa. Käräjäoikeudessa hän kertoi yrittäneensä vain päiviä ennen tekoa hakeutua hoitoon Auroran sairaalaan, johon häntä ei kuitenkaan ollut huolittu. Hänellä todettiin päihderiippuvuus ja persoonallisuushäiriö.\n\nHelsingin käräjäoikeudessa Mäkiselle luettiin syyte murhasta ja varkaudesta, ja hänet tuomittiin murhasta elinkautiseen vankeuteen. Helsingin hovioikeus katsoi ratkaisussaan, ettei käräjäoikeuden tuomiota ollut aihetta muuttaa, joten elinkautinen jäi voimaan. Ketjussa kerrotun mukaan Mäkinen vapautui ehdonalaiseen lokakuussa 2020 istuttuaan vankilassa noin 14,5 vuotta.\n\nKaikki edellä kerrottu nojaa ketjussa lainattuihin uutis- ja oikeuslähteisiin; palstan kirjoittajien omia arvailuja tai heidän esittämiään tunnistuksia ei ole otettu mukaan. Uhrin nimeä ei aineistossa mainita, joten häntä ei nimetä tässäkään. Tekopäivä perustuu ketjussa lainattuun MTV:n rikoskarttaan."
+      },
+      "en": {
+        "lead": "On 21 March 2006 a 44-year-old Helsinki man was killed in a shared flat on Kartanonkaari in the Malminkartano district of Helsinki. The perpetrator, 23-year-old Markus Samuel Mäkinen, first struck him on the head with a frying pan and then stabbed and slashed him more than a hundred times. The two had met as strangers at the railway station the previous evening. Mäkinen was sentenced to life imprisonment for murder and theft.",
+        "detail": "According to the news and court accounts quoted in the thread, a 44-year-old man from Helsinki was killed on 21 March 2006 in a shared flat at Kartanonkaari 29 in the Malminkartano district of Helsinki. Victim and perpetrator had not known each other beforehand: they met at Helsinki Railway Station the previous evening and continued from there to the victim's flat.\n\nThe perpetrator was Markus Samuel Mäkinen, then 23 years old and originally from Luopioinen. As presented in court, he first struck the victim several times on the head with a frying pan, then stabbed and slashed him over a hundred times in various parts of the body, including the stomach, chest and throat. The quarrel between the men concerned a mobile phone and alcohol: the victim had drunk Mäkinen's wine without permission and refused to lend him his phone.\n\nAfter the killing Mäkinen washed the weapons and left them in the sink, and took the victim's mobile phone and 1.5 euros. He telephoned his father, his brother, his mother and a friend to tell them he had killed someone. Police arrested him later in central Helsinki.\n\nMäkinen had been released from Kylmäkoski prison on 5 March 2006, roughly two weeks before the killing. He told the district court that only days before the act he had tried to get treatment at Aurora Hospital in Helsinki but was not admitted. He was diagnosed with a substance abuse disorder and a personality disorder.\n\nIn Helsinki District Court Mäkinen was charged with murder and theft, and was sentenced to life imprisonment for murder. The Helsinki Court of Appeal held that there was no reason to alter the district court's judgment, so the life sentence stood. According to the thread, Mäkinen was released on conditional parole in October 2020 after about 14.5 years in prison.\n\nEverything above rests on the news reports and court information cited in the thread; posters' own speculation and claimed identifications have been left out. The victim is not named in the material, so no name is given here either. The date of the killing comes from an MTV crime map quoted in the thread."
+      }
+    },
+    "victims": [
+      {
+        "name": "(unnamed middle-aged man)",
+        "description": "44-year-old man from Helsinki. Victim was previously unknown to the perpetrator. Killed on March 21, 2006 through blunt force trauma and multiple stab/slash wounds.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=7663#p7663",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=802964#p802964"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Markus Samuel Mäkinen",
+        "description": "23 years old at time of killing (born c. 1983). Released from Kylmäkoski prison on March 5, 2006, approximately 2 weeks before the murder. From Luopioinen. Diagnosed with substance abuse disorder and personality disorder. Had attempted to seek psychiatric treatment at Aurora Hospital days before the killing.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=7663#p7663",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=8517#p8517",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=802964#p802964",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=978904#p978904"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Kartanonkaari 29, Helsinki",
+        "detail": "Apartment where the stabbing murder occurred. Perpetrator struck victim with frying pan multiple times on head, then stabbed and slashed over 100 times with knife.",
+        "quote": "Markus Samuel Mäkinen surmasi keski-ikäisen helsinkiläismiehen viime vuoden maaliskuussa Kartanonkaaressa sijaitsevassa soluasunnossa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=7663#p7663",
+        "precision": "address",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Helsingin rautatieasema (Helsinki Railway Station)",
+        "detail": "Two men met here the evening before the killing. They were previously unknown to each other.",
+        "quote": "Kaksikko tapasi toisensa alun alkaen rautatieasemalla, mistä matka jatkui uhrin asunnolle.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=7663#p7663",
+        "precision": "address",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Helsinki",
+        "detail": "City where perpetrator Markus Mäkinen was arrested in the city center.",
+        "quote": "Poliisi nappasi epäillyn kiinni myöhemmin Helsingin keskustasta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=802964#p802964",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      },
+      {
+        "label": "Helsingin käräjäoikeus (Helsinki Court of First Instance)",
+        "detail": "Court that tried the case and convicted Markus Mäkinen of murder, sentencing him to life imprisonment.",
+        "quote": "Markukselle luettiin Helsingin käräjäoikeudessa syyte murhasta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=8517#p8517",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Helsingin hovioikeus (Helsinki Court of Appeal)",
+        "detail": "Appellate court that upheld the murder conviction and life sentence.",
+        "quote": "Helsingin hovioikeus katsoi maanantaisessa ratkaisussaan, ettei käräjäoikeuden tuomiota ole aihetta muuttaa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=7663#p7663",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Auroran sairaala (Aurora Hospital), Helsinki",
+        "detail": "Psychiatric hospital where Mäkinen attempted to seek treatment days before the killing but was not admitted.",
+        "quote": "Mies kertoi käräjäoikeudessa yrittäneensä hakeutua vain päiviä ennen tekoa hoitoon Auroran sairaalaan, johon häntä ei kuitenkaan ollut huolittu.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=802964#p802964",
+        "precision": "address",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Luopioinen",
+        "detail": "Municipality where perpetrator Markus Mäkinen was from.",
+        "quote": "Luopioisista kotoisin olevalle nuorukaiselle luettiin Helsingin käräjäoikeudessa syyte murhasta ja varkaudesta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=802964#p802964",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kylmäkoski (prison)",
+        "detail": "Prison where Markus Mäkinen was incarcerated before being released approximately 2 weeks prior to the killing.",
+        "quote": "Markus vapautui Kylmäkosken vankilasta 5. maaliskuuta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=8517#p8517",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=802964#p802964",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=8517#p8517",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=7663#p7663",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=978904#p978904"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=581"
+  },
+  {
+    "id": 84,
+    "topic_id": "583",
+    "title": "Kolmen miehen myrkkyviinakuolemat, Kauhava 9.–10.12.2006",
+    "coords": [
+      63.0993728,
+      23.0569547
+    ],
+    "coords_precision": "town",
+    "coords_credibility": "news",
+    "coords_label": "Kauhava",
+    "coords_note": null,
+    "coords_resolved": "Kauhava, Seinäjoen seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+    "date": "2006-12",
+    "date_note": "The poisoning occurred December 9-10, 2006; deaths occurred December 21, 23, and 26, 2006",
+    "status": "unsolved",
+    "outcome": "No conviction, and no one stands charged today. A man born in 1955 was prosecuted for one murder, two counts of manslaughter and three counts of attempted manslaughter over the antifreeze-laced homebrew served at his Kauhava apartment on 9–10 December 2006. Kauhava District Court dismissed all charges on 21 June 2007 for lack of evidence, after he had spent 5 months and 20 days in custody. Vaasa Court of Appeal heard the appeals on 21–23 January 2008 and upheld the acquittal on 21 February 2008.",
+    "location": "The poisoned alcohol incident and subsequent deaths occurred in Kauhava. Three men died from consuming the poisoned homebrew and antifreeze mixture.",
+    "municipality": "Kauhava",
+    "summary": {
+      "fi": {
+        "lead": "Kauhavalla joulukuussa 2006 kolme miestä kuoli juotuaan pakkasnesteellä terästettyä kiljua. Kohtalokkaat illanistujaiset alkoivat 9. joulukuuta noin kello 23 myöhemmin syytteeseen joutuneen miehen kotona. Lisäksi kaksi miestä ja yksi nainen saivat vakavia myrkytysoireita. Vuonna 1955 syntynyt mies vapautettiin kaikista syytteistä Kauhavan käräjäoikeudessa kesäkuussa 2007, ja Vaasan hovioikeus piti vapauttavan tuomion voimassa helmikuussa 2008.",
+        "detail": "Oikeus- ja uutistietojen mukaan illanistujaiset alkoivat 9. joulukuuta 2006 noin kello 23 syytetyn kotona Kauhavalla. Seurueelle tarjottu kilju oli terästetty pakkasnesteellä. Myrkytysoireet ilmenivät vasta viiveellä, ja kuolemat seurasivat toisiaan joulun alla ja sen jälkeen: ensimmäisenä menehtyi 52-vuotias mies 21. joulukuuta, seuraavana 47-vuotias mies 23. joulukuuta ja viimeisenä löytyi kuolleena 71-vuotias eläkeläismies 26. joulukuuta. Vanhin kuolleista oli 71-vuotias, muut viisikymppisiä. Kenenkään uhrin nimeä ei tässä aineistossa mainita.\n\nKuolleiden lisäksi kaksi miestä ja yksi nainen saivat vakavia myrkytysoireita. 47-vuotiaan miehen avovaimo sai pysyvän munuaisvaurion ja joutui käymään dialyysihoidoissa kolmesti viikossa Seinäjoen keskussairaalassa; myöhemmin hoito siirtyi kotihoitoon.\n\nSyytteeseen joutui vuonna 1955 syntynyt kauhavalainen mies, jonka kotona ilta oli alkanut. Häntä syytettiin yhdestä murhasta, kahdesta taposta ja kolmesta tapon yrityksestä. Hän kiisti antaneensa myrkkypulloa ja kiisti myös lukeneensa Valittujen Palojen artikkelia 'Musta leski', jonka kerrottiin kuvanneen vastaavan myrkytystavan. Mies oli tutkintavankeudessa 5 kuukautta 20 päivää.\n\nNäyttö jäi ohueksi. Teknisessä tutkinnassa ei saatu selvyyttä siihen, mistä myrkkyviinassa käytetty pakkasneste oli peräisin, eikä syytetyn asunnon perusteellisessa tutkinnassa löytynyt viitteitä pakkasnesteen käsittelystä. Kauhavan käräjäoikeus aloitti pääkäsittelyn 19. kesäkuuta 2007 ja hylkäsi kaikki syytteet 21. kesäkuuta 2007 näytön puuttuessa; mies vapautettiin yllättäen juhannuksen alla. Vaasan hovioikeus käsitteli valitukset 21.–23. tammikuuta 2008 ja hylkäsi ne 21. helmikuuta 2008 pitäen vapauttavan tuomion ennallaan. Ketään ei siis ole tuomittu teosta.\n\nAineiston tarkin paikkatieto on syytetyn asunto Kauhavalla, jossa myrkytetty kilju juotiin, mutta osoitetta ei ketjussa kerrota, joten kartan merkki osoittaa vain kuntatason sijainnin.\n\nKeskustelupalstalla on lisäksi esitetty vahvistamaton väite, jonka mukaan 'myrkkyviinan keittäjä' olisi jokin aika sitten löytynyt kuolleena omasta asunnostaan. Tämä on pelkkä palstakirjoittajan väite, jolle ei aineistossa ole oikeus- tai uutislähdettä."
+      },
+      "en": {
+        "lead": "In Kauhava in December 2006, three men died after drinking homebrew (kilju) spiked with antifreeze. The fatal drinking party began at about 11 pm on 9 December at the home of the man later prosecuted. Two other men and a woman were seriously poisoned. The accused, born in 1955, was acquitted of all charges by Kauhava District Court in June 2007, and Vaasa Court of Appeal upheld the acquittal in February 2008.",
+        "detail": "According to court and news accounts, the evening began at around 11 pm on 9 December 2006 at the accused man's home in Kauhava. The homebrew served to the party had been laced with antifreeze. The poisoning took effect slowly, and the deaths followed over the Christmas period: a 52-year-old man died first, on 21 December; a 47-year-old man died on 23 December; and a 71-year-old retired man was found dead on 26 December. The oldest of the dead was 71, the others in their fifties. None of the victims is named in this material.\n\nBesides the dead, two men and one woman suffered severe poisoning symptoms. The 47-year-old man's common-law wife sustained permanent kidney damage and had to attend dialysis three times a week at Seinäjoki Central Hospital; her treatment was later moved to home care.\n\nThe man prosecuted was a Kauhava resident born in 1955, at whose apartment the evening had started. He was charged with one count of murder, two of manslaughter and three of attempted manslaughter. He denied handing over the poisoned bottle and denied having read the magazine article 'Musta leski' in Valitut Palat, which reportedly described the same poisoning method. He spent 5 months and 20 days in pre-trial custody.\n\nThe evidence remained thin. Forensic examination could not establish where the antifreeze used in the drink had come from, and a thorough search of the accused's apartment produced no trace of antifreeze having been handled there. Kauhava District Court opened the main hearing on 19 June 2007 and dismissed all charges on 21 June 2007 for lack of evidence; the man was released, unexpectedly, just before Midsummer. Vaasa Court of Appeal heard the appeals on 21–23 January 2008 and rejected them on 21 February 2008, leaving the acquittal standing. No one has been convicted of the deaths.\n\nThe most precise location in the material is the accused man's apartment in Kauhava, where the poisoned drink was consumed, but no address is given in the thread, so the map marker only indicates the municipality.\n\nOne further, unverified forum claim states that the 'brewer of the poisoned drink' was found dead in his own apartment some months before the post was written. That is a poster's assertion only, with no court or news source in this material."
+      }
+    },
+    "victims": [
+      {
+        "name": "Unknown",
+        "description": "52-year-old man, first victim, died December 21, 2006",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=78837#p78837"
+        ]
+      },
+      {
+        "name": "Unknown",
+        "description": "47-year-old man, second victim, died December 23, 2006",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=78837#p78837"
+        ]
+      },
+      {
+        "name": "Unknown",
+        "description": "71-year-old retiree, third victim, died December 26, 2006",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=78837#p78837"
+        ]
+      },
+      {
+        "name": "Unknown",
+        "description": "47-year-old man's girlfriend (avovaimo), suffered permanent kidney damage (munuaisvaurion) and required dialysis treatment three times per week",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=78837#p78837"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Unknown (born 1955)",
+        "description": "52-year-old man from Kauhava, accused of mixing antifreeze into homebrew (kilju) and distributing it during a drinking party on December 9-10, 2006. Charged with one murder, two counts of manslaughter, and three counts of attempted manslaughter. Denied giving the poisoned bottle and denied reading the magazine article ('Musta leski' in Valitut Palat) that reportedly described the poisoning method. Released after 5 months 20 days in custody.",
+        "status": "acquitted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=78837#p78837",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=79125#p79125"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Kauhava, defendant's apartment",
+        "detail": "The poisoned alcohol was initially consumed here during a drinking party on December 9-10, 2006. Three men later died from the poisoned antifreeze-laced homebrew.",
+        "quote": "Kohtalokkaat illanistujaiset alkoivat 9. joulukuuta noin kello 23 syytetyn kotona",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=78837#p78837",
+        "precision": "address",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kauhava",
+        "detail": "The poisoned alcohol incident and subsequent deaths occurred in Kauhava. Three men died from consuming the poisoned homebrew and antifreeze mixture.",
+        "quote": "Kolme miestä kuoli juotuaan pakkasnesteellä terästettyä kiljua Kauhavalla joulukuussa 2006",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=89280#p89280",
+        "precision": "town",
+        "credibility": "news",
+        "used_for_marker": true
+      },
+      {
+        "label": "Seinäjoen keskussairaala",
+        "detail": "Seinäjoki central hospital where victims received dialysis treatment for antifreeze poisoning. One victim required dialysis three times per week.",
+        "quote": "Naisen tilanne on kohentunut sikäli, että enää hänen ei tarvitse käydä Seinäjoen keskussairaalassa dialyysihoidon takia, vaan hän on nyt siirtynyt kotihoitoon",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=78837#p78837",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      },
+      {
+        "label": "Kauhavan käräjäoikeus",
+        "detail": "District court handling the case. Trial began June 19, 2007 and dismissed all charges on June 21, 2007.",
+        "quote": "Kauhavan käräjäoikeus on hylännyt kaikki myrkkyviinajutun syytteet",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=8243#p8243",
+        "precision": "town",
+        "credibility": "official",
+        "used_for_marker": false
+      }
+    ],
+    "sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=89280#p89280",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=78837#p78837",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=8243#p8243",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=290826#p290826"
+    ],
+    "thread": "https://murha.info/rikosfoorumi/viewtopic.php?t=583"
   }
 ];
