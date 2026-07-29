@@ -7201,5 +7201,338 @@
         "country_code": "fi"
       }
     }
-  ]
+  ],
+  "Kinnula": [
+    {
+      "lat": 63.366783,
+      "lon": 24.9708779,
+      "display_name": "Kinnula, Saarijärvi-Viitasaaren seutukunta, Keski-Suomi, Manner-Suomi, 43900, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kinnula",
+        "municipality": "Saarijärvi-Viitasaaren seutukunta",
+        "state": "Keski-Suomi",
+        "ISO3166-2-lvl4": "FI-08",
+        "region": "Manner-Suomi",
+        "postcode": "43900",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.336583,
+      "lon": 29.4890173,
+      "display_name": "Kinnula, Virmanmäki, Resko, Rääkkylä, Keski-Karjalan seutukunta, Pohjois-Karjala, Manner-Suomi, 82310, Suomi / Finland",
+      "type": "isolated_dwelling",
+      "addresstype": "isolated_dwelling",
+      "address": {
+        "isolated_dwelling": "Kinnula",
+        "hamlet": "Virmanmäki",
+        "village": "Resko",
+        "town": "Rääkkylä",
+        "municipality": "Keski-Karjalan seutukunta",
+        "state": "Pohjois-Karjala",
+        "ISO3166-2-lvl4": "FI-13",
+        "region": "Manner-Suomi",
+        "postcode": "82310",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Alajärvi|23.9670,63.8168,25.9747,62.9168": [
+    {
+      "lat": 63.0922389,
+      "lon": 24.0756705,
+      "display_name": "Koivumäki th (Alajärvi), Vehkalammentie, Karstaperä, Alajärvi, Järviseudun seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "bus_stop",
+      "addresstype": "highway",
+      "address": {
+        "highway": "Koivumäki th (Alajärvi)",
+        "road": "Vehkalammentie",
+        "village": "Karstaperä",
+        "town": "Alajärvi",
+        "municipality": "Järviseudun seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.1199335,
+      "lon": 24.0071557,
+      "display_name": "Isojoki (Alajärvi), Koivumäentie, Alajärvi, Järviseudun seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "bus_stop",
+      "addresstype": "highway",
+      "address": {
+        "highway": "Isojoki (Alajärvi)",
+        "road": "Koivumäentie",
+        "town": "Alajärvi",
+        "municipality": "Järviseudun seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Äänekoski|23.9670,63.8168,25.9747,62.9168": [],
+  "Vaasa|23.9670,63.8168,25.9747,62.9168": [],
+  "Helsinki|23.9670,63.8168,25.9747,62.9168": [],
+  "Kauppiaskatu 21b, Turku|21.3545,60.9016,23.1795,60.0016": [
+    {
+      "lat": 60.4557193,
+      "lon": 22.2633145,
+      "display_name": "21b, Kauppiaskatu, Aninkaistenmäki, VI, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20100, Suomi / Finland",
+      "type": "apartments",
+      "addresstype": "building",
+      "address": {
+        "house_number": "21b",
+        "road": "Kauppiaskatu",
+        "neighbourhood": "Aninkaistenmäki",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.4557573,
+      "lon": 22.2633571,
+      "display_name": "Turun Katulähetys ry, 21b, Kauppiaskatu, Aninkaistenmäki, VI, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20100, Suomi / Finland",
+      "type": "charity",
+      "addresstype": "office",
+      "address": {
+        "office": "Turun Katulähetys ry",
+        "house_number": "21b",
+        "road": "Kauppiaskatu",
+        "neighbourhood": "Aninkaistenmäki",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20100",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Porvoonjoen länsirannalla, Porvoo|24.7511,60.8444,26.5729,59.9444": [],
+  "Partiolaisten kerhohuone, Porvoonjoen länsirannalla, Porvoo|24.7511,60.8444,26.5729,59.9444": [],
+  "Partiolaisten kerhohuone, Porvoo|24.7511,60.8444,26.5729,59.9444": [],
+  "Partiolaisten kerhohuone, Porvoonjoen länsiranna, Porvoo|24.7511,60.8444,26.5729,59.9444": [],
+  "Porvoojoki, Porvoo|24.7511,60.8444,26.5729,59.9444": [],
+  "Kokonniemen laituri, Porvoojoki, Porvoo|24.7511,60.8444,26.5729,59.9444": [],
+  "Kokonniemen laituri, Porvoo|24.7511,60.8444,26.5729,59.9444": [],
+  "Porvoon käräjäoikeus, Porvoo|24.7511,60.8444,26.5729,59.9444": [],
+  "Lappeenranta|24.7511,60.8444,26.5729,59.9444": [],
+  "Merimasku": [
+    {
+      "lat": 60.4799034,
+      "lon": 21.871538,
+      "display_name": "Merimasku, Naantali, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "village",
+      "address": {
+        "village": "Merimasku",
+        "town": "Naantali",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Hannele Rannan Merimaskussa oleva rivitaloasunto|20.9583,60.9299,22.7848,60.0299": [],
+  "Hannele Rannan Merimasku oleva rivitaloasunto|20.9583,60.9299,22.7848,60.0299": [],
+  "Turun yliopistollinen keskussairaala|20.9583,60.9299,22.7848,60.0299": [
+    {
+      "lat": 60.4533719,
+      "lon": 22.2925879,
+      "display_name": "Turun yliopistollinen keskussairaala, 4-8, Kiinamyllynkatu, Ylioppilastalot, I, Keskusta, Turku, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 20520, Suomi / Finland",
+      "type": "hospital",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Turun yliopistollinen keskussairaala",
+        "house_number": "4-8",
+        "road": "Kiinamyllynkatu",
+        "neighbourhood": "Ylioppilastalot",
+        "suburb": "Keskusta",
+        "city": "Turku",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "20520",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Raision poliisiasema|20.9583,60.9299,22.7848,60.0299": [
+    {
+      "lat": 60.4867483,
+      "lon": 22.1725024,
+      "display_name": "Raision poliisiasema, 8, Nallinkatu, Venhe, Kerttula, Raisio, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 21200, Suomi / Finland",
+      "type": "police",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Raision poliisiasema",
+        "house_number": "8",
+        "road": "Nallinkatu",
+        "neighbourhood": "Venhe",
+        "suburb": "Kerttula",
+        "town": "Raisio",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "21200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Naantalin terveyskeskus|20.9583,60.9299,22.7848,60.0299": [
+    {
+      "lat": 60.4693614,
+      "lon": 22.0262474,
+      "display_name": "Naantalin terveyskeskus, 6, Tuulensuunkatu, Kantakaupunki, Mannerpuoli, Naantali, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 21101, Suomi / Finland",
+      "type": "clinic",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Naantalin terveyskeskus",
+        "house_number": "6",
+        "road": "Tuulensuunkatu",
+        "suburb": "Kantakaupunki",
+        "city_district": "Mannerpuoli",
+        "town": "Naantali",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "21101",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.4688747,
+      "lon": 22.026535,
+      "display_name": "Naantalin terveyskeskus, Tuulensuunkatu, Kantakaupunki, Mannerpuoli, Naantali, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 21101, Suomi / Finland",
+      "type": "bus_stop",
+      "addresstype": "highway",
+      "address": {
+        "highway": "Naantalin terveyskeskus",
+        "road": "Tuulensuunkatu",
+        "suburb": "Kantakaupunki",
+        "city_district": "Mannerpuoli",
+        "town": "Naantali",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "21101",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Turku, Kaskenkaidu|20.9583,60.9299,22.7848,60.0299": [],
+  "Asikkala": [
+    {
+      "lat": 61.2332298,
+      "lon": 25.5528781,
+      "display_name": "Asikkala, Lahden seutukunta, Päijät-Häme, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "city",
+      "address": {
+        "city": "Asikkala",
+        "municipality": "Lahden seutukunta",
+        "state": "Päijät-Häme",
+        "ISO3166-2-lvl4": "FI-16",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Vääksy, Asikkala|24.6178,61.6832,26.4880,60.7832": [
+    {
+      "lat": 61.1752192,
+      "lon": 25.5300579,
+      "display_name": "Vääksy, Asikkala, Lahden seutukunta, Päijät-Häme, Manner-Suomi, 17200, Suomi / Finland",
+      "type": "town",
+      "addresstype": "town",
+      "address": {
+        "town": "Vääksy",
+        "city": "Asikkala",
+        "municipality": "Lahden seutukunta",
+        "state": "Päijät-Häme",
+        "ISO3166-2-lvl4": "FI-16",
+        "region": "Manner-Suomi",
+        "postcode": "17200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Aniantie 21 C, Vääksy, Asikkala|24.6178,61.6832,26.4880,60.7832": [
+    {
+      "lat": 61.1672753,
+      "lon": 25.552125,
+      "display_name": "Aniantie, Arola, Telakkaranta, Suiva, Vääksy, Asikkala, Lahden seutukunta, Päijät-Häme, Manner-Suomi, 17200, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Aniantie",
+        "neighbourhood": "Arola",
+        "quarter": "Telakkaranta",
+        "suburb": "Suiva",
+        "town": "Vääksy",
+        "city": "Asikkala",
+        "municipality": "Lahden seutukunta",
+        "state": "Päijät-Häme",
+        "ISO3166-2-lvl4": "FI-16",
+        "region": "Manner-Suomi",
+        "postcode": "17200",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Arabiankallio, Muhos|24.9382,65.2563,27.0525,64.3563": [],
+  "Muhos|24.9382,65.2563,27.0525,64.3563": [
+    {
+      "lat": 64.8063089,
+      "lon": 25.9953642,
+      "display_name": "Muhos, Oulun seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Muhos",
+        "municipality": "Oulun seutukunta",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Forest road, Vuosaari, Helsinki|24.0390,60.6166,25.8481,59.7166": [],
+  "Forest road, Helsinki|24.0390,60.6166,25.8481,59.7166": []
 }

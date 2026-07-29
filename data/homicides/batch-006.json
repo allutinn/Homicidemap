@@ -1713,5 +1713,671 @@
       "confidence": "high",
       "reasoning": "The thread documents a single homicide incident: a 41-year-old woman killed with a knife in July 2007 in her Pori Väinölä apartment. Harri Kalevi Niemi, 53, was arrested, confessed, and was convicted to 10 years in prison by Pori District Court (sentence reported 2007-10-25). The 2003 and 2000 incidents mentioned are separate crimes by the same perpetrator, provided for context about his criminal history."
     }
+  },
+  {
+    "topic_id": "849",
+    "batch": "006",
+    "title": "Kinnulan kolmoissurma ravintola Iltavillissä, Kinnula, tammikuu 2000",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=849",
+    "municipality": "Kinnula",
+    "incident_date": "2000-01",
+    "incident_date_note": "Tarkkaa päivää ei ketjussa kerrota. Kesäkuussa 2001 julkaistussa, ketjuun lainatussa uutisessa teon ajankohdaksi mainitaan \"viime vuoden tammikuussa\", eli tammikuu 2000.",
+    "solved_status": "solved",
+    "outcome": "Simo Tapio Latvala, a man from Alajärvi, was convicted of the shooting. According to a news report quoted in the thread, Äänekoski District Court (Äänekosken käräjäoikeus) sentenced him in December 2000 to life imprisonment for two murders and one manslaughter (kahdesta murhasta ja yhdestä taposta). The Vaasa Court of Appeal (Vaasan hovioikeus) upheld the life sentence on 5 June 2001, rejecting his argument that he had not acted with premeditation. According to a further report cited in the thread, the Helsinki Court of Appeal (Helsingin hovioikeus) decided to release him, and he was paroled on 1 October 2014 after serving roughly 14 years. Posters also state that an earlier release application in 2011 was refused by the same court; that claim rests on forum discussion rather than on a cited ruling.",
+    "overview": {
+      "fi": {
+        "lead": "Tammikuussa 2000 alajärveläinen Simo Tapio Latvala ampui Kinnulassa ravintola Iltavillissä kolme ihmistä: entisen tyttöystävänsä Sini Juuselan, tämän uuden poikaystävän Mika Koivulan sekä ravintolassa olleen miesasiakkaan. Äänekosken käräjäoikeus tuomitsi Latvalan joulukuussa 2000 elinkautiseen vankeuteen kahdesta murhasta ja yhdestä taposta, ja Vaasan hovioikeus pysytti tuomion voimassa 5. kesäkuuta 2001. Latvala vapautui ehdonalaiseen 1. lokakuuta 2014.",
+        "detail": "Ketjun aineiston mukaan tammikuussa 2000 Kinnulan keskustassa sijainneessa ravintola Iltavillissä ammuttiin kolme ihmistä kuoliaaksi. Ketjuun lainatun uutistiedon mukaan ampuja oli alajärveläinen Simo Tapio Latvala ja surmansa saivat hänen entinen tyttöystävänsä, tämän uusi poikaystävä sekä ravintolassa ollut miesasiakas. Kirjoittajien kertoman mukaan Latvala oli hakenut kotoaan haulikon ja lähtenyt sen jälkeen ravintolaan, jossa tiesi entisen tyttöystävänsä olevan; tämä kuvaus tapahtumien kulusta perustuu foorumikirjoitukseen eikä lainattuun oikeuden ratkaisuun tai uutiseen.\n\nUhrit nimetään ketjussa. Sini Juusela ja Mika Koivula mainitaan ketjuun lainatuissa uutis- ja oikeustiedoissa; Koivula oli ravintolan omistajan poika. Kolmannen uhrin nimenä esitetään Kalevi Koivukumpu, mutta tämä nimi perustuu yksinomaan foorumikirjoittajan väitteeseen.\n\nTapahtumapaikaksi ketjussa ilmoitetaan osoite Keskustie 53, Kinnula. Myös tämä osoitetieto on kirjoittajan esittämä eikä peräisin lainatusta viranomais- tai uutislähteestä, joskin ravintola Iltavilli surmapaikkana käy ilmi useammasta ketjun lähteestä.\n\nOikeuskäsittelystä ketjuun on lainattu uutistietoja: Äänekosken käräjäoikeus tuomitsi Latvalan joulukuussa 2000 elinkautiseen vankeuteen kahdesta murhasta ja yhdestä taposta. Vaasan hovioikeus pysytti elinkautistuomion voimassa 5. kesäkuuta 2001 ja hylkäsi Latvalan väitteen siitä, ettei hän olisi toiminut harkiten. Ketjussa kerrotaan lisäksi, että heinäkuussa 2001 Kuopion lääninvankilassa toinen vanki, Ilkka Antero Partanen, kävi Latvalan kimppuun saksilla ja aiheutti hänelle vakavan vamman; tämäkin tieto on ketjuun lainattua uutis- tai oikeusaineistoa.\n\nMyöhemmistä vaiheista ketjussa todetaan kirjoittajien kertomana, että Latvala haki vapautumista vuonna 2011 ja Helsingin hovioikeus hylkäsi hakemuksen. Lainatun uutistiedon mukaan Helsingin hovioikeus päätti sittemmin laskea Kinnulan kolmoissurmaajan vapaaksi, ja hän vapautui 1. lokakuuta 2014 istuttuaan elinkautisestaan noin 14 vuotta.\n\nSurmien seurauksia on ketjussa käsitelty myös läheisten näkökulmasta. Mika Koivulan sisar Kirsimarja Kinnunen on ketjuun lainatussa jutussa kuvannut omaisille jäänyttä pitkäaikaista traumaa sekä perheen liiketoiminnan päättymistä. Kirjoittajien mukaan ravintolan omistaja, Koivulan isä, lopetti ravintolatoiminnan välittömästi poikansa surman jälkeen."
+      },
+      "en": {
+        "lead": "In January 2000, Simo Tapio Latvala, a man from Alajärvi, shot three people dead at the Iltavilli restaurant in Kinnula: his ex-girlfriend Sini Juusela, her new boyfriend Mika Koivula, and a male customer. Äänekoski District Court sentenced Latvala in December 2000 to life imprisonment for two murders and one manslaughter, and the Vaasa Court of Appeal upheld the sentence on 5 June 2001. He was paroled on 1 October 2014.",
+        "detail": "According to the material in the thread, three people were shot dead in January 2000 at the Iltavilli restaurant in the centre of Kinnula. A news report quoted in the thread identifies the shooter as Simo Tapio Latvala of Alajärvi and the dead as his former girlfriend, her new boyfriend, and a male customer who was in the restaurant. Posters describe Latvala fetching a shotgun from his home and then going to the restaurant where he knew his ex-girlfriend would be; that account of the sequence of events rests on forum posting rather than on any quoted ruling or news report.\n\nThe victims are named in the thread. Sini Juusela and Mika Koivula appear in the court and news material quoted there; Koivula was the son of the restaurant's owner. The third victim is named by a poster as Kalevi Koivukumpu, and that name rests solely on forum claim.\n\nThe thread gives the scene as Keskustie 53, Kinnula. That street address, too, comes from a poster rather than from a quoted official or news source, although the Iltavilli restaurant as the killing site is supported by several sources cited in the thread.\n\nOn the court proceedings, news material quoted in the thread states that Äänekoski District Court sentenced Latvala in December 2000 to life imprisonment for two murders and one manslaughter. The Vaasa Court of Appeal upheld the life sentence on 5 June 2001, rejecting his argument that he had not acted with premeditation. The thread also reports, on court or news material, that in July 2001, while held at Kuopio provincial prison, another inmate named Ilkka Antero Partanen attacked Latvala with scissors and caused him serious injury.\n\nAs to later developments, posters state that Latvala sought release in 2011 and that the Helsinki Court of Appeal refused the application; that is forum discussion. A report cited in the thread states that the Helsinki Court of Appeal subsequently decided to release the Kinnula triple killer, and that he walked free on 1 October 2014 after serving roughly 14 years of his life sentence.\n\nThe consequences for those left behind are also discussed. In an article cited in the thread, Kirsimarja Kinnunen, Mika Koivula's sister, described the severe lasting trauma suffered by the victims' families and the loss of the family business. Posters add that the restaurant's owner, Koivula's father, shut the restaurant down immediately after his son's killing."
+      }
+    },
+    "victims": [
+      {
+        "name": "Sini Juusela",
+        "description": "Woman, perpetrator's ex-girlfriend, shot and killed at the restaurant",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=307998#p307998"
+        ]
+      },
+      {
+        "name": "Mika Koivula",
+        "description": "Man, Sini's new boyfriend and son of the restaurant owner, shot and killed at the restaurant",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=180153#p180153"
+        ]
+      },
+      {
+        "name": "Kalevi Koivukumpu",
+        "description": "Man, bystander at the restaurant, shot and killed",
+        "support": "forum_claim",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=307998#p307998"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Simo Tapio Latvala",
+        "description": "Man from Alajärvi, convicted of shooting three people at restaurant Iltavilli in Kinnula in January 2000",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=180153#p180153"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Alajärvi",
+        "detail": "Location where perpetrator Simo Latvala obtained the shotgun before traveling to Kinnula",
+        "quote": "Tästä suivaantuneena tämä Alajärveläinen kaveri haki kotoaan haulikon, meni ravintolaan missä tiesi ex-tyttönsä olevan ja ampui tämän sekä sen uuden poikakaverin.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=13921#p13921",
+        "precision": "town",
+        "credibility": "forum_claim"
+      },
+      {
+        "label": "Äänekoski",
+        "detail": "Location of the district court that convicted Latvala in December 2000",
+        "quote": "Äänekosken käräjäoikeus tuomitsi joulukuussa alajärveläisen Simo Tapio Latvalan elinkautiseen vankeuteen kahdesta murhasta ja yhdestä taposta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=180153#p180153",
+        "precision": "town",
+        "credibility": "official"
+      },
+      {
+        "label": "Vaasa",
+        "detail": "Vaasa Court of Appeals upheld the life sentence on 5 June 2001",
+        "quote": "Vaasan hovioikeus pysytti voimassa Kinnulan kolmoissurmaajalle määrätyn elinkautistuomion.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=180153#p180153",
+        "precision": "town",
+        "credibility": "official"
+      },
+      {
+        "label": "Helsinki",
+        "detail": "Helsinki Court of Appeals granted parole on 1 October 2014",
+        "quote": "Helsingin hovioikeus on päättänyt laskea vapaaksi Kinnulan kolmoissurmaajan. Mies astelee vapauteen 1. lokakuuta tänä vuonna.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=610636#p610636",
+        "precision": "town",
+        "credibility": "official"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=13921#p13921",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=180153#p180153",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=508418#p508418",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=372536#p372536",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=610634#p610634",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=587735#p587735"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "This thread describes a single lethal incident in January 2000 when one perpetrator fired multiple shots at three people in one location (restaurant Iltavilli in Kinnula) at one time. All three victims died. The thread extensively documents this specific event and its aftermath."
+    }
+  },
+  {
+    "topic_id": "851",
+    "batch": "006",
+    "title": "Kahden opiskelijan surmat Kauppiaskadulla, Turku 1.1.2000",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=851",
+    "municipality": "Turku",
+    "incident_date": "2000-01-01",
+    "incident_date_note": "Uudenvuodenpäivä 2000 (uudenvuodenpäivänä)",
+    "solved_status": "solved",
+    "outcome": "Kaarlo Puhakainen (54) was found guilty of two murders by Turku District Court on 6 July 2000. Because a psychiatric examination found him to be suffering from paranoid schizophrenia with moderate depression and thus not criminally responsible, he was not sentenced to imprisonment but was committed to compulsory psychiatric care at Niuvanniemi hospital in Kuopio. The victims' families were awarded a total of 725,000 Finnish marks in compensation, far less than the 3.25 million marks they had claimed for emotional suffering.",
+    "overview": {
+      "fi": {
+        "lead": "Turkulainen liikemies Kaarlo Puhakainen kutsui uudenvuodenpäivänä 2000 22-vuotiaan poikapuolensa ja tämän 23-vuotiaan naisystävän lounaalle kotiinsa Kauppiaskadulle ja surmasi molemmat fileerausveitsillä. Turun käräjäoikeus totesi Puhakaisen 6. heinäkuuta 2000 syylliseksi kahteen murhaan, mutta jätti hänet syyntakeettomana tuomitsematta vankeuteen ja passitti pakkohoitoon Kuopion Niuvanniemen sairaalaan.",
+        "detail": "Uudenvuodenpäivänä 2000 halpatavaraliikkeiden ketjua omistanut 54-vuotias liikemies Kaarlo Puhakainen kutsui 22-vuotiaan poikapuolensa ja tämän 23-vuotiaan naisystävän lounaalle kotiinsa Kauppiaskatu 21b:hen Turkuun. Poikapuoli opiskeli taloustiedettä ja nuori nainen lääketiedettä. Kumpaakaan uhria ei ketjun aineistossa nimetä.\n\nOikeudenkäynnistä kertoneiden tietojen mukaan surma oli suunniteltu etukäteen: Puhakainen oli ennen vieraiden saapumista sekoittanut rauhoittavaa lääkettä jouluglögiin ja teipannut kaksi fileerausveistä ruokapöydän alapintaan. Aterian aikana hän viilsi molempien uhrien kaulat auki. Hänen 12-vuotias poikansa osallistui tekoon lyömällä naisuhria kahdesti selkään toisella fileerausveitsellä. Puhakainen kertoi uskoneensa, että uhrien ruumiisiin oli mennyt demonisia henkiä, ja väitti toimineensa Jumalan käskystä maailman pelastamiseksi.\n\nSurmien jälkeen Puhakainen siirtyi yrityksensä varastolle Lietoon ja pyrki sittemmin laivalla Ruotsiin hakeakseen Tukholmasta hoitoa käsivammaansa. Hänet ja poika otettiin kiinni laivalla ennen sen rantautumista. Poika joutui tapahtuman jälkeen sairaalaan ja jäi psykiatriseen hoitoon; alle 15-vuotiaana hän ei ollut rikosoikeudellisessa vastuussa teostaan.\n\nTurun käräjäoikeus totesi Puhakaisen keskiviikkona 6. heinäkuuta 2000 syylliseksi kahteen murhaan. Osa käsittelystä pidettiin suljetuin ovin. Mielentilatutkimuksessa hänen todettiin sairastavan paranoidista skitsofreniaa ja keskivaikeaa masennusta, ja oireita oli havaittavissa ainakin vuoden 1998 lopulta alkaen. Syyntakeettomana häntä ei tuomittu vankeuteen, vaan hänet passitettiin pakkohoitoon Kuopion Niuvanniemen sairaalaan. Uhrien omaisille tuomittiin korvauksia yhteensä 725 000 markkaa, selvästi vähemmän kuin heidän vaatimansa 3,25 miljoonaa markkaa kärsimyksestä.\n\nKaikki edellä kerrottu perustuu ketjussa siteerattuihin oikeuden ratkaisua ja poliisitutkintaa selostaneisiin uutistietoihin, ei keskustelijoiden omiin arvailuihin. Myös tekijän nimi on peräisin näistä uutislähteistä. Ketjun sisältämiä uhrien tai muiden osallisten henkilöllisyyttä koskevia spekulaatioita ei ole otettu tähän mukaan."
+      },
+      "en": {
+        "lead": "On New Year's Day 2000, Turku businessman Kaarlo Puhakainen invited his 22-year-old stepson and the young man's 23-year-old girlfriend to lunch at his home on Kauppiaskatu and killed both by slashing their throats with filleting knives. Turku District Court found him guilty of two murders on 6 July 2000 but, ruling him insane, committed him to compulsory psychiatric care instead of prison.",
+        "detail": "On New Year's Day 2000, Kaarlo Puhakainen, a 54-year-old businessman who owned a chain of discount stores, invited his 22-year-old stepson and the young man's 23-year-old girlfriend to lunch at his home at Kauppiaskatu 21b in Turku. The stepson was a student of economics, the young woman a student of medicine. Neither victim is named in the material gathered from the thread.\n\nAccording to accounts of the court proceedings, the killings were planned in advance: before his guests arrived, Puhakainen mixed sedative medication into Christmas glogg and taped two filleting knives to the underside of the dining table. During the meal he slashed both victims' throats. His 12-year-old son took part by striking the female victim twice in the back with another filleting knife. Puhakainen said he believed demonic spirits had taken possession of the victims' bodies and claimed he was acting on God's orders to save the world.\n\nAfter the killings, Puhakainen moved to his company's warehouse in Lieto and later attempted to reach Sweden by ship in order to have a wound to his hand treated in Stockholm. He and the boy were arrested aboard the ship before it docked. The boy was hospitalised after the incident and remained in psychiatric care; being under 15, he bore no criminal responsibility.\n\nOn Wednesday 6 July 2000, Turku District Court found Puhakainen guilty of two murders, with parts of the proceedings held behind closed doors. A psychiatric examination concluded that he suffered from paranoid schizophrenia with moderate depression, with symptoms apparent since at least late 1998. Being not criminally responsible, he was not sentenced to imprisonment but was committed to compulsory care at Niuvanniemi hospital in Kuopio. The victims' families were awarded 725,000 Finnish marks in total, far below the 3.25 million marks they had claimed for emotional suffering.\n\nEverything above rests on court and news reporting quoted in the thread rather than on posters' own claims; the perpetrator's name likewise comes from those news sources. Speculation posted in the thread about the identities of the victims or others involved has been left out."
+      }
+    },
+    "victims": [
+      {
+        "name": "",
+        "description": "22-year-old male, economics student (taloustieteen opiskelija), stepson of the perpetrator",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=198864#p198864"
+        ]
+      },
+      {
+        "name": "",
+        "description": "23-year-old female, medicine student (lääketieteen opiskelija), girlfriend of the male victim",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=198864#p198864"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Kaarlo Puhakainen",
+        "description": "Age 54, businessman (liikemies), owner of a chain of discount stores (halpatavaraliikkeiden ketjun). Had psychiatric symptoms dating to at least late 1998.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=198864#p198864",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1613943#p1613943"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Kauppiaskatu 21b, Turku",
+        "detail": "Puhakainen's home where the victims were invited for lunch and killed. He slashed both victims' throats with filleting knives; his 12-year-old son struck the female victim twice in the back with another knife.",
+        "quote": "Liikemies oli kutsunut 22-vuotiaan poikapuolensa ja tämän 23-vuotiaan naisystävän kotiinsa Kauppiaskadulle.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=79692#p79692",
+        "precision": "address",
+        "credibility": "official"
+      },
+      {
+        "label": "Turku District Court",
+        "detail": "Court where Puhakainen was tried and found guilty of two murders on July 6, 2000. Trial took place with some proceedings held in closed session.",
+        "quote": "todettiin keskiviikkona Turun käräjäoikeudessa syylliseksi kahteen murhaan.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=198864#p198864",
+        "precision": "town",
+        "credibility": "official"
+      },
+      {
+        "label": "Kuopion Niuvanniemi hospital",
+        "detail": "Psychiatric hospital where Puhakainen was committed to compulsory care after being found not guilty by reason of insanity due to paranoid schizophrenia with moderate depression.",
+        "quote": "passitettiin pakkohoitoon Kuopion Niuvanniemen sairaalaan.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=198864#p198864",
+        "precision": "town",
+        "credibility": "official"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=198864#p198864",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=79692#p79692",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=14216#p14216"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "One incident on New Year's Day 2000 in which two people were killed together in a single event at one location. The thread is substantively about this one homicide event with two victims, not multiple separate incidents."
+    }
+  },
+  {
+    "topic_id": "858",
+    "batch": "006",
+    "title": "21-vuotiaan miehen surma, Porvoo 7.12.2000",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=858",
+    "municipality": "Porvoo",
+    "incident_date": "2000-12-07",
+    "incident_date_note": "December 7, 2000, according to the news article quoted in the thread (post #14).",
+    "solved_status": "solved",
+    "outcome": "An 18-year-old man from Porvoo (17 at the time of the killing) was convicted in Porvoon käräjäoikeus (Porvoo District Court) of manslaughter (tappo) and drug offences for strangling a 21-year-old man on 7 December 2000. He was sentenced as a young offender; a forum poster states the sentence was seven years in prison and that he was released after about 3.5 years. The exact date of the judgment is not given in the material. News reporting also notes he was ordered by the district court to undergo a mental state examination. A school friend of the offender was charged with desecration of the dead for helping dispose of the body; the material shows no conviction for a serious offence against him.",
+    "overview": {
+      "fi": {
+        "lead": "Porvoossa surmattiin 7. joulukuuta 2000 21-vuotias asunnoton mies partiolaisten kerhohuoneessa Porvoonjoen länsirannalla. Tekijä, tuolloin 17-vuotias porvoolainen lukiolainen, kuristi uhrin köydellä riidan jälkeen vähäisestä huumevelasta. Ruumis upotettiin Porvoonjokeen 30-kiloinen moottorilohko kiinnitettynä, ja se löytyi vasta 14. huhtikuuta 2001. Tekijä tuomittiin Porvoon käräjäoikeudessa taposta ja huumausainerikoksista.",
+        "detail": "Oikeus- ja lehtitietojen mukaan surma tapahtui 7. joulukuuta 2000 partiolaisten kerhohuoneessa Porvoonjoen länsirannalla. Uhri oli 21-vuotias porvoolainen mies, joka oli asunnoton ja huumeriippuvainen. Hän makasi sohvalla heroiinin vaikutuksen alaisena ja oli lähes puolustuskyvyttömässä tilassa, kun häntä vastaan hyökättiin. Kuolema aiheutui kuristamisesta köydellä, jonka molemmissa päissä oli silmukat; köysi löytyi uhrin kaulasta. Foorumilla esitetyn tiedon mukaan uhri tukehtui kuristamisen seurauksena eikä häneen ollut kohdistettu muuta väkivaltaa.\n\nTekijä oli teon aikaan 17-vuotias ja oikeudenkäynnin aikaan 18-vuotias porvoolainen lukiolainen, jolla oli partiotausta; hänen kerrotaan toimineen aktiivisesti partiossa myös lapsiryhmien parissa. Lehtitietojen mukaan tekijä ja uhri olivat kahden muun porvoolaisen nuorukaisen kanssa hakeneet heroiinia Lappeenrannasta surmaa edeltäneenä yönä. Syyttäjän mukaan uhri oli avuton ja surman taustalla oli äkillinen raivostuminen vähäisestä huumevelasta. Tekijä itse vetosi aluksi hätävarjeluun ja kertoi uhrin hyökänneen hänen kimppuunsa lekalla.\n\nRuumis vietiin Porvoonjokeen ja siihen kiinnitettiin noin 30 kilon painoinen auton moottorilohko, jotta se pysyisi veden alla. Ruumis löytyi Kokonniemen laiturin edustalta vasta 14. huhtikuuta 2001, noin neljä kuukautta surman jälkeen. Foorumikirjoittajien mukaan poliisi ei etsinyt uhria, koska tämä oli asunnoton eikä kukaan ollut ilmoittanut häntä kadonneeksi. Ruumiin hävittämisessä auttoi tekijän koulukaveri, jolle foorumitiedon mukaan valehdeltiin kuoleman johtuneen hätävarjelusta; häntä syytettiin hautarauhan rikkomisesta.\n\nTekijä määrättiin Porvoon käräjäoikeudessa mielentilatutkimukseen ja tuomittiin samassa käräjäoikeudessa taposta ja huumausainerikoksista nuorena rikoksentekijänä. Foorumikirjoittajien mukaan tuomio oli seitsemän vuotta vankeutta ja hänet vapautettiin noin 3,5 vuoden jälkeen; saman, vain foorumilla esitetyn tiedon mukaan hän elää nykyään tavallista ja nuhteetonta elämää. Uhria eikä tekijää nimetä tässä aineistossa."
+      },
+      "en": {
+        "lead": "On 7 December 2000 a 21-year-old homeless man was strangled in a scout meeting hall on the west bank of the Porvoo River in Porvoo. The killer, then a 17-year-old local high school student, strangled him with a rope after a dispute over a trivial drug debt. The body, weighted with a 30-kilo engine block, was sunk in the river and found only on 14 April 2001. He was convicted of manslaughter in Porvoo District Court.",
+        "detail": "According to the court and news material quoted in the thread, the killing took place on 7 December 2000 in a scout organisation's meeting hall on the west bank of the Porvoo River. The victim was a 21-year-old man from Porvoo who was homeless and addicted to drugs. He was lying on a sofa under the influence of heroin, in a nearly defenceless state, when he was attacked. He was strangled with a rope that had loops at both ends, and the rope was found around his neck. A forum poster states that he died of suffocation from the strangulation and had not been injured by any other violence.\n\nThe offender was 17 at the time of the crime and 18 at trial, a high school student from Porvoo with a scouting background; he is described as an active scout who had worked with children's groups. News reporting says the offender and the victim, together with two other young men from Porvoo, had fetched heroin from Lappeenranta the night before the killing. The prosecutor argued that the victim was helpless and that the killing was driven by sudden rage over a trivial drug debt. The offender initially claimed self-defence, saying the victim had attacked him with a sledgehammer.\n\nThe body was thrown into the Porvoo River with a roughly 30-kilogram car engine block attached to keep it submerged. It was recovered off the Kokonniemi pier only on 14 April 2001, about four months later. Forum posters say the police never searched for the victim, because he was homeless with no fixed address and no one was looking for him. A school friend of the offender helped dispose of the body; according to forum accounts he had been deceived into believing the death was self-defence, and he helped move the body to the river and attach the engine block. He was charged with desecration of the dead.\n\nThe offender was ordered by Porvoo District Court to undergo a mental state examination and was convicted by that court of manslaughter and drug offences as a young offender. Forum posters state the sentence was seven years in prison, that he was released after about 3.5 years, and that he now lives an ordinary, law-abiding life; those last points rest on forum claims only. Neither the victim nor the offender is named in this material."
+      }
+    },
+    "victims": [
+      {
+        "name": "Unknown",
+        "description": "21-year-old homeless drug addict from Porvoo, known to associates but with no fixed address",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=584224#p584224",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=343190#p343190"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Unknown",
+        "description": "18-year-old high school student from Porvoo (17 at time of crime) with scouting background. Known as active scout who worked with children groups. Killed victim by strangulation over trivial drug debt.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=584224#p584224",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=39907#p39907"
+        ]
+      },
+      {
+        "name": "Unknown",
+        "description": "School friend and accomplice of main offender. Deceived into helping dispose of body, initially told it was an accidental killing. Helped transport body to river and attach engine block. Charged with desecration of the dead.",
+        "status": "charged",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=584224#p584224",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=339626#p339626"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Partiolaisten kerhohuone, Porvoonjoen länsirannalla, Porvoo",
+        "detail": "Scout meeting hall on west bank of Porvoo River where victim was strangled to death",
+        "quote": "Surma tapahtui Porvoonjoen länsirannalla sijainneessa partiolaisten kerhohuoneessa 7. joulukuuta viime vuonna.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=584224#p584224",
+        "precision": "street",
+        "credibility": "news"
+      },
+      {
+        "label": "Kokonniemen laituri, Porvoojoki, Porvoo",
+        "detail": "Pier where body was disposed of in river with engine block attached, and later recovered",
+        "quote": "Porvoon jokeen heitetty ruumis löytyi Kokonniemen laiturin edustalta vasta 14. huhtikuuta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=584224#p584224",
+        "precision": "street",
+        "credibility": "news"
+      },
+      {
+        "label": "Porvoon käräjäoikeus, Porvoo",
+        "detail": "District court where offender was tried and sentenced",
+        "quote": "määrättiin Porvoon käräjäoikeudessa mielentilatutkimukseen",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=584224#p584224",
+        "precision": "town",
+        "credibility": "news"
+      },
+      {
+        "label": "Lappeenranta",
+        "detail": "Town where offender and victim obtained heroin the night before the murder",
+        "quote": "jota he olivat uhrin ja kahden muun porvoolaisen nuorukaisen kanssa hakeneet surmaa edeltäneenä yönä Lappeenrannasta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=584224#p584224",
+        "precision": "town",
+        "credibility": "news"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=584224#p584224",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=408815#p408815",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=343190#p343190",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=339626#p339626",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=39907#p39907"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "This thread discusses a single homicide incident on December 7, 2000, in Porvoo. One 21-year-old homeless victim was strangled to death by an 18-year-old high school student (17 at time of crime) during a dispute over a trivial drug debt. The case resulted in a conviction and sentence. One incident, one victim, one clearly identified offender."
+    }
+  },
+  {
+    "topic_id": "863",
+    "batch": "006",
+    "title": "Antti Rannan insuliinisurma, Merimasku 8.11.1994",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=863",
+    "municipality": "Merimasku",
+    "incident_date": "1994-11-08",
+    "incident_date_note": "Pistos annettiin 8.11.1994, uhri kuoli 4.1.1995",
+    "solved_status": "solved",
+    "outcome": "Hannele Ranta was convicted of murder (murha) by Turunseudun käräjäoikeus in August 1995 and sentenced to life imprisonment. Turun hovioikeus upheld the conviction and the life sentence in April 1996 after hearing 34 witnesses. She denied the crime throughout, and the conviction rested entirely on circumstantial evidence. President Tarja Halonen pardoned her in October 2006, after she had served roughly 11 years and 10 months.",
+    "overview": {
+      "fi": {
+        "lead": "Sairaanhoitajana ja terveydenhuoltoalan opettajana työskennellyt Hannele Ranta pisti 8. marraskuuta 1994 Merimaskun kodissaan aviomiehelleen Antti Rannalle insuliinia, vaikka mies ei sairastanut diabetesta. 48-vuotias Antti Ranta vietiin tajuttomana sairaalaan eikä tullut enää tajuihinsa, vaan kuoli 4. tammikuuta 1995. Hannele Ranta tuomittiin murhasta elinkautiseen vankeuteen ja armahdettiin vuonna 2006.",
+        "detail": "Oikeuskäsittelyihin ja niitä selostaneisiin uutislähteisiin nojaavan aineiston mukaan 45-vuotias Hannele Ranta pisti 8. marraskuuta 1994 aviomiehelleen insuliinia. Pistos annettiin pariskunnan Merimaskun rivitaloasunnossa, josta 48-vuotias Antti Ranta vietiin samana päivänä sairaalaan. Mies päätyi Naantalin terveyskeskuksen kautta Turun yliopistolliseen keskussairaalaan kello 10.52 tajuttomana potilaana. Antti Ranta ei sairastanut diabetesta, ja insuliinin aiheuttama hypoglykeeminen sokki johti kuolemaan 4. tammikuuta 1995 ilman, että hän palasi tajuihinsa.\n\nTapausta ei aluksi tunnistettu rikokseksi. Aineiston mukaan lääkäri uskoi ensin miehen kärsivän sukelluksesta johtuneesta sukeltajantaudista, mihin johtivat vaimon antamat väärät tiedot. Vasta maanantaina 12. joulukuuta 1994 Turun yliopistollisesta keskussairaalasta ilmoitettiin Raision poliisiasemalle, että heille oli kuukautta aiemmin toimitettu tajuton miespotilas. Tuolloin asian tutkinta käynnistyi.\n\nTutkinnassa ja oikeudenkäynnissä nousi esiin useita Hannele Rantaa vastaan puhuvia seikkoja. Hänen hallustaan löytyi Antin nimiin laitettu itsemurhaviesti, joka todettiin väärennökseksi. Lisäksi hän yritti siirtää aviomiehensä omaisuutta omiin nimiinsä samaan aikaan, kun mies makasi tajuttomana sairaalassa. Antti Ranta oli yrittäjä, joka omisti Turussa Kaskenkadun varrella olevan asunnon; kesällä 1994 hän oli perustanut sinne thai-hierontalaitoksen ja ottanut töihin kaksi thaimaalaista naista. Oikeus katsoi teon vaikuttimiksi mustasukkaisuuden, taloudellisen hyötymisen tavoittelun sekä reaktion miehen väkivaltaiseen käytökseen vaimoaan kohtaan.\n\nTurunseudun käräjäoikeus tuomitsi Hannele Rannan elokuussa 1995 murhasta elinkautiseen vankeuteen. Turun hovioikeus pysytti tuomion huhtikuussa 1996 kuultuaan 34 todistajaa. Hannele Ranta kiisti teon koko prosessin ajan, ja tuomio perustui kokonaan aihetodisteisiin. Presidentti Tarja Halonen armahti hänet lokakuussa 2006, jolloin hän oli istunut tuomiostaan noin 11 vuotta ja 10 kuukautta.\n\nKaikki edellä esitetty palautuu aineistossa oikeuskäsittelyyn tai uutislähteisiin. Pelkästään keskustelupalstan kirjoittajien omiin arvailuihin nojaavia väitteitä ei ole otettu mukaan."
+      },
+      "en": {
+        "lead": "On 8 November 1994, Hannele Ranta, a nurse and healthcare education teacher, injected her 48-year-old husband Antti Ranta with insulin at their home in Merimasku, although he did not have diabetes. He was taken to hospital unconscious and never regained consciousness, dying on 4 January 1995. His wife was convicted of murder and sentenced to life imprisonment; she was pardoned in 2006.",
+        "detail": "According to material drawn from the court proceedings and news reporting on them, 45-year-old Hannele Ranta injected her husband with insulin on 8 November 1994. The injection was given at the couple's terraced house in Merimasku, from which 48-year-old Antti Ranta was taken to hospital the same day. He arrived at Turku University Central Hospital via the Naantali health centre at 10.52 as an unconscious patient. Antti Ranta did not have diabetes, and the hypoglycaemic shock caused by the insulin led to his death on 4 January 1995 without him ever regaining consciousness.\n\nThe case was not initially recognised as a crime. The evidence states that a doctor at first believed the man was suffering from decompression sickness caused by diving, a conclusion reached on the basis of false claims made by his wife. Only on Monday 12 December 1994 did Turku University Central Hospital report to the Raisio police station that an unconscious male patient had been brought to them a month earlier. The investigation began at that point.\n\nSeveral circumstances told against Hannele Ranta in the investigation and at trial. A suicide note attributed to Antti was found in her possession and was determined to be a fabrication. She also attempted to transfer her husband's property into her own name while he lay unconscious in hospital. Antti Ranta was an entrepreneur who owned a flat on Kaskenkatu in Turku; in the summer of 1994 he had set up a Thai massage establishment there and hired two Thai women to work in it. The court identified several motives for the killing: jealousy, a desire for financial gain, and a response to the victim's abusive behaviour towards her.\n\nTurunseudun käräjäoikeus convicted Hannele Ranta of murder in August 1995 and sentenced her to life imprisonment. Turun hovioikeus upheld the judgment in April 1996 after hearing 34 witnesses. She denied the crime throughout the proceedings, and the conviction rested entirely on circumstantial evidence (aihetodisteet). President Tarja Halonen pardoned her in October 2006, by which time she had served approximately 11 years and 10 months of her sentence.\n\nEverything set out here traces in the source material to court proceedings or news reporting; claims resting only on forum posters' own speculation have not been included."
+      }
+    },
+    "victims": [
+      {
+        "name": "Antti Ranta",
+        "description": "48-year-old entrepreneur who owned property and a Thai massage establishment in Turku. He did not have diabetes but was injected with insulin by his wife.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=14492#p14492",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=326632#p326632"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Hannele Ranta",
+        "description": "45-year-old nurse and healthcare education teacher, married to Antti Ranta. She deliberately injected her husband with insulin in November 1994, causing his death in January 1995. She denied the crime throughout legal proceedings.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=14492#p14492",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=326632#p326632",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=62481#p62481"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Hannele Rannan Merimaskussa oleva rivitaloasunto",
+        "detail": "The home in Merimasku where Hannele Ranta injected her husband Antti Ranta with insulin on November 8, 1994",
+        "precision": "address",
+        "credibility": "news",
+        "quote": "Hannele Rannan Merimaskussa oleva rivitaloasunto, josta Antti Ranta vietiin 8. marraskuuta 1994 sairaalaan.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1680992#p1680992"
+      },
+      {
+        "label": "Turun yliopistollinen keskussairaala",
+        "detail": "Hospital where Antti Ranta was admitted unconscious and later died on January 4, 1995",
+        "precision": "address",
+        "credibility": "news",
+        "quote": "Potilas, joka ei sairastanut diabetesta, kuoli sairaalassa tajuihinsa tulematta tammikuussa 1995.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=14409#p14409"
+      },
+      {
+        "label": "Raision poliisiasema",
+        "detail": "Police station where the hospital reported the case on December 12, 1994",
+        "precision": "address",
+        "credibility": "news",
+        "quote": "Maanantaina 12. päivänä joulukuuta 1994 ilmoitettiin Turun yliopistollisesta keskussairaalasta Raision poliisiasemalle, että heille oli kuukautta aikaisemmin toimitettu tajuton miespotilas.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=14409#p14409"
+      },
+      {
+        "label": "Naantalin terveyskeskus",
+        "detail": "Health center from which Antti Ranta was transferred to hospital",
+        "precision": "address",
+        "credibility": "news",
+        "quote": "Maanantaina 12. päivänä joulukuuta 1994 Heimo Juurinen ilmoitti Turun yliopistollisesta keskussairaalasta Raision poliisiasemalle, että heille oli toimitettu Naantalin terveyskeskuksen kautta 8. päivänä marraskuuta 1994 kello 10.52 Antti Ranta -niminen tajuton potilas.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1680992#p1680992"
+      },
+      {
+        "label": "Turku, Kaskenkaidu",
+        "detail": "Turku addresses where Antti Ranta owned property and operated a Thai massage establishment",
+        "precision": "street",
+        "credibility": "news",
+        "quote": "Vuoden 1994 kesällä Antti perusti Turkuun Kaskenkadun varrella olevaan asuntoonsa thai-hieroma laitoksen ja otti sinne töihin kaksi thaimaalaista tyttöä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1680992#p1680992"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=62481#p62481",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=326632#p326632",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=14409#p14409",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=14492#p14492"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "A nurse (Hannele Ranta) deliberately injected her husband (Antti Ranta), who did not have diabetes, with insulin in one incident on November 8, 1994. The victim fell into a hypoglycemic coma and died on January 4, 1995. This is a single homicide event with one victim killed by one perpetrator, though the case was not immediately recognized as a crime and the wife denied involvement throughout legal proceedings based on circumstantial evidence."
+    }
+  },
+  {
+    "topic_id": "884",
+    "batch": "006",
+    "title": "Liisa Mäkikankaan surma, Asikkala 5.10.1995",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=884",
+    "municipality": "Asikkala",
+    "incident_date": "1995-10-05",
+    "incident_date_note": "Torstai-iltana 5. lokakuuta 1995 (uhri löydettiin asunnostaan).",
+    "solved_status": "unsolved",
+    "outcome": "Unsolved. No one has been charged with the killing of Liisa Mäkikangas. According to news reports cited in the thread, police isolated the killer's DNA at the crime scene and took DNA samples from more than 200 clients of the sex line the victim worked on, but the comparisons produced no match. The case is being investigated as manslaughter (tappo).",
+    "overview": {
+      "fi": {
+        "lead": "39-vuotias tarjoilija Liisa Mäkikangas löytyi surmattuna kotoaan Aniantie 21 C:stä Vääksystä torstai-iltana 5. lokakuuta 1995. Hänet oli kuristettu, ja tapaukseen liittyi seksuaalista väkivaltaa. Poliisi sai rikospaikalta eristettyä surmaajan dna:n, mutta yli 200 vertailunäytteestä huolimatta tekijää ei ole löydetty eikä ketään ole asetettu syytteeseen.",
+        "detail": "Ketjun tiedot perustuvat pääosin lehtijuttuihin ja poliisin julkisuuteen antamiin tietoihin; alla oleva on koottu näistä, ei foorumikirjoittajien omista arvailuista.\n\nUutistietojen mukaan 39-vuotias Liisa Mäkikangas löytyi surmattuna asunnostaan osoitteesta Aniantie 21 C, Vääksy, Asikkala, torstai-iltana 5. lokakuuta 1995. Hänet oli kuristettu kotonaan, ja tapaukseen liittyi seksuaalista väkivaltaa. Mäkikangas työskenteli tarjoilijana ja lisäksi seksilinjalla sekä myi seuralaispalveluita. Uutistietojen mukaan hän otti vastaan miehiä sekä kotonaan että Lahdessa Rautatienkadulla sijainneessa toisessa asunnossa. Hänen viimeinen elinvuotensa oli ollut raskas: hän oli menettänyt ainoan lapsensa liikenneonnettomuudessa saman vuoden heinäkuussa.\n\nSurmaa edeltäneiden vuorokausien liikkeistä on kerrottu useita yksityiskohtia. Keskiviikkona, surmaa edeltävänä päivänä, hänen tiedetään käyneen Lahdessa, poliisin tietojen mukaan ainakin Lahden torilla. Samana päivänä hänelle oli soitettu kello 8:n ja 9:n välillä Lahdesta, Pajapellonkadun puhelinkopista. Yhden tutkintalinjan mukaan on mahdollista, että surmaaja soitti hänelle surma-aamuna 5.10.1995 Kivistönmäen Shelliltä Lahdesta, noin 20 kilometrin päästä uhrin kotoa. Rikospaikan lähistöllä sijaitsee Hotelli Tallukka, josta kulkee kävelytie suoraan uhrin kotipihaan.\n\nPoliisi teki huolellisen rikospaikkatutkinnan, mutta surma jäi tuolloin selvittämättä. Uutistietojen mukaan poliisin onnistui eristää rikospaikalta surmaajan dna. Tärkeimmän tutkintalinjan mukaan tappaja olisi yksi seksilinjan miesasiakkaista, ja poliisi on ottanut dna-näytteen yli 200 seksilinjan asiakkaalta. Näytteitä on kerätty miehiltä, joiden puhelinnumero on löytynyt uhrin päiväkirjoista ja puhelinmuistioista. Poliisin mukaan etsityt miehet ovat pääasiassa 40–50-vuotiaita. Näytteitä on verrattu rikoslaboratoriossa surmaajan dna-tunnisteeseen toistaiseksi tuloksetta.\n\nRikosta tutkitaan tappona. Tekijää ei ole saatu selville eikä ketään ole asetettu syytteeseen. Kartan merkintä on uhrin kotiosoitteessa Vääksyssä, joka uutistietojen mukaan on myös surmapaikka."
+      },
+      "en": {
+        "lead": "Liisa Mäkikangas, a 39-year-old waitress, was found killed in her home at Aniantie 21 C in Vääksy, Asikkala, on the evening of Thursday 5 October 1995. She had been strangled and the case involved sexual violence. Police isolated the killer's DNA at the scene, but despite more than 200 comparison samples the case remains unsolved and no one has been charged.",
+        "detail": "The information in this record comes almost entirely from news reports and police statements quoted in the forum thread, rather than from posters' own claims or speculation.\n\nAccording to those reports, 39-year-old Liisa Mäkikangas was found killed in her apartment at Aniantie 21 C in Vääksy, Asikkala, on the evening of Thursday 5 October 1995. She had been strangled in her home, and the case involved sexual violence. Mäkikangas worked as a waitress and additionally worked on sex lines and provided escort services. News reports state that she received men both at her home and at a second apartment on Rautatienkatu in Lahti. Her final year had been a tragic one: she had lost her only child in a traffic accident in July of the same year.\n\nSeveral details about the days before the killing have been made public. On Wednesday, the day before her death, she is known to have visited Lahti; according to police information she was at least at the Lahti market square. That same day she received a call between 8 and 9 in the morning from a phone booth on Pajapellonkatu in Lahti. According to one line of investigation, it is possible that her killer called her on the morning of the killing, 5 October 1995, from the Kivistönmäki Shell station in Lahti, roughly 20 km from her home. Hotel Tallukka stands near the crime scene, with a walking path leading directly into the yard of her apartment building.\n\nPolice carried out a thorough crime scene examination, but the killing went unsolved at the time. News reports state that police succeeded in isolating the killer's DNA from the scene. The principal line of investigation is that the killer was one of the male clients of the sex line, and police have taken DNA samples from more than 200 such clients — men whose phone numbers were found in the victim's diaries and phone records. Police have said the men they are looking for are mainly 40 to 50 years old. The samples have been compared against the killer's DNA profile at the forensic laboratory, so far without result.\n\nThe case is being investigated as manslaughter (tappo). No perpetrator has been identified and no one has been charged. The map marker is placed at the victim's home address in Vääksy, which reports identify as the site of the killing."
+      }
+    },
+    "victims": [
+      {
+        "name": "Liisa Mäkikangas",
+        "description": "39-year-old waitress who also worked on sex lines and provided escort services",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=14954#p14954",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=212931#p212931"
+        ]
+      }
+    ],
+    "suspects": [],
+    "locations": [
+      {
+        "label": "Aniantie 21 C, Vääksy, Asikkala",
+        "detail": "Victim found dead at home, strangled with sexual violence involved",
+        "quote": "39-vuotias Liisa Mäkikangas löytyi surmattuna asunnostaan Aniantie 21 C:stä Vääksyssä torstai-iltana viides lokakuuta 1995.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=14954#p14954",
+        "precision": "address",
+        "credibility": "official"
+      },
+      {
+        "label": "Rautatienkatu, Lahti",
+        "detail": "Second apartment where victim conducted escort business and received clients",
+        "quote": "Liisa myös otti vastaan miehiä kotonaan ja Lahdessa, Rautatienkadulla sijaitsevassa toisessa asunnossa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=14954#p14954",
+        "precision": "street",
+        "credibility": "official"
+      },
+      {
+        "label": "Pajapellonkatu, Lahti",
+        "detail": "Phone booth from which victim was called on day before murder",
+        "quote": "surmaa edeltävänä päivänä Liisalle oli niin ikään soitettu kello 08 ja 09 välillä Lahdesta, Pajapellonkadun puhelinkopista.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=14954#p14954",
+        "precision": "street",
+        "credibility": "official"
+      },
+      {
+        "label": "Kivistönmäen Shell, Lahti",
+        "detail": "Gas station approximately 20 km from victim's home, from which suspected phone call may have been made on morning of murder",
+        "quote": "Yhden tutkintalinjan mukaan on mahdollista että Liisan surmaaja soitti hänelle surma-aamuna - 5.10.1995 - Kivistönmäen Shelliltä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=14954#p14954",
+        "precision": "area",
+        "credibility": "official"
+      },
+      {
+        "label": "Hotelli Tallukka, Vääksy",
+        "detail": "Hotel near crime scene, connected by walking path to victim's apartment building",
+        "quote": "Tallukasta tulee kävelytie suoraan Liisan kotipihaan.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=14954#p14954",
+        "precision": "area",
+        "credibility": "official"
+      },
+      {
+        "label": "Lahden tori, Lahti",
+        "detail": "Lahti market square where victim was known to frequent on day before murder",
+        "quote": "Edellisenä päivänä eli keskiviikkona hänen tiedetään käyneen Lahdessa, poliisin tietojen mukaan ainakin Lahden torilla.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=14954#p14954",
+        "precision": "district",
+        "credibility": "official"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=14954#p14954",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=212931#p212931",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=167031#p167031",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=253187#p253187"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "One victim (Liisa Mäkikangas, 39) was killed in a single incident on October 5, 1995. The thread discusses one murder case, not multiple separate incidents."
+    }
+  },
+  {
+    "topic_id": "879",
+    "batch": "006",
+    "title": "47-vuotiaan miehen puukotussurma, Muhos 8.1.2005",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=879",
+    "municipality": "Muhos",
+    "incident_date": "2005-01-08",
+    "incident_date_note": "Päivämäärä 8. tammikuuta käräjäoikeuden tuomiota koskevasta uutisesta; vuosi 2005 päätelty Iltasanomien julkaisupäivästä 12.1.2005. Rikoksen ja tuomion välinen aika vaikuttaa lyhyeltä, mutta tämä on se, mitä ketjun aineisto kertoo.",
+    "solved_status": "solved",
+    "outcome": "Solved. Oulu District Court (Oulun käräjäoikeus) convicted Mika Jussi Karjalainen, 31, of Muhos of manslaughter (tappo) and other offences, sentencing him to 10 years, 4 months and 25 days in prison; the verdict was given on a Wednesday and reported by Iltasanomat on 12 January 2005. In the same proceedings Markku Juhani Talvinen of Kuopio was convicted of aggravated assault and sentenced to 2 years and 11 months, and Karjalainen's girlfriend, a woman from Muhos who is not named in the evidence, was convicted of threatening a person to be heard in court proceedings and given a 4-month suspended sentence.",
+    "overview": {
+      "fi": {
+        "lead": "Muhoksella puukotettiin 8. tammikuuta 2005 kuoliaaksi 47-vuotias rantsilalainen mies. Ruumis löytyi lauantaina päivällä Arabiankallion soranottoalueelta muutaman kilometrin päässä Muhoksen keskustasta. Oulun käräjäoikeus tuomitsi teosta 31-vuotiaan muhoslaisen Mika Jussi Karjalaisen 10 vuoden, 4 kuukauden ja 25 päivän vankeuteen muun muassa taposta. Motiiviksi todettiin mustasukkaisuus.",
+        "detail": "Uutistietojen mukaan Muhoksella surmattiin tammikuun 8. päivänä 47-vuotias mies, joka oli kotoisin Rantsilasta. Uhrin nimeä ei ketjun aineistossa mainita. Ruumis löytyi lauantaina päivällä Arabiankallion soranottoalueelta muutaman kilometrin päässä Muhoksen keskustasta; tämä on aineiston perusteella surmapaikka. Varhaisemmassa uutisessa uhria kuvattiin 45-vuotiaaksi ja surma-ajaksi arvioitiin lauantain puolenyön ja aamukahdeksan välinen aika, kun taas käräjäoikeuden tuomiota koskevassa uutisessa uhri on 47-vuotias. Ikätiedot siis vaihtelevat lähteestä toiseen.\n\nOulun käräjäoikeus tuomitsi keskiviikkona muhoslaisen Mika Jussi Karjalaisen, 31, 10 vuoden, 4 kuukauden ja 25 päivän vankeuteen muun muassa taposta. Uutisen mukaan hän puukotti uhria kerran syvälle vatsaan sekä useita kertoja jalkoihin ja käsiin. Oikeus katsoi motiiviksi mustasukkaisuuden: Karjalaisen tyttöystävä oli kertonut viranomaisille uhrin lähennelleen häntä, kun muita ei ollut asunnolla paikalla. Oikeudessa Karjalainen väitti tyttöystävänsä olleen surmaaja, mikä oli vastoin muuta näyttöä ja viittasi uutisen mukaan parin välien huonontumiseen teon jälkeen. Karjalaisella on uutistietojen mukaan runsaasti aiempaa väkivaltarikostaustaa, ja hän on istunut tuomioitaan Sukevan vankilassa Sonkajärvellä.\n\nSamassa yhteydessä tuomittiin kaksi muuta. Kuopiolainen Markku Juhani Talvinen sai 2 vuotta 11 kuukautta törkeästä pahoinpitelystä, ja Karjalaisen muhoslainen tyttöystävä 4 kuukautta ehdollista vankeutta oikeudenkäytössä kuultavan uhkailemisesta. Naista ei uutisessa nimetä, eikä häntä nimetä tässäkään.\n\nKaikki edellä esitetty perustuu uutislähteisiin, ennen muuta Iltasanomien 12.1.2005 julkaisemaan juttuun käräjäoikeuden tuomiosta. Ketjussa esitettiin lisäksi keskustelijoiden omia väitteitä, joita ei ole vahvistettu: erään kirjoittajan mukaan surmatun miehen tyttöystävää pahoinpideltiin Kuopiossa, ja toisen mukaan Karjalainen tunnettiin Muhoksen seudulla lempinimillä \"Termiitti\" ja \"Pikku Jussi\". Nämä ovat foorumipuhetta.\n\nHuomattakoon myös, että vuosiluku 2005 on päätelty uutisen julkaisupäivästä, ja rikoksen ja tuomion välinen aika vaikuttaa aineistossa epätavallisen lyhyeltä."
+      },
+      "en": {
+        "lead": "A 47-year-old man from Rantsila was stabbed to death in Muhos on 8 January 2005. His body was found on a Saturday afternoon at a sand pit at Arabiankallio, a few kilometres from the centre of Muhos. Oulu District Court sentenced Mika Jussi Karjalainen, 31, of Muhos to 10 years, 4 months and 25 days in prison for manslaughter and other offences. The motive was found to be jealousy.",
+        "detail": "According to news reports, a 47-year-old man from Rantsila was killed in Muhos on 8 January. The victim is not named in the thread evidence. His body was found on a Saturday afternoon at a sand extraction area at Arabiankallio, a few kilometres from the centre of Muhos; on the evidence available this is the killing site. An earlier news item described the victim as 45 years old and estimated the killing to have taken place between midnight and eight in the morning on the Saturday, while the report on the court verdict gives his age as 47. The reported age therefore varies between sources.\n\nOulu District Court (Oulun käräjäoikeus) sentenced Mika Jussi Karjalainen, 31, of Muhos to 10 years, 4 months and 25 days in prison for manslaughter (tappo) among other offences. According to the news report he stabbed the victim once deeply in the stomach and several times in the legs and hands. The court found the motive to be jealousy: Karjalainen's girlfriend had told the authorities that the victim had made advances to her when no one else was present at the residence. In court Karjalainen claimed that his girlfriend was the killer, which contradicted the evidence and, according to the report, indicated that the couple's relationship had deteriorated after the crime. News reports state that Karjalainen has an extensive history of violent crime and has served earlier prison sentences at Sukeva prison in Sonkajärvi.\n\nTwo other people were convicted in the same proceedings. Markku Juhani Talvinen of Kuopio received 2 years and 11 months for aggravated assault, and Karjalainen's girlfriend, a woman from Muhos, received a 4-month suspended sentence for threatening a person to be heard in court proceedings. She is not named in the report and is not named here.\n\nAll of the above rests on news sources, chiefly an Iltasanomat article of 12 January 2005 on the district court verdict. The thread also contained unverified claims by posters: one wrote that the dead man's girlfriend had been assaulted in Kuopio, and another that Karjalainen was known around Muhos by the nicknames \"Termiitti\" (Termite) and \"Pikku Jussi\" (Little Jussi). These are forum talk, not confirmed by court or press.\n\nNote also that the year 2005 is inferred from the article's publication date, and that the interval between the crime and the verdict appears unusually short in the available evidence."
+      }
+    },
+    "victims": [
+      {
+        "name": "",
+        "description": "47-year-old man from Rantsila, stabbed to death in Muhos on January 8 by Mika Karjalainen. Victim was in an open relationship and allegedly flirted with Karjalainen's girlfriend, providing the motive for the killing.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=15038#p15038",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=198476#p198476"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Mika Jussi Karjalainen",
+        "description": "31-year-old from Muhos, also known by nickname 'Termiitti' or 'Pikku Jussi'. Stabbed a 47-year-old man once deeply in the stomach and multiple times in the legs and hands on January 8. Motive was jealousy. Has extensive criminal history for violent crimes. Prior sentences served at Sukevan prison in Sonkajärvi.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=198476#p198476",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=15429#p15429"
+        ]
+      },
+      {
+        "name": "Markku Juhani Talvinen",
+        "description": "Man from Kuopio, convicted of aggravated assault (törkeä pahoinpitely). Sentenced to 2 years and 11 months. Likely participated in assaulting the victim's girlfriend in Kuopio.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=198476#p198476"
+        ]
+      },
+      {
+        "name": "",
+        "description": "Mika Karjalainen's girlfriend, a woman from Muhos. Charged in connection with the case. Convicted of threatening a witness (oikeudenkäytössä kuultavan uhkailemisesta) and sentenced to 4 months conditional imprisonment.",
+        "status": "charged",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=198476#p198476"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Arabiankallio, Muhos",
+        "detail": "Sand pit (soranottoalue) where murder victim's body was found, a few kilometers from Muhos center. This is the identified killing site.",
+        "quote": "Uhri löytyi lauantaina päivällä Arabiankalliolta soranottoalueelta muutaman kilometrin päässä Muhoksen keskustasta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=15038#p15038",
+        "precision": "area",
+        "credibility": "news"
+      },
+      {
+        "label": "Muhos",
+        "detail": "Town where Mika Karjalainen stabbed the 47-year-old man to death on January 8.",
+        "quote": "31-vuotias Karjalainen puukotti 47-vuotiaan miehen Muhoksella 8. tammikuuta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=198476#p198476",
+        "precision": "town",
+        "credibility": "news"
+      },
+      {
+        "label": "Rantsila",
+        "detail": "Origin of the 45-year-old murder victim.",
+        "quote": "Rantsilasta kotoisin oleva 45-vuotias mies oli surmattu lauantaina ilmeisesti puolen yön ja aamukahdeksan välisenä aikana.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=15038#p15038",
+        "precision": "town",
+        "credibility": "news"
+      },
+      {
+        "label": "Kuopio",
+        "detail": "Location where the murder victim's girlfriend was assaulted.",
+        "quote": "Käsittääkseni sen miehen tyttöystävä pahoinpideltii Kuopiossa, ei siis tappajan muija...",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=15248#p15248",
+        "precision": "town",
+        "credibility": "forum_claim"
+      },
+      {
+        "label": "Oulu",
+        "detail": "Oulu District Court (Oulun käräjäoikeus) where Mika Karjalainen was convicted and sentenced.",
+        "quote": "Oulun käräjäoikeus tuomitsi keskiviikkona muhoslaisen Mika Jussi Karjalaisen 10 vuoden, neljän kuukauden ja 25 päivän vankeuteen muun muassa taposta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=198476#p198476",
+        "precision": "town",
+        "credibility": "news"
+      },
+      {
+        "label": "Sukeva prison, Sonkajärvi",
+        "detail": "Prison where Karjalainen served earlier sentences for violent crimes.",
+        "quote": "Muun muassa väkivaltarikoksista saamiaan vankeustuomioita Karjalainen on istunut Sukevan vankilassa Sonkajärvellä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=198476#p198476",
+        "precision": "town",
+        "credibility": "news"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=198476#p198476",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=15038#p15038",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=15429#p15429"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "Thread describes one homicide incident in Muhos: a 47-year-old man from Rantsila was stabbed to death by Mika Karjalainen on January 8. Court verdict (post #15, from Iltasanomat 12.1.2005) confirms one murder victim and one convicted perpetrator. Despite thread discussing other Muhos crimes and multiple people charged/convicted in related incidents, the core case is a single incident with one death."
+    }
+  },
+  {
+    "topic_id": "886",
+    "batch": "006",
+    "title": "Nimeltä tuntemattoman naisen surma ja tekijän itsemurha metsätiellä Itä-Helsingissä 28.12.1983",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=886",
+    "municipality": "Helsinki",
+    "incident_date": "1983-12-28",
+    "incident_date_note": "December 28, 1983",
+    "solved_status": "solved",
+    "outcome": "No trial or conviction: the case ended as a murder-suicide. The investigation established that the husband stabbed his wife three times in the chest and then stabbed himself once in the heart, dying at the scene. Because the perpetrator was dead, no charges were brought and no court ever heard the case; it was closed on the basis of the crime-scene, fire-sample and autopsy findings, which identified the victim through dental records and the perpetrator through documents found in his clothing.",
+    "overview": {
+      "fi": {
+        "lead": "Helsingin itäosassa metsätiellä paloi 28.12.1983 henkilöauto, jonka sisältä löytyi kaksi palanutta vainajaa. Tutkinnassa selvisi, että mies oli surmannut vaimonsa kolmella puukoniskulla rintaan ja puukottanut sitten itseään sydämeen. Auto oli sytytetty bensiinillä. Kyseessä oli laajennettu itsemurha, eikä oikeudenkäyntiä tullut, koska tekijä kuoli tapahtumapaikalla.",
+        "detail": "Hätäkeskukseen soitti 28.12.1983 mies, joka kertoi auton \"räjähtäneen\" metsätiellä Helsingin itäosassa. Ketju sijoittaa paikan Vuosaareen, mutta tarkempaa osoitetta ei anneta, joten kartan merkki osoittaa vain suuntaa antavasti alueelle eikä täsmällistä surmapaikkaa.\n\nAutosta löytyi kaksi pahoin palanutta vainajaa. Oikeuslääketieteellisten ja teknisten tutkimusten mukaan nainen oli saanut kolme puukoniskua rintansa vasempaan puoleen ja mies yhden iskun sydämeen. Palonäytteistä varmistui, että paloa oli kiihdytetty bensiinillä ilmeisenä tarkoituksena hävittää jälkiä. Nainen tunnistettiin hammaskarttavertailun avulla, mies vaatteista säilyneiden papereiden ja lompakon perusteella. Ruumiinavaukset erottivat kuolinjärjestyksen: naisen veressä ei ollut häkää eikä hengitysteissä nokea, eli hän kuoli puukoniskuihin eikä ehtinyt hengittää savua, kun taas miehen veressä oli häkää ja hengitysteissä nokea, eli hän hengitti savua ennen kuolemaansa puukoniskuun. Kumpaakaan vainajaa ei ole aineistossa nimetty.\n\nTaustatiedot ovat ketjussa osin viranomais- tai lehtitietoa, osin kirjoittajien kertomaa. Viranomais- tai uutispohjaisiksi merkittyjä ovat tiedot siitä, että vaimo oli kotoisin Neuvostoliitosta ja noin kymmenen vuotta miestään nuorempi, sekä se, ettei miehen ruumiinavauksessa löytynyt merkkejä syövästä, vaikka hän oli itse uskonut sairastavansa sitä. Foorumipuheeksi merkittyjä ovat sen sijaan kuvaukset miehen lähes sairaalloisesta mustasukkaisuudesta, vaimon toistuvista lääkärikäynneistä pahoinpitelyvammojen vuoksi, vaimon muutosta tyttärensä kanssa turvakotiin ja avioerohakemuksesta sekä miehen uhkauksesta \"jos lähdet, et elä sinä etkä minä\". Samoin foorumitietoa ovat surma-aamun tapahtumat: mies oli soittanut työpaikalleen kello seitsemän ilmoittaakseen, ettei tule töihin, koska hänellä on asioita hoidettavana, ja vaimo oli soittanut omalle työpaikalleen puoli yhdeksän aikaan kertoen jäävänsä kotiin tyttärensä kuumeen vuoksi. Pariskunnalla oli viisivuotias tytär. Kirjoittajien mukaan mies oli ollut väkivaltainen myös ensimmäisessä avioliitossaan ja masentunut ennen tekoa.\n\nAsiassa ei ole tuomiota. Koska tekijä kuoli tapahtumapaikalla, syytettä ei nostettu ja tapaus päättyi tutkinnallisiin ja oikeuslääketieteellisiin johtopäätöksiin."
+      },
+      "en": {
+        "lead": "On 28 December 1983 a car burned on a forest road in eastern Helsinki with two badly burned bodies inside. The investigation established that a man had stabbed his estranged wife three times in the chest and then stabbed himself once in the heart, having set the car alight with petrol. It was a murder-suicide, and no trial followed, as the perpetrator died at the scene.",
+        "detail": "On 28 December 1983 the police emergency centre took a call from a man reporting that a car had \"blown up\" on a forest road in eastern Helsinki. The thread places the spot in Vuosaari but gives no more precise address, so the map marker indicates only the general area and not the exact site of the killing.\n\nTwo severely burned bodies were found in the vehicle. Forensic and technical examination established that the woman had been stabbed three times in the left side of her chest and that the man had a single stab wound to the heart. Fire-sample analysis confirmed that petrol had been used to accelerate the blaze, apparently to destroy evidence. The woman was identified by comparison of dental records, the man from papers and a wallet in his clothing that survived the fire. The autopsies separated the sequence of deaths: the woman had no carbon monoxide in her blood and no soot in her airways, meaning she died of the stab wounds without living long enough to inhale smoke, while the man had carbon monoxide in his blood and soot in his airways, meaning he inhaled smoke before dying of his stab wound. Neither of the dead is named in the available material.\n\nThe background in the thread is partly attributed to court or news sources and partly to posters. Marked as court- or news-based are the statements that the wife came from the Soviet Union and was roughly ten years younger than her husband, and that the man's autopsy found no sign of cancer although he had believed he was ill with it. Marked as forum talk are the accounts of his jealousy, described as nearly pathological; of the wife's frequent doctor's visits for injuries from beatings; of her move with her daughter to a shelter and her divorce filing; and of his threat that \"if you leave, you will not live and neither will I\". Also forum claims are the events of that morning: the man rang his workplace at 7 a.m. to say he would not come in because he had things to handle, and the wife rang hers at about 8.30 a.m. to say she was staying home because her daughter had a fever. The couple had a five-year-old daughter. Posters also state that the man had been violent in his first marriage and depressed before the killing.\n\nThere is no verdict in the case. As the perpetrator died at the scene, no charges were brought and the matter was closed on investigative and forensic findings alone."
+      }
+    },
+    "victims": [
+      {
+        "name": "",
+        "description": "Woman, wife from Soviet Union, considerably younger than husband (approximately 10 years younger). Mother of a 5-year-old daughter. Had been physically abused by husband and had moved to a shelter with her daughter. Identified through dental records. Killed by three stab wounds to the left side of her chest; autopsy showed no carbon monoxide in blood or soot in airways, indicating she died from stab wounds and did not survive long enough to inhale smoke.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=14924#p14924"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "",
+        "description": "Man, husband, registered owner's ex-wife had the vehicle titled to her. Owner of the vehicle in which the crime occurred. Described as extremely jealous (described as 'nearly pathological'). Had been physically violent toward his wife, causing her to seek medical care after beatings. Threatened wife with 'if you leave, you will not live and neither will I'. Had been abusive in his first marriage as well. Had been depressed and believed he had cancer (though autopsy found no evidence). Called work at 7 AM on day of killing to say he would not come in due to having things to handle. Murdered his estranged wife by stabbing her three times in the chest, then stabbed himself in the heart with a knife. Identified through documents in his wallet. Autopsy showed carbon monoxide in blood and soot in airways, indicating he inhaled smoke before dying from the stab wound.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=14924#p14924"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Forest road, Vuosaari, Helsinki",
+        "detail": "Wife stabbed three times in the left chest area; husband then stabbed himself in the heart. Car set ablaze with gasoline to destroy evidence. Both bodies burned in vehicle and found at scene.",
+        "quote": "metsätiellä Helsingin itäosassa",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=14924#p14924",
+        "precision": "area",
+        "credibility": "official"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=14924#p14924"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "One incident on December 28, 1983, in which a man murdered his estranged wife by stabbing her three times in the chest in a forest location in eastern Helsinki, then immediately killed himself by stabbing his own heart. The case constitutes a single homicide incident involving two deaths (the couple killed together in one morning's events), closed by murder-suicide with the perpetrator's death."
+    }
   }
 ]
