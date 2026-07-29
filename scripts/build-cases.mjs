@@ -269,6 +269,20 @@ const resolveMunicipality = async (name) => {
   const resolved = {
     municipality: name,
     centre: hit,
+    // What this municipality may legitimately be called in a gazetteer result.
+    //
+    // Finland is bilingual and OSM answers in whichever name is primary
+    // locally: ask for Pietarsaari and every result comes back under Jakobstad,
+    // so a location genuinely in the town looks like it is somewhere else. The
+    // municipality's own geocode is the authority on its other name, so the
+    // alias is taken from there rather than from a hand-kept list of pairs.
+    names: [
+      ...new Set(
+        [name, hit.name, hit.display_name?.split(",")[0]]
+          .filter(Boolean)
+          .map((n) => n.trim().toLowerCase())
+      ),
+    ],
     // left,top,right,bottom. Longitude degrees shrink with latitude, and
     // Finland is far enough north that ignoring it makes the box far too
     // narrow east-west.
@@ -311,7 +325,7 @@ const resolveMunicipality = async (name) => {
  */
 const inMunicipality = (hit, place) => {
   const successor = FORMER_MUNICIPALITIES[place.municipality]?.split(",").pop()?.trim();
-  const names = [place.municipality, successor].filter(Boolean);
+  const names = [...(place.names ?? [place.municipality]), successor].filter(Boolean);
   const hay = (hit.display_name ?? "").toLowerCase();
   return names.some((n) => hay.includes(n.toLowerCase()));
 };

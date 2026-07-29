@@ -10579,15 +10579,15 @@ const CASES = [
       22.7055385
     ],
     "coords_precision": "town",
-    "coords_credibility": "fallback",
-    "coords_label": null,
-    "coords_note": "fallback",
-    "coords_resolved": null,
+    "coords_credibility": "official",
+    "coords_label": "Pietarsaari",
+    "coords_note": null,
+    "coords_resolved": "Jakobstad, Jakobstadsregionen, Österbotten, Manner-Suomi, Suomi / Finland",
     "date": "1996-06-13",
     "date_note": "13.6.1996 noin klo 08.43",
     "status": "solved",
     "outcome": "On 3 January 1997 the Pietarsaari District Court (Pietarsaaren käräjäoikeus) found the perpetrator — named in the sources as Jussi Huttunen, a 46-year-old deckhand — guilty of manslaughter (tappo) rather than murder for the killing of a 50-year-old shipboard repairman aboard the M/S Fennia. The court held that he had acted while \"without understanding\" (ymmärrystä vailla) and under delusions, and was therefore not held criminally responsible for his act; because his preparations sprang from those delusions, they were not deemed deliberate enough to meet the definition of murder. The evidence gathered from the thread does not state what sentence or treatment order followed from that ruling.",
-    "location": "Where Jussi Huttunen shot and stabbed Karl Nieminen to death",
+    "location": "Municipality where the M/S Fennia was docked and where the crime occurred",
     "municipality": "Pietarsaari",
     "summary": {
       "fi": {
@@ -10641,7 +10641,7 @@ const CASES = [
         "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=695242#p695242",
         "precision": "town",
         "credibility": "official",
-        "used_for_marker": false
+        "used_for_marker": true
       },
       {
         "label": "Turku",
