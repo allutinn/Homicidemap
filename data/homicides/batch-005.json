@@ -2632,5 +2632,539 @@
       "confidence": "high",
       "reasoning": "Three people died from poisoned alcohol in one incident (December 2006) at the defendant's apartment. While there are three victims, this constitutes a single homicide incident, not multiple separate incidents. The suspect was charged and tried but acquitted due to insufficient evidence at both district and appellate court levels."
     }
+  },
+  {
+    "topic_id": "613",
+    "batch": "005",
+    "title": "Raija Juutilan surma, Kangasala 15.7.1993",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=613",
+    "municipality": "Kangasala",
+    "incident_date": "1993-07-15",
+    "incident_date_note": "Killing occurred July 13-16, 1993; victim disappeared July 15, 1993",
+    "solved_status": "solved",
+    "outcome": "Tauno Tuomas Luukkala was convicted of murder (murha) by Pirkanmaan käräjäoikeus on 1 June 2012 and sentenced to life imprisonment (elinkautinen, minimum 12 years) for the premeditated killing of his common-law partner Raija Irene Juutila in July 1993.",
+    "overview": {
+      "fi": {
+        "lead": "44-vuotias Raija Irene Juutila katosi kodistaan Hevossillantie 22:sta Kangasalta heinäkuussa 1993. Avopuoliso Tauno Tuomas Luukkala kertoi hänen lähteneen työmatkalle Viroon. Juutilan jäännökset löytyivät vasta 21.12.2011 matalasta haudasta Luukkalan yrityksen tontilta. Pirkanmaan käräjäoikeus tuomitsi Luukkalan 1.6.2012 murhasta elinkautiseen vankeuteen.",
+        "detail": "Kangasalla Hevossillantie 22:ssa asunut 44-vuotias Raija Irene Juutila valmistautui heinäkuussa 1993 ulkomaanmatkalle. Hän asui osoitteessa avopuolisonsa, vuonna 1945 syntyneen kangasalalaisen yrittäjän Tauno Tuomas Luukkalan kanssa. Juutila katosi heinäkuun puolivälissä 1993; oikeuden mukaan surma tapahtui 13.-16. heinäkuuta välisenä aikana. Ketjun aineiston mukaan Juutilan tytär Inga teki katoamisilmoituksen Lahden poliisille. Kaikki tässä kuvatut tiedot perustuvat oikeuden ratkaisuun tai uutisointiin, eivät foorumikirjoittajien omiin arveluihin.\n\nLuukkala kertoi Juutilan lähteneen työmatkalle Viroon. Juutila ei kuitenkaan ollut hankkinut viisumia, tehnyt hotellivarausta eikä ollut yhteydessä tallinnalaiseen liikekumppaniinsa. Kukaan ei nähnyt hänen lähtevän kotoaan Hevossillantieltä eikä matkustavan bussilla, junalla tai taksilla Helsinkiin tai satamiin. Luukkala julkaisi heinäkuussa 1993 lehti-ilmoituksia, joissa haettiin naistyöntekijää ja \"eleganttia emännöitsijää\" tyhjään talouteen - ilmoitukset ilmestyivät samaan aikaan kun tuttavat luulivat Juutilan olevan Virossa.\n\nKotietsintää Hevossillantiellä ei tehty vuonna 1993. Etsintä tehtiin vasta 2008, kun Luukkala oli lyhyen aikaa kiinni otettuna. Tapaus oli ollut esillä televisio-ohjelmassa Kadonneet vuonna 2006, mikä herätti uutta kiinnostusta ja johti uusiin tutkintatoimiin. Loppuvuodesta 2011 poliisi teki laajaa teknistä tutkintaa Kangasalan Vatialassa sijaitsevassa omakotitalossa ja purki rakenteita. Marraskuussa 2011 kolme ruumiskoiraa merkkasi toisistaan riippumatta ihmisjäännösten hajua Hevossillantien talon olohuoneen lattiassa. Luukkala otettiin kiinni marraskuussa 2011 ja vangittiin murhasta epäiltynä 22.11.2011.\n\nJoulukuussa 2011 Luukkala osoitti tutkijoille vangittuna paikan, johon Juutila oli haudattu, mutta kiisti silti syyllisyytensä ja väitti venäläisten rikollisten surmanneen Juutilan ja jättäneen ruumiin hänen haudattavakseen. Jäännökset löytyivät 21.12.2011 matalasta haudasta varastokatoksen ulkopuolelta osoitteesta Valoputkentie 2, Luukkalan yrityksen hallitsemalta tontilta. Katoamisesta löytöön kului 18 vuotta.\n\nSyyttäjä nosti syytteen murhasta 11.4.2012, ja pääkäsittely pidettiin Pirkanmaan käräjäoikeudessa 25.-27.4. ja 2.5.2012. Oikeus tuomitsi Luukkalan 1.6.2012 vakaasti harkitusta murhasta elinkautiseen vankeuteen. Motiiviksi käräjäoikeus katsoi parisuhteen kariutumisen ja taloudelliset riidat: Luukkala pelkäsi menettävänsä talonsa ja yrityksensä, jos Juutila jättäisi hänet, ja oli suuttunut tämän rahankäytöstä. Suunnitelmallisuutta osoittivat oikeuden mukaan ennen katoamista ja sen jälkeen julkaistut emännöitsijää hakeneet lehti-ilmoitukset sekä jäännösten tietoinen kätkeminen ja hautaaminen."
+      },
+      "en": {
+        "lead": "Raija Irene Juutila, 44, vanished from her home at Hevossillantie 22 in Kangasala in July 1993. Her common-law partner, Tauno Tuomas Luukkala, said she had left on a work trip to Estonia. Her remains were found only on 21 December 2011, in a shallow grave on his business property. Pirkanmaa District Court convicted him of murder on 1 June 2012 and sentenced him to life imprisonment.",
+        "detail": "Raija Irene Juutila, 44, lived at Hevossillantie 22 in Kangasala with her common-law partner Tauno Tuomas Luukkala, born 1945, an entrepreneur in the same municipality. She disappeared in mid-July 1993; the court placed the killing between 13 and 16 July. According to the thread's material, her daughter Inga reported her missing to the Lahti police. Everything set out here rests on court findings or news reporting rather than on posters' own speculation.\n\nLuukkala said Juutila had travelled to Estonia for work. She had not, however, obtained a visa, made hotel reservations, or contacted her business contact in Tallinn. No one saw her leave the house, and no one saw her travel by bus, train or taxi to Helsinki or to the ferry ports. In July 1993 Luukkala placed newspaper advertisements seeking a female worker and an \"elegant housekeeper\" for an empty household — published while acquaintances still believed Juutila was in Estonia.\n\nNo search of the Hevossillantie home was carried out in 1993. One was made only in 2008, when Luukkala was briefly detained. The case was featured in the Finnish television programme Kadonneet (Missing) in 2006, which renewed public interest and led to fresh police work. In November and December 2011 police carried out extensive technical investigation at a detached house in the Vatiala district of Kangasala, including demolition of structures. In November 2011 three cadaver dogs independently indicated human remains in the living-room floor of the Hevossillantie house. Luukkala was taken into custody in November 2011 and formally remanded on suspicion of murder on 22 November 2011.\n\nIn December 2011, while in custody, Luukkala directed police to the place where Juutila was buried, yet continued to deny involvement, claiming Russian criminals had killed her and left her body for him to bury. The remains were found on 21 December 2011 in a shallow grave outside a storage building at Valoputkentie 2, on property held by Luukkala's business. Eighteen years had passed between the disappearance and the discovery.\n\nThe prosecutor filed the murder charge on 11 April 2012, and the trial was held at Pirkanmaan käräjäoikeus on 25–27 April and 2 May 2012. On 1 June 2012 the court found Luukkala guilty of premeditated murder and sentenced him to life imprisonment (minimum 12 years). It located the motive in the breakdown of the relationship and in financial disputes: he feared losing his house and business if she left him, and was angry about her spending. As evidence of premeditation the court cited the housekeeper advertisements, placed both before and after the disappearance, and the deliberate concealment and burial of the remains."
+      }
+    },
+    "victims": [
+      {
+        "name": "Raija Irene Juutila",
+        "description": "44-year-old woman; killed by her common-law partner at their home in Kangasala in July 1993; body discovered December 21, 2011 at Valoputkentie 2",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=346441#p346441",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=483755#p483755",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=483692#p483692"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Tauno Tuomas Luukkala",
+        "description": "Born 1945; Kangasala entrepreneur; common-law partner of victim; owned the business property where victim's remains were found; maintained a false narrative about victim traveling to Estonia; indicated location of buried remains to police December 2011 while denying guilt",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=446063#p446063",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=483692#p483692",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=483755#p483755"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Hevossillantie 22, Kangasala",
+        "detail": "Victim's home where the murder occurred; police found evidence of the killing here through blood-detection methods and cadaver dogs detecting remains",
+        "quote": "Kangasalla, osoitteessa Hevossillantie 22 asuva, 44-vuotias Raija Irene Juutila valmistautuu ulkomaanmatkaan.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=346441#p346441",
+        "precision": "address",
+        "credibility": "official"
+      },
+      {
+        "label": "Valoputkentie 2, Kangasala",
+        "detail": "Luukkala's business property where the victim's remains were buried in a shallow grave outside a storage building; body discovered December 21, 2011",
+        "quote": "Poliisi löysi Juutilan ruumiin jäänteet Valoputkentie 2:sta, yksityisestä varastokatoksesta 21.12.2011.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=483755#p483755",
+        "precision": "address",
+        "credibility": "official"
+      },
+      {
+        "label": "Kangasala, Vatiala district",
+        "detail": "District where the suspect's home was located; police conducted extensive technical investigations and structural demolition here",
+        "quote": "Sen jälkeen poliisi on suorittanut teknistä tutkintaa Kangasalan Vatialassa sijaitsevassa omakotitalossa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=448176#p448176",
+        "precision": "district",
+        "credibility": "official"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=346441#p346441",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=446063#p446063",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=450661#p450661",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=446309#p446309",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=483755#p483755",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=471006#p471006"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "This is a single homicide incident: Raija Juutila was killed by her common-law partner Tauno Luukkala in July 1993 in one fatal incident at their home in Kangasala. The thread documents the 18-year gap between the disappearance and the body's discovery, followed by conviction and sentencing in 2012. This is one crime event with one victim."
+    }
+  },
+  {
+    "topic_id": "618",
+    "batch": "005",
+    "title": "47-vuotiaan miehen surma vesurilla, Vaajakosken Ristiaho 7.6.2007",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=618",
+    "municipality": "Vaajakoski",
+    "incident_date": "2007-06-07",
+    "incident_date_note": "Thursday 7 June 2007 at 20:20. The material quoted in the thread specifies only \"torstai-iltana kello 20.20\"; the calendar date comes from the thread's dating of the case.",
+    "solved_status": "solved",
+    "outcome": "Terhi Johanna Tervashonka, who bore the surname Tukio at the time of the offence, was convicted for the killing of a 47-year-old man in Vaajakoski on 7 June 2007. The Jyväskylä District Court remanded her in custody after she confessed, and the case was prosecuted there by district prosecutor Tapani Salomaa, who demanded a prison term of over nine years for manslaughter (tappo). She contested the manslaughter charge through her defence counsel Henry Saleva, arguing that she had aimed the vesuri at a garden table and struck the victims by accident. The Vaasa Court of Appeal subsequently increased her sentence to ten years' imprisonment, holding that she had known the certain consequence of her act was the victim's death. A second man at the scene was wounded in the hand by the same tool. The victim's two siblings each claimed 5,000 euros in compensation for mental suffering.",
+    "overview": {
+      "fi": {
+        "lead": "Vaajakosken Ristiahossa omakotitalon pihamaalla surmattiin torstai-iltana 7. kesäkuuta 2007 kello 20.20 47-vuotias perheetön mies. Pihalle puutarhapöydän ääreen oli kerääntynyt viisihenkinen seurue ryypiskelemään, kun 25-vuotias nainen huitaisi miestä yllättäen vesurilla. Isku ulottui korvasta korvaan ja lävisti ydinjatkoksen. Vaasan hovioikeus tuomitsi tekijän lopulta kymmeneksi vuodeksi vankeuteen.",
+        "detail": "Kaikki tässä kerrottu perustuu ketjuun siteerattuihin uutis- ja oikeustietoihin. Yhtään kohtaa ei tueta pelkällä palstalaisten omalla puheella tai arvailulla, eikä ketjun spekulaatioita ole otettu mukaan.\n\nVeriteko tapahtui torstai-iltana kello 20.20 Vaajakosken Ristiahossa omakotitalon pihamaalla. Tapahtuma-aikaan pihalle puutarhapöydän ääreen oli kerääntynyt viisihenkinen seurue ryypiskelemään. Nainen huitaisi yllättäen vesurilla miehen hengiltä. Uhri oli 47-vuotias, Vaajakoskelta kotoisin oleva perheetön mies. Häntä ei ole ketjun aineistossa nimetty.\n\nVamma oli tappava välittömästi: uhri sai vasemmasta korvasta seitsemän sentin päähän oikeasta korvasta ulottuneen, 6,5 senttiä syvän haavan, ja vesurin terä lävisti ydinjatkoksen. Samassa yhteydessä myös toinen mies sai vesurista vamman käteensä.\n\nRikoksesta epäilty oli 25-vuotias, niin ikään Vaajakoskelta kotoisin oleva nainen. Hän tunnusti teon, ja Jyväskylän käräjäoikeus vangitsi hänet. Hänellä oli tekohetkellä alkoholia veressä 1,9 promillea. Jyväskylän kihlakunnansyyttäjä Tapani Salomaa vaati hänelle yli yhdeksän vuoden vankeustuomiota taposta. Puolustusasianajajana toimi Henry Saleva, ja syytetty kiisti tapon: puolustuksen mukaan tekijä olisi yrittänyt iskeä pöytään ja osunut vahingossa uhreihin. Uhrin kaksi sisarusta vaativat molemmat 5 000 euron korvauksia henkisistä kärsimyksistä.\n\nVaasan hovioikeus kovensi tuomion kymmeneen vuoteen vankeutta. Tuomittu on Terhi Johanna Tervashonka, joka tekohetkellä oli sukunimeltään Tukio ja hovioikeusvaiheessa 26-vuotias. Nimi on peräisin oikeutta koskevasta uutisoinnista, ei palstalaisten arvailusta. Hovioikeuden mukaan Tervashonka on tiennyt tekonsa varmana seurauksena olevan uhrin kuolema.\n\nKäräjäoikeuden tuomion tarkkaa pituutta ei tässä aineistossa todeta; varmaa on vain syyttäjän yli yhdeksän vuoden vaatimus ja se, että hovioikeus kovensi rangaistuksen kymmeneen vuoteen. Kartan merkki osoittaa Ristiahon aluetta Vaajakoskella eli itse tekopaikkaa, joskaan tarkkaa osoitetta aineisto ei anna."
+      },
+      "en": {
+        "lead": "On Thursday evening 7 June 2007 at 20:20, a 47-year-old unmarried man was killed in the yard of a detached house in Ristiaho, Vaajakoski. A party of five had gathered at a garden table to drink when a 25-year-old woman suddenly struck him with a vesuri, a billhook-like brush blade. The blow pierced his brainstem. The Vaasa Court of Appeal ultimately sentenced the killer to ten years in prison.",
+        "detail": "Everything below rests on court and news material quoted in the thread. No point here depends on posters' own claims or speculation, and the thread's speculation has been left out.\n\nThe killing took place on a Thursday evening at 20:20 in the yard of a detached house in Ristiaho, Vaajakoski. At the time, a party of five had gathered at a garden table to drink. A woman suddenly swung a vesuri and killed one of the men. The victim was a 47-year-old unmarried man from Vaajakoski; the material in the thread does not name him.\n\nThe injury was immediately fatal. The victim received a wound running from the left ear to within seven centimetres of the right ear and 6.5 centimetres deep; the blade of the vesuri pierced the brainstem. A second man was also wounded in the hand by the same tool in the course of the incident.\n\nThe suspect was a 25-year-old woman, likewise from Vaajakoski. She confessed to the act, and the Jyväskylä District Court remanded her in custody. Her blood alcohol level was 1.9 per mille. District prosecutor Tapani Salomaa demanded a prison term of over nine years for manslaughter. Her defence counsel was Henry Saleva, and she contested the manslaughter charge: according to the defence, she had tried to strike the table and hit the victims by accident. The victim's two siblings each claimed 5,000 euros in compensation for mental suffering.\n\nThe Vaasa Court of Appeal increased the sentence to ten years' imprisonment. The convicted woman is Terhi Johanna Tervashonka, surnamed Tukio at the time of the offence and aged 26 by the appeal stage. The name comes from reporting on the court case, not from posters' guesswork. According to the appeal court, Tervashonka knew that the certain consequence of her act was the victim's death.\n\nThe exact length of the district court's sentence is not stated in this material; what is established is the prosecutor's demand of over nine years and the appeal court's increase to ten. The map marker points to the Ristiaho area of Vaajakoski, that is, the site of the killing itself, although the material gives no precise address."
+      }
+    },
+    "victims": [
+      {
+        "name": "Unknown (47-vuotias)",
+        "description": "47-year-old unmarried (perheetön) man from Vaajakoski. Killed by a vesuri strike to the neck on June 7, 2007. The wound was 7 cm long and 6.5 cm deep, piercing the spinal cord (ydinjatko), causing immediate death.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=8310#p8310",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=27307#p27307"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Terhi Tukio (née Tervashonka)",
+        "description": "25-year-old woman from Vaajakoski, born 1981 or 1982. Struck a 47-year-old man with a vesuri (scythe-like tool) in the neck during a drinking gathering. She called emergency services herself after the incident. She was previously convicted in 1998 (as a minor aged 17) for the Hyvinkää dismemberment murder (paloittelumurha) and had been released in 2003, maintaining lawful conduct for approximately 4 years before this incident.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=8310#p8310",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=27307#p27307",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=114503#p114503"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Vaajakosken Ristiahossa, omakotitalon pihamaalla",
+        "detail": "The killing occurred in the backyard of a cottage in Ristiahos, Vaajakoski, during a drinking gathering. The 47-year-old victim was struck in the neck by a vesuri (scythe-like tool), suffering a 7 cm long and 6.5 cm deep wound that pierced the spinal cord (ydinjatko), causing immediate death.",
+        "quote": "Veriteko tapahtui torstai-iltana kello 20.20 Vaajakosken Ristiahossa omakotitalon pihamaalla",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=8310#p8310",
+        "precision": "district",
+        "credibility": "official"
+      },
+      {
+        "label": "Jyväskylän käräjäoikeus",
+        "detail": "District court where the case was first tried, sentencing the 25-year-old suspect to 9 years imprisonment for manslaughter (tappo) and serious injury.",
+        "quote": "Jyväskylän käräjäoikeuden istunto alkoi tänään kello 9 jälkeen",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=27307#p27307",
+        "precision": "town",
+        "credibility": "official"
+      },
+      {
+        "label": "Vaasan hovioikeus",
+        "detail": "Appeals court that increased the sentence from 9 years to 10 years, finding that the suspect knew her actions would cause the victim's death.",
+        "quote": "Vaasan hovioikeus kovensi vesurilla uhrinsa surmanneen 26-vuotiaan Terhi Johanna Tervashongan (tekohetkellä Tukio) tuomion 10 vuoteen",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=114503#p114503",
+        "precision": "town",
+        "credibility": "official"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=8310#p8310",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=27307#p27307",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=114503#p114503",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=27777#p27777"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "One 47-year-old man was killed in a single incident on June 7, 2007, by means of a vesuri (scythe-like tool) strike to the neck at a cottage in Ristiahos, Vaajakoski. The tool pierced the spinal cord (ydinjatko) causing immediate death. One suspect, 25-year-old Terhi Tukio (née Tervashonka), was charged, convicted by Jyväskylä District Court of manslaughter and serious injury, and her sentence was increased by the Vaasa Court of Appeal to 10 years. This is clearly a single homicide incident, not a series or multiple victims in separate incidents."
+    }
+  },
+  {
+    "topic_id": "629",
+    "batch": "005",
+    "title": "18-vuotiaan miehen ampuminen Mäntsälän Suurlavalla, Mäntsälä 23.6.2007",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=629",
+    "municipality": "Mäntsälä",
+    "incident_date": "2007-06-23",
+    "incident_date_note": "Ketjun mukaan ampuminen tapahtui lauantai-iltana 23.6.2007 noin klo 21.30. Yhdessä evidenssin merkinnässä ajankohta on kirjattu väljemmin juhannuksenaikaiseksi yöksi 23.–24.6.2007; tarkin ketjusta saatu kellonaika on kuitenkin lauantai-illan 21.30.",
+    "solved_status": "solved",
+    "outcome": "Tuusulan käräjäoikeus (Tuusula District Court) convicted Mertzi Mikael Valentino Lindgren, a Swedish citizen aged 20 at the time of the shooting, of manslaughter (tappo) rather than the murder with which he had been charged, in May 2008, and sentenced him to 10 years in prison. Murder charges against his two older brothers, Swedish citizens aged 25 and 27, were dismissed in December 2007. The court found the shooting arose from a feud between two Roma families with roots in a 1965 killing in Sweden, but did not treat it as premeditated murder. For security reasons the trial was held at Vantaa prison instead of a regular courthouse.",
+    "overview": {
+      "fi": {
+        "lead": "18-vuotias helsinkiläismies ammuttiin Mäntsälän Suurlavan sisäänkäynnin edustalla lauantai-iltana 23. kesäkuuta 2007 noin kello 21.30, Matti ja Teppo -konsertin ollessa käynnissä. Uhri sai lähietäisyydeltä useita osumia rintaansa ja kuoli tapahtumapaikalle. Ampujaksi todettu 20-vuotias Ruotsin kansalainen Mertzi Mikael Valentino Lindgren tuomittiin toukokuussa 2008 taposta kymmeneksi vuodeksi vankeuteen.",
+        "detail": "Mäntsälän Suurlavalla oli lauantai-iltana 23. kesäkuuta 2007 käynnissä Matti ja Teppo -konsertti, kun tanssilavan edustalla, lipunmyyntikojun vieressä, ammuttiin 18-vuotias helsinkiläismies. Uutistietojen mukaan mies sai lähietäisyydeltä useita osumia rintaansa noin kello 21.30 ja kuoli saamiinsa vammoihin tapahtumapaikalle annetusta ensiavusta huolimatta. Tilaisuus oli vilkas: ulkona oli ampumishetkellä arviolta sata ihmistä ja lavan sisällä satoja lisää.\n\nPoliisi otti samana iltana Hyvinkäällä kiinni kolme Ruotsin kansalaista, iältään 20-, 25- ja 27-vuotiaat. Kaksi vanhempaa olivat 20-vuotiaan veljiä. Uhrin nimeä ketjusta kerätty aineisto ei kerro; hänet kuvataan 18-vuotiaaksi helsinkiläiseksi ja romanisuvun jäseneksi.\n\nEsitutkinnassa ja oikeudenkäynnissä teon taustaksi kirjattiin kahden romanisuvun pitkäaikainen välienselvittely, jonka juuret ulottuivat vuoteen 1965. Motiiviksi todettiin kosto ampujan sukulaisen surmasta, joka oli tapahtunut Ruotsissa vuonna 1965 ja jonka tekijä kuului uhrin sukuun. 20-vuotias myönsi ampuneensa viisi laukausta, mutta kertoi säikähtäneensä tilanteessa.\n\nJoulukuussa 2007 veljien, 25- ja 27-vuotiaiden, murhasyytteet hylättiin. Toukokuussa 2008 Tuusulan käräjäoikeus tuomitsi Mertzi Mikael Valentino Lindgrenin — joka oli teon aikaan 20-vuotias — taposta eikä syytteen mukaisesta murhasta, ja rangaistukseksi tuli kymmenen vuotta vankeutta. Oikeus katsoi teon liittyneen sukujen väliseen kiistaan, mutta ei pitänyt sitä harkittuna murhana. Istunnot pidettiin turvallisuussyistä Vantaan vankilassa tavallisen oikeustalon sijaan.\n\nKaikki edellä kerrottu perustuu ketjussa siteerattuihin uutis- ja oikeustietoihin, myös ampujan nimi. Keskustelijoiden omia arvailuja esimerkiksi asianosaisten henkilöllisyyksistä ei ole otettu mukaan, eikä aineisto sisällä yhtään pelkästään foorumipuheeseen nojaavaa väitettä. Uhrin nimeä ei kerrota, koska sitä ei ole aineistossa. Kartan merkintä osoittaa tekopaikkaa: Mäntsälän Suurlavan sisäänkäynnin edustaa."
+      },
+      "en": {
+        "lead": "An 18-year-old man from Helsinki was shot outside the entrance of the Mäntsälän Suurlava dance pavilion on the evening of Saturday 23 June 2007, at around 9.30 pm, while a Matti and Teppo concert was under way. He was hit several times in the chest at close range and died at the scene. The gunman, 20-year-old Swedish citizen Mertzi Mikael Valentino Lindgren, was convicted of manslaughter in May 2008 and sentenced to 10 years in prison.",
+        "detail": "A Matti and Teppo concert was in progress at the Mäntsälän Suurlava dance pavilion on the evening of Saturday 23 June 2007 when an 18-year-old man from Helsinki was shot outside the venue, beside the ticket booth at the entrance. According to news reports quoted in the thread, he was hit several times in the chest from close range at about 9.30 pm and died of his wounds at the scene despite medical assistance. The event was crowded: roughly a hundred people were outside at the time and hundreds more were inside the pavilion.\n\nPolice arrested three Swedish citizens, aged 20, 25 and 27, later the same evening at Hyvinkää. The two older men were the 20-year-old's brothers. The material gathered from the thread does not give the victim's name; he is described only as an 18-year-old Helsinki resident and a member of a Roma family.\n\nThe investigation and the trial placed the shooting within a long-running feud between two Roma families going back to 1965. The motive was recorded as revenge for a relative of the shooter who had been killed in Sweden in 1965 by a member of the victim's family. The 20-year-old admitted firing five shots but said he had been startled.\n\nIn December 2007 the murder charges against the 25- and 27-year-old brothers were dismissed. In May 2008 Tuusula District Court convicted Mertzi Mikael Valentino Lindgren, who was 20 at the time of the shooting, of manslaughter rather than the murder with which he had been charged, and sentenced him to ten years in prison. The court accepted that the killing grew out of the family feud but did not regard it as premeditated murder. For security reasons the hearings were held at Vantaa prison rather than in a regular courthouse.\n\nEverything above rests on news reports and court information quoted in the thread, including the convicted man's name. Posters' own speculation, such as guesses about the identities of those involved, has been left out, and none of the claims here rests on forum talk alone. The victim is not named because the evidence does not name him. The map marker is at the site of the killing: the entrance area of Mäntsälän Suurlava."
+      }
+    },
+    "victims": [
+      {
+        "name": "Unknown",
+        "description": "18-year-old Helsinki man, member of Roma family, shot and killed at Mäntsälän Suurlava on June 23, 2007.",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=8467#p8467",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=42231#p42231"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Mertzi Mikael Valentino Lindgren",
+        "description": "20-year-old Swedish citizen, shooter. Admitted to firing five shots. Convicted of manslaughter in May 2008, sentenced to 10 years in prison.",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=117455#p117455",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=67582#p67582"
+        ]
+      },
+      {
+        "name": "Unknown (brother)",
+        "description": "25-year-old Swedish citizen, brother of shooter. Arrested but murder charges dismissed December 2007.",
+        "status": "acquitted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=70453#p70453",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=67582#p67582"
+        ]
+      },
+      {
+        "name": "Unknown (brother)",
+        "description": "27-year-old Swedish citizen, brother of shooter. Arrested but murder charges dismissed December 2007.",
+        "status": "acquitted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=70453#p70453",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=67582#p67582"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Mäntsälän Suurlava, sisäänkäynti",
+        "detail": "Shooting location where 18-year-old Helsinki man was killed on June 23, 2007, at approximately 21:30 (9:30 PM) during Matti and Teppo concert. Victim shot multiple times in chest from close range at or near the ticket booth entrance (lipunmyyntikojun vieressä).",
+        "quote": "Nuori mies sai surmansa Mäntsälän Suurlavan edustalla tapahtuneessa ampumavälikohtauksessa lauantai-iltana.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=8467#p8467",
+        "precision": "address",
+        "credibility": "news"
+      },
+      {
+        "label": "Hyvinkää",
+        "detail": "Location where three Swedish suspects were arrested the same evening as the shooting.",
+        "quote": "Poliisi on pidättänyt teosta epäiltynä kolme Ruotsin kansalaista, jotka jäivät kiinni myöhemmin samana iltana Hyvinkäällä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=8467#p8467",
+        "precision": "town",
+        "credibility": "news"
+      },
+      {
+        "label": "Vantaan vankila",
+        "detail": "Location where trial was held for security reasons rather than in regular courthouse.",
+        "quote": "Turvallisuussyistä oikeus istuu Vantaan vankilassa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=67374#p67374",
+        "precision": "town",
+        "credibility": "news"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=8467#p8467",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=42231#p42231",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=67582#p67582",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=70453#p70453",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=117455#p117455"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "One identifiable incident: an 18-year-old Helsinki man was shot and killed on June 23, 2007, at Mäntsälän Suurlava during a single shooting event, part of a family feud between two Roma families related to a 1965 killing in Sweden."
+    }
+  },
+  {
+    "topic_id": "625",
+    "batch": "005",
+    "title": "Merja Kähkösen surma, Anjalankoski, lokakuu 1997",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=625",
+    "municipality": "Anjalankoski",
+    "incident_date": "1997-10",
+    "incident_date_note": "Lokakuu 1997; ruumis löytyi 7.10.1997, ensimmäinen Helsingin Sanomien uutinen 8.10.1997.",
+    "solved_status": "solved",
+    "outcome": "Juha Tarkiainen (formerly known as Juha Vainio) was convicted of murder by Kouvola District Court and sentenced to life imprisonment; the thread material dates the ruling to 1998. A psychiatric examination and the court found that he had committed the act in full understanding of its nature. According to the news material cited in the thread, he stabbed 29-year-old Merja Kähkönen ten times in the neck and throat area and then threw her, still alive, into the Kymi River, where she drowned; the cause of death was recorded as knife wounds and drowning. He had turned himself in to police and was arrested in Kivenlahti, Espoo. One forum poster states, without any court or news source, that Tarkiainen later hanged himself in prison.",
+    "overview": {
+      "fi": {
+        "lead": "Anjalankosken Myllykoskella grilliä pitänyt 29-vuotias Merja Kähkönen surmattiin lokakuussa 1997. Häntä puukotettiin toistuvasti kaulan alueelle ja hänet heitettiin vielä elossa Kymijokeen, josta ruumis löytyi 7. lokakuuta. Juha Tarkiainen ilmoittautui itse poliisille, ja Kouvolan käräjäoikeus tuomitsi hänet murhasta elinkautiseen vankeuteen.",
+        "detail": "Uutislähteisiin nojaavan langan aineiston mukaan poliisi otti kiinni 25-vuotiaan miehen, jota epäiltiin Anjalankosken Myllykoskella sunnuntai-illan ja maanantain välisenä aikana tehdystä grilliyrittäjän surmasta. Uhri oli 29-vuotias Merja Kähkönen. Hänen ruumiinsa löydettiin Kymijoesta vajaan kahden kilometrin päästä Myllykosken keskustasta. Kuolinsyyksi todettiin puukotusvammat ja hukkuminen.\n\nEpäilty ilmoittautui itse poliisille saatuaan tietää olevansa etsintäkuulutettu, ja hänet otettiin kiinni Espoon Kivenlahdessa torstai-iltana. Alustavassa kuulustelussa hän myönsi osallisuutensa 29-vuotiaan naisen surmaan. Uutisaineiston mukaan tekijä ja uhri tunsivat toisensa entuudestaan. Ensimmäiset puukoniskut tehtiin uhrin ollessa autossa kuljetuksen aikana; kaulan ja kurkun alueelle iskettiin kaikkiaan kymmenen kertaa. Uhri oli yhä elossa, kun hänet heitettiin veteen. Tämän jälkeen tekijä pakeni uhrin punaisella Honda Civicillä.\n\nKouvolan käräjäoikeus tuomitsi Juha Tarkiaisen murhasta elinkautiseen vankeuteen. Aiemmin hän oli tunnettu nimellä Juha Vainio. Mielentilatutkimuksen ja oikeudenkäynnin perusteella hänen katsottiin olleen teon aikana täydessä ymmärryksessä.\n\nOsa langan tiedoista on keskustelijoiden omaa kerrontaa eikä perustu oikeuden ratkaisuun tai uutiseen. Foorumiväitteinä esitetään, että uhri työskenteli grillissä Anjalankosken Myllykoskentiellä, jonne tekijä tuli illalla ilmeisesti viimeisenä asiakkaana, ja että Heikintien ja Narjuksentien risteyksessä uhri yritti paeta ja hakea apua läheisestä talosta, mutta Tarkiainen sai hänet kiinni. Nämä tarkat paikat perustuvat siis keskustelijoiden muistiin, eivät asiakirjoihin. Foorumiväite on myös se, että Tarkiainen teki myöhemmin vankilassa itsemurhan hirttäytymällä, samoin maininnat hänen aiemmista ongelmistaan, itsemurhayrityksistään ja lapsuudenajan siteestään seudulle.\n\nUhrista kerrotaan aineistossa, että hän oli 178-senttinen, hoikka ja lyhyttukkainen vaaleaverikkö ja että hänellä oli yllään siniset farkut ja kuvioitu Adidas-verryttelypuku; paikkakuntalaiset muistivat hänet ystävällisenä ja pidettynä. Varsinaisena surmapaikkana pidetään Kymijokea, jonne hänet heitettiin ja jossa hän hukkui."
+      },
+      "en": {
+        "lead": "Merja Kähkönen, a 29-year-old woman who ran a grill kiosk in Myllykoski, Anjalankoski, was killed in October 1997. She was stabbed repeatedly in the neck and thrown, still alive, into the Kymi River, where her body was found on 7 October. Juha Tarkiainen turned himself in to police and was sentenced to life imprisonment for murder by Kouvola District Court.",
+        "detail": "According to the news material quoted in the thread, police arrested a 25-year-old man suspected of killing a grill kiosk operator in Myllykoski, Anjalankoski, between Sunday night and Monday. The victim was 29-year-old Merja Kähkönen. Her body was found in the Kymi River, less than two kilometres from the centre of Myllykoski. The cause of death was recorded as knife wounds and drowning.\n\nThe same news material states that the suspect turned himself in to police after learning he was wanted, and was arrested in Kivenlahti, Espoo, on a Thursday evening. In preliminary interrogation he admitted involvement in the killing of the 29-year-old woman. He and the victim were reported to have known each other beforehand. The first knife wounds were inflicted while the victim was in a car during transport; in total she was stabbed ten times in the neck and throat area. She was still alive when she was thrown into the water. Afterwards the perpetrator fled in the victim's red Honda Civic.\n\nKouvola District Court convicted Juha Tarkiainen of murder and sentenced him to life imprisonment. He had previously been known as Juha Vainio. A psychiatric examination and the court proceedings found that he had acted in full understanding of what he was doing.\n\nSome of the detail in the thread comes from posters rather than from any court ruling or news report. It is a forum claim that the victim worked at a grill kiosk on Myllykoskentie in Myllykoski and that the man arrived there in the evening, apparently as the last customer; and that at the junction of Heikintie and Narjuksentie the victim tried to escape and seek help from a nearby house before Tarkiainen caught her again. Those precise locations therefore rest on posters' recollections, not on documents. It is likewise only a forum claim that Tarkiainen later hanged himself in prison, as are the remarks about his earlier problems, suicide attempts and childhood ties to the area.\n\nThe material describes the victim as 178 cm tall, slim, with short blonde hair, wearing blue jeans and a patterned Adidas tracksuit, and remembered locally as friendly and well liked. The killing site proper is taken to be the Kymi River, where she was thrown in and drowned."
+      }
+    },
+    "victims": [
+      {
+        "name": "Merja Kähkönen",
+        "description": "29-year-old woman, grill kiosk operator in Anjalankoski; described as friendly and well-liked by locals; 178 cm tall, slim build, short blonde hair",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=457920#p457920",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1812608#p1812608"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Juha Tarkiainen",
+        "description": "25-year-old at time of arrest; also known as Juha Vainio (his prior name); had prior history of problems and suicide attempts; had childhood connection to the area; committed suicide by hanging in prison after conviction",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=39435#p39435",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=457920#p457920",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=456554#p456554"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Kymijoki, Anjalankoski",
+        "detail": "Victim was thrown into the river by suspect; body was found in the river; victim drowned here (killing site)",
+        "quote": "Naisen ruumis löydettiin Kymijoesta, vajaan kahden kilometrin päästä Myllykosken keskustasta.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=457920#p457920",
+        "precision": "area",
+        "credibility": "news"
+      },
+      {
+        "label": "Anjalankosken Myllykoskentiellä",
+        "detail": "Location of the grill kiosk where victim worked; initial crime scene; suspect drove away with victim after attack",
+        "quote": "Hörhö, (en muista nimeä, se mainittiin kyllä ao. ohjelmassa) meni illalla, kait viimeisenä asiakkaana Anjalankosken Myllykoskella olevaan grilliin, jossa oli töissä sen omistaja, nainen, vaimo ja äiti.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=8403#p8403",
+        "precision": "district",
+        "credibility": "forum_claim"
+      },
+      {
+        "label": "Heikintie / Narjuksentien risteys, Anjalankoski",
+        "detail": "Location where victim was stabbed with knife and recaptured after attempting to escape to a nearby house",
+        "quote": "Heikintien ja Narjuksentien risteyksessä tapahtui \"puukotus\" ja uhri yritti pakoa ja hakea apua läheisestä talosta mutta Tarkiainen otti kiinni",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1333285#p1333285",
+        "precision": "street",
+        "credibility": "forum_claim"
+      },
+      {
+        "label": "Espoon Kivenlahti",
+        "detail": "Location where suspect was arrested after turning himself in to police",
+        "quote": "Mies ilmoittautui itse poliisille ja hänet otettiin kiinni Espoon Kivenlahdessa torstai-iltana.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=457920#p457920",
+        "precision": "district",
+        "credibility": "news"
+      },
+      {
+        "label": "Kouvola",
+        "detail": "Location of district court where trial and conviction took place",
+        "quote": "Kouvolan käräjäoikeus tuomitsi teosta elinkautiseen Juha Tarkiaisen.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=39435#p39435",
+        "precision": "town",
+        "credibility": "news"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=457920#p457920",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=496672#p496672",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1812608#p1812608",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=456554#p456554"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "One identifiable incident in October 1997: a 29-year-old woman (Merja Kähkönen) who worked at a grill kiosk in Anjalankoski was stabbed multiple times by Juha Tarkiainen, recaptured after attempting to escape, then thrown into the Kymi River where she drowned. Single victim, single perpetrator, single incident."
+    }
+  },
+  {
+    "topic_id": "637",
+    "batch": "005",
+    "title": "Töölön mattosurma, Helsinki, heinäkuu 1998",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=637",
+    "municipality": "Helsinki",
+    "incident_date": "1998-07",
+    "incident_date_note": "Heinäkuu 1998; tarkkaa päivää ei kerrota ketjussa, mutta uutislähde viittaa 26.–27. heinäkuuta 1998. / July 1998; the exact day is not given in the thread, but a news source refers to 26-27 July 1998.",
+    "solved_status": "solved",
+    "outcome": "Tina Carita Hall-Kämäräinen (formerly Hall-Larkka), a hairdresser from Vantaa, was convicted of murder by Helsinki District Court (Helsingin käräjäoikeus) and sentenced to life imprisonment. In June 2000 the Helsinki Court of Appeal (Helsingin hovioikeus) reduced the conviction to manslaughter committed in full understanding (tappo täydessä ymmärryksessä) and the sentence to nine years' imprisonment. The victim, a 28-year-old pharmacist, is not named in the evidence.",
+    "overview": {
+      "fi": {
+        "lead": "Heinäkuussa 1998 helsinkiläisessä Töölön-asunnossa surmattiin 28-vuotias farmaseutti. Tekijäksi paljastui vantaalainen parturi-kampaaja Tina Carita Hall-Kämäräinen, joka oli saanut tietää miehensä suhteesta uhriin. Teko tuli ilmi, kun tekijä yritti tuntikausia siirtää mattokääröltä näyttänyttä pakettia autoonsa. Käräjäoikeus tuomitsi hänet murhasta elinkautiseen, hovioikeus taposta yhdeksäksi vuodeksi vankeuteen.",
+        "detail": "Tapaus tunnetaan Töölön mattosurmana. Foorumilla kerrotun mukaan tarina sai alkunsa toukokuussa 1998, kun vantaalainen parturi-kampaaja Tina Carita Hall-Kämäräinen (ent. Hall-Larkka) sai tietää miehensä tutustuneen toiseen naiseen. Foorumikirjoituksessa hänen iäkseen mainitaan 37 vuotta, muualla aineistossa 35 — ikä jää siis epävarmaksi. Uhrista aineisto kertoo vain, että kyseessä oli 28-vuotias farmaseutti; nimeä ei mainita. Uutislähteen mukaan aviomies ja farmaseutti olivat tavanneet toisensa häissä.\n\nOikeus- ja uutistietoina esitetään, että kampaaja käytti paljon aikaa suhteen selvittämiseen ja osti muun muassa magnetofonin, jonka piilotti miehensä autoon. Aviomies halusi eron ja jätti avioerohakemuksen Vantaan käräjäoikeuteen 16. heinäkuuta 1998. Pari palasi Suomeen aamuyöllä 26. heinäkuuta.\n\nFoorumikirjoituksen mukaan syytetty meni heinäkuussa uhrin asuntoon oman kertomuksensa mukaan juttelemaan, mutta tilanne riistäytyi: hän puukotti naista kaulaan ja viimeisteli tekonsa kuristamalla silitysraudan johdolla. Uutislähde kuvaa surmatavan lyömisenä puukolla ja silitysraudalla sekä kuristamisena silitysraudan johdolla. Oikeus- ja uutistietona kerrotaan myös, että teon suunnitelmallisuudesta kertoi se, että uhrin asunnolle mennessään Hall-Kämäräisellä oli mukanaan puukko ja autossaan ruumiin kätkemistä varten päiväpeitto ja rautalapio.\n\nSurma paljastui, kun tekijä yritti tuntikausien ajan siirtää uhria autonsa tavaratilaan. Uutislähteen mukaan naapurit seurasivat heinäkuisena iltapäivänä 1998 Messeniuksenkadulla ihmetellen, kun pienikokoinen nainen yritti tuntitolkulla saada mattokääröltä vaikuttanutta pakettia Mersuunsa. Tapahtumapaikan tarkaksi osoitteeksi mainitaan foorumilla Messeniuksenkatu 3; yhdessä viestissä arvellaan paikkaa Stenbäckinkaduksi, mutta tämä on pelkkä foorumiarvelu.\n\nHelsingin käräjäoikeus piti tekoa murhana ja tuomitsi Hall-Kämäräisen elinkautiseen vankeuteen. Kesäkuussa 2000 Helsingin hovioikeus tuomitsi hänet täydessä ymmärryksessä tehdystä taposta yhdeksäksi vuodeksi vankeuteen. Aineiston mukaan hänellä oli tekoaikaan kolme pientä lasta."
+      },
+      "en": {
+        "lead": "In July 1998 a 28-year-old pharmacist was killed in her apartment in Töölö, Helsinki. The killer was Tina Carita Hall-Kämäräinen, a hairdresser from Vantaa who had learned of her husband's relationship with the victim. The crime came to light when she spent hours trying to load a carpet-like bundle into her car. The district court convicted her of murder; the appeal court, of manslaughter.",
+        "detail": "The case is known in Finland as the Töölö carpet killing (Töölön mattosurma). According to forum posts, it began in May 1998 when Tina Carita Hall-Kämäräinen (formerly Hall-Larkka), a hairdresser from Vantaa, learned that her husband had become involved with another woman. One forum post gives her age as 37, while other material in the evidence says 35, so her age is uncertain. The victim is described only as a 28-year-old pharmacist; her name does not appear in the evidence. A news source states that the husband and the pharmacist had met at a wedding.\n\nCourt and news material record that the hairdresser spent a great deal of time investigating the relationship, including buying a tape recorder and hiding it in her husband's car. The husband wanted a divorce and filed a petition with Vantaa District Court on 16 July 1998. The couple returned to Finland in the early hours of 26 July.\n\nAccording to a forum account, the accused went to the victim's apartment in July - by her own account to talk - but the situation escalated: she stabbed the woman in the neck and finished the act by strangling her with the cord of an electric iron. A news source describes the killing as striking the victim with a knife and an iron and strangling her with the iron's cord. Court and news material also state that planning was indicated by the fact that she brought a knife to the victim's apartment and had a bedspread and an iron spade in her car for concealing the body.\n\nThe killing was discovered when she spent hours trying to move the victim into her car's boot. A news source reports that on a July afternoon in 1998 neighbours on Messeniuksenkatu watched in bewilderment as a small woman spent hours trying to get what looked like a rolled carpet into her Mercedes. A forum post gives the address as Messeniuksenkatu 3; another post guesses the location was Stenbäckinkatu, but that is only forum speculation.\n\nHelsinki District Court treated the act as murder and sentenced Hall-Kämäräinen to life imprisonment. In June 2000 the Helsinki Court of Appeal convicted her instead of manslaughter committed in full understanding and sentenced her to nine years' imprisonment. The evidence states she had three young children at the time of the crime."
+      }
+    },
+    "victims": [
+      {
+        "name": "Unknown",
+        "description": "28-year-old female pharmacist (farmaseutti) having an affair with the perpetrator's husband; met the husband at a wedding; killed by stabbing and strangulation",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1031563#p1031563",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=42625#p42625"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Tina Carita Hall-Kämäräinen",
+        "description": "35-year-old hairdresser (parturi-kampaaja) from Vantaa; jealous wife of the victim's lover; had three young children at time of crime",
+        "status": "convicted",
+        "support": "court_or_news",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=42625#p42625",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=1031563#p1031563"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Messeniuksenkatu 3, Töölö, Helsinki",
+        "detail": "Victim's apartment where the killing occurred; the perpetrator stabbed the victim with a knife and strangled her with an electric iron cord",
+        "quote": "Osoite oli Messeniuksenkatu 3.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=90929#p90929",
+        "precision": "address",
+        "credibility": "forum_claim"
+      },
+      {
+        "label": "Messeniuksenkatu, Töölö, Helsinki",
+        "detail": "The street where neighbors observed the perpetrator struggling to load the wrapped body into her car on a July afternoon in 1998",
+        "quote": "HEINÄKUISENA iltapäivänä 1998 Messeniuksenkadulla naapurit seurasivat ihmetellen, kun pienikokoinen nainen yritti tuntitolkulla saada mattokääröltä vaikuttanutta pakettia Mersuunsa.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=1031563#p1031563",
+        "precision": "street",
+        "credibility": "news"
+      },
+      {
+        "label": "Stenbäckinkatu, Töölö, Helsinki",
+        "detail": "Alternative location name mentioned for the incident site in Töölö",
+        "quote": "Tapahtumapaikka oli kai Stenbäckinkatu Töölössä.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=8797#p8797",
+        "precision": "street",
+        "credibility": "forum_claim"
+      },
+      {
+        "label": "Helsingin käräjäoikeus, Helsinki",
+        "detail": "District court where the perpetrator was tried and initially convicted of murder in 1999",
+        "quote": "Helsingin käräjäoikeus piti tekoa murhana.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=42625#p42625",
+        "precision": "town",
+        "credibility": "official"
+      },
+      {
+        "label": "Helsingin hovioikeus, Helsinki",
+        "detail": "Court of Appeals where the conviction was reduced from murder to manslaughter in June 2000",
+        "quote": "Kesäkuussa -00 Helsingin hovioikeus tuomitsi Hall-Kämäräisen täydessä ymmärryksessä tehdystä taposta yhdeksäksi vuodeksi vankeuteen.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=42625#p42625",
+        "precision": "town",
+        "credibility": "official"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=42625#p42625",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=528038#p528038",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=1031563#p1031563"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "This is a single homicide case involving one victim (a 28-year-old pharmacist), one incident (July 1998 in Töölö, Helsinki), and one perpetrator (Tina Carita Hall-Kämäräinen). The case clearly meets the single homicide criterion as it involves one identifiable incident where a person died as a result of actions by another person. The thread is substantively about this one crime event."
+    }
+  },
+  {
+    "topic_id": "650",
+    "batch": "005",
+    "title": "Juha \"Piikki\" Alangon surma, Raisio 31.12.2003",
+    "link": "https://murha.info/rikosfoorumi/viewtopic.php?t=650",
+    "municipality": "Raisio",
+    "incident_date": "2003-12-31",
+    "incident_date_note": "New Year's Eve 2003",
+    "solved_status": "solved",
+    "outcome": "According to forum posts, an Estonian man was convicted of the killing and sentenced to nine years' imprisonment. The thread does not name the court, give the date of the judgment, or state the offence category (murder or manslaughter), and the man is not named in the evidence available here.",
+    "overview": {
+      "fi": {
+        "lead": "Raisiolainen Juha \"Piikki\" Alanko surmattiin uudenvuodenaattona 31.12.2003 raisiolaisessa kerrostalossa. Foorumikeskustelun mukaan tekijä oli samaan taloon vähän aikaisemmin muuttanut virolaismies, joka pahoinpiteli Alangon kuoliaaksi asunnossaan, pudotti ruumiin parvekkeelta ja kuljetti sen pakettiautolla Paimioon. Ruumis löytyi 2.1.2004. Mies tuomittiin keskustelun mukaan yhdeksäksi vuodeksi vankeuteen.",
+        "detail": "Kaikki tässä esitetty perustuu yhteen murha.info-keskusteluketjuun. Ketjun tiedot ovat foorumikirjoittajien kertomaa; käytettävissä olevassa aineistossa ei ole tuomioistuimen ratkaisua eikä uutislähdettä, johon yksittäiset väitteet voisi kiinnittää. Tapahtumainkulku on siis luettava foorumipuheena, ei vahvistettuna selostuksena.\n\nKeskustelun mukaan raisiolainen Juha Alanko, lempinimeltään \"Piikki\", surmattiin 31.12.2003 Raisiossa sijaitsevassa kerrostalossa. Tekijäksi kerrotaan virolaismies, joka oli muuttanut samaan taloon vasta vähän ennen tapahtumia. Kirjoittajien mukaan miehet kohtasivat yöllä ja menivät virolaismiehen asuntoon, jossa tämä pahoinpiteli Alangon raa'asti lyömällä ja potkimalla. Tämän jälkeen tekijä pudotti ruumiin parvekkeelta, raahasi sen pakettiautoon ja ajoi Paimioon. Sivulliset löysivät ruumiin Paimiosta 2. tammikuuta 2004.\n\nKeskusteluketju ei kerro kerrostalon osoitetta eikä kaupunginosaa, joten kartan merkintä osoittaa Raisioon yleisellä tasolla eikä tarkkaan surmapaikkaan. Paimio esiintyy aineistossa ainoastaan ruumiin löytöpaikkana, ei tapahtumapaikkana.\n\nKirjoittajien mukaan tapaus käsiteltiin poliisiaiheisissa tv-ohjelmissa. Poliisin tutkintaa kuvataan ketjussa perusteelliseksi: epäillyn taloa tutkittiin teknisin välinein ja koirien avulla, ja rikoksesta tehtiin poliisin kameroin tallennettu tapahtumapaikkarekonstruktio. Ketjun mukaan tapaus selvisi ja virolaismies tuomittiin yhdeksäksi vuodeksi vankeuteen. Aineistossa ei mainita, mikä tuomioistuin tuomion antoi, milloin se annettiin tai mistä rikosnimikkeestä mies tuomittiin. Miestä ei myöskään nimetä tässä käytetyssä aineistossa.\n\nMotiivista ei ole aineistossa mitään vahvistettua. Yksi kirjoittaja arvelee, että päihtynyt Alanko olisi mennyt vahingossa väärään asuntoon, koska talon asunnot muistuttivat toisiaan. Myöhemmässä viestissä toinen kirjoittaja kysyy, liittyikö tekoon homofobiaa. Molemmat ovat foorumikirjoittajien spekulaatiota, eivät tuomioistuimen tai uutislähteen toteamia seikkoja."
+      },
+      "en": {
+        "lead": "Juha \"Piikki\" Alanko of Raisio was killed on New Year's Eve, 31 December 2003, in an apartment building in Raisio. According to forum posts, the killer was an Estonian man who had recently moved into the same building; he beat Alanko to death, threw the body from a balcony and drove it to Paimio, where members of the public found it on 2 January 2004. He was reportedly sentenced to nine years.",
+        "detail": "Everything below comes from a single murha.info discussion thread. All of it is the account of forum posters; the material available here contains no court judgment and no news report against which individual claims could be checked. The sequence of events should therefore be read as forum talk rather than as an established record.\n\nAccording to the thread, Juha Alanko of Raisio, known by the nickname \"Piikki\", was killed on 31 December 2003 in an apartment building in Raisio. Posters identify the killer as an Estonian man who had moved into the same building only shortly before. They describe the two men encountering each other at night and going to the Estonian man's apartment, where he attacked Alanko brutally with blows and kicks. He then threw the body from the balcony, dragged it into a van and drove to Paimio. Members of the public found the body in Paimio on 2 January 2004.\n\nThe thread gives no street address and no district for the apartment building, so the map marker points at Raisio in general rather than at the actual site of the killing. Paimio appears in the material only as the place where the body was found, not as a scene of the crime.\n\nPosters say the case was covered in police television programmes. The investigation is described in the thread as thorough: the suspect's building was examined with forensic equipment and dogs, and a reconstruction of the crime was carried out and filmed with police cameras. According to the thread the case was solved and the Estonian man was sentenced to nine years' imprisonment. The material does not say which court handed down the sentence, when it was given, or what offence he was convicted of. The man is not named in the material used here.\n\nNothing about motive is established. One poster speculates that Alanko may have been intoxicated and walked into the wrong apartment because the flats in the building resembled one another. A later poster asks whether homophobia played a part. Both are posters' guesses, not findings by a court or statements in a news report."
+      }
+    },
+    "victims": [
+      {
+        "name": "Juha Alanko (nickname: \"Piikki\")",
+        "description": "From Raisio; killed on December 31, 2003 in an apartment building after encountering an Estonian man at night",
+        "support": "forum_claim",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=9042#p9042"
+        ]
+      }
+    ],
+    "suspects": [
+      {
+        "name": "Estonian man (unnamed)",
+        "description": "Recently moved to the same apartment building as the victim; brutally attacked Alanko and threw him from a balcony",
+        "status": "convicted",
+        "support": "forum_claim",
+        "source_permalinks": [
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=9042#p9042",
+          "https://murha.info/rikosfoorumi/viewtopic.php?p=30014#p30014"
+        ]
+      }
+    ],
+    "locations": [
+      {
+        "label": "Apartment building, Raisio",
+        "detail": "Where Juha Alanko was killed inside an apartment; perpetrator lived in the same building",
+        "quote": "Raisiolainen Juha \"Piikki\" Alanko surmattiin Raisossa sijatsevassa kerrostalossa 31.12.2003.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=9042#p9042",
+        "precision": "district",
+        "credibility": "forum_claim"
+      },
+      {
+        "label": "Paimio",
+        "detail": "Where the body was discovered by civilians on January 2, 2004, after being transported there by the perpetrator in a van",
+        "quote": "Ruumiin kanssa hän ajoi Paimioon, josta sivulliset löysivät sen 2.tammikuuta 2004.",
+        "source_permalink": "https://murha.info/rikosfoorumi/viewtopic.php?p=9042#p9042",
+        "precision": "town",
+        "credibility": "forum_claim"
+      }
+    ],
+    "key_sources": [
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=9042#p9042",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=30014#p30014",
+      "https://murha.info/rikosfoorumi/viewtopic.php?p=493056#p493056"
+    ],
+    "classification": {
+      "verdict": "single_homicide",
+      "confidence": "high",
+      "reasoning": "This thread substantively describes a single homicide incident that occurred on December 31, 2003, in Raisio. Juha Alanko was killed by an Estonian man in their apartment building, with the body subsequently dumped in Paimio. The case was solved with a conviction to 9 years imprisonment. The thread contains forum posts from residents and news sources, with the key facts being accounts from eyewitnesses and posters with knowledge of the case."
+    }
   }
 ]
