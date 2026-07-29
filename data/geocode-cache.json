@@ -6277,5 +6277,398 @@
         "country_code": "fi"
       }
     }
-  ]
+  ],
+  "Kemi": [
+    {
+      "lat": 65.7333404,
+      "lon": 24.5666495,
+      "display_name": "Kemi, Kemi-Tornion seutukunta, Lappi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kemi",
+        "municipality": "Kemi-Tornion seutukunta",
+        "state": "Lappi",
+        "ISO3166-2-lvl4": "FI-10",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Ristikankaa, Kemi|23.4717,66.1833,25.6616,65.2833": [],
+  "Between Lapintie and railroad, Ristikankaa, Kemi|23.4717,66.1833,25.6616,65.2833": [],
+  "Between Lapintie and railroad, Kemi|23.4717,66.1833,25.6616,65.2833": [],
+  "Hirvonkatu, Kemi|23.4717,66.1833,25.6616,65.2833": [
+    {
+      "lat": 65.7536614,
+      "lon": 24.5692669,
+      "display_name": "Hirvonkatu, Koivuharju, Kemi, Kemi-Tornion seutukunta, Lappi, Manner-Suomi, 94600, Suomi / Finland",
+      "type": "residential",
+      "addresstype": "road",
+      "address": {
+        "road": "Hirvonkatu",
+        "suburb": "Koivuharju",
+        "town": "Kemi",
+        "municipality": "Kemi-Tornion seutukunta",
+        "state": "Lappi",
+        "ISO3166-2-lvl4": "FI-10",
+        "region": "Manner-Suomi",
+        "postcode": "94600",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Pietarsaari": [
+    {
+      "lat": 63.6744703,
+      "lon": 22.7055385,
+      "display_name": "Jakobstad, Jakobstadsregionen, Österbotten, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Jakobstad",
+        "municipality": "Jakobstadsregionen",
+        "state": "Österbotten",
+        "ISO3166-2-lvl4": "FI-12",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.1221023,
+      "lon": 29.9434321,
+      "display_name": "Pietarsaari, Kitee, Keski-Karjalan seutukunta, Pohjois-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "islet",
+      "addresstype": "islet",
+      "address": {
+        "islet": "Pietarsaari",
+        "city_district": "Kitee",
+        "town": "Kitee",
+        "municipality": "Keski-Karjalan seutukunta",
+        "state": "Pohjois-Karjala",
+        "ISO3166-2-lvl4": "FI-13",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.4306158,
+      "lon": 21.368546,
+      "display_name": "Pietarsaari, Luvia, Eurajoki, Rauman seutukunta, Satakunta, Manner-Suomi, Suomi / Finland",
+      "type": "islet",
+      "addresstype": "islet",
+      "address": {
+        "islet": "Pietarsaari",
+        "village": "Luvia",
+        "town": "Eurajoki",
+        "municipality": "Rauman seutukunta",
+        "state": "Satakunta",
+        "ISO3166-2-lvl4": "FI-17",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.6331318,
+      "lon": 26.0041253,
+      "display_name": "Pietarsaari, Pyhäjärven kirkonkylä, Pyhäjärvi, Nivala–Haapajärven seutukunta, Pohjois-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "islet",
+      "addresstype": "islet",
+      "address": {
+        "islet": "Pietarsaari",
+        "village": "Pyhäjärven kirkonkylä",
+        "municipality": "Pyhäjärvi",
+        "state": "Pohjois-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-14",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.8046693,
+      "lon": 26.2648842,
+      "display_name": "Pietarsaari, Vesanto, Sisä-Savon seutukunta, Pohjois-Savo, Manner-Suomi, Suomi / Finland",
+      "type": "islet",
+      "addresstype": "islet",
+      "address": {
+        "islet": "Pietarsaari",
+        "town": "Vesanto",
+        "municipality": "Sisä-Savon seutukunta",
+        "state": "Pohjois-Savo",
+        "ISO3166-2-lvl4": "FI-15",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "M/S Fennia, pakkakannella (fifth deck)|21.6908,64.1245,23.7203,63.2245": [],
+  "M/S Fennia, pakkakanne (fifth deck)|21.6908,64.1245,23.7203,63.2245": [],
+  "Pietarsaari|21.6908,64.1245,23.7203,63.2245": [
+    {
+      "lat": 63.6744703,
+      "lon": 22.7055385,
+      "display_name": "Jakobstad, Jakobstadsregionen, Österbotten, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Jakobstad",
+        "municipality": "Jakobstadsregionen",
+        "state": "Österbotten",
+        "ISO3166-2-lvl4": "FI-12",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Turku|21.6908,64.1245,23.7203,63.2245": [],
+  "Aurajoki|21.6908,64.1245,23.7203,63.2245": [],
+  "Lapinjärvi|21.6908,64.1245,23.7203,63.2245": [],
+  "Jakobstad|21.6908,64.1245,23.7203,63.2245": [
+    {
+      "lat": 63.6744703,
+      "lon": 22.7055385,
+      "display_name": "Jakobstad, Jakobstadsregionen, Österbotten, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Jakobstad",
+        "municipality": "Jakobstadsregionen",
+        "state": "Österbotten",
+        "ISO3166-2-lvl4": "FI-12",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Parikkala": [
+    {
+      "lat": 61.5579662,
+      "lon": 29.5013573,
+      "display_name": "Parikkala, Imatran seutukunta, Etelä-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Parikkala",
+        "municipality": "Imatran seutukunta",
+        "state": "Etelä-Karjala",
+        "ISO3166-2-lvl4": "FI-02",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.550416,
+      "lon": 29.4973516,
+      "display_name": "Parikkala, Imatran seutukunta, Etelä-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "town",
+      "addresstype": "town",
+      "address": {
+        "town": "Parikkala",
+        "municipality": "Imatran seutukunta",
+        "state": "Etelä-Karjala",
+        "ISO3166-2-lvl4": "FI-02",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 61.1268949,
+      "lon": 24.949972,
+      "display_name": "Parikkala, Lammi, Hämeenlinna, Hämeenlinnan seutukunta, Kanta-Häme, Manner-Suomi, 16900, Suomi / Finland",
+      "type": "hamlet",
+      "addresstype": "hamlet",
+      "address": {
+        "hamlet": "Parikkala",
+        "suburb": "Lammi",
+        "city": "Hämeenlinna",
+        "municipality": "Hämeenlinnan seutukunta",
+        "state": "Kanta-Häme",
+        "ISO3166-2-lvl4": "FI-06",
+        "region": "Manner-Suomi",
+        "postcode": "16900",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.6193973,
+      "lon": 22.3495173,
+      "display_name": "Parikkala, Vahto, Rusko, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 21330, Suomi / Finland",
+      "type": "hamlet",
+      "addresstype": "hamlet",
+      "address": {
+        "hamlet": "Parikkala",
+        "town": "Vahto",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "21330",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Parikkalan Peruspohjassa, maanviljelijä Mikko Hinkkasen talossa|28.5565,62.0080,30.4462,61.1080": [],
+  "Parikkalan Peruspohja, maanviljelijä Mikko Hinkkasen talo|28.5565,62.0080,30.4462,61.1080": [],
+  "Savonlinna pääpostikontori|28.5565,62.0080,30.4462,61.1080": [],
+  "Särkisalmen postitoimisto|28.5565,62.0080,30.4462,61.1080": [],
+  "Ristiina|28.5565,62.0080,30.4462,61.1080": [],
+  "Parikkalan käräjäoikeus|28.5565,62.0080,30.4462,61.1080": [],
+  "Tornio": [
+    {
+      "lat": 65.8457589,
+      "lon": 24.1464,
+      "display_name": "Tornio, Kemi-Tornion seutukunta, Lappi, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "municipality",
+      "address": {
+        "municipality": "Tornio",
+        "state": "Lappi",
+        "ISO3166-2-lvl4": "FI-10",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Tornio, home/kitchen|23.0467,66.2958,25.2461,65.3958": [],
+  "Tornion postipiiri (Tornio post office)|23.0467,66.2958,25.2461,65.3958": [],
+  "Kukkolan posti (Kukkolan post office)|23.0467,66.2958,25.2461,65.3958": [],
+  "Tornion raastuvanoikeus (Tornio District Court)|23.0467,66.2958,25.2461,65.3958": [],
+  "Rovaniemen hovioikeus (Rovaniemi Appeals Court)|23.0467,66.2958,25.2461,65.3958": [],
+  "Kälviä": [
+    {
+      "lat": 63.8618024,
+      "lon": 23.4558353,
+      "display_name": "Kälviä, Kokkola, Kokkolan seutukunta, Keski-Pohjanmaa, Manner-Suomi, 68300, Suomi / Finland",
+      "type": "town",
+      "addresstype": "town",
+      "address": {
+        "town": "Kälviä",
+        "city": "Kokkola",
+        "municipality": "Kokkolan seutukunta",
+        "state": "Keski-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-07",
+        "region": "Manner-Suomi",
+        "postcode": "68300",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Highway 8 and Highway 28 intersection, Kälviä|22.4344,64.3118,24.4773,63.4118": [],
+  "Kalajoki, Hiekkasärkki|22.4344,64.3118,24.4773,63.4118": [],
+  "Kokkola Central Hospital|22.4344,64.3118,24.4773,63.4118": [],
+  "Kokkola District Court|22.4344,64.3118,24.4773,63.4118": [],
+  "Sysmä": [
+    {
+      "lat": 61.5073697,
+      "lon": 25.6738915,
+      "display_name": "Sysmä, Lahden seutukunta, Päijät-Häme, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Sysmä",
+        "municipality": "Lahden seutukunta",
+        "state": "Päijät-Häme",
+        "ISO3166-2-lvl4": "FI-16",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.1717188,
+      "lon": 27.7139577,
+      "display_name": "Sysmä, Joroinen, Varkauden seutukunta, Pohjois-Savo, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Sysmä",
+        "town": "Joroinen",
+        "municipality": "Varkauden seutukunta",
+        "state": "Pohjois-Savo",
+        "ISO3166-2-lvl4": "FI-15",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 62.7027198,
+      "lon": 31.2741781,
+      "display_name": "Sysmä, Ilomantsi, Joensuun seutukunta, Pohjois-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "lake",
+      "addresstype": "lake",
+      "address": {
+        "lake": "Sysmä",
+        "town": "Ilomantsi",
+        "municipality": "Joensuun seutukunta",
+        "state": "Pohjois-Karjala",
+        "ISO3166-2-lvl4": "FI-13",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Sysmä, victim's home|24.7306,61.9574,26.6172,61.0574": [],
+  "Helsinki|24.7306,61.9574,26.6172,61.0574": [],
+  "Heinola|24.7306,61.9574,26.6172,61.0574": [
+    {
+      "lat": 61.2027188,
+      "lon": 26.031371,
+      "display_name": "Heinola, Lahden seutukunta, Päijät-Häme, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Heinola",
+        "municipality": "Lahden seutukunta",
+        "state": "Päijät-Häme",
+        "ISO3166-2-lvl4": "FI-16",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kouvola|24.7306,61.9574,26.6172,61.0574": [
+    {
+      "lat": 61.111815,
+      "lon": 26.6151759,
+      "display_name": "Koivulahti (Kouvola), Jaalan kirkonkylä, Jaalan suuralue, Kouvola, Kouvolan seutukunta, Kymenlaakso, Manner-Suomi, Suomi / Finland",
+      "type": "bay",
+      "addresstype": "bay",
+      "address": {
+        "bay": "Koivulahti (Kouvola)",
+        "suburb": "Jaalan kirkonkylä",
+        "city_district": "Jaalan suuralue",
+        "city": "Kouvola",
+        "municipality": "Kouvolan seutukunta",
+        "state": "Kymenlaakso",
+        "ISO3166-2-lvl4": "FI-09",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Athens, Greece|24.7306,61.9574,26.6172,61.0574": [],
+  "Hamburg, Germany|24.7306,61.9574,26.6172,61.0574": [],
+  "Forssan|24.7306,61.9574,26.6172,61.0574": [],
+  "Hirvensalon laskettelurinteen lähtökopin, Turku|21.3545,60.9016,23.1795,60.0016": [],
+  "Turun käräjäoikeus, Turku|21.3545,60.9016,23.1795,60.0016": [],
+  "Niuvanniemen mielisairaalaa|21.3545,60.9016,23.1795,60.0016": []
 }
