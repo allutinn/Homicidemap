@@ -8345,5 +8345,277 @@
         "country_code": "fi"
       }
     }
+  ],
+  "Liperi": [
+    {
+      "lat": 62.5314503,
+      "lon": 29.3872024,
+      "display_name": "Liperi, Joensuun seutukunta, Pohjois-Karjala, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Liperi",
+        "municipality": "Joensuun seutukunta",
+        "state": "Pohjois-Karjala",
+        "ISO3166-2-lvl4": "FI-13",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Honkavaara gravel pit, 16 km north of Joensuu|28.4116,62.9815,30.3628,62.0815": [],
+  "Lappeenranta–Joensuu highway|28.4116,62.9815,30.3628,62.0815": [],
+  "Parikkala|28.4116,62.9815,30.3628,62.0815": [],
+  "Joensuu District Court|28.4116,62.9815,30.3628,62.0815": [],
+  "Simpele|28.4116,62.9815,30.3628,62.0815": [],
+  "Oulu|28.4116,62.9815,30.3628,62.0815": [],
+  "Evijärvi": [
+    {
+      "lat": 63.3670713,
+      "lon": 23.4768632,
+      "display_name": "Evijärvi, Järviseudun seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Evijärvi",
+        "municipality": "Järviseudun seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.4125328,
+      "lon": 23.4878399,
+      "display_name": "Evijärvi, Järviseudun seutukunta, Etelä-Pohjanmaa, Manner-Suomi, 62500, Suomi / Finland",
+      "type": "water",
+      "addresstype": "water",
+      "address": {
+        "water": "Evijärvi",
+        "town": "Evijärvi",
+        "municipality": "Järviseudun seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "postcode": "62500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Evijärven nuorisoseuralla, Evijärvi|22.4730,63.8171,24.4807,62.9171": [],
+  "Evijärven nuorisoseura, Evijärvi|22.4730,63.8171,24.4807,62.9171": [
+    {
+      "lat": 63.3620786,
+      "lon": 23.4882246,
+      "display_name": "Evijärven Nuorisoseura, 11, Pukkilantie, Kirsilä, Pukkila, Evijärvi, Järviseudun seutukunta, Etelä-Pohjanmaa, Manner-Suomi, 62500, Suomi / Finland",
+      "type": "dance",
+      "addresstype": "leisure",
+      "address": {
+        "leisure": "Evijärven Nuorisoseura",
+        "house_number": "11",
+        "road": "Pukkilantie",
+        "hamlet": "Kirsilä",
+        "village": "Pukkila",
+        "town": "Evijärvi",
+        "municipality": "Järviseudun seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "postcode": "62500",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Ojassa, Evijärvi|22.4730,63.8171,24.4807,62.9171": [],
+  "Oja, Evijärvi|22.4730,63.8171,24.4807,62.9171": [],
+  "Kauhava|22.4730,63.8171,24.4807,62.9171": [
+    {
+      "lat": 63.0993728,
+      "lon": 23.0569547,
+      "display_name": "Kauhava, Seinäjoen seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kauhava",
+        "municipality": "Seinäjoen seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 63.0993728,
+      "lon": 23.0569547,
+      "display_name": "Kauhava, Seinäjoen seutukunta, Etelä-Pohjanmaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Kauhava",
+        "municipality": "Seinäjoen seutukunta",
+        "state": "Etelä-Pohjanmaa",
+        "ISO3166-2-lvl4": "FI-03",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Mustasaari|22.4730,63.8171,24.4807,62.9171": [],
+  "Pietarsaari|22.4730,63.8171,24.4807,62.9171": [
+    {
+      "lat": 63.6744703,
+      "lon": 22.7055385,
+      "display_name": "Jakobstad, Jakobstadsregionen, Österbotten, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Jakobstad",
+        "municipality": "Jakobstadsregionen",
+        "state": "Österbotten",
+        "ISO3166-2-lvl4": "FI-12",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Jepua|22.4730,63.8171,24.4807,62.9171": [
+    {
+      "lat": 63.4067576,
+      "lon": 22.6454863,
+      "display_name": "Jeppo, Nykarleby, Jakobstadsregionen, Österbotten, Manner-Suomi, 66850, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Jeppo",
+        "municipality": "Jakobstadsregionen",
+        "state": "Österbotten",
+        "ISO3166-2-lvl4": "FI-12",
+        "region": "Manner-Suomi",
+        "postcode": "66850",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Pornainen": [
+    {
+      "lat": 60.4756432,
+      "lon": 25.3745932,
+      "display_name": "Pornainen, Helsingin seutukunta, Uusimaa, Manner-Suomi, Suomi / Finland",
+      "type": "administrative",
+      "addresstype": "town",
+      "address": {
+        "town": "Pornainen",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    },
+    {
+      "lat": 60.4089097,
+      "lon": 21.9307601,
+      "display_name": "Pornainen, Rymättylä, Naantali, Turun seutukunta, Varsinais-Suomi, Manner-Suomi, 21140, Suomi / Finland",
+      "type": "hamlet",
+      "addresstype": "hamlet",
+      "address": {
+        "hamlet": "Pornainen",
+        "village": "Rymättylä",
+        "town": "Naantali",
+        "municipality": "Turun seutukunta",
+        "state": "Varsinais-Suomi",
+        "ISO3166-2-lvl4": "FI-19",
+        "region": "Manner-Suomi",
+        "postcode": "21140",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Halkia, Pornainen|24.4614,60.9256,26.2878,60.0256": [
+    {
+      "lat": 60.527538,
+      "lon": 25.3056465,
+      "display_name": "Halkia, Kupsenkylä, Pornainen, Helsingin seutukunta, Uusimaa, Manner-Suomi, 07190, Suomi / Finland",
+      "type": "hamlet",
+      "addresstype": "hamlet",
+      "address": {
+        "hamlet": "Halkia",
+        "village": "Kupsenkylä",
+        "town": "Pornainen",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "07190",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Kupsenkylätie 100, Halkia, Pornainen|24.4614,60.9256,26.2878,60.0256": [],
+  "Kupsenkylätie 100, Pornainen|24.4614,60.9256,26.2878,60.0256": [],
+  "Espoon Matinkylä, Akselinpolun varrella|23.7504,60.6550,25.5616,59.7550": [],
+  "Espoon Matinkylä, Akselinpolun varre|23.7504,60.6550,25.5616,59.7550": [],
+  "Espoon käräjäoikeus|23.7504,60.6550,25.5616,59.7550": [
+    {
+      "lat": 60.1874926,
+      "lon": 24.8139156,
+      "display_name": "Länsi-Uudenmaan käräjäoikeus, 4, Maarintie, Maari, Otaniemi, Suur-Tapiola, Espoo, Helsingin seutukunta, Uusimaa, Manner-Suomi, 02110, Suomi / Finland",
+      "type": "courthouse",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Länsi-Uudenmaan käräjäoikeus",
+        "house_number": "4",
+        "road": "Maarintie",
+        "quarter": "Maari",
+        "neighbourhood": "Otaniemi",
+        "suburb": "Otaniemi",
+        "city_district": "Suur-Tapiola",
+        "city": "Espoo",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "02110",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
+  ],
+  "Helsingin hovioikeus|23.7504,60.6550,25.5616,59.7550": [
+    {
+      "lat": 60.1636857,
+      "lon": 24.9000549,
+      "display_name": "Helsingin hovioikeus, 7, Salmisaarenranta, Salmisaari, Ruoholahti, Länsisatama, Eteläinen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Manner-Suomi, 00180, Suomi / Finland",
+      "type": "courthouse",
+      "addresstype": "amenity",
+      "address": {
+        "amenity": "Helsingin hovioikeus",
+        "house_number": "7",
+        "road": "Salmisaarenranta",
+        "quarter": "Salmisaari",
+        "suburb": "Ruoholahti",
+        "city_district": "Eteläinen suurpiiri",
+        "city": "Helsinki",
+        "municipality": "Helsingin seutukunta",
+        "state": "Uusimaa",
+        "ISO3166-2-lvl4": "FI-18",
+        "region": "Manner-Suomi",
+        "postcode": "00180",
+        "country": "Suomi / Finland",
+        "country_code": "fi"
+      }
+    }
   ]
 }
